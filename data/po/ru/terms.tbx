@@ -879,6 +879,390 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="azamat_h._hackimov-73">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>thoth</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>тот</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-74">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>amon</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>амон</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-75">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>khmun</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>шмун</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-76">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>sekhmet</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>сехмет</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-77">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>anubis</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>анубис</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-78">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>senet</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>сенет</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-79">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>overseer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>советник</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-80">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>pharos lighthouse</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>фаросский маяк</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-81">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>barley</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>ячмень</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-82">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>chickpeas</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>нут</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-83">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>lettuce</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>латук</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-84">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>limestone</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>известняк</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-85">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>linen</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>холст</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-86">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>meat</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>мясо</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-87">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>copper</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>медь</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-88">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ebony</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>чёрное дерево</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-89">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>figs</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>инжир</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-90">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>fish</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>рыба</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-91">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>game meat</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>дичь</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-92">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>gems</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>самоцветы</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-93">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>gold</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>золото</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-94">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>grain</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>зерно</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-95">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>granite</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>гранит</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-96">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>jewelry</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>драгоценности</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-97">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>oil</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>масло</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-98">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>olive oil</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>оливковое масло</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-99">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>papyrus</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>папирус</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-100">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>pomegranate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>гранат</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-101">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>sandstone</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>песчаник</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-102">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>straw</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>солома</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-103">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>marble</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>мрамор</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-104">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>wood</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>древесина</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>

@@ -1,19 +1,17 @@
-#
 # Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-16 01:56+0300\n"
+"PO-Revision-Date: 2023-02-16 20:10+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 msgctxt ""
@@ -26,7 +24,7 @@ msgstr ""
 
 msgctxt "#Barley"
 msgid "Barley"
-msgstr ""
+msgstr "Ячмень"
 
 #, fuzzy, fuzzy
 msgctxt "#Bedouin"
@@ -39,7 +37,7 @@ msgstr "Пиво"
 
 msgctxt "#Bricks"
 msgid "Bricks"
-msgstr ""
+msgstr "Кирпичи"
 
 msgctxt "#Chariots"
 msgid "Chariot"
@@ -47,11 +45,11 @@ msgstr ""
 
 msgctxt "#Chickpeas"
 msgid "Chickpeas"
-msgstr ""
+msgstr "Нут"
 
 msgctxt "#Clay"
 msgid "Clay"
-msgstr ""
+msgstr "Глина"
 
 msgctxt "#CompositeBows"
 msgid "Composite Bows"
@@ -59,7 +57,7 @@ msgstr ""
 
 msgctxt "#Copper"
 msgid "Copper"
-msgstr ""
+msgstr "Медь"
 
 msgctxt "#Deben"
 msgid "Debens"
@@ -67,7 +65,7 @@ msgstr ""
 
 msgctxt "#Ebony"
 msgid "Ebony"
-msgstr ""
+msgstr "Чёрное дерево"
 
 #, fuzzy, fuzzy
 msgctxt "#Empty_Company"
@@ -76,39 +74,39 @@ msgstr "Пустой отряд"
 
 msgctxt "#Figs"
 msgid "Figs"
-msgstr ""
+msgstr "Инжир"
 
 msgctxt "#Fish"
 msgid "Fish"
-msgstr ""
+msgstr "Рыба"
 
 msgctxt "#Flax"
 msgid "Flax"
-msgstr ""
+msgstr "Лён"
 
 msgctxt "#GameMeat"
 msgid "Game Meat"
-msgstr ""
+msgstr "Дичь"
 
 msgctxt "#Gems"
 msgid "Gems"
-msgstr ""
+msgstr "Самоцветы"
 
 msgctxt "#Gold"
 msgid "Gold"
-msgstr ""
+msgstr "Золото"
 
 msgctxt "#Grain"
 msgid "Grain"
-msgstr ""
+msgstr "Зерно"
 
 msgctxt "#Granite"
 msgid "Granite"
-msgstr ""
+msgstr "Гранит"
 
 msgctxt "#Henna"
 msgid "Henna"
-msgstr ""
+msgstr "Хна"
 
 msgctxt "#Hides"
 msgid "Hides"
@@ -124,7 +122,7 @@ msgstr ""
 
 msgctxt "#Jewelry"
 msgid "Jewelry"
-msgstr ""
+msgstr "Драгоценности"
 
 msgctxt "#Lamp"
 msgid "Lamp"
@@ -136,27 +134,27 @@ msgstr ""
 
 msgctxt "#Lettuce"
 msgid "Lettuce"
-msgstr ""
+msgstr "Латук"
 
 msgctxt "#Limestone"
 msgid "Limestone"
-msgstr ""
+msgstr "Известняк"
 
 msgctxt "#Linen"
 msgid "Linen"
-msgstr ""
+msgstr "Холст"
 
 msgctxt "#Meat"
 msgid "Meat"
-msgstr ""
+msgstr "Мясо"
 
 msgctxt "#Oil"
 msgid "Oil"
-msgstr ""
+msgstr "Масло"
 
 msgctxt "#OliveOil"
 msgid "Olive Oil"
-msgstr ""
+msgstr "Оливковое масло"
 
 msgctxt "#Paint"
 msgid "Paint"
@@ -164,7 +162,7 @@ msgstr ""
 
 msgctxt "#Papyrus"
 msgid "Papyrus"
-msgstr ""
+msgstr "Папирус"
 
 msgctxt "#Perfume"
 msgid "Perfume"
@@ -176,7 +174,7 @@ msgstr ""
 
 msgctxt "#Pomegranate"
 msgid "Pomegranate"
-msgstr ""
+msgstr "Гранат"
 
 msgctxt "#Pottery"
 msgid "Pottery"
@@ -188,7 +186,7 @@ msgstr ""
 
 msgctxt "#Sandstone"
 msgid "Sandstone"
-msgstr ""
+msgstr "Песчаник"
 
 msgctxt "#Shields"
 msgid "Shields"
@@ -196,15 +194,15 @@ msgstr ""
 
 msgctxt "#Straw"
 msgid "Straw"
-msgstr ""
+msgstr "Солома"
 
 msgctxt "#Weapons"
 msgid "Weapons"
-msgstr ""
+msgstr "Оружие"
 
 msgctxt "#WhiteMarble"
 msgid "Marble"
-msgstr ""
+msgstr "Мрамор"
 
 msgctxt "#Wine"
 msgid "Wine"
@@ -212,7 +210,7 @@ msgstr "Вино"
 
 msgctxt "#Wood"
 msgid "Wood"
-msgstr ""
+msgstr "Древесина"
 
 #, fuzzy, fuzzy
 msgctxt "Assyrians"

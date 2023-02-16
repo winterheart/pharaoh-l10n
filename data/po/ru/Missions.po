@@ -1,17 +1,16 @@
-#
 # Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-16 01:37+0300\n"
+"PO-Revision-Date: 2023-02-17 00:51+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
@@ -211,7 +210,6 @@ msgstr ""
 "другими городами и повысить образование хотя бы части населения. Кроме того, "
 "вы должны построить священную мастабу — усыпальницу для городской знати."
 
-#, fuzzy, fuzzy
 msgctxt "#204_name"
 msgid "Men-nefer"
 msgstr "Мен-нефер"
@@ -357,10 +355,9 @@ msgstr ""
 "но расходы будут велики. К счастью, мы можем компенсировать их, продавая "
 "папирус."
 
-#, fuzzy, fuzzy
 msgctxt "#207_name"
 msgid "Abedju"
-msgstr "Абеджу"
+msgstr "Абджу"
 
 #, fuzzy, fuzzy
 msgctxt "#207_tagline"
@@ -480,7 +477,6 @@ msgstr ""
 "караванов в глубине Африки. Как только заставу построят, вы сможете закупать "
 "там эбеновое дерево — важный предмет роскоши."
 
-#, fuzzy, fuzzy
 msgctxt "#209_name"
 msgid "Abu"
 msgstr "Абу"
@@ -536,7 +532,6 @@ msgstr ""
 "кипит жизнь. Там можно закупать эбеновое дерево из Африки. Фараон "
 "предоставил для строительства большую сумму. Не подведите его."
 
-#, fuzzy, fuzzy
 msgctxt "#210_name"
 msgid "Saqqara"
 msgstr "Саккара"
@@ -719,7 +714,6 @@ msgstr ""
 "величественной усыпальницы фараона. Вероятно, властитель будет время от "
 "времени запрашивать у вас известняк для продолжения стройки."
 
-#, fuzzy, fuzzy
 msgctxt "#213_name"
 msgid "Buhen"
 msgstr "Бухен"
@@ -977,7 +971,7 @@ msgstr ""
 "увеселительные заведения могут помочь жителям Она отдохнуть от тирании "
 "Хеопса."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#217_name"
 msgid "On"
 msgstr "Он"
@@ -1111,7 +1105,7 @@ msgstr ""
 #, fuzzy, fuzzy
 msgctxt "#219_name"
 msgid "Bahariya Oasis"
-msgstr "Оазис Бахария"
+msgstr "Бахария"
 
 #, fuzzy, fuzzy
 msgctxt "#219_tagline"
@@ -1362,10 +1356,9 @@ msgstr ""
 "ваша верность — и финансы. Также остерегайтесь коварных нубийцев, которые "
 "хотят напасть, пока Египет раздирают распри."
 
-#, fuzzy, fuzzy
 msgctxt "#223_name"
 msgid "Thinis "
-msgstr "Тинис"
+msgstr "Тинис "
 
 #, fuzzy, fuzzy
 msgctxt "#223_tagline"
@@ -1432,7 +1425,6 @@ msgstr ""
 "дебены. Создайте мощную армию и флот, чтобы защитить Уасет и помочь другим "
 "городам, которым угрожает опасность."
 
-#, fuzzy, fuzzy
 msgctxt "#224_name"
 msgid "Waset"
 msgstr "Уасет"
@@ -1790,7 +1782,6 @@ msgstr ""
 "гиксосы. Тучи сгущаются над Египтом, и вам следует подготовиться к "
 "надвигающейся беде."
 
-#, fuzzy, fuzzy
 msgctxt "#230_name"
 msgid "Heh"
 msgstr "Хех"
@@ -1841,7 +1832,6 @@ msgstr ""
 "еще не видели, управляют гиксосы. Тучи сгущаются над Египтом, и вам следует "
 "подготовиться к надвигающейся беде."
 
-#, fuzzy, fuzzy
 msgctxt "#231_name"
 msgid "Bubastis"
 msgstr "Бубастис"
@@ -1907,10 +1897,9 @@ msgstr ""
 "которые нужны фараону на полях Иалу. Необходимо доставить новые дары, чтобы "
 "захороненный фараон смог насладиться вечной жизнью."
 
-#, fuzzy, fuzzy
 msgctxt "#232_name"
 msgid "Khmun"
-msgstr "Хмун"
+msgstr "Шмун"
 
 #, fuzzy, fuzzy
 msgctxt "#232_tagline"
@@ -2033,10 +2022,12 @@ msgstr ""
 "должны быть повержены во славу Египта. Отправляйте войска и боевые корабли, "
 "если понадобится применить силу."
 
+#, fuzzy, fuzzy
 msgctxt "#234_name"
 msgid "Byblos"
 msgstr "Библ"
 
+#, fuzzy, fuzzy
 msgctxt "#234_tagline"
 msgid "The Cedars of Lebanon"
 msgstr "Кедры Ливана"
@@ -3447,7 +3438,7 @@ msgstr ""
 
 msgctxt "#CM13_name"
 msgid "Kyrene"
-msgstr ""
+msgstr "Кирена"
 
 msgctxt "#CM13_tagline"
 msgid "A River In Libya"
@@ -3638,7 +3629,7 @@ msgstr ""
 
 msgctxt "#CM29_name"
 msgid "Toshka"
-msgstr ""
+msgstr "Тошка"
 
 msgctxt "#CM29_tagline"
 msgid "The Nubian frontier"
@@ -3847,7 +3838,7 @@ msgstr ""
 #, fuzzy, fuzzy
 msgctxt "#Predynastic_name"
 msgid "Predynastic Period"
-msgstr "Преддинастический период"
+msgstr "Додинастический период"
 
 #, fuzzy, fuzzy
 msgctxt "#Predynastic_tooltip"
@@ -3875,6 +3866,7 @@ msgstr ""
 "вы — истинный посланник богов. Эти памятники наполнят ваших врагов "
 "отчаянием, а имя Рамзеса Великого и слава Египта будут греметь еще сотни лет."
 
+#, fuzzy, fuzzy
 msgctxt "#RamsesII_name"
 msgid "Ramses II"
 msgstr "Рамсес II"

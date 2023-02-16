@@ -1,16 +1,18 @@
-#
-#, fuzzy
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-15 20:56\n"
-"Last-Translator: you <you@example.com>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2023-02-16 20:36+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <azamat.hackimov@gmail.com>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.08.3\n"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_1"
@@ -40,7 +42,7 @@ msgstr "Неферит I"
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_103"
 msgid "Psammuthis"
-msgstr "Псамметих"
+msgstr "Псаммут"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_104"
@@ -164,19 +166,19 @@ msgstr "Птолемей XV"
 
 msgctxt "Pharaoh_126"
 msgid "Thinite Nobles"
-msgstr ""
+msgstr "Тинитская знать"
 
 msgctxt "Pharaoh_127"
 msgid "Thinite Confederacy"
-msgstr ""
+msgstr "Тинитская конфедерация"
 
 msgctxt "Pharaoh_128"
 msgid "Inyotef Clan"
-msgstr ""
+msgstr "Клан Иниотефа"
 
 msgctxt "Pharaoh_129"
 msgid "Achoris"
-msgstr ""
+msgstr "Ахорис"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_13"
@@ -185,7 +187,7 @@ msgstr "Хор"
 
 msgctxt "Pharaoh_130"
 msgid "None"
-msgstr ""
+msgstr "Никого"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_14"
@@ -260,7 +262,7 @@ msgstr "Менкаухор"
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_27"
 msgid "Menkaura"
-msgstr "Менкаура"
+msgstr "Микерин"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_28"
@@ -295,7 +297,7 @@ msgstr "Меренра"
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_33"
 msgid "Queen Merneith"
-msgstr "Царица Меритнейт"
+msgstr "Царица Мернейт"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_34"
@@ -545,7 +547,7 @@ msgstr "Хоремхеб"
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_79"
 msgid "Ramses I"
-msgstr "Рамзес I"
+msgstr "Рамсес I"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_8"
@@ -560,7 +562,7 @@ msgstr "Сети I"
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_81"
 msgid "Ramses II"
-msgstr "Рамзес II"
+msgstr "Рамсес II"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_82"
@@ -595,12 +597,12 @@ msgstr "Сетнахт"
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_88"
 msgid "Ramses III"
-msgstr "Рамзес III"
+msgstr "Рамсес III"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_89"
 msgid "Ramses IV"
-msgstr "Рамзес IV"
+msgstr "Рамсес IV"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_9"
@@ -610,37 +612,37 @@ msgstr "Джер"
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_90"
 msgid "Ramses V"
-msgstr "Рамзес V"
+msgstr "Рамсес V"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_91"
 msgid "Ramses VI"
-msgstr "Рамзес VI"
+msgstr "Рамсес VI"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_92"
 msgid "Ramses VII"
-msgstr "Рамзес VII"
+msgstr "Рамсес VII"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_93"
 msgid "Ramses VIII"
-msgstr "Рамзес VIII"
+msgstr "Рамсес VIII"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_94"
 msgid "Ramses IX"
-msgstr "Рамзес IX"
+msgstr "Рамсес IX"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_95"
 msgid "Ramses X"
-msgstr "Рамзес X"
+msgstr "Рамсес X"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_96"
 msgid "Ramses XI"
-msgstr "Рамзес XI"
+msgstr "Рамсес XI"
 
 #, fuzzy, fuzzy
 msgctxt "Pharaoh_97"

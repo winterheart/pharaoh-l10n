@@ -1,19 +1,17 @@
-#
 # Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-15 23:36+0300\n"
+"PO-Revision-Date: 2023-02-16 21:22+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 msgctxt "#AGameBy"
@@ -34,7 +32,7 @@ msgstr "Joyce Chang"
 
 msgctxt "#Activision_03"
 msgid "Senior Director, Public Relations"
-msgstr ""
+msgstr "Старший директор, связь с общественностью"
 
 msgctxt "#Activision_04"
 msgid "Dior Brown"
@@ -86,7 +84,7 @@ msgstr ""
 
 msgctxt "#Activision_16"
 msgid "Neil Yang"
-msgstr ""
+msgstr "Neil Yang"
 
 msgctxt "#Activision_17"
 msgid "Vice President, Studios & External Business Development"
@@ -120,7 +118,7 @@ msgstr "Английский язык"
 
 msgctxt "#Allcorrect_02"
 msgid "Jessica Harper"
-msgstr ""
+msgstr "Jessica Harper"
 
 msgctxt "#Allcorrect_03"
 msgid "French"
@@ -128,7 +126,7 @@ msgstr "Французский язык"
 
 msgctxt "#Allcorrect_04"
 msgid "Romain Marchand"
-msgstr ""
+msgstr "Romain Marchand"
 
 msgctxt "#Allcorrect_05"
 msgid "Italian"
@@ -136,7 +134,7 @@ msgstr "Итальянский язык"
 
 msgctxt "#Allcorrect_06"
 msgid "Alfonso De Luca"
-msgstr ""
+msgstr "Alfonso De Luca"
 
 msgctxt "#Allcorrect_07"
 msgid "German"
@@ -144,7 +142,7 @@ msgstr "Немецкий язык"
 
 msgctxt "#Allcorrect_08"
 msgid "Philipp Hermann"
-msgstr ""
+msgstr "Philipp Hermann"
 
 msgctxt "#Allcorrect_09"
 msgid "Spanish"
@@ -152,39 +150,39 @@ msgstr "Испанский язык"
 
 msgctxt "#Allcorrect_10"
 msgid "Laura Gimenez de los Galanes Montiel"
-msgstr ""
+msgstr "Laura Gimenez de los Galanes Montiel"
 
 msgctxt "#Cosmocover"
 msgid "Europe - Cosmocover"
-msgstr ""
+msgstr "Европа — Cosmocover"
 
 msgctxt "#Cosmocover_01"
 msgid "Anouchka Rodet-Besson"
-msgstr ""
+msgstr "Anouchka Rodet-Besson"
 
 msgctxt "#Cosmocover_02"
 msgid "Helena Celdran Green"
-msgstr ""
+msgstr "Helena Celdran Green"
 
 msgctxt "#Cosmocover_03"
 msgid "John Tyrrell"
-msgstr ""
+msgstr "John Tyrrell"
 
 msgctxt "#Cosmocover_04"
 msgid "Matej Samide"
-msgstr ""
+msgstr "Matej Samide"
 
 msgctxt "#Cosmocover_05"
 msgid "Maxence Jacquier"
-msgstr ""
+msgstr "Maxence Jacquier"
 
 msgctxt "#Cosmocover_06"
 msgid "Nyssa Woznicki"
-msgstr ""
+msgstr "Nyssa Woznicki"
 
 msgctxt "#Cosmocover_07"
 msgid "Salima Bessahraoui"
-msgstr ""
+msgstr "Salima Bessahraoui"
 
 msgctxt "#Dotemu"
 msgid "Dotemu"
@@ -192,11 +190,11 @@ msgstr "Dotemu"
 
 msgctxt "#Dotemu_01"
 msgid "CEO"
-msgstr ""
+msgstr "Генеральный директор"
 
 msgctxt "#Dotemu_02"
 msgid "Cyrille Imbert"
-msgstr ""
+msgstr "Cyrille Imbert"
 
 msgctxt "#Dotemu_03"
 msgid "Executive Assistant"
@@ -204,23 +202,23 @@ msgstr ""
 
 msgctxt "#Dotemu_04"
 msgid "Julien Chouvet"
-msgstr ""
+msgstr "Julien Chouvet"
 
 msgctxt "#Dotemu_05"
 msgid "Lead producer"
-msgstr ""
+msgstr "Ведущий продюсер"
 
 msgctxt "#Dotemu_06"
 msgid "Alban Ligouzat"
-msgstr ""
+msgstr "Alban Ligouzat"
 
 msgctxt "#Dotemu_07"
 msgid "Head of production"
-msgstr ""
+msgstr "Глава производства"
 
 msgctxt "#Dotemu_08"
 msgid "Christian Cortez"
-msgstr ""
+msgstr "Christian Cortez"
 
 msgctxt "#Dotemu_09"
 msgid "Assisting producers"
@@ -228,11 +226,11 @@ msgstr ""
 
 msgctxt "#Dotemu_10"
 msgid "Marion Chabrol-Supt"
-msgstr ""
+msgstr "Marion Chabrol-Supt"
 
 msgctxt "#Dotemu_11"
 msgid "Léa Pernot"
-msgstr ""
+msgstr "Léa Pernot"
 
 msgctxt "#Dotemu_12"
 msgid "Game Design Consultant"
@@ -240,71 +238,71 @@ msgstr ""
 
 msgctxt "#Dotemu_13"
 msgid "Florian Harry"
-msgstr ""
+msgstr "Florian Harry"
 
 msgctxt "#Dotemu_14"
 msgid "Lead QA"
-msgstr ""
+msgstr "Лидер команды обеспечения качества"
 
 msgctxt "#Dotemu_15"
 msgid "Manon Botineau"
-msgstr ""
+msgstr "Manon Botineau"
 
 msgctxt "#Dotemu_16"
 msgid "Head of Quality-Assurance"
-msgstr ""
+msgstr "Глава команды обеспечения качества"
 
 msgctxt "#Dotemu_17"
 msgid "Pierre-Olivier Petillot"
-msgstr ""
+msgstr "Pierre-Olivier Petillot"
 
 msgctxt "#Dotemu_18"
 msgid "Core tester"
-msgstr ""
+msgstr "Тестеры ядра"
 
 msgctxt "#Dotemu_19"
 msgid "Corentin “Deity” Pauvrasseau"
-msgstr ""
+msgstr "Corentin “Deity” Pauvrasseau"
 
 msgctxt "#Dotemu_20"
 msgid "QA testers"
-msgstr ""
+msgstr "Тестеры"
 
 msgctxt "#Dotemu_21"
 msgid "Catherine Dorojko-Mojaïsky"
-msgstr ""
+msgstr "Catherine Dorojko-Mojaïsky"
 
 msgctxt "#Dotemu_22"
 msgid "Vincent Dupont"
-msgstr ""
+msgstr "Vincent Dupont"
 
 msgctxt "#Dotemu_23"
 msgid "Grégoire Imbert"
-msgstr ""
+msgstr "Grégoire Imbert"
 
 msgctxt "#Dotemu_24"
 msgid "Valentin Laginha"
-msgstr ""
+msgstr "Valentin Laginha"
 
 msgctxt "#Dotemu_25"
 msgid "Grégory Le Bris"
-msgstr ""
+msgstr "Grégory Le Bris"
 
 msgctxt "#Dotemu_26"
 msgid "Justin Léger"
-msgstr ""
+msgstr "Justin Léger"
 
 msgctxt "#Dotemu_27"
 msgid "Thibaut Panchout"
-msgstr ""
+msgstr "Thibaut Panchout"
 
 msgctxt "#Dotemu_28"
 msgid "Creative Director"
-msgstr ""
+msgstr "Креативный директор"
 
 msgctxt "#Dotemu_29"
 msgid "Stéphane Perez"
-msgstr ""
+msgstr "Stéphane Perez"
 
 msgctxt "#Dotemu_30"
 msgid "360 graphist"
@@ -312,19 +310,19 @@ msgstr ""
 
 msgctxt "#Dotemu_31"
 msgid "Enzo Simeonidis"
-msgstr ""
+msgstr "Enzo Simeonidis"
 
 msgctxt "#Dotemu_32"
 msgid "Head of Marketing"
-msgstr ""
+msgstr "Глава маркетинга"
 
 msgctxt "#Dotemu_33"
 msgid "Arnaud De Sousa"
-msgstr ""
+msgstr "Arnaud De Sousa"
 
 msgctxt "#Dotemu_34"
 msgid "Product Manager"
-msgstr ""
+msgstr "Менеджер по продукту"
 
 msgctxt "#Dotemu_35"
 msgid "Loïc Hao Yin Tam"
@@ -332,245 +330,247 @@ msgstr "Loïc Hao Yin Tam"
 
 msgctxt "#Dotemu_36"
 msgid "Customer Support Specialist"
-msgstr ""
+msgstr "Специалист поддержки пользователей"
 
 msgctxt "#Dotemu_37"
 msgid "Dwayne Galpin"
-msgstr ""
+msgstr "Dwayne Galpin"
 
 msgctxt "#Dotemu_38"
 msgid "Community Manager"
-msgstr ""
+msgstr "Менеджер по связи с сообществом"
 
 msgctxt "#Dotemu_39"
 msgid "Charlotte Deville-Cavellin"
-msgstr ""
+msgstr "Charlotte Deville-Cavellin"
 
 msgctxt "#Dotemu_40"
 msgid "Social Media Manager"
-msgstr ""
+msgstr "Менеджер по связи с социальными сетями"
 
 msgctxt "#Dotemu_41"
 msgid "Leslie Rugard"
-msgstr ""
+msgstr "Leslie Rugard"
 
 msgctxt "#Dotemu_42"
 msgid "Communication Manager"
-msgstr ""
+msgstr "Менеджер по связям"
 
 msgctxt "#Dotemu_43"
 msgid "Jessica Richard"
-msgstr ""
+msgstr "Jessica Richard"
 
 msgctxt "#Dotemu_44"
 msgid "Titouan Coulon"
-msgstr ""
+msgstr "Titouan Coulon"
 
 msgctxt "#Dotemu_45"
 msgid "Brand Manager"
-msgstr ""
+msgstr "Brand Manager"
 
 msgctxt "#Dotemu_46"
 msgid "Adrien Marie"
-msgstr ""
+msgstr "Adrien Marie"
 
 msgctxt "#Dotemu_47"
 msgid "Business Development"
-msgstr ""
+msgstr "Развитие бизнеса"
 
 msgctxt "#Dotemu_48"
 msgid "Jules Hirtzig"
-msgstr ""
+msgstr "Jules Hirtzig"
 
 msgctxt "#Dotemu_49"
 msgid "Office Manager"
-msgstr ""
+msgstr "Офис-менеджер777"
 
 msgctxt "#Dotemu_50"
 msgid "Anny Pang"
-msgstr ""
+msgstr "Anny Pang"
 
 msgctxt "#Dotemu_51"
 msgid "Head of Finance"
-msgstr ""
+msgstr "Глава финансового отдела"
 
 msgctxt "#Dotemu_52"
 msgid "Thibaut Camus"
-msgstr ""
+msgstr "Thibaut Camus"
 
 msgctxt "#Dotemu_53"
 msgid "Micke Moïsa"
-msgstr ""
+msgstr "Micke Moïsa"
 
 msgctxt "#Dotemu_54"
 msgid "Localisation Manager"
-msgstr ""
+msgstr "Менеджер локализации"
 
 msgctxt "#Dotemu_55"
 msgid "Foucauld Escaillet"
-msgstr ""
+msgstr "Foucauld Escaillet"
 
 msgctxt "#Dotemu_56"
 msgid "Lucas Parraud"
-msgstr ""
+msgstr "Lucas Parraud"
 
 msgctxt "#Dotemu_57"
 msgid "Laura Peitavi"
-msgstr ""
+msgstr "Laura Peitavi"
 
 msgctxt "#Dotemu_58"
 msgid "Baptiste Richer"
-msgstr ""
+msgstr "Baptiste Richer"
 
 msgctxt "#Dotemu_59"
 msgid "Drice Siamer"
-msgstr ""
+msgstr "Drice Siamer"
 
 msgctxt "#Dotemu_60"
 msgid "Maryna Syvokon"
-msgstr ""
+msgstr "Maryna Syvokon"
 
 msgctxt "#Dotemu_61"
 msgid "Yeunjoo Kimm"
-msgstr ""
+msgstr "Yeunjoo Kimm"
 
 msgctxt "#EODE"
 msgid "EODEstudio"
-msgstr ""
+msgstr "EODEstudio"
 
 msgctxt "#EODE_01"
 msgid "Léa Fressinaud-Masdefeix - Artist"
-msgstr ""
+msgstr "Léa Fressinaud-Masdefeix — художник"
 
 msgctxt "#EODE_02"
 msgid "Camille Macary - Artist"
-msgstr ""
+msgstr "Camille Macary — художник"
 
 msgctxt "#EODE_03"
 msgid "Glannon Robidou - Artist"
-msgstr ""
+msgstr "Glannon Robidou — художник"
 
 msgctxt "#EODE_04"
 msgid "Antoine Rousselot - Artist"
-msgstr ""
+msgstr "Antoine Rousselot — художник"
 
 msgctxt "#End_01"
 msgid ""
 "© 2023 Activision Publishing, Inc. PHARAOH is a trademark of Activision "
 "Publishing, Inc. "
 msgstr ""
+"© 2023 Activision Publishing, Inc. PHARAOH — торговая марка Activision "
+"Publishing, Inc. "
 
 msgctxt "#End_02"
 msgid "Published by Dotemu and Developed by Triskell Interactive."
-msgstr ""
+msgstr "Опубликовано Dotemu и разработано Triskell Interactive."
 
 msgctxt "#GameByAnd"
 msgid "And"
-msgstr ""
+msgstr "и"
 
 msgctxt "#GameByAnd_01"
 msgid "Nadège Carlier - Producer"
-msgstr ""
+msgstr "Nadège Carlier — продюсер"
 
 msgctxt "#GameByAnd_02"
 msgid "Briana Jackson - Egyptologist"
-msgstr ""
+msgstr "Briana Jackson — египтолог"
 
 msgctxt "#GameByAnd_03"
 msgid "Simon Jacquemin - Programmer"
-msgstr ""
+msgstr "Simon Jacquemin — программист"
 
 msgctxt "#GameByAnd_04"
 msgid "Christopher Knight - Sound Designer"
-msgstr ""
+msgstr "Christopher Knight — звуковой дизайнер"
 
 msgctxt "#HUWIZ"
 msgid "HUWIZ QA/UX"
-msgstr ""
+msgstr "HUWIZ QA/UX"
 
 msgctxt "#HUWIZ_01"
 msgid "Carolljo Maher"
-msgstr ""
+msgstr "Carolljo Maher"
 
 msgctxt "#HUWIZ_02"
 msgid "David Beauchemin"
-msgstr ""
+msgstr "David Beauchemin"
 
 msgctxt "#HUWIZ_03"
 msgid "Francis Durand"
-msgstr ""
+msgstr "Francis Durand"
 
 msgctxt "#HUWIZ_04"
 msgid "Frédéric Renard"
-msgstr ""
+msgstr "Frédéric Renard"
 
 msgctxt "#HUWIZ_05"
 msgid "Guillaume Lanéel"
-msgstr ""
+msgstr "Guillaume Lanéel"
 
 msgctxt "#HUWIZ_06"
 msgid "Jean-Sébastien Blanchette"
-msgstr ""
+msgstr "Jean-Sébastien Blanchette"
 
 msgctxt "#HUWIZ_07"
 msgid "Julie Vieira"
-msgstr ""
+msgstr "Julie Vieira"
 
 msgctxt "#HUWIZ_08"
 msgid "Louis St-Denis"
-msgstr ""
+msgstr "Louis St-Denis"
 
 msgctxt "#HUWIZ_09"
 msgid "Martin Gagnon"
-msgstr ""
+msgstr "Martin Gagnon"
 
 msgctxt "#HUWIZ_10"
 msgid "Maryse Melançon"
-msgstr ""
+msgstr "Maryse Melançon"
 
 msgctxt "#HUWIZ_11"
 msgid "Matthieu Boivin-Simard"
-msgstr ""
+msgstr "Matthieu Boivin-Simard"
 
 msgctxt "#HUWIZ_12"
 msgid "Maxime Lacoste"
-msgstr ""
+msgstr "Maxime Lacoste"
 
 msgctxt "#HUWIZ_13"
 msgid "Nicolas Lefebvre"
-msgstr ""
+msgstr "Nicolas Lefebvre"
 
 msgctxt "#HUWIZ_14"
 msgid "Pierre-Luc Labelle"
-msgstr ""
+msgstr "Pierre-Luc Labelle"
 
 msgctxt "#HUWIZ_15"
 msgid "Rémi Laliberté-Denis"
-msgstr ""
+msgstr "Rémi Laliberté-Denis"
 
 msgctxt "#HUWIZ_16"
 msgid "Sebastien Bedard"
-msgstr ""
+msgstr "Sebastien Bedard"
 
 msgctxt "#HUWIZ_17"
 msgid "Thomas Morin"
-msgstr ""
+msgstr "Thomas Morin"
 
 msgctxt "#Indigo Pearl"
 msgid "United Kingdom - Indigo Pearl"
-msgstr ""
+msgstr "Великобритания — Indigo Pearl"
 
 msgctxt "#Indigo Pearl_01"
 msgid "Anita Wong"
-msgstr ""
+msgstr "Anita Wong"
 
 msgctxt "#Indigo Pearl_02"
 msgid "Luke Bennett"
-msgstr ""
+msgstr "Luke Bennett"
 
 msgctxt "#Indigo Pearl_03"
 msgid "Rebecca Chisholme"
-msgstr ""
+msgstr "Rebecca Chisholme"
 
 msgctxt "#Localization"
 msgid "Localization"
@@ -590,7 +590,7 @@ msgstr ""
 
 msgctxt "#Localize_02"
 msgid "Ben Stowers"
-msgstr ""
+msgstr "Ben Stowers"
 
 msgctxt "#Localize_03"
 msgid "French"
@@ -598,7 +598,7 @@ msgstr "Французский язык"
 
 msgctxt "#Localize_04"
 msgid "Nicolas Bonnet"
-msgstr ""
+msgstr "Nicolas Bonnet"
 
 msgctxt "#Localize_05"
 msgid "Italian"
@@ -606,7 +606,7 @@ msgstr "Итальянский язык"
 
 msgctxt "#Localize_06"
 msgid "Valentina Ambrogio"
-msgstr ""
+msgstr "Valentina Ambrogio"
 
 msgctxt "#Localize_07"
 msgid "German"
@@ -614,15 +614,15 @@ msgstr "Немецкий язык"
 
 msgctxt "#Localize_08"
 msgid "Frank Schröder"
-msgstr ""
+msgstr "Frank Schröder"
 
 msgctxt "#Localize_09"
 msgid "Hans Gießner"
-msgstr ""
+msgstr "Hans Gießner"
 
 msgctxt "#Localize_10"
 msgid "Carina Reisenhofer"
-msgstr ""
+msgstr "Carina Reisenhofer"
 
 msgctxt "#Localize_11"
 msgid "Spanish"
@@ -630,19 +630,19 @@ msgstr "Испанский язык"
 
 msgctxt "#Localize_12"
 msgid "Curri Barceló Ávila"
-msgstr ""
+msgstr "Curri Barceló Ávila"
 
 msgctxt "#Localize_13"
 msgid "Marco Fernández"
-msgstr ""
+msgstr "Marco Fernández"
 
 msgctxt "#MusicAnd"
 msgid "And"
-msgstr ""
+msgstr "и"
 
 msgctxt "#MusicAnd_01"
 msgid "Solène Gendre - Singing"
-msgstr ""
+msgstr "Solène Gendre — вокал"
 
 msgctxt "#MusicAnd_02"
 msgid "Nidhal Jaoua - Qanun"
@@ -748,7 +748,7 @@ msgstr ""
 
 msgctxt "#Nolan"
 msgid "Nolan Games"
-msgstr ""
+msgstr "Nolan Games"
 
 msgctxt "#Nolan_01"
 msgid "Edwin Haragova - Level Designer"
@@ -764,11 +764,11 @@ msgstr ""
 
 msgctxt "#QA"
 msgid "Quality-Assurance"
-msgstr ""
+msgstr "Обеспечение качества"
 
 msgctxt "#Seaven"
 msgid "Seaven Studio"
-msgstr ""
+msgstr "Seaven Studio"
 
 msgctxt "#Seaven_01"
 msgid "Pascal Feard - CEO & Co-founder"
@@ -780,39 +780,39 @@ msgstr ""
 
 msgctxt "#Seaven_03"
 msgid "Camille Soual - Programmer"
-msgstr ""
+msgstr "Camille Soual — программист"
 
 msgctxt "#Seenapsis"
 msgid "Seenapsis"
-msgstr ""
+msgstr "Seenapsis"
 
 msgctxt "#Seenapsis_01"
 msgid "Lucas Junker - Programmer"
-msgstr ""
+msgstr "Lucas Junker — программист"
 
 msgctxt "#Seenapsis_02"
 msgid "Emmanuel Barreau - Programmer"
-msgstr ""
+msgstr "Emmanuel Barreau — программист"
 
 msgctxt "#Tinsley"
 msgid "North America - Tinsley PR"
-msgstr ""
+msgstr "Северная Америка — Tinsley PR"
 
 msgctxt "#Tinsley_01"
 msgid "Stephanie Tinsley Fitzwilliam"
-msgstr ""
+msgstr "Stephanie Tinsley Fitzwilliam"
 
 msgctxt "#Tinsley_02"
 msgid "Thomas Schulenberg"
-msgstr ""
+msgstr "Thomas Schulenberg"
 
 msgctxt "#Tokiko"
 msgid "Tokiko Studio"
-msgstr ""
+msgstr "Tokiko Studio"
 
 msgctxt "#Tokiko_01"
 msgid "Louis Schnellbach - Lead Programmer"
-msgstr ""
+msgstr "Louis Schnellbach — ведущий программист"
 
 msgctxt "#Tools"
 msgid "A game made with"

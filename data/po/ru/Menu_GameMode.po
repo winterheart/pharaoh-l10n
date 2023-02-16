@@ -1,43 +1,47 @@
-#
-#, fuzzy
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-15 20:56\n"
-"Last-Translator: you <you@example.com>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2023-02-16 19:42+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <azamat.hackimov@gmail.com>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.08.3\n"
 
 msgctxt "#CampainDesc"
 msgid "Relive 4000 years of Egyptian history!"
-msgstr ""
+msgstr "Проживите 4000 лет египетской истории!"
 
 msgctxt "#CampainTitle"
 msgid "Campaign"
-msgstr ""
+msgstr "Кампания"
 
 msgctxt "#CustomDesc"
 msgid ""
 "Challenge yourself on standalone missions or build the city of your dreams "
 "in sandbox mode."
 msgstr ""
+"Бросьте себе вызов в одиночной миссии или постройте город своей мечты в "
+"режиме песочницы."
 
 msgctxt "#CustomTitle"
 msgid "Mission selection"
-msgstr ""
+msgstr "Выбор миссии"
 
 msgctxt "#LoadDesc"
 msgid "Load a previously saved city."
-msgstr ""
+msgstr "Загрузите ранее сохранённый город."
 
 msgctxt "#LoadTitle"
 msgid "Load"
-msgstr ""
+msgstr "Загрузка"
 
 msgctxt "#Title"
 msgid "Game modes"
-msgstr ""
+msgstr "Режимы игры"

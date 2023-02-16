@@ -1,16 +1,18 @@
-#
-#, fuzzy
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:55\n"
-"PO-Revision-Date: 2023-02-15 20:55\n"
-"Last-Translator: you <you@example.com>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2023-02-16 20:59+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <azamat.hackimov@gmail.com>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.08.3\n"
 
 #, fuzzy, fuzzy
 msgctxt "#Academy"
@@ -1239,8 +1241,8 @@ msgid ""
 "Chickpeas are a versatile source of protein, and quite popular in your "
 "people's diets."
 msgstr ""
-"Нут — универсальная культура, богатая белком. Ваши подданные любят добавлять"
-" его в блюда."
+"Нут — универсальная культура, богатая белком и довольно популярная в рационе"
+" ваших людей."
 
 #, fuzzy, fuzzy
 msgctxt "#ChickpeaFarm_harvest"
@@ -1518,7 +1520,7 @@ msgstr ""
 #, fuzzy, fuzzy
 msgctxt "#Courthouse"
 msgid "Courthouse"
-msgstr "Суд"
+msgstr "Здание суда"
 
 #, fuzzy, fuzzy
 msgctxt "#Courthouse_Magistrate_In"
@@ -1663,7 +1665,7 @@ msgstr "Оборонительные сооружения"
 #, fuzzy, fuzzy
 msgctxt "#Dentist"
 msgid "Dentist"
-msgstr "Зубной врач"
+msgstr "Дантист"
 
 #, fuzzy, fuzzy
 msgctxt "#Dentist_flavor"
@@ -1875,7 +1877,7 @@ msgstr "Ферма латука"
 #, fuzzy, fuzzy
 msgctxt "#FarmPomegranate"
 msgid "Pomegranate Farm"
-msgstr "Гранатовый сад"
+msgstr "Ферма гранатов"
 
 #, fuzzy, fuzzy
 msgctxt "#Farm_Irrigated_No"
@@ -4565,7 +4567,7 @@ msgstr ""
 #, fuzzy, fuzzy
 msgctxt "#PomegranateFarm"
 msgid "Pomegranate Farm"
-msgstr "Гранатовый сад"
+msgstr "Ферма гранатов"
 
 #, fuzzy, fuzzy
 msgctxt "#PomegranateFarm_disabled"
@@ -4853,7 +4855,7 @@ msgstr ""
 #, fuzzy, fuzzy
 msgctxt "#RaShrine_title"
 msgid "Shrine to Ra (The Kingdom)"
-msgstr "Святилище Ра (государство)"
+msgstr "Святилище Ра (царство)"
 
 #, fuzzy, fuzzy
 msgctxt "#RaShrine_tooltip"
@@ -4908,7 +4910,7 @@ msgstr ""
 #, fuzzy, fuzzy
 msgctxt "#RaTemple_title"
 msgid "Temple to Ra (The Kingdom)"
-msgstr "Храм Ра (государство)"
+msgstr "Храм Ра (царство)"
 
 #, fuzzy, fuzzy
 msgctxt "#RaTemple_tooltip"
