@@ -1,0 +1,3239 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#AboveAverage"
+msgid "Above average"
+msgstr ""
+
+msgctxt "#Average"
+msgid "Average"
+msgstr ""
+
+msgctxt "#BelowAverage"
+msgid "Below average"
+msgstr ""
+
+msgctxt "#BurialProvisions_Title"
+msgid "Burial Provisions"
+msgstr ""
+
+msgctxt "#Chief"
+msgid "Chief Overseer"
+msgstr ""
+
+msgctxt "#Chief_CitySentiment"
+msgid "City Sentiment"
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_0"
+msgid "You are universally loathed"
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_18"
+msgid "People are angry with you"
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_27"
+msgid "People are very upset with you"
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_36"
+msgid "People are upset with you"
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_45"
+msgid "People are annoyed with you"
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_54"
+msgid "People are indifferent to you"
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_63"
+msgid "People are pleased with you."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_72"
+msgid "People are very pleased with you."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_81"
+msgid "People are extremely pleased with you."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_9"
+msgid "People are very angry at you"
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_90"
+msgid "People love you."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_99"
+msgid "People idolize you as a god."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Hover_Food"
+msgid ""
+"Low City Sentiment contributes to higher crime rates, prevents settlers from"
+" coming to your city, and can even cause your current citizens to pick up "
+"and leave. The city's food shortage is the leading cause of unhappiness, but"
+" high taxes, low wages, social inequality and lack of jobs may also be "
+"lowering City Sentiment."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Hover_Jobs"
+msgid ""
+"Low City Sentiment contributes to higher crime rates, prevents settlers from"
+" coming to your city, and can even cause your current citizens to pick up "
+"and leave. The lack of jobs here upsets people more than anything else, but "
+"high taxes, low wages, social inequality and lack of food may also be "
+"lowering City Sentiment."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Hover_Normal"
+msgid ""
+"Low City Sentiment contributes to higher crime rates, prevents settlers from"
+" coming to your city, and can even cause your current citizens to pick up "
+"and leave. Low wages, high taxes, social inequality and lack of food and "
+"jobs all contribute to low City Sentiment."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Hover_Slums"
+msgid ""
+"Low City Sentiment contributes to higher crime rates, prevents settlers from"
+" coming to your city, and can even cause your current citizens to pick up "
+"and leave. Widespread social inequality angers people the most, but high "
+"taxes, low wages and lack of food and jobs may also be depressing City "
+"Sentiment."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Hover_Taxes"
+msgid ""
+"Low City Sentiment contributes to higher crime rates, prevents settlers from"
+" coming to your city, and can even cause your current citizens to pick up "
+"and leave. The high tax rate is foremost on your citizens' minds, but low "
+"wages, social inequality and lack of food and jobs may also be dragging down"
+" City Sentiment."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Hover_Wages"
+msgid ""
+"Low City Sentiment contributes to higher crime rates, prevents settlers from"
+" coming to your city, and can even cause your current citizens to pick up "
+"and leave. Their paltry wages (compared to what workers make elsewhere in "
+"Egypt) are their main complaint, but high taxes, social inequality and lack "
+"of food and jobs may also be lowering City Sentiment."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Reason_Better"
+msgid "but the situation is improving."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Reason_Food"
+msgid "because of food shortages."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Reason_Jobs"
+msgid "because of job shortages."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Reason_Slums"
+msgid "because of so many slums. "
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Reason_Taxes"
+msgid "because of high taxes."
+msgstr ""
+
+msgctxt "#Chief_CitySentiment_Reason_Wages"
+msgid "because wages are low."
+msgstr ""
+
+msgctxt "#Chief_Crime"
+msgid "Crime"
+msgstr ""
+
+msgctxt "#Chief_Crime_0"
+msgid "No thefts reported."
+msgstr ""
+
+msgctxt "#Chief_Crime_0_hover"
+msgid ""
+"Theft can harm your city's finances, and even your family savings! An "
+"adequate number of Courthouses and Police Stations helps prevent crime, and "
+"constables will subdue any thieves they encounter. Of course, keeping your "
+"people happy is the best way to ensure that they don't turn to crime in the "
+"first place."
+msgstr ""
+
+msgctxt "#Chief_Crime_20"
+msgid "Very few thefts."
+msgstr ""
+
+msgctxt "#Chief_Crime_40"
+msgid "IMPORTANT: Some recent thefts,"
+msgstr ""
+
+msgctxt "#Chief_Crime_40_hover"
+msgid ""
+"Frequent thefts can weaken your city's finances, and even your own family's "
+"savings! Adequate Courthouses and Police Stations help prevent crime, and "
+"constables will subdue any thieves they encounter. Of course, keeping your "
+"people happy is the best way to deter crime in the first place."
+msgstr ""
+
+msgctxt "#Chief_Crime_60"
+msgid "SERIOUS: Several recent thefts,"
+msgstr ""
+
+msgctxt "#Chief_Crime_60_hover"
+msgid ""
+"Frequent thefts can drain your city's treasury, or even your own family "
+"savings! Adequate Courthouses and Police Stations help prevent crime, and "
+"constables will subdue any thieves they encounter. Of course, keeping your "
+"people happy is the best way to deter crime in the first place."
+msgstr ""
+
+msgctxt "#Chief_Crime_80"
+msgid "URGENT: Many recent thefts,"
+msgstr ""
+
+msgctxt "#Chief_Crime_80_hover"
+msgid ""
+"This much theft can seriously drain your city's treasury, or even your own "
+"family savings! An adequate number of Courthouses and Police Stations helps "
+"prevent crime, and constables subdue any thieves they encounter. Keeping "
+"your people happy is the best way to deter crime in the first place."
+msgstr ""
+
+msgctxt "#Chief_Crime_StolenDebens"
+msgid "{0} db stolen."
+msgstr ""
+
+msgctxt "#Chief_Employment"
+msgid "Employment"
+msgstr ""
+
+msgctxt "#Chief_Employment_Perfect"
+msgid "The city has no employment problems."
+msgstr ""
+
+msgctxt "#Chief_Employment_Perfect_hover"
+msgid ""
+"High unemployment can cause your otherwise happy citizens to depart the city"
+" in search of jobs, while labor shortages can result in a reduction of goods"
+" and services throughout the city."
+msgstr ""
+
+msgctxt "#Chief_Employment_Shortage_1"
+msgid "The city is short by {0} worker."
+msgstr ""
+
+msgctxt "#Chief_Employment_Shortage_150"
+msgid "SERIOUS: The city is short by {0} workers."
+msgstr ""
+
+msgctxt "#Chief_Employment_Shortage_150_hover"
+msgid ""
+"A severe labor shortage will prevent your citizens from carrying out their "
+"daily functions. Shut down any unneeded industries, or attract more workers "
+"with vacant housing and a happy population."
+msgstr ""
+
+msgctxt "#Chief_Employment_Shortage_1_hover"
+msgid ""
+"Labor shortages can result in a reduction of goods and services throughout "
+"the city. Make your city more efficient by shutting down any unneeded "
+"industries, or attracting more workers with vacant housing and a happy "
+"population."
+msgstr ""
+
+msgctxt "#Chief_Employment_Shortage_2"
+msgid "IMPORTANT: The city is short by {0} workers."
+msgstr ""
+
+msgctxt "#Chief_Employment_Shortage_2_hover"
+msgid ""
+"Without enough workers to go around, your citizens have a difficult time "
+"performing their daily tasks."
+msgstr ""
+
+msgctxt "#Chief_Employment_Shortage_300"
+msgid "URGENT: The city is short by {0} workers."
+msgstr ""
+
+msgctxt "#Chief_Employment_Shortage_300_hover"
+msgid ""
+"A severe labor shortage like this will bring your city to a grinding halt. "
+"Shut down any unneeded industries, or attract more workers with vacant "
+"housing and a happy population."
+msgstr ""
+
+msgctxt "#Chief_Employment_Unemployment_1"
+msgid "The city has unemployment of {0}%."
+msgstr ""
+
+msgctxt "#Chief_Employment_Unemployment_10"
+msgid "IMPORTANT: The city has unemployment of {0}%."
+msgstr ""
+
+msgctxt "#Chief_Employment_Unemployment_10_hover1"
+msgid ""
+"High unemployment will make your people seek jobs elsewhere. Build more "
+"industry to create some jobs."
+msgstr ""
+
+msgctxt "#Chief_Employment_Unemployment_10_hover2"
+msgid ""
+"High unemployment can make your people seek jobs elsewhere. You can create "
+"more jobs by building additional industries."
+msgstr ""
+
+msgctxt "#Chief_Employment_Unemployment_1_hover"
+msgid ""
+"This level of unemployment is tolerable, but if it gets too high your people"
+" may seek jobs elsewhere. You can create additional jobs by building more "
+"industries."
+msgstr ""
+
+msgctxt "#Chief_Employment_Unemployment_20"
+msgid "SERIOUS: The city has unemployment of {0}%."
+msgstr ""
+
+msgctxt "#Chief_Employment_Unemployment_30"
+msgid "URGENT: The city has unemployment of {0}%."
+msgstr ""
+
+msgctxt "#Chief_Finances"
+msgid "Finances"
+msgstr ""
+
+msgctxt "#Chief_Finances_EquivalentLastYear"
+msgid "We are doing about as well as last year."
+msgstr ""
+
+msgctxt "#Chief_Finances_LostMoney"
+msgid "This year assets have fallen by {0} Db."
+msgstr ""
+
+msgctxt "#Chief_Finances_LostMoney_hover"
+msgid ""
+"If you keep losing money, you'll have to tap your line of credit. The city's"
+" treasury can borrow up to {0} debens, but remaining in debt for very long "
+"has serious consequences. Taxes, exports and mining gold are the best ways "
+"to bring revenue to the city."
+msgstr ""
+
+msgctxt "#Chief_Finances_LowTaxesCoverage"
+msgid "SERIOUS: We don't collect most of the taxes owed!"
+msgstr ""
+
+msgctxt "#Chief_Finances_LowTaxesCoverage_hover"
+msgid ""
+"You are passing up a substantial amount of money because your city does not "
+"have enough tax collectors working the streets. Build more Tax Collectors, "
+"especially in areas of higher-level housing, and use the tax overlay to make"
+" sure that everyone is visited by a tax collector."
+msgstr ""
+
+msgctxt "#Chief_Finances_MadeMoney"
+msgid "This year assets have risen by {0} Db."
+msgstr ""
+
+msgctxt "#Chief_Finances_MadeMoney_hover"
+msgid ""
+"If you run out of money, your treasury will borrow up to {0} debens. "
+"However, remaining in debt for long has very serious consequences. Taxes, "
+"exports and mining gold are the best ways to bring revenue to the city."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction"
+msgid "Food Production"
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Eat_time_1"
+msgid "IMPORTANT: We eat a little more than we produce."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Eat_time_1_5"
+msgid "SERIOUS: We eat more than we produce."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Eat_time_1_5_hover"
+msgid ""
+"If your citizens miss too many meals, they'll become unhealthy (or they'll "
+"leave the city in search of a better lifestyle). To feed a population of "
+"this size, build more farms, Hunting Lodges or Cattle Ranches, or import "
+"some more food."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Eat_time_1_hover"
+msgid ""
+"If your citizens miss too many meals, they'll become unhealthy (or they'll "
+"leave the city in search of a better lifestyle). To feed a population of "
+"this size, build more farms, Hunting Lodges or Cattle Ranches, or import "
+"some more food."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Eat_time_2"
+msgid "URGENT: We eat much more than we produce."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Eat_time_2_hover"
+msgid ""
+"If your citizens miss too many meals, they'll become unhealthy (or they'll "
+"leave the city in search of a better lifestyle). To feed a population of "
+"this size, produce more food by building more farms, Hunting Lodges, Fishing"
+" Wharves or Cattle Ranches, or import some more food. You can also use "
+"irrigation to increase the output of the land you're currently farming."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Production_time_1"
+msgid "We produce just enough to feed everyone."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Production_time_1_5"
+msgid "We produce a little more than we eat."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Production_time_1_5_hover"
+msgid ""
+"If your citizens continue to eat well, they're likely to remain healthy (and"
+" won't leave the city in search of a better diet). You have a few more "
+"farms, Cattle Ranches and Hunting Lodges than you need to feed a population "
+"of this size."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Production_time_1_hover"
+msgid ""
+"If your citizens miss too many meals, they'll become unhealthy (or they'll "
+"leave the city in search of a better lifestyle). You have just about the "
+"right mix of farms, Cattle Ranches, Hunting Lodges and imported food to feed"
+" a population of this size."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Production_time_2"
+msgid "We produce much more than we eat."
+msgstr ""
+
+msgctxt "#Chief_FoodProduction_Production_time_2_hover"
+msgid ""
+"If your citizens continue to eat well, they're likely to remain healthy (and"
+" won't leave the city in search of a better diet). You have far more farms, "
+"Cattle Ranches and Hunting Lodges than you need to feed a population this "
+"size. "
+msgstr ""
+
+msgctxt "#Chief_FoodStock"
+msgid "Food Stocks"
+msgstr ""
+
+msgctxt "#Chief_FoodStock_Supply1"
+msgid "URGENT: Our food levels are low."
+msgstr ""
+
+msgctxt "#Chief_FoodStock_Supply2"
+msgid "SERIOUS: Our food levels are low."
+msgstr ""
+
+msgctxt "#Chief_FoodStock_Supply3"
+msgid "IMPORTANT: Our food levels are low."
+msgstr ""
+
+msgctxt "#Chief_FoodStock_Supply4"
+msgid "Supplies for {0} months."
+msgstr ""
+
+msgctxt "#Chief_FoodStock_hover"
+msgid ""
+"If your citizens miss too many meals, they'll become unhealthy (or they'll "
+"leave the city in search of a better lifestyle). Make sure that your people "
+"are not eating more than they produce, and that you have adequate Granaries "
+"to store the harvested crops."
+msgstr ""
+
+msgctxt "#Chief_Health"
+msgid "Health"
+msgstr ""
+
+msgctxt "#Chief_Health_0"
+msgid "URGENT: City health is appalling - plague is imminent."
+msgstr ""
+
+msgctxt "#Chief_Health_0_hover"
+msgid ""
+"With so many people in such poor health, widespread plague is almost certain"
+" to decimate the city. Build Physicians' offices and Mortuaries for the "
+"people who do not currently have access to the services provided by "
+"physicians and embalmers, and make sure your citizens have adequate supplies"
+" of food."
+msgstr ""
+
+msgctxt "#Chief_Health_10"
+msgid "URGENT: City health is terrible - plague is likely."
+msgstr ""
+
+msgctxt "#Chief_Health_100"
+msgid "City health is perfect."
+msgstr ""
+
+msgctxt "#Chief_Health_10_hover"
+msgid ""
+"With this many unhealthy people, widespread plague will probably strike "
+"soon, and could decimate the city. Build Physicians' offices and Mortuaries "
+"for the people who do not currently have access to the services provided by "
+"physicians and embalmers, and make sure your citizens have adequate supplies"
+" of food."
+msgstr ""
+
+msgctxt "#Chief_Health_20"
+msgid "SERIOUS: City health is bad - there is risk of plague."
+msgstr ""
+
+msgctxt "#Chief_Health_20_hover"
+msgid ""
+"With this many unhealthy people in the city, it's hard for apothecaries and "
+"physicians to keep up. Your city runs the risk of widespread plague, which "
+"can devastate its population. Build Physicians' offices and Mortuaries for "
+"the people who do not currently have access to the services provided by "
+"physicians and embalmers, and make sure your citizens have adequate supplies"
+" of food."
+msgstr ""
+
+msgctxt "#Chief_Health_30"
+msgid "IMPORTANT: City health is poor - some plague risk."
+msgstr ""
+
+msgctxt "#Chief_Health_30_hover"
+msgid ""
+"With this many unhealthy people in the city, it's hard for apothecaries and "
+"physicians to keep up. Your city could be struck by a plague, which can "
+"devastate the population. Build Physicians' offices and Mortuaries for the "
+"people who do not currently have access to the services provided by "
+"physicians and embalmers, and make sure your citizens have adequate supplies"
+" of food."
+msgstr ""
+
+msgctxt "#Chief_Health_40"
+msgid "City health is below average."
+msgstr ""
+
+msgctxt "#Chief_Health_40_hover"
+msgid ""
+"If the health of its population worsens, the city could find itself "
+"devastated by a plague. Build Physicians' offices and Mortuaries for the "
+"unfortunates who currently lack access to the services provided by "
+"physicians and embalmers, and make sure your citizens have adequate supplies"
+" of food."
+msgstr ""
+
+msgctxt "#Chief_Health_50"
+msgid "City health is average."
+msgstr ""
+
+msgctxt "#Chief_Health_50_hover"
+msgid ""
+"If the health of its population worsens, the city could suffer a plague, "
+"which can decimate the population. Build Physicians' offices and Mortuaries "
+"for those unfortunates who lack access to the services provided by "
+"physicians and embalmers, and make sure your citizens have adequate supplies"
+" of food."
+msgstr ""
+
+msgctxt "#Chief_Health_60"
+msgid "City health is good."
+msgstr ""
+
+msgctxt "#Chief_Health_60_100_hover"
+msgid ""
+"Good health is important for curbing malaria and disease, and especially for"
+" preventing plague throughout the city. If the health of its population "
+"worsens, the city could find a plague devastating its population. Physicians"
+" and embalmers, provided by Physicians' offices and Mortuaries, help to keep"
+" the city healthy, as does a good supply of multiple types of food."
+msgstr ""
+
+msgctxt "#Chief_Health_70"
+msgid "City health is very good."
+msgstr ""
+
+msgctxt "#Chief_Health_80"
+msgid "City health is excellent."
+msgstr ""
+
+msgctxt "#Chief_Health_90"
+msgid "City health is almost perfect."
+msgstr ""
+
+msgctxt "#Chief_Kingdom"
+msgid "Kingdom"
+msgstr ""
+
+msgctxt "#Chief_Kingdom_Request_0"
+msgid "There are no outstanding requests upon our city."
+msgstr ""
+
+msgctxt "#Chief_Kingdom_Request_1"
+msgid "There are some outstanding requests upon our city."
+msgstr ""
+
+msgctxt "#Chief_Kingdom_Request_2"
+msgid "There are several outstanding requests upon our city."
+msgstr ""
+
+msgctxt "#Chief_Kingdom_Request_3"
+msgid "There are many outstanding requests upon our city."
+msgstr ""
+
+msgctxt "#Chief_Kingdom_hover_1"
+msgid ""
+"Failure to fulfill requests from Pharaoh or your neighbors can have various "
+"ill effects. If you don't help out your fellow Egyptian cities in their time"
+" of need, they may succumb to poverty, or fall into the hands of our "
+"enemies. To remain on good terms with your countrymen, respond to requests "
+"like these willingly and promptly."
+msgstr ""
+
+msgctxt "#Chief_Kingdom_hover_2"
+msgid ""
+"If you don't aid your fellow Egyptian cities in their time of need, they may"
+" succumb to poverty, fall into the hands of their enemies, or suffer some "
+"other undesirable fate. This could adversely affect trade, prices, even your"
+" Kingdom status. To remain on good terms with your countrymen, it's best to "
+"respond to requests willingly and promptly."
+msgstr ""
+
+msgctxt "#Chief_Kingdom_hover_3"
+msgid ""
+"To remain on good terms with your countrymen, respond willingly and promptly"
+" to any requests they may make in their time of need. If you fail they may "
+"succumb to poverty, fall into the hands of their enemies, or suffer some "
+"other undesirable fate. This could have detrimental effects on trade, "
+"prices, even your Kingdom status. "
+msgstr ""
+
+msgctxt "#Chief_Migration"
+msgid "Migration"
+msgstr ""
+
+msgctxt "#Chief_Migration_HighTaxes"
+msgid "High taxes prevent immigration."
+msgstr ""
+
+msgctxt "#Chief_Migration_HighTaxes_hover"
+msgid ""
+"As long as the residents of your city are happy with you, and sufficient "
+"housing is available, more people will come to settle in your city. Lower "
+"taxes would attract more people to the city."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_HighTaxes"
+msgid "Unfair or excessive taxation drives people away."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_HighTaxes_hover"
+msgid ""
+"As long as the residents of your city are happy with you, and sufficient "
+"housing is available, they'll remain in your city. Lower taxes will "
+"encourage people to stay."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_LowWages"
+msgid "Low wages are making people leave the city."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_LowWages_hover"
+msgid ""
+"As long as the residents of your city are happy with you, and sufficient "
+"housing is available, they'll remain in your city. Raise wages if you want "
+"to encourage people to stay."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_NoFood"
+msgid "People who are leaving cite hunger as the reason."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_NoFood_hover"
+msgid ""
+"As long as the residents of your city are happy with you, and sufficient "
+"housing is available, they'll remain in your city. Given the size of your "
+"current population, you need to produce more food than you currently are, if"
+" you want to encourage people to stay."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_Nospace"
+msgid "Lack of vacant housing drives people away."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_Nospace_hover"
+msgid ""
+"As long as sufficient housing is available, and the residents of your city "
+"are happy, more people will come to settle in your city (and your own "
+"citizens won't depart for greener pastures!). Build more housing in order "
+"for your city to grow and prosper."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_PoorCitySentiment"
+msgid "People are leaving because of poor City Sentiment."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_PoorCitySentiment_hover"
+msgid ""
+"As long as the residents of your city are happy with you, and sufficient "
+"housing is available, more people will come to settle in your city (and your"
+" own citizens won't depart for greener pastures!). You need to increase your"
+" City Sentiment if you want people to stay here."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_Slums"
+msgid "Having some slums is encouraging people to leave."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_Slums_hover"
+msgid ""
+"When there is too much of a gap between the haves and the have-nots, people "
+"tend to seek opportunities elsewhere. Provide better services to your poorer"
+" neighborhoods, to create more of a balance between the wealthy and those of"
+" more modest means."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_Unemployment"
+msgid "Unemployment makes people abandon the city."
+msgstr ""
+
+msgctxt "#Chief_Migration_Leave_Unemployment_hover"
+msgid ""
+"As long as the residents of your city are happy with you, and sufficient "
+"housing is available, they'll remain in your city. Create more jobs by "
+"building some more industries if you want to encourage people to stay."
+msgstr ""
+
+msgctxt "#Chief_Migration_LowWages"
+msgid "Low wages prevent immigration."
+msgstr ""
+
+msgctxt "#Chief_Migration_LowWages_hover"
+msgid ""
+"As long as the residents of your city are happy with you, and sufficient "
+"housing is available, more people will come to settle in your city. Raise "
+"wages if you want to lure more people to the city."
+msgstr ""
+
+msgctxt "#Chief_Migration_NoChange"
+msgid "Little change expected."
+msgstr ""
+
+msgctxt "#Chief_Migration_NoChange_hover"
+msgid ""
+"Normally, you'll want to increase the population so your city can grow and "
+"prosper. New settlers are attracted by vacant housing and higher City "
+"Sentiment."
+msgstr ""
+
+msgctxt "#Chief_Migration_NoFood"
+msgid "Lack of food prevents immigration."
+msgstr ""
+
+msgctxt "#Chief_Migration_NoFood_hover"
+msgid ""
+"As long as the residents of your city are happy with you, and sufficient "
+"housing is available, more people will come to settle in your city. Produce "
+"more food than you currently are, if you want to attract more people to the "
+"city."
+msgstr ""
+
+msgctxt "#Chief_Migration_NoJobs"
+msgid "Lack of jobs prevents immigration."
+msgstr ""
+
+msgctxt "#Chief_Migration_NoJobs_hover"
+msgid ""
+"As long as the residents of your city are happy with you, and sufficient "
+"housing is available, more people will come to settle in your city. Create "
+"some jobs by building more industries if you want to attract more people to "
+"the city."
+msgstr ""
+
+msgctxt "#Chief_Migration_Normal"
+msgid "People are immigrating to the city."
+msgstr ""
+
+msgctxt "#Chief_Migration_Normal_hover"
+msgid ""
+"Normally, you'll want to increase the population so your city can grow and "
+"prosper. Because there is vacant housing available, and your people are "
+"happy with their lives here, new settlers are flocking to the city."
+msgstr ""
+
+msgctxt "#Chief_Migration_Nospace"
+msgid "Lack of housing prevents immigration."
+msgstr ""
+
+msgctxt "#Chief_Migration_Nospace_hover"
+msgid ""
+"As long as there is vacant housing, and the residents of your city are happy"
+" with you, more people will come to settle in your city. Create more housing"
+" areas to let your city grow and prosper."
+msgstr ""
+
+msgctxt "#Chief_Migration_PoorCitySentiment"
+msgid "Poor City Sentiment prevents immigration."
+msgstr ""
+
+msgctxt "#Chief_Migration_PoorCitySentiment_hover"
+msgid ""
+"As long as the residents of your city are happy with you, and sufficient "
+"housing is available, more people will come to settle in your city. Increase"
+" your City Sentiment in order to attract people to the city."
+msgstr ""
+
+msgctxt "#Chief_Migration_Slums"
+msgid "The city's slum areas discourage immigration."
+msgstr ""
+
+msgctxt "#Chief_Migration_Slums_hover"
+msgid ""
+"When there is too much of a gap between the haves and the have-nots, no one "
+"will want to come to your city. Provide better services to your poorer "
+"neighborhoods to create more of a balance between the wealthy and those of "
+"more modest means."
+msgstr ""
+
+msgctxt "#Chief_Migration_UpcomingBattle"
+msgid "War frightens immigrants away!"
+msgstr ""
+
+msgctxt "#Chief_Military"
+msgid "Military"
+msgstr ""
+
+msgctxt "#Chief_Military_AttackComing"
+msgid "Enemies are closing on the city."
+msgstr ""
+
+msgctxt "#Chief_Military_AttackComing_hover"
+msgid ""
+"An enemy army is advancing to attack the city! It can be difficult or "
+"impossible to construct buildings while under attack, so prepare your "
+"defenses by building Walls, Towers, Gatehouses and Forts now, while you "
+"still can."
+msgstr ""
+
+msgctxt "#Chief_Military_AttackInProgress"
+msgid "Enemies are attacking the city."
+msgstr ""
+
+msgctxt "#Chief_Military_AttackInProgress_hover"
+msgid ""
+"It's always best to be prepared for attacks, rather than try to conscript "
+"troops at the last minute. Hopefully we have adequate defenses to protect "
+"the city."
+msgstr ""
+
+msgctxt "#Chief_Military_AttackSoon"
+msgid "Enemy troops at our gates."
+msgstr ""
+
+msgctxt "#Chief_Military_NoAttack"
+msgid "We have no reported threats."
+msgstr ""
+
+msgctxt "#Chief_Military_NoAttack_hover"
+msgid ""
+"If enemies were advancing toward our city, you would surely receive a "
+"message. Enemy armies also appear on the World Map, so you can watch them "
+"advance, and hopefully have the city ready when they arrive."
+msgstr ""
+
+msgctxt "#Chief_Military_NoRequestForTroops"
+msgid "We have no request for military assistance abroad."
+msgstr ""
+
+msgctxt "#Chief_Military_NoTroops"
+msgid "You have no companies to command."
+msgstr ""
+
+msgctxt "#Chief_Military_NoTroops_hover"
+msgid ""
+"There are no military forces at our disposal. Currently there is no need, as"
+" all is safe."
+msgstr ""
+
+msgctxt "#Chief_Military_RequestForTroops"
+msgid "Our troops are needed elsewhere."
+msgstr ""
+
+msgctxt "#Chief_Military_RequestForTroops_hover"
+msgid ""
+"We have received a request for troops from a fellow Egyptian commander. It "
+"is usually best to honor such requests, if you want to remain on good terms "
+"with the rest of the Kingdom. Consult the Political Overseer, as well as the"
+" Overseer of the Military, to dispatch troops."
+msgstr ""
+
+msgctxt "#Chief_Military_Troops"
+msgid "{0} soldiers in {1} companies."
+msgstr ""
+
+msgctxt "#Chief_Military_TroopsSent"
+msgid "We have troops elsewhere."
+msgstr ""
+
+msgctxt "#Chief_Military_TroopsSent_hover"
+msgid ""
+"Some of our troops are serving Egypt in far-off military campaigns. It is "
+"generally good to support the Kingdom by sending troops to help out when "
+"needed, if you want to maintain your good name throughout Egypt."
+msgstr ""
+
+msgctxt "#Chief_Military_Troops_OneCompany"
+msgid "{0} soldiers in 1 company."
+msgstr ""
+
+msgctxt "#Chief_Nilometer"
+msgid "Nilometer"
+msgstr ""
+
+msgctxt "#Chief_Nilometer_August_1"
+msgid "The flood is expected to come in early August."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_August_15"
+msgid "The flood is expected to come in late August."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_July_1"
+msgid "The flood is expected to come in early July."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_July_15"
+msgid "The flood is expected to come in late July."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_June_1"
+msgid "The flood is expected to come in early June."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_June_15"
+msgid "The flood is expected to come in late June."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_0"
+msgid "The next flood will likely fail entirely."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_0_hover"
+msgid ""
+"Priests interpreting the Nilometer warn that this year's flood could fail "
+"entirely, and the rich, fertile mud of the Nile won't renew your fields. If "
+"your city depends on farming the flood plain for its food, this could put "
+"the very survival of your citizens in jeopardy. Worshipping Osiris, the god "
+"of the Nile flood, can help avoid this next year."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_100"
+msgid "The next flood should be perfect."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_100_hover"
+msgid ""
+"If your city depends on farming the flood plain for its food, the abundant "
+"rich and fertile mud that priests hope will be deposited on your fields this"
+" year by the perfect flood is an immeasurable bounty not to be taken for "
+"granted. Pray to Osiris, the god of the Nile flood, that this might happen "
+"again in the future."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_20"
+msgid "The next flood is likely to be poor."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_20_hover"
+msgid ""
+"Seers foretell a poor flood this year. They fear that very little rich, "
+"fertile mud of the Nile will renew your fields. If your city depends on "
+"farming the flood plain for its food, this could put the very survival of "
+"your citizens in jeopardy. Appeasing Osiris, the god of the Nile flood, can "
+"help avoid this next year."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_40"
+msgid "The next flood is likely to be mediocre."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_40_hover"
+msgid ""
+"Omens portend a mediocre flood this year. If they are right, the Nile will "
+"deposit only some rich, fertile mud on your fields. If your city depends on "
+"farming the flood plain for its food, this puts the very survival of your "
+"citizens in jeopardy. Increased worship of Osiris, the god of the Nile "
+"flood, will help ensure that this doesn't happen again next year."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_60"
+msgid "The next flood should be good."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_60_hover"
+msgid ""
+"If seers read the Nilometers right, the good flood expected this year will "
+"deposit the rich and fertile mud of the Nile onto your city's fields. Make "
+"sure that Osiris, the god of the Nile flood, is kept appeased, or he may "
+"decide to withhold this blessing next year."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_80"
+msgid "The next flood should be excellent."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_NextFloodStatus_80_hover"
+msgid ""
+"If your city depends on farming the flood plain for its food, the amount of "
+"rich and fertile mud that omens indicate could be deposited on your fields "
+"by an excellent flood is a bounty not to be taken for granted. Make sure "
+"that Osiris, the god of the Nile flood, is kept happy, so that he will "
+"bestow this blessing again."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_September_1"
+msgid "The flood is expected to come in early September."
+msgstr ""
+
+msgctxt "#Chief_Nilometer_September_15"
+msgid "The flood is expected to come in late September."
+msgstr ""
+
+msgctxt "#Chief_Religion"
+msgid "Religion"
+msgstr ""
+
+msgctxt "#Chief_Religion_Appeased"
+msgid "All gods are adequately appeased."
+msgstr ""
+
+msgctxt "#Chief_Religion_Appeased_hover"
+msgid ""
+"If any gods become hostile, they may use their powers to devastate your "
+"city."
+msgstr ""
+
+msgctxt "#Chief_Religion_Furious_1_1"
+msgid "IMPORTANT: One god is not appeased."
+msgstr ""
+
+msgctxt "#Chief_Religion_Furious_1_2"
+msgid "SERIOUS: One god is not appeased."
+msgstr ""
+
+msgctxt "#Chief_Religion_Furious_2_1"
+msgid "IMPORTANT: Two gods are not appeased."
+msgstr ""
+
+msgctxt "#Chief_Religion_Furious_2_2"
+msgid "SERIOUS: Two gods are not appeased."
+msgstr ""
+
+msgctxt "#Chief_Religion_Furious_3_1"
+msgid "IMPORTANT: Three gods are not appeased."
+msgstr ""
+
+msgctxt "#Chief_Religion_Furious_3_2"
+msgid "SERIOUS: Three gods are not appeased."
+msgstr ""
+
+msgctxt "#Chief_Religion_Furious_4_5_1"
+msgid "IMPORTANT: Several gods are not appeased."
+msgstr ""
+
+msgctxt "#Chief_Religion_Furious_4_5_2"
+msgid "SERIOUS: Several gods may strike us down."
+msgstr ""
+
+msgctxt "#Chief_Religion_Furious_hover"
+msgid ""
+"Hostile gods can use their powers to devastate your city. To appease them, "
+"build Temples to them and hold festivals in their honor."
+msgstr ""
+
+msgctxt "#Chief_Religion_Furious_hover_2"
+msgid ""
+"An angry god can use his powers to devastate your city. To appease them, "
+"build Temples to them and hold festivals in their honor."
+msgstr ""
+
+msgctxt "#Chief_Religion_Happy_1"
+msgid "All gods are appeased. One is especially happy."
+msgstr ""
+
+msgctxt "#Chief_Religion_Happy_2"
+msgid "All gods are appeased. Two are especially happy."
+msgstr ""
+
+msgctxt "#Chief_Religion_Happy_3"
+msgid "All gods are appeased. Three are especially happy."
+msgstr ""
+
+msgctxt "#Chief_Religion_Happy_4_5"
+msgid "All gods are appeased. Several are especially happy."
+msgstr ""
+
+msgctxt "#Chief_Religion_Happy_hover"
+msgid ""
+"Benevolent gods can use their powers to bless your city in various ways. As "
+"your city grows, keep the gods appeased by dedicating Temples to them, and "
+"continue to hold festivals in their honor."
+msgstr ""
+
+msgctxt "#Chief_Title"
+msgid "Chief Overseer"
+msgstr ""
+
+msgctxt "#Commerce"
+msgid "Overseer of Commerce"
+msgstr ""
+
+msgctxt "#Commerce_AvailableBoth"
+msgid "Available for import or export"
+msgstr ""
+
+msgctxt "#Commerce_AvailableForExport"
+msgid "Exportable"
+msgstr ""
+
+msgctxt "#Commerce_AvailableForImport"
+msgid "Available for import"
+msgstr ""
+
+msgctxt "#Commerce_ExportAsNeeded"
+msgid "Let Overseer set export level"
+msgstr ""
+
+msgctxt "#Commerce_ExportWhenOver"
+msgid "Export when over"
+msgstr ""
+
+msgctxt "#Commerce_ExportingAsNeeded"
+msgid "Exporting surpluses"
+msgstr ""
+
+msgctxt "#Commerce_ExportingWhenOver"
+msgid "Exporting when over"
+msgstr ""
+
+msgctxt "#Commerce_ImportAsNeeded"
+msgid "Let Overseer set import level"
+msgstr ""
+
+msgctxt "#Commerce_ImportToMaintain"
+msgid "Import to maintain"
+msgstr ""
+
+msgctxt "#Commerce_ImportingAsNeeded"
+msgid "Importing as needed"
+msgstr ""
+
+msgctxt "#Commerce_ImportingToMaintain"
+msgid "Importing to maintain"
+msgstr ""
+
+msgctxt "#Commerce_NoTrade"
+msgid "Do not trade"
+msgstr ""
+
+msgctxt "#Commerce_NotTradable"
+msgid "There are no trade routes open for these goods"
+msgstr ""
+
+msgctxt "#Commerce_OpenBoth"
+msgid "Open trade routes to import/export"
+msgstr ""
+
+msgctxt "#Commerce_OpenToExport"
+msgid "Open trade route to export"
+msgstr ""
+
+msgctxt "#Commerce_OpenToImport"
+msgid "Open trade route to import"
+msgstr ""
+
+msgctxt "#Commerce_PriceExport"
+msgid "Export"
+msgstr ""
+
+msgctxt "#Commerce_PriceImport"
+msgid "Import"
+msgstr ""
+
+msgctxt "#Commerce_Resource"
+msgid "Resource"
+msgstr ""
+
+msgctxt "#Commerce_Status"
+msgid "Status"
+msgstr ""
+
+msgctxt "#Commerce_Stockpiling"
+msgid "Stockpiling this resource"
+msgstr ""
+
+msgctxt "#Commerce_Stored"
+msgid "Stored"
+msgstr ""
+
+msgctxt "#Commerce_Title"
+msgid "Overseer of Commerce"
+msgstr ""
+
+msgctxt "#Commerce_ToggleIndustry"
+msgid "Toggle activation of this industry"
+msgstr ""
+
+msgctxt "#Company_Send_Confirm_Text"
+msgid "{[company_name]} has been sent to {[city_name]}"
+msgstr ""
+
+msgctxt "#Company_Send_Confirm_Title"
+msgid "Send Company"
+msgstr ""
+
+msgctxt "#Company_Tooltip_Cursed"
+msgid "This company is cursed by Seth"
+msgstr ""
+
+msgctxt "#Company_Tooltip_No_Sent_Button"
+msgid "There is no distant city to defend"
+msgstr ""
+
+msgctxt "#Company_Tooltip_No_Soldier"
+msgid "This company does not have any soldiers."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part1_Archer"
+msgid "An archer company."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part1_Chariot"
+msgid "A Charioteer company."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part1_Infantry"
+msgid "An infantry company."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part1_Transport"
+msgid "A transport ship. Needed to send troops by sea to another city."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part1_Warship"
+msgid "A combat warship. Needed to fight sea invasion."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part2_Experience_Level"
+msgid "It has {[experience_level]} level of experience."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part2_No_Experience"
+msgid "It has no experience of combat."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part3_Not_Upgraded"
+msgid "This company uses basic weapons."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part3_Upgraded"
+msgid "This company uses {[weapon_sprite]}."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part4_Available"
+msgid "Currently training, ready to defend the city."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part4_Sent"
+msgid "Currently fighting in {[city_name]}"
+msgstr ""
+
+msgctxt "#Company_Tooltip_Part5"
+msgid "Click here to center view on the fort."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Sent_Button"
+msgid "Sent this company to defend a distant city."
+msgstr ""
+
+msgctxt "#Company_Tooltip_Sent_Button_No_Ship"
+msgid ""
+"The city does not have enough transport ships available to send troops."
+msgstr ""
+
+msgctxt "#Company_tooltip_none"
+msgid "This company does not exist. Build a fort to create a new company."
+msgstr ""
+
+msgctxt "#Diversions"
+msgid "Overseer of Diversions"
+msgstr ""
+
+msgctxt "#Diversions_CanEntertain"
+msgid "Can entertain"
+msgstr ""
+
+msgctxt "#Diversions_CityCoverage"
+msgid "City coverage"
+msgstr ""
+
+msgctxt "#Diversions_Dancer"
+msgid "Dancers' stages"
+msgstr ""
+
+msgctxt "#Diversions_DancerMissing"
+msgid ""
+"Your Pavilions need more dancers. A new Conservatory could boost local "
+"entertainment levels in parts of the city."
+msgstr ""
+
+msgctxt "#Diversions_Juggler"
+msgid "Juggler's stages"
+msgstr ""
+
+msgctxt "#Diversions_JugglerMusicanMissing"
+msgid ""
+"Some Booths or Bandstands have empty stages. More jugglers or musicians "
+"would satisfy neighborhoods that are complaining of poor entertainment."
+msgstr ""
+
+msgctxt "#Diversions_Musician"
+msgid "Musicians' stages"
+msgstr ""
+
+msgctxt "#Diversions_NoEntertainmentNeeded"
+msgid ""
+"No one is seeking entertainment yet. As your city grows, though, people will"
+" want amusements like juggling, music and dancing."
+msgstr ""
+
+msgctxt "#Diversions_NoMoreEntertainmentNeeded"
+msgid ""
+"There's currently enough diversion to satisfy everyone. As the city grows, "
+"though, people will ask for more and better forms of entertainment."
+msgstr ""
+
+msgctxt "#Diversions_People"
+msgid "{0} people"
+msgstr ""
+
+msgctxt "#Diversions_Senet"
+msgid "Senet Houses "
+msgstr ""
+
+msgctxt "#Diversions_Shows"
+msgid "Shows"
+msgstr ""
+
+msgctxt "#Diversions_SomeEntertainmentNeeded"
+msgid ""
+"Some residents want more recreational facilities. More choices in diversions"
+" would motivate them to upgrade their homes."
+msgstr ""
+
+msgctxt "#Diversions_Title"
+msgid "Overseer of Diversions"
+msgstr ""
+
+msgctxt "#Diversions_UnequalAccess"
+msgid ""
+"Parts of the city grumble that they have no access to recreation. Building "
+"more entertainment venues would help these poorer areas develop."
+msgstr ""
+
+msgctxt "#Diversions_UnequalAccess_2"
+msgid ""
+"Some people whine about inadequate entertainment in their neighborhoods. You"
+" may need to offer more variety, or perhaps build more performer schools to "
+"provide artists for venues that lack them."
+msgstr ""
+
+msgctxt "#Diversions_WorkingStage"
+msgid "Working Stages"
+msgstr ""
+
+msgctxt "#Diversions_Zoo"
+msgid "Zoos"
+msgstr ""
+
+msgctxt "#Excellent"
+msgid "Excellent"
+msgstr ""
+
+msgctxt "#FestivalCommon"
+msgid "Common festival"
+msgstr ""
+
+msgctxt "#FestivalGrand"
+msgid "Grand festival"
+msgstr ""
+
+msgctxt "#FestivalLavish"
+msgid "Lavish festival"
+msgstr ""
+
+msgctxt "#Festival_Preparing"
+msgid "Preparing festival for {[god]}"
+msgstr ""
+
+msgctxt "#Fort_Not_Built"
+msgid "Fort not built"
+msgstr ""
+
+msgctxt "#Fort_Not_Built_Explained"
+msgid "You must build a new fort to create a new company"
+msgstr ""
+
+msgctxt "#GiveToPeople"
+msgid "Give to the people of Egypt"
+msgstr ""
+
+msgctxt "#Good"
+msgid "Good"
+msgstr ""
+
+msgctxt "#Granaries"
+msgid "Overseer of the Granaries"
+msgstr ""
+
+msgctxt "#Granaries_Census"
+msgid "Census"
+msgstr ""
+
+msgctxt "#Granaries_Census_desc"
+msgid "Population composition by age (in years)"
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_EX1"
+msgid "Right now we eat a little more than we produce. "
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_EX1-5"
+msgid "We eat more than we produce."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_EX1-5_growth"
+msgid "We produce too little food. Our growing city will need even more."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_EX1-5_shrink"
+msgid "We eat more than we produce, but our shrinking city will eat less."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_EX1_growth"
+msgid "We eat a bit more than we produce. Our growing city will need more."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_EX1_shrink"
+msgid "We eat a bit more than we produce, so expect our city to shrink."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_EX2"
+msgid "We eat much more than we produce!"
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_EX2_growth"
+msgid "We produce far too little food. Our growing city will need even more."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_EX2_shrink"
+msgid "We eat much more than we produce, so expect our city to shrink."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_Number"
+msgid "We produce or import enough food for about {0} people."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_PX1"
+msgid "Right now we produce just enough to feed everyone."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_PX1-5"
+msgid "Right now we produce a little more than we eat."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_PX1-5_growth"
+msgid "We produce a little surplus food, and our growing city will need it."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_PX1-5_shrink"
+msgid "We produce a little extra food. Our shrinking city will eat even less."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_PX1_growth"
+msgid "Now we produce just enough food, but our growing city will need more."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_PX1_shrink"
+msgid "We produce no extra food, and our shrinking city will eat even less. "
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_PX2"
+msgid "Right now we produce much more than we eat."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_PX2_growth"
+msgid "We produce a lot of extra food, but our growing city will need more."
+msgstr ""
+
+msgctxt "#Granaries_FoodProduction_PX2_shrink"
+msgid ""
+"We produce a lot of extra food. Our shrinking city will need even less."
+msgstr ""
+
+msgctxt "#Granaries_ForXMonths"
+msgid "{[number]} Months[I2p_One]1 Month"
+msgstr ""
+
+msgctxt "#Granaries_GranariesHold"
+msgid "{[number]} Granaries hold food for [I2p_One]1 Granary holds food for"
+msgstr ""
+
+msgctxt "#Granaries_History"
+msgid "History"
+msgstr ""
+
+msgctxt "#Granaries_History_desc"
+msgid "City population over time"
+msgstr ""
+
+msgctxt "#Granaries_Migration_HighTaxes"
+msgid "High taxes keep some people away from our city."
+msgstr ""
+
+msgctxt "#Granaries_Migration_LowWage"
+msgid "Low wages reduce immigration to our city."
+msgstr ""
+
+msgctxt "#Granaries_Migration_NoFood"
+msgid "Lack of food in your Granaries reduces immigration."
+msgstr ""
+
+msgctxt "#Granaries_Migration_NoSpace"
+msgid "Lack of housing vacancies limits immigration."
+msgstr ""
+
+msgctxt "#Granaries_Migration_None"
+msgid "Nobody wants to live in our city."
+msgstr ""
+
+msgctxt "#Granaries_Migration_Normal"
+msgid "Overall, people are coming, or wish to come, to our city."
+msgstr ""
+
+msgctxt "#Granaries_Migration_Slums"
+msgid "Poor housing, despite your city's wealth, discourages immigrants."
+msgstr ""
+
+msgctxt "#Granaries_Migration_Static"
+msgid "Overall, your city population is static."
+msgstr ""
+
+msgctxt "#Granaries_Migration_Unemployment"
+msgid "Unemployment reduces your number of immigrants."
+msgstr ""
+
+msgctxt "#Granaries_Newcomers"
+msgid ""
+"{[number]} newcomers arrived this month.[I2p_One]1 newcomer arrived this "
+"month."
+msgstr ""
+
+msgctxt "#Granaries_NoFood"
+msgid "No food in stock for the coming month"
+msgstr ""
+
+msgctxt "#Granaries_Society"
+msgid "Society"
+msgstr ""
+
+msgctxt "#Granaries_Society_desc"
+msgid "Population composition by income"
+msgstr ""
+
+msgctxt "#Granaries_Society_end"
+msgid "Estate dwellers"
+msgstr ""
+
+msgctxt "#Granaries_Society_start"
+msgid "Hut dwellers"
+msgstr ""
+
+msgctxt "#Granaries_SpaceLeft"
+msgid "Current housing can hold {0} more people"
+msgstr ""
+
+msgctxt "#Granaries_Title"
+msgid "Overseer of the Granaries"
+msgstr ""
+
+msgctxt "#Learning"
+msgid "Overseer of Learning"
+msgstr ""
+
+msgctxt "#Learning_CanEducate"
+msgid "Can educate"
+msgstr ""
+
+msgctxt "#Learning_CityCoverage"
+msgid "City coverage"
+msgstr ""
+
+msgctxt "#Learning_Library"
+msgid "Library"
+msgstr ""
+
+msgctxt "#Learning_LibraryCoverage"
+msgid "people"
+msgstr ""
+
+msgctxt "#Learning_LibraryNeeded"
+msgid ""
+"Library access is now needed in certain areas of the city. People need "
+"access to literature if they are to work as scribes."
+msgstr ""
+
+msgctxt "#Learning_MoreFacilitiesNeeded"
+msgid ""
+"Better Scribal School and Library access would enhance some areas of the "
+"city. People should not have to walk so far for learning!"
+msgstr ""
+
+msgctxt "#Learning_MoreLibraryNeeded"
+msgid ""
+"Some areas of the city want better Library access. Upper-class scribes do "
+"not appreciate having to walk so far to the Library."
+msgstr ""
+
+msgctxt "#Learning_MoreSchoolNeeded"
+msgid ""
+"Some neighborhoods demand better Scribal School access. Some houses have "
+"access to city schools, but others do not, and this hinders their "
+"development."
+msgstr ""
+
+msgctxt "#Learning_NoFacilitiesNeeded"
+msgid ""
+"No one is asking for educational facilities yet. As the city grows in "
+"stature, though, people will expect Scribal Schools, followed later by "
+"demands for Libraries."
+msgstr ""
+
+msgctxt "#Learning_NoLibraryNeeded_NoCompleteCoverage"
+msgid ""
+"All homes that want them have educational facilities, but building more "
+"Libraries would reduce overcrowding and enhance city Culture."
+msgstr ""
+
+msgctxt "#Learning_NoSchoolNeeded_NoCompleteCoverage"
+msgid ""
+"All homes that want them have educational facilities, but building more "
+"Scribal Schools would reduce classroom sizes and improve city Culture."
+msgstr ""
+
+msgctxt "#Learning_PerfectAccess"
+msgid ""
+"All homes that want them have educational facilities.  Scribal Schools and "
+"Libraries are numerous, and no one complains of overcrowding."
+msgstr ""
+
+msgctxt "#Learning_School"
+msgid "Scribal schools "
+msgstr ""
+
+msgctxt "#Learning_SchoolCoverage"
+msgid "children"
+msgstr ""
+
+msgctxt "#Learning_SchoolNeeded"
+msgid ""
+"Certain areas of the city now need Scribal School access. Poor education "
+"prevents some residents from improving their housing."
+msgstr ""
+
+msgctxt "#Learning_Title"
+msgid "Overseer of Learning"
+msgstr ""
+
+msgctxt "#Learning_Working"
+msgid "Working"
+msgstr ""
+
+msgctxt "#Military"
+msgid "Overseer of the Military"
+msgstr ""
+
+msgctxt "#Military_"
+msgid "Dispatch"
+msgstr ""
+
+msgctxt "#Military_EnemiesMoving"
+msgid "We are getting reports of enemies moving toward the city."
+msgstr ""
+
+msgctxt "#Military_EnemyNear"
+msgid "Our enemies are within sight of the city."
+msgstr ""
+
+msgctxt "#Military_NoCompanies"
+msgid ""
+"You have no companies to command. You must first build a Fort to house a new"
+" company."
+msgstr ""
+
+msgctxt "#Military_NoShips"
+msgid ""
+"You have no warships to command. You must first build a Wharf for a new "
+"warship."
+msgstr ""
+
+msgctxt "#Military_NoThreat"
+msgid "We have no reports of any threats to the city."
+msgstr ""
+
+msgctxt "#Military_TabArmy"
+msgid "Army status"
+msgstr ""
+
+msgctxt "#Military_TabNavy"
+msgid "Navy status"
+msgstr ""
+
+msgctxt "#Military_Title"
+msgid "Overseer of the Military"
+msgstr ""
+
+msgctxt "#Military_TroopsNeeded"
+msgid "Some of our troops are needed abroad."
+msgstr ""
+
+msgctxt "#Military_TroopsNotNeeded"
+msgid "We have no requests for military assistance abroad."
+msgstr ""
+
+msgctxt "#Monuments"
+msgid "Overseer of Monuments"
+msgstr ""
+
+msgctxt "#Monuments_AbuSimbel_Completed"
+msgid "Abu Simbel is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_AbuSimbel_Completion"
+msgid "Abu Simbel is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_AbuSimbel_NotStarted"
+msgid ""
+"Work on Abu Simbel has not begun. You will need carpenters, stonemasons and "
+"a supply of wood to begin this project."
+msgstr ""
+
+msgctxt "#Monuments_BentPyramid_Completed"
+msgid "This bent pyramid is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_BentPyramid_CompletedNoBurialGoods"
+msgid "This bent pyramid is done. It will forever house the sacred remains."
+msgstr ""
+
+msgctxt "#Monuments_BentPyramid_Completion"
+msgid "This bent pyramid is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_BentPyramid_NotStarted"
+msgid ""
+"Work on this bent pyramid has not begun. You need peasant labor to begin "
+"this project, and plenty of plain stone and limestone to complete it."
+msgstr ""
+
+msgctxt "#Monuments_BrickPyramid_Completed"
+msgid "This brick pyramid is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_BrickPyramid_CompletedNoBurialGoods"
+msgid "This pyramid is complete. It will forever house the sacred remains."
+msgstr ""
+
+msgctxt "#Monuments_BrickPyramid_Completion"
+msgid "This brick pyramid is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_BrickPyramid_NotStarted"
+msgid ""
+"Work on this brick pyramid has not begun. You need peasant labor to begin "
+"this project, and plenty of bricks and limestone to complete it."
+msgstr ""
+
+msgctxt "#Monuments_BurialAmount"
+msgid "Amount to Dispatch"
+msgstr ""
+
+msgctxt "#Monuments_BurialProvisionsNeeded"
+msgid "Burial Provisions needed to finish the monument:"
+msgstr ""
+
+msgctxt "#Monuments_Caesareum_Completed"
+msgid "The Caesareum is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_Caesareum_Completion"
+msgid "The Caesareum is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_Caesareum_NotStarted"
+msgid ""
+"Work on the Caesareum has not begun. You will need peasant labor to begin "
+"this project, and a supply of marble and granite to complete it."
+msgstr ""
+
+msgctxt "#Monuments_DispatchBurial_Button"
+msgid "Dispatch Burial Provisions"
+msgstr ""
+
+msgctxt "#Monuments_GrandBurialTomb_Completed"
+msgid "The Grand Royal Burial Tomb is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_GrandBurialTomb_Completion"
+msgid "The Grand Royal Burial Tomb is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_GrandBurialTomb_NotStarted"
+msgid ""
+"Work on the Grand Burial Tomb has not begun. You will need stonemasons, "
+"artisans, clay, paint and lamps to begin this project."
+msgstr ""
+
+msgctxt "#Monuments_InStorage"
+msgid "in Storage"
+msgstr ""
+
+msgctxt "#Monuments_LargeBurialTomb_Completed"
+msgid "The Large Royal Burial Tomb is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_LargeBurialTomb_Completion"
+msgid "The Large Royal Burial Tomb is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_LargeBurialTomb_NotStarted"
+msgid ""
+"Work on the Large Burial Tomb has not begun. You will need stonemasons, "
+"artisans, clay, paint and lamps to begin this project."
+msgstr ""
+
+msgctxt "#Monuments_Library_Completed"
+msgid "The Library of Alexandria is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_Library_Completion"
+msgid "The Library of Alexandria is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_Library_NotStarted"
+msgid ""
+"Work on Alexandria's Library has not begun. You will need peasant labor to "
+"begin this project, and a supply of marble and copper to complete it."
+msgstr ""
+
+msgctxt "#Monuments_Mastaba_Completed"
+msgid "This mastaba is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_Mastaba_CompletedNoBurialGoods"
+msgid "This mastaba is complete, and will forever house the sacred remains."
+msgstr ""
+
+msgctxt "#Monuments_Mastaba_Completion"
+msgid "This mastaba is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_Mastaba_NotStarted"
+msgid ""
+"Work on this mastaba has not yet begun. You need peasant labor to begin this"
+" project, and a good supply of bricks to complete it."
+msgstr ""
+
+msgctxt "#Monuments_Mausoleum_Completed"
+msgid "This mausoleum is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_Mausoleum_CompletedNoBurialGoods"
+msgid ""
+"This mausoleum is complete, and will forever house the sacred remains. "
+msgstr ""
+
+msgctxt "#Monuments_Mausoleum_Completion"
+msgid "This mausoleum is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_Mausoleum_NotStarted"
+msgid ""
+"Work on this mausoleum has not yet begun. You will need blocks of sandstone "
+"to begin this project."
+msgstr ""
+
+msgctxt "#Monuments_MediumBurialTomb_Completed"
+msgid "The Medium Royal Burial Tomb is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_MediumBurialTomb_Completion"
+msgid "The Medium Royal Burial Tomb is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_MediumBurialTomb_NotStarted"
+msgid ""
+"Work on the Medium Burial Tomb has not begun. You will need stonemasons, "
+"artisans, clay, paint and lamps to begin this project."
+msgstr ""
+
+msgctxt "#Monuments_MonumentRating"
+msgid "Monument Rating"
+msgstr ""
+
+msgctxt "#Monuments_NoBurialNeeded"
+msgid "No burial provisions need to be dispatched."
+msgstr ""
+
+msgctxt "#Monuments_Obelisk_Completed"
+msgid "This obelisk is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_Obelisk_Completion"
+msgid "This obelisk is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_Obelisk_NotStarted"
+msgid ""
+"Work on this obelisk has not yet begun. You will need blocks of granite to "
+"begin this project."
+msgstr ""
+
+msgctxt "#Monuments_Pharos_Completed"
+msgid "The Pharos Lighthouse is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_Pharos_Completion"
+msgid "The Pharos Lighthouse is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_Pharos_NotStarted"
+msgid ""
+"Work on the Pharos Lighthouse has not begun. You will need peasant labor to "
+"begin this project, and a supply of marble to complete it."
+msgstr ""
+
+msgctxt "#Monuments_Pyramid_Completed"
+msgid "This pyramid is now complete! "
+msgstr ""
+
+msgctxt "#Monuments_Pyramid_CompletedNoBurialGoods"
+msgid "This pyramid is complete. It will forever house the sacred remains."
+msgstr ""
+
+msgctxt "#Monuments_Pyramid_Completion"
+msgid "This pyramid is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_Pyramid_NotStarted"
+msgid ""
+"Work on this pyramid has not begun. You need peasant labor to begin this "
+"project, and plenty of plain stone and limestone to complete it."
+msgstr ""
+
+msgctxt "#Monuments_SmallBurialTomb_Completed"
+msgid "The Small Royal Burial Tomb is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_SmallBurialTomb_Completion"
+msgid "The Small Royal Burial Tomb is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_SmallBurialTomb_NotStarted"
+msgid ""
+"Work on the Small Burial Tomb has not begun. You will need stonemasons, "
+"artisans, clay, paint and lamps to begin this project."
+msgstr ""
+
+msgctxt "#Monuments_Sphinx_Completed"
+msgid "This sphinx is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_Sphinx_Completion"
+msgid "This sphinx is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_Sphinx_NotStarted"
+msgid ""
+"Work on this sphinx has not yet begun. You need carpenters, stonemasons and "
+"wood to begin this project."
+msgstr ""
+
+msgctxt "#Monuments_SteppedPyramid_Completed"
+msgid "This stepped pyramid is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_SteppedPyramid_CompletedNoBurialGoods"
+msgid ""
+"This stepped pyramid is done. It will forever house the sacred remains."
+msgstr ""
+
+msgctxt "#Monuments_SteppedPyramid_Completion"
+msgid "This stepped pyramid is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_SteppedPyramid_NotStarted"
+msgid ""
+"Work on this stepped pyramid has not begun. You need peasant labor to begin "
+"this project, and plenty of plain stone to complete it."
+msgstr ""
+
+msgctxt "#Monuments_SunTemple_Completed"
+msgid "This sun temple is now complete!"
+msgstr ""
+
+msgctxt "#Monuments_SunTemple_Completion"
+msgid "This sun temple is at {0}% completion"
+msgstr ""
+
+msgctxt "#Monuments_SunTemple_NotStarted"
+msgid ""
+"Work on this sun temple has not yet begun. You will need blocks of sandstone"
+" to begin this project."
+msgstr ""
+
+msgctxt "#Monuments_Title"
+msgid "Overseer of Monuments"
+msgstr ""
+
+msgctxt "#Monuments_VisitConstructionSite_Button_1"
+msgid "Visit the construction site for more details."
+msgstr ""
+
+msgctxt "#Monuments_VisitConstructionSite_Button_2"
+msgid "Click to visit construction site."
+msgstr ""
+
+msgctxt "#None"
+msgid "None"
+msgstr ""
+
+msgctxt "#Overseers"
+msgid "Overseers"
+msgstr ""
+
+msgctxt "#Perfect"
+msgid "Perfect"
+msgstr ""
+
+msgctxt "#Politics"
+msgid "Political Overseer"
+msgstr ""
+
+msgctxt "#Politics_CantGift"
+msgid ""
+"You do not have enough personal savings to make a gift to Egypt. Try paying "
+"yourself a bigger salary!"
+msgstr ""
+
+msgctxt "#Politics_Choose_Send_Company"
+msgid "Choose troops to send for this request"
+msgstr ""
+
+msgctxt "#Politics_Choose_Troop_Request"
+msgid "Choose where to send your company"
+msgstr ""
+
+msgctxt "#Politics_CurrentRequests"
+msgid "Current requests"
+msgstr ""
+
+msgctxt "#Politics_DebenPerMonth"
+msgid "<sprite name=\"Deben\">per month"
+msgstr ""
+
+msgctxt "#Politics_DispatchGiftGenerous"
+msgid "Dispatch generous gift"
+msgstr ""
+
+msgctxt "#Politics_DispatchGiftLavish"
+msgid "Dispatch lavish gift"
+msgstr ""
+
+msgctxt "#Politics_DispatchGiftModest"
+msgid "Dispatch modest gift"
+msgstr ""
+
+msgctxt "#Politics_GeneralRequest"
+msgid "General Request"
+msgstr ""
+
+msgctxt "#Politics_GiftGenerous"
+msgid "Generous:"
+msgstr ""
+
+msgctxt "#Politics_GiftLavish"
+msgid "Lavish:"
+msgstr ""
+
+msgctxt "#Politics_GiftModest"
+msgid "Modest:"
+msgstr ""
+
+msgctxt "#Politics_GiftName01"
+msgid "A Babylonian tablet"
+msgstr ""
+
+msgctxt "#Politics_GiftName02"
+msgid "Persian carpets"
+msgstr ""
+
+msgctxt "#Politics_GiftName03"
+msgid "Ancient carvings"
+msgstr ""
+
+msgctxt "#Politics_GiftName04"
+msgid "African ivory"
+msgstr ""
+
+msgctxt "#Politics_GiftName05"
+msgid "A troupe of performers"
+msgstr ""
+
+msgctxt "#Politics_GiftName06"
+msgid "Arabian stallions"
+msgstr ""
+
+msgctxt "#Politics_GiftName07"
+msgid "An educated monkey"
+msgstr ""
+
+msgctxt "#Politics_GiftName08"
+msgid "Libyan bodyguards"
+msgstr ""
+
+msgctxt "#Politics_GiftName09"
+msgid "Cheetahs and giraffes"
+msgstr ""
+
+msgctxt "#Politics_GiftName10"
+msgid "A chest of sapphires"
+msgstr ""
+
+msgctxt "#Politics_GiftName11"
+msgid "A golden chariot"
+msgstr ""
+
+msgctxt "#Politics_GiftName12"
+msgid "A Lebanese cedar ship"
+msgstr ""
+
+msgctxt "#Politics_GiftTimeSince"
+msgid "Time since last gift"
+msgstr ""
+
+msgctxt "#Politics_Gift_Title"
+msgid "Give money to the city"
+msgstr ""
+
+msgctxt "#Politics_GiveMoney_All"
+msgid "All"
+msgstr ""
+
+msgctxt "#Politics_GiveMoney_Donation"
+msgid "Donation is"
+msgstr ""
+
+msgctxt "#Politics_GiveMoney_Launch"
+msgid "Give money"
+msgstr ""
+
+msgctxt "#Politics_GiveToCity"
+msgid "Give to city"
+msgstr ""
+
+msgctxt "#Politics_HighSalary"
+msgid ""
+"Warning: Paying yourself a salary greater than your current rank will not "
+"impress anyone."
+msgstr ""
+
+msgctxt "#Politics_InTreasury"
+msgid "{0}<sprite name=\"Deben\">in city treasuries"
+msgstr ""
+
+msgctxt "#Politics_InWharehouses"
+msgid "{0} in Storage Yards"
+msgstr ""
+
+msgctxt "#Politics_KingdomRating"
+msgid "Kingdom Rating"
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_0"
+msgid "Popular opinion would consign your remains to the jackals."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_10"
+msgid "It is widely believed that your very presence causes malaria."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_100"
+msgid "All people of Egypt wish to serve you eternally in the Field of Reeds."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_15"
+msgid "Apothecaries agree that your name is more bitter than any known herb."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_20"
+msgid "Mothers use your name to frighten their small children."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_25"
+msgid "Your name is never mentioned in polite company."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_30"
+msgid "Your reputation is base and your own family shuns you."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_35"
+msgid "Your name is recognized but ridiculed throughout the Two Lands."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_40"
+msgid ""
+"People who matter know your name and history although they tend to belittle "
+"you."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_45"
+msgid ""
+"Few people in the Kingdom know your record and those who do are unimpressed."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_5"
+msgid "You are popular among jugglers who use you in their comedies."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_50"
+msgid "Those few people who recognize your name have no opinion of you."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_55"
+msgid ""
+"Your meager achievements aren't famous but those who know you generally like"
+" you."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_60"
+msgid ""
+"People who matter know of your history and generally approve of what you've "
+"done."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_65"
+msgid "Your name is widely recognized and applauded throughout the Two Lands."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_70"
+msgid ""
+"Your reputation is good and you are often approached by long-lost relatives."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_75"
+msgid "The mention of your name lightens the hearts of those who hear it."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_80"
+msgid "Mothers throughout the Kingdom name their children after you."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_85"
+msgid "Many Egyptian cities contemplate holding festivals in your honor."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_90"
+msgid ""
+"The most popular dance sweeping Egypt interprets the story of your life."
+msgstr ""
+
+msgctxt "#Politics_KingdomRating_95"
+msgid ""
+"Musicians compose songs to you and your name is carved on every public "
+"space."
+msgstr ""
+
+msgctxt "#Politics_LostDebens"
+msgid "<sprite name=\"Deben\"> lost this year through theft."
+msgstr ""
+
+msgctxt "#Politics_NoRequest"
+msgid "There are no requests outstanding at the moment."
+msgstr ""
+
+msgctxt "#Politics_PharaonicRequest"
+msgid "Pharaonic request"
+msgstr ""
+
+msgctxt "#Politics_RequestTiming"
+msgid "{0} months to comply"
+msgstr ""
+
+msgctxt "#Politics_SalaryChancellor"
+msgid "Chancellor's salary of"
+msgstr ""
+
+msgctxt "#Politics_SalaryGreatPharaoh"
+msgid "Pharaoh's salary of"
+msgstr ""
+
+msgctxt "#Politics_SalaryNomarch"
+msgid "Nomarch's salary of"
+msgstr ""
+
+msgctxt "#Politics_SalaryRoyalGovernor"
+msgid "Royal Governor's salary of"
+msgstr ""
+
+msgctxt "#Politics_SalaryRoyalJudge"
+msgid "Royal Judge's salary of"
+msgstr ""
+
+msgctxt "#Politics_SalaryRoyalMayor"
+msgid "Royal Mayor's salary of"
+msgstr ""
+
+msgctxt "#Politics_SalaryRoyalScholar"
+msgid "Royal Scholar's salary of"
+msgstr ""
+
+msgctxt "#Politics_SalaryRoyalScribe"
+msgid "Royal Scribe's salary of"
+msgstr ""
+
+msgctxt "#Politics_SalaryVillageElder"
+msgid "Village Elder's salary of"
+msgstr ""
+
+msgctxt "#Politics_SalaryVillageNoble"
+msgid "Village Noble's salary of"
+msgstr ""
+
+msgctxt "#Politics_SalaryVizier"
+msgid "Vizier's salary of"
+msgstr ""
+
+msgctxt "#Politics_Savings"
+msgid "Savings of"
+msgstr ""
+
+msgctxt "#Politics_SendGift"
+msgid "Send a gift"
+msgstr ""
+
+msgctxt "#Politics_Send_Company_Button"
+msgid "Send troops"
+msgstr ""
+
+msgctxt "#Politics_Title"
+msgid "Political Overseer for {0}"
+msgstr ""
+
+msgctxt "#Politics_Title_Tooltip"
+msgid "Political Overseer"
+msgstr ""
+
+msgctxt "#Polititcs_MissionAlreadyWon"
+msgid ""
+"The Palace forbids you to draw a salary now, as you are continuing to govern"
+" of your own free choice."
+msgstr ""
+
+msgctxt "#Polititcs_NoMansion"
+msgid "You need to build a Mansion in order to draw a personal salary."
+msgstr ""
+
+msgctxt "#Poor"
+msgid "Poor"
+msgstr ""
+
+msgctxt "#PublicHealth"
+msgid "Overseer of Public Health"
+msgstr ""
+
+msgctxt "#PublicHealth_Apothecaries"
+msgid ""
+"{[number]} Apothecaries currently work to protect the city from "
+"malaria.[i2p_Zero]No Apothecaries currently work to protect the city from "
+"malaria."
+msgstr ""
+
+msgctxt "#PublicHealth_ApothecariesNeeded"
+msgid "Some parts of the city demand access to an Apothecary."
+msgstr ""
+
+msgctxt "#PublicHealth_CareFor"
+msgid "Care for"
+msgstr ""
+
+msgctxt "#PublicHealth_CityCoverage"
+msgid "City coverage"
+msgstr ""
+
+msgctxt "#PublicHealth_Dentists"
+msgid "Dentists"
+msgstr ""
+
+msgctxt "#PublicHealth_DentistsNeeded"
+msgid ""
+"Certain well-to-do areas of the city want Dentists. A local Dentist will "
+"enhance the stature of the neighborhood."
+msgstr ""
+
+msgctxt "#PublicHealth_Desc_0"
+msgid ""
+"City health is appalling! Pestilence is certain in such shocking conditions."
+msgstr ""
+
+msgctxt "#PublicHealth_Desc_10"
+msgid "City health is terrible! Disease is almost inevitable."
+msgstr ""
+
+msgctxt "#PublicHealth_Desc_100"
+msgid ""
+"City health is perfect. Your health care workers spend most of their days "
+"playing senet. "
+msgstr ""
+
+msgctxt "#PublicHealth_Desc_20"
+msgid ""
+"City health is bad. More health care workers might improve the situation."
+msgstr ""
+
+msgctxt "#PublicHealth_Desc_30"
+msgid ""
+"City health is poor. Plenty of food and health facilities would improve it."
+msgstr ""
+
+msgctxt "#PublicHealth_Desc_40"
+msgid ""
+"City health is below average. Make sure citizens have food, and access to "
+"health care providers."
+msgstr ""
+
+msgctxt "#PublicHealth_Desc_50"
+msgid ""
+"City health is average. Foul influences are under control, and people get "
+"enough to eat."
+msgstr ""
+
+msgctxt "#PublicHealth_Desc_60"
+msgid "City health is good. Citizens are prone to only minor ailments."
+msgstr ""
+
+msgctxt "#PublicHealth_Desc_70"
+msgid "City health is very good. Local caregivers are coping well."
+msgstr ""
+
+msgctxt "#PublicHealth_Desc_80"
+msgid ""
+"City health is excellent, with no waiting times at all to visit local health"
+" facilities."
+msgstr ""
+
+msgctxt "#PublicHealth_Desc_90"
+msgid "City health is almost perfect, with health facilities virtually empty."
+msgstr ""
+
+msgctxt "#PublicHealth_FoodVariety"
+msgid ""
+"{[number]} varieties of food in your city.[i2p_Zero]No varieties of food in "
+"your city.[I2p_One]1 variety of food in your city."
+msgstr ""
+
+msgctxt "#PublicHealth_MoreApothecariesNeeded"
+msgid ""
+"More and more people want convenient medical facilities (Apothecaries)."
+msgstr ""
+
+msgctxt "#PublicHealth_MoreDentistsNeeded"
+msgid ""
+"More areas of the city now require Dentists. As your city grows wealthier, "
+"more and more residents can afford new ivory teeth."
+msgstr ""
+
+msgctxt "#PublicHealth_MoreMortuariesNeeded"
+msgid ""
+"Citizens require more Mortuaries to properly prepare their dead for the "
+"afterlife."
+msgstr ""
+
+msgctxt "#PublicHealth_MorePhysiciansNeeded"
+msgid "Some regions of the city want more Physicians."
+msgstr ""
+
+msgctxt "#PublicHealth_Mortuaries"
+msgid "Mortuaries"
+msgstr ""
+
+msgctxt "#PublicHealth_MortuariesNeeded"
+msgid ""
+"Development in some quarters is being held back by poor citywide Mortuary "
+"coverage."
+msgstr ""
+
+msgctxt "#PublicHealth_NoFacilitiesNeeded"
+msgid ""
+"No one is asking for health or sanitary facilities. As the city develops, "
+"though, people will expect access to healthcare, then Dentists, and then "
+"even more medical facilities!"
+msgstr ""
+
+msgctxt "#PublicHealth_NoProblem"
+msgid "Your small settlement has yet to report any problems with health."
+msgstr ""
+
+msgctxt "#PublicHealth_Outbreaks_0"
+msgid "No"
+msgstr ""
+
+msgctxt "#PublicHealth_Outbreaks_1"
+msgid "A few"
+msgstr ""
+
+msgctxt "#PublicHealth_Outbreaks_2"
+msgid "Some"
+msgstr ""
+
+msgctxt "#PublicHealth_Outbreaks_3"
+msgid "Several"
+msgstr ""
+
+msgctxt "#PublicHealth_Outbreaks_4"
+msgid "Many"
+msgstr ""
+
+msgctxt "#PublicHealth_Outbreaks_phrase"
+msgid "outbreaks have been reported this month."
+msgstr ""
+
+msgctxt "#PublicHealth_Patients"
+msgid "{0} patients"
+msgstr ""
+
+msgctxt "#PublicHealth_Physicians"
+msgid "Physicians"
+msgstr ""
+
+msgctxt "#PublicHealth_PhysiciansNeeded"
+msgid "Certain areas of the city now need access to Physicians."
+msgstr ""
+
+msgctxt "#PublicHealth_Title"
+msgid "Overseer of Public Health"
+msgstr ""
+
+msgctxt "#PublicHealth_Working"
+msgid "Working"
+msgstr ""
+
+msgctxt "#Ratings"
+msgid "Ratings Overseer"
+msgstr ""
+
+msgctxt "#Ratings_Culture"
+msgid "Culture"
+msgstr ""
+
+msgctxt "#Ratings_Culture_100"
+msgid "This city is more Cultured than any in Egypt!"
+msgstr ""
+
+msgctxt "#Ratings_Culture_DancersNeeded"
+msgid ""
+"There are too few dancers in the city. If possible, add more Dancers' stages"
+" to improve this rating."
+msgstr ""
+
+msgctxt "#Ratings_Culture_DentistsNeeded"
+msgid ""
+"Not enough houses have access to a Dentist. Better access would improve this"
+" rating."
+msgstr ""
+
+msgctxt "#Ratings_Culture_JugglersNeeded"
+msgid ""
+"There are too few jugglers in the city. If possible, add more Jugglers' "
+"stages to improve this rating."
+msgstr ""
+
+msgctxt "#Ratings_Culture_LibrariesNeeded"
+msgid ""
+"There are too few Libraries working in the city. If possible, build more to "
+"improve this rating."
+msgstr ""
+
+msgctxt "#Ratings_Culture_MortuariesNeeded"
+msgid ""
+"Not enough houses have access to a Mortuary. Better access would improve "
+"this rating."
+msgstr ""
+
+msgctxt "#Ratings_Culture_MusiciansNeeded"
+msgid ""
+"There are too few musicians in the city. If possible, add more Musicians' "
+"stages to improve this rating."
+msgstr ""
+
+msgctxt "#Ratings_Culture_PhysiciansNeeded"
+msgid ""
+"Not enough houses have access to a Physician. Better access would improve "
+"this rating."
+msgstr ""
+
+msgctxt "#Ratings_Culture_ReligionNeeded"
+msgid ""
+"There are too few places of worship in the city. Building more would improve"
+" this rating."
+msgstr ""
+
+msgctxt "#Ratings_Culture_SchoolNeeded"
+msgid ""
+"There are too few Scribal Schools working in the city. Building more would "
+"improve this rating."
+msgstr ""
+
+msgctxt "#Ratings_Culture_SenetHousesNeeded"
+msgid ""
+"There are too few Senet Houses in the city. If possible, build Senet Houses "
+"to improve this rating."
+msgstr ""
+
+msgctxt "#Ratings_Culture_ZoosNeeded"
+msgid ""
+"There are too few Zoos in the city. If possible, build Zoos to improve this "
+"rating."
+msgstr ""
+
+msgctxt "#Ratings_Culture_hover"
+msgid "Click here for advice about your Culture rating"
+msgstr ""
+
+msgctxt "#Ratings_HouseNeededTooltip"
+msgid "Houses needed"
+msgstr ""
+
+msgctxt "#Ratings_Kingdom"
+msgid "Kingdom"
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_100"
+msgid "Your Kingdom is the best-rated in all Egypt!"
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_CanceledRequest"
+msgid ""
+"The way you have responded to certain events has greatly harmed your "
+"reputation throughout the Kingdom, and lowered this rating."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_DownFromLastYear"
+msgid ""
+"Your Kingdom rating is lower than it was last year. Pay your annual tribute,"
+" draw a modest salary, and fulfill requests from Pharaoh or other cities in "
+"the Kingdom."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_HighSalary"
+msgid ""
+"Your salary is too high for your current standing. Your Kingdom rating will "
+"rise if you reduce it somewhat."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_HighSalary2"
+msgid ""
+"Your salary is too high for your current standing. You would do well to "
+"reduce it."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_HighSalary3"
+msgid ""
+"Your brazenness in paying yourself a salary higher than your rank entitles "
+"you to is frowned upon."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_NoChange"
+msgid ""
+"Your Kingdom rating is unchanged from last year. You can instruct your "
+"Political Overseer to give a gift to Egypt, and this rating will rise."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_NoTribute1st"
+msgid ""
+"You could not pay your tribute this year, which reduced your Kingdom rating."
+" Keep some money in your treasury at year's end so you can make your annual "
+"payment."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_NoTribute2nd"
+msgid ""
+"For the second year in a row, you have not paid tribute, and your Kingdom "
+"rating suffers for it."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_NoTribute3rd"
+msgid ""
+"Your continued inability to provide annual tribute lowers your reputation "
+"throughout the Kingdom, and reduces this rating."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_RecentChanges"
+msgid ""
+"Your response to certain events has harmed your standing in the Kingdom a "
+"little."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_UnmeetObjectives"
+msgid ""
+"Your slow progress toward meeting your goals in a timely fashion has reduced"
+" your Kingdom rating."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_UpFromLastYear"
+msgid ""
+"Your Kingdom rating is higher than it was last year. You can instruct your "
+"Political Overseer to give a gift to Egypt, and this rating will rise even "
+"more."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_VeryHighSalary"
+msgid ""
+"The ridiculously high salary that you pay yourself indicates your complete "
+"lack of dedication to the Kingdom, and reduces this rating."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_VeryHighSalary2"
+msgid ""
+"The salary that you pay yourself, far exceeding your rank, reduces your "
+"reputation in the Kingdom."
+msgstr ""
+
+msgctxt "#Ratings_Kingdom_hover"
+msgid "Click here for advice about your Kingdom rating"
+msgstr ""
+
+msgctxt "#Ratings_Monument"
+msgid "Monument"
+msgstr ""
+
+msgctxt "#Ratings_Monument_Equal_Needed"
+msgid "This city has the most magnificent Monuments in all Egypt!"
+msgstr ""
+
+msgctxt "#Ratings_Monument_Lower_Than_Needed"
+msgid ""
+"Remember to instruct the Overseer of Monuments to dispatch any necessary "
+"burial provisions. Also visit monument construction sites for a detailed "
+"progress report."
+msgstr ""
+
+msgctxt "#Ratings_Monument_hover"
+msgid "Click here for advice about your Monument rating"
+msgstr ""
+
+msgctxt "#Ratings_NoHouseTarget"
+msgid "No target housing"
+msgstr ""
+
+msgctxt "#Ratings_NoPopulationTarget"
+msgid "No target population"
+msgstr ""
+
+msgctxt "#Ratings_Population"
+msgid "Population"
+msgstr ""
+
+msgctxt "#Ratings_PopulationNeeded"
+msgid "Population: {0}/{1}"
+msgstr ""
+
+msgctxt "#Ratings_PopulationNeededTooltip"
+msgid "Population needed"
+msgstr ""
+
+msgctxt "#Ratings_Prosperity"
+msgid "Prosperity"
+msgstr ""
+
+msgctxt "#Ratings_Prosperity_100"
+msgid "The amazing Prosperity of this city is the talk of Egypt!"
+msgstr ""
+
+msgctxt "#Ratings_Prosperity_Advice"
+msgid "The city is more Prosperous when exports earn more than imports cost."
+msgstr ""
+
+msgctxt "#Ratings_Prosperity_HighUnemployment"
+msgid "High unemployment in your city retards your Prosperity rating."
+msgstr ""
+
+msgctxt "#Ratings_Prosperity_LaborShortages"
+msgid "Labor shortages reduce Prosperity."
+msgstr ""
+
+msgctxt "#Ratings_Prosperity_LowLevelHouses"
+msgid ""
+"The overall quality of your city's housing holds this rating back. Improve "
+"the housing in your city to raise it."
+msgstr ""
+
+msgctxt "#Ratings_Prosperity_LowWages"
+msgid ""
+"Paying less than the Kingdom wage tarnishes your city's image as a "
+"prosperous one."
+msgstr ""
+
+msgctxt "#Ratings_Prosperity_NegativeIncome"
+msgid "Last year your city lost money - this reduced the city's Prosperity."
+msgstr ""
+
+msgctxt "#Ratings_Prosperity_NoTribute"
+msgid ""
+"Your inability to pay the annual tribute marks your city out as a failure."
+msgstr ""
+
+msgctxt "#Ratings_Prosperity_Slums"
+msgid ""
+"The high concentration of slum dwellers in your city lends it the appearance"
+" of a poor one."
+msgstr ""
+
+msgctxt "#Ratings_Prosperity_hover"
+msgid "Click here for advice about your Prosperity rating"
+msgstr ""
+
+msgctxt "#Ratings_ScoreNeeded"
+msgid "{0} Needed"
+msgstr ""
+
+msgctxt "#Ratings_Title"
+msgid "Ratings Overseer"
+msgstr ""
+
+msgctxt "#Sparse"
+msgid "Sparse"
+msgstr ""
+
+msgctxt "#Temples"
+msgid "Overseer of the Temples"
+msgstr ""
+
+msgctxt "#Temples_Appeasement"
+msgid "Appeasement"
+msgstr ""
+
+msgctxt "#Temples_Displeased_Bast"
+msgid ""
+"When kind Bast becomes upset, people are not safe in their own homes. "
+"Placate the goddess swiftly, or destruction and pestilence will follow!"
+msgstr ""
+
+msgctxt "#Temples_Displeased_Osiris"
+msgid ""
+"Osiris' displeasure is dangerous. He can destroy your crops and empty your "
+"Granaries, or even withhold the Inundation."
+msgstr ""
+
+msgctxt "#Temples_Displeased_Ptah"
+msgid ""
+"Ptah, whose beneficence your manufacturers require, grows unhappy. Regain "
+"his favor, or brace your workers for the loss of whole industries and "
+"products."
+msgstr ""
+
+msgctxt "#Temples_Displeased_Ra"
+msgid ""
+"When mighty Ra, father to Pharaoh, grows displeased, he will make your "
+"city's neighbors share his feeling. Ra's anger endangers harmony with the "
+"Kingdom."
+msgstr ""
+
+msgctxt "#Temples_Displeased_Seth"
+msgid ""
+"The bravest soldiers tremble before the wrath of Seth. Repair the god's "
+"opinion of your city quickly, or watch your battalion be swept away!"
+msgstr ""
+
+msgctxt "#Temples_FestivalButton"
+msgid "Hold new festival"
+msgstr ""
+
+msgctxt "#Temples_FestivalInfo"
+msgid "Festival information"
+msgstr ""
+
+msgctxt "#Temples_LastFestival"
+msgid ""
+"{[number]} months since last festival[I2p_One]1 month since last festival"
+msgstr ""
+
+msgctxt "#Temples_LastFestival_0"
+msgid "The hardiest revelers have not slept off the last festival yet."
+msgstr ""
+
+msgctxt "#Temples_LastFestival_12"
+msgid "People cannot remember the last festival to be held in the city."
+msgstr ""
+
+msgctxt "#Temples_LastFestival_24"
+msgid "Citizens grumble at the lack of festivals held in your city."
+msgstr ""
+
+msgctxt "#Temples_LastFestival_3"
+msgid "People still smile when they remember your last festival."
+msgstr ""
+
+msgctxt "#Temples_LastFestival_48"
+msgid ""
+"Your people cannot bear the prospect of another year without a festival."
+msgstr ""
+
+msgctxt "#Temples_LastFestival_6"
+msgid "The memory of the earlier festival is fading from people's minds."
+msgstr ""
+
+msgctxt "#Temples_LastFestival_96"
+msgid "Depressed residents doubt that they will live to see another festival."
+msgstr ""
+
+msgctxt "#Temples_MonthsSinceFestival"
+msgid "Months since Festival"
+msgstr ""
+
+msgctxt "#Temples_Mood_Amiable"
+msgid "Amiable"
+msgstr ""
+
+msgctxt "#Temples_Mood_Angry"
+msgid "Angry"
+msgstr ""
+
+msgctxt "#Temples_Mood_Apathetic"
+msgid "Apathetic"
+msgstr ""
+
+msgctxt "#Temples_Mood_Approving"
+msgid "Approving"
+msgstr ""
+
+msgctxt "#Temples_Mood_Benevolent"
+msgid "Benevolent"
+msgstr ""
+
+msgctxt "#Temples_Mood_Congenial"
+msgid "Congenial"
+msgstr ""
+
+msgctxt "#Temples_Mood_Displeased"
+msgid "Displeased"
+msgstr ""
+
+msgctxt "#Temples_Mood_Enraged"
+msgid "Enraged"
+msgstr ""
+
+msgctxt "#Temples_Mood_Furious"
+msgid "Furious"
+msgstr ""
+
+msgctxt "#Temples_Mood_Resentful"
+msgid "Resentful"
+msgstr ""
+
+msgctxt "#Temples_Mood_Sympathetic"
+msgid "Sympathetic"
+msgstr ""
+
+msgctxt "#Temples_NoTempleNeeded"
+msgid ""
+"So far, people are too preoccupied with physical needs to think about "
+"religion. As your city grows, though, they will want easy access to a "
+"variety of Temples."
+msgstr ""
+
+msgctxt "#Temples_NoTemples"
+msgid ""
+"Residents are beginning to feel spiritual needs. The absence of nearby "
+"places of worship holds back city development."
+msgstr ""
+
+msgctxt "#Temples_NoTemplesBadMood"
+msgid ""
+"More and more people fear that, without at least one place of worship in "
+"their neighborhoods, the gods will feel spurned."
+msgstr ""
+
+msgctxt "#Temples_OrderFestival"
+msgid "Order a festival"
+msgstr ""
+
+msgctxt "#Temples_PatronGod"
+msgid "Patron God"
+msgstr ""
+
+msgctxt "#Temples_PerfectCoverage"
+msgid ""
+"Everyone's particular religious beliefs are served, and the priests report "
+"that the gods are satisfied with the city's spirituality."
+msgstr ""
+
+msgctxt "#Temples_SecondTempleNeeded"
+msgid ""
+"More sophisticated residents want access to another religion close to home. "
+"Lack of religious diversity limits city development in certain areas."
+msgstr ""
+
+msgctxt "#Temples_Shrines"
+msgid "Shrines"
+msgstr ""
+
+msgctxt "#Temples_TempleComplex"
+msgid "Temples Complexes"
+msgstr ""
+
+msgctxt "#Temples_Temples"
+msgid "Temple"
+msgstr ""
+
+msgctxt "#Temples_ThirdTempleNeeded"
+msgid ""
+"Discerning citizens say that their neighborhoods would attract a better "
+"class of scribe if they had easy access to a third religion."
+msgstr ""
+
+msgctxt "#Temples_Title"
+msgid "Overseer of the Temples"
+msgstr ""
+
+msgctxt "#Treasury"
+msgid "Overseer of the Treasury"
+msgstr ""
+
+msgctxt "#Treasury_Balance"
+msgid "Balance"
+msgstr ""
+
+msgctxt "#Treasury_CityDebt"
+msgid "City has a debt of {0}<sprite name=\"Deben\">"
+msgstr ""
+
+msgctxt "#Treasury_CityTreasure"
+msgid "City treasury has assets of {0}<sprite name=\"Deben\">"
+msgstr ""
+
+msgctxt "#Treasury_Construction"
+msgid "Construction"
+msgstr ""
+
+msgctxt "#Treasury_CoverageTitle"
+msgid "Coverage"
+msgstr ""
+
+msgctxt "#Treasury_CurrentTitle"
+msgid "Current treasury"
+msgstr ""
+
+msgctxt "#Treasury_ExportsEarn"
+msgid "Exports earn"
+msgstr ""
+
+msgctxt "#Treasury_Gifts"
+msgid "Gifts"
+msgstr ""
+
+msgctxt "#Treasury_ImportsCost"
+msgid "Imports cost"
+msgstr ""
+
+msgctxt "#Treasury_InterestsDebt"
+msgid "Interest on debt"
+msgstr ""
+
+msgctxt "#Treasury_LastYear"
+msgid "Last year"
+msgstr ""
+
+msgctxt "#Treasury_MinedGold"
+msgid "Mined Gold"
+msgstr ""
+
+msgctxt "#Treasury_Net"
+msgid "Net in/out flow"
+msgstr ""
+
+msgctxt "#Treasury_PersonalSalary"
+msgid "Personal salary"
+msgstr ""
+
+msgctxt "#Treasury_ProjectdPayroll"
+msgid "Projected payroll this year: {0}<sprite name=\"Deben\">"
+msgstr ""
+
+msgctxt "#Treasury_RequestAndFestivals"
+msgid "Requests and Festivals"
+msgstr ""
+
+msgctxt "#Treasury_TaxRate"
+msgid "Tax rate of"
+msgstr ""
+
+msgctxt "#Treasury_TaxUncollected"
+msgid "{0}<sprite name=\"Deben\"> uncollected this year"
+msgstr ""
+
+msgctxt "#Treasury_TaxYield"
+msgid "yields an estimated {0}<sprite name=\"Deben\">"
+msgstr ""
+
+msgctxt "#Treasury_TaxedPopulation"
+msgid "{0}% of population registered for tax"
+msgstr ""
+
+msgctxt "#Treasury_TaxesIn"
+msgid "Taxes in"
+msgstr ""
+
+msgctxt "#Treasury_Theft"
+msgid "Theft"
+msgstr ""
+
+msgctxt "#Treasury_ThisYear"
+msgid "So far this year"
+msgstr ""
+
+msgctxt "#Treasury_Title"
+msgid "Overseer of the Treasury"
+msgstr ""
+
+msgctxt "#Treasury_Total Expenses"
+msgid "Total Expenses"
+msgstr ""
+
+msgctxt "#Treasury_TotalIncome"
+msgid "Total Income"
+msgstr ""
+
+msgctxt "#Treasury_Tribute"
+msgid "Tribute"
+msgstr ""
+
+msgctxt "#Treasury_UncollectedTitle"
+msgid "Uncollected taxes"
+msgstr ""
+
+msgctxt "#Treasury_Wage"
+msgid "Wage/10"
+msgstr ""
+
+msgctxt "#Treasury_WageKingdom"
+msgid "Kingdom pays {0}"
+msgstr ""
+
+msgctxt "#Treasury_Wages"
+msgid "Wages"
+msgstr ""
+
+msgctxt "#VeryGood"
+msgid "Very good"
+msgstr ""
+
+msgctxt "#VeryPoor"
+msgid "Very poor"
+msgstr ""
+
+msgctxt "#Workers"
+msgid "Overseer of the Workers"
+msgstr ""
+
+msgctxt "#Workers_ActualWorkers"
+msgid "Have"
+msgstr ""
+
+msgctxt "#Workers_Education"
+msgid "Education"
+msgstr ""
+
+msgctxt "#Workers_EmployedWorkforce"
+msgid "{0} Employed workforce"
+msgstr ""
+
+msgctxt "#Workers_Entertainment"
+msgid "Entertainment"
+msgstr ""
+
+msgctxt "#Workers_Food"
+msgid "Food Production and Distribution"
+msgstr ""
+
+msgctxt "#Workers_Government"
+msgid "Government"
+msgstr ""
+
+msgctxt "#Workers_Health"
+msgid "Health and Sanitation"
+msgstr ""
+
+msgctxt "#Workers_Industry"
+msgid "Industry and Commerce"
+msgstr ""
+
+msgctxt "#Workers_Infrastructure"
+msgid "Infrastructure"
+msgstr ""
+
+msgctxt "#Workers_Military"
+msgid "Military"
+msgstr ""
+
+msgctxt "#Workers_Priority"
+msgid "Priority"
+msgstr ""
+
+msgctxt "#Workers_Religion"
+msgid "Religion"
+msgstr ""
+
+msgctxt "#Workers_Sector"
+msgid "Sector"
+msgstr ""
+
+msgctxt "#Workers_Title"
+msgid "Overseer of the Workers"
+msgstr ""
+
+msgctxt "#Workers_UnemployedWorkforce"
+msgid "{0} Unemployed workforce ({1}%)"
+msgstr ""
+
+msgctxt "#Workers_WorkersNeeded"
+msgid "Need"
+msgstr ""

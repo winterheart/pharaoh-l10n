@@ -1,0 +1,871 @@
+#
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 20:56\n"
+"PO-Revision-Date: 2023-02-15 23:36+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <azamat.hackimov@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+msgctxt "#AGameBy"
+msgid "A Game By"
+msgstr "Игра от"
+
+msgctxt "#Activision"
+msgid "Activision Publishing, Inc."
+msgstr "Activision Publishing, Inc."
+
+msgctxt "#Activision_01"
+msgid "Director, Product Management, Emerging Franchises"
+msgstr ""
+
+msgctxt "#Activision_02"
+msgid "Joyce Chang"
+msgstr "Joyce Chang"
+
+msgctxt "#Activision_03"
+msgid "Senior Director, Public Relations"
+msgstr ""
+
+msgctxt "#Activision_04"
+msgid "Dior Brown"
+msgstr "Dior Brown"
+
+msgctxt "#Activision_05"
+msgid "Senior Director, DE&I and Development"
+msgstr ""
+
+msgctxt "#Activision_06"
+msgid "Makaiya Brown"
+msgstr "Makaiya Brown"
+
+msgctxt "#Activision_07"
+msgid "Global PR Lead"
+msgstr ""
+
+msgctxt "#Activision_08"
+msgid "Katy Marshall"
+msgstr "Katy Marshall"
+
+msgctxt "#Activision_09"
+msgid "Sr. Director, Legal"
+msgstr ""
+
+msgctxt "#Activision_10"
+msgid "Amanda O'Keeffe"
+msgstr "Amanda O'Keeffe"
+
+msgctxt "#Activision_11"
+msgid "Sr. Trademark Administrator"
+msgstr ""
+
+msgctxt "#Activision_12"
+msgid "Terry Kiel"
+msgstr "Terry Kiel"
+
+msgctxt "#Activision_13"
+msgid "Sr. Paralegal"
+msgstr "Sr. Paralegal"
+
+msgctxt "#Activision_14"
+msgid "Chris Scaglione"
+msgstr "Chris Scaglione"
+
+msgctxt "#Activision_15"
+msgid "Sr. Director, IP"
+msgstr ""
+
+msgctxt "#Activision_16"
+msgid "Neil Yang"
+msgstr ""
+
+msgctxt "#Activision_17"
+msgid "Vice President, Studios & External Business Development"
+msgstr ""
+
+msgctxt "#Activision_18"
+msgid "Bob Loya"
+msgstr "Bob Loya"
+
+msgctxt "#Activision_19"
+msgid "Director, Business Development"
+msgstr ""
+
+msgctxt "#Activision_20"
+msgid "Chris Baggio"
+msgstr "Chris Baggio"
+
+msgctxt "#AdditionalProg"
+msgid "Additional programming"
+msgstr ""
+
+msgctxt "#Allcorrect"
+msgid ""
+"Allcorrect Group - English, French, Italian, German and Spanish Linguistic "
+"Quality-Assurance"
+msgstr ""
+
+msgctxt "#Allcorrect_01"
+msgid "English"
+msgstr "Английский язык"
+
+msgctxt "#Allcorrect_02"
+msgid "Jessica Harper"
+msgstr ""
+
+msgctxt "#Allcorrect_03"
+msgid "French"
+msgstr "Французский язык"
+
+msgctxt "#Allcorrect_04"
+msgid "Romain Marchand"
+msgstr ""
+
+msgctxt "#Allcorrect_05"
+msgid "Italian"
+msgstr "Итальянский язык"
+
+msgctxt "#Allcorrect_06"
+msgid "Alfonso De Luca"
+msgstr ""
+
+msgctxt "#Allcorrect_07"
+msgid "German"
+msgstr "Немецкий язык"
+
+msgctxt "#Allcorrect_08"
+msgid "Philipp Hermann"
+msgstr ""
+
+msgctxt "#Allcorrect_09"
+msgid "Spanish"
+msgstr "Испанский язык"
+
+msgctxt "#Allcorrect_10"
+msgid "Laura Gimenez de los Galanes Montiel"
+msgstr ""
+
+msgctxt "#Cosmocover"
+msgid "Europe - Cosmocover"
+msgstr ""
+
+msgctxt "#Cosmocover_01"
+msgid "Anouchka Rodet-Besson"
+msgstr ""
+
+msgctxt "#Cosmocover_02"
+msgid "Helena Celdran Green"
+msgstr ""
+
+msgctxt "#Cosmocover_03"
+msgid "John Tyrrell"
+msgstr ""
+
+msgctxt "#Cosmocover_04"
+msgid "Matej Samide"
+msgstr ""
+
+msgctxt "#Cosmocover_05"
+msgid "Maxence Jacquier"
+msgstr ""
+
+msgctxt "#Cosmocover_06"
+msgid "Nyssa Woznicki"
+msgstr ""
+
+msgctxt "#Cosmocover_07"
+msgid "Salima Bessahraoui"
+msgstr ""
+
+msgctxt "#Dotemu"
+msgid "Dotemu"
+msgstr "Dotemu"
+
+msgctxt "#Dotemu_01"
+msgid "CEO"
+msgstr ""
+
+msgctxt "#Dotemu_02"
+msgid "Cyrille Imbert"
+msgstr ""
+
+msgctxt "#Dotemu_03"
+msgid "Executive Assistant"
+msgstr ""
+
+msgctxt "#Dotemu_04"
+msgid "Julien Chouvet"
+msgstr ""
+
+msgctxt "#Dotemu_05"
+msgid "Lead producer"
+msgstr ""
+
+msgctxt "#Dotemu_06"
+msgid "Alban Ligouzat"
+msgstr ""
+
+msgctxt "#Dotemu_07"
+msgid "Head of production"
+msgstr ""
+
+msgctxt "#Dotemu_08"
+msgid "Christian Cortez"
+msgstr ""
+
+msgctxt "#Dotemu_09"
+msgid "Assisting producers"
+msgstr ""
+
+msgctxt "#Dotemu_10"
+msgid "Marion Chabrol-Supt"
+msgstr ""
+
+msgctxt "#Dotemu_11"
+msgid "Léa Pernot"
+msgstr ""
+
+msgctxt "#Dotemu_12"
+msgid "Game Design Consultant"
+msgstr ""
+
+msgctxt "#Dotemu_13"
+msgid "Florian Harry"
+msgstr ""
+
+msgctxt "#Dotemu_14"
+msgid "Lead QA"
+msgstr ""
+
+msgctxt "#Dotemu_15"
+msgid "Manon Botineau"
+msgstr ""
+
+msgctxt "#Dotemu_16"
+msgid "Head of Quality-Assurance"
+msgstr ""
+
+msgctxt "#Dotemu_17"
+msgid "Pierre-Olivier Petillot"
+msgstr ""
+
+msgctxt "#Dotemu_18"
+msgid "Core tester"
+msgstr ""
+
+msgctxt "#Dotemu_19"
+msgid "Corentin “Deity” Pauvrasseau"
+msgstr ""
+
+msgctxt "#Dotemu_20"
+msgid "QA testers"
+msgstr ""
+
+msgctxt "#Dotemu_21"
+msgid "Catherine Dorojko-Mojaïsky"
+msgstr ""
+
+msgctxt "#Dotemu_22"
+msgid "Vincent Dupont"
+msgstr ""
+
+msgctxt "#Dotemu_23"
+msgid "Grégoire Imbert"
+msgstr ""
+
+msgctxt "#Dotemu_24"
+msgid "Valentin Laginha"
+msgstr ""
+
+msgctxt "#Dotemu_25"
+msgid "Grégory Le Bris"
+msgstr ""
+
+msgctxt "#Dotemu_26"
+msgid "Justin Léger"
+msgstr ""
+
+msgctxt "#Dotemu_27"
+msgid "Thibaut Panchout"
+msgstr ""
+
+msgctxt "#Dotemu_28"
+msgid "Creative Director"
+msgstr ""
+
+msgctxt "#Dotemu_29"
+msgid "Stéphane Perez"
+msgstr ""
+
+msgctxt "#Dotemu_30"
+msgid "360 graphist"
+msgstr ""
+
+msgctxt "#Dotemu_31"
+msgid "Enzo Simeonidis"
+msgstr ""
+
+msgctxt "#Dotemu_32"
+msgid "Head of Marketing"
+msgstr ""
+
+msgctxt "#Dotemu_33"
+msgid "Arnaud De Sousa"
+msgstr ""
+
+msgctxt "#Dotemu_34"
+msgid "Product Manager"
+msgstr ""
+
+msgctxt "#Dotemu_35"
+msgid "Loïc Hao Yin Tam"
+msgstr "Loïc Hao Yin Tam"
+
+msgctxt "#Dotemu_36"
+msgid "Customer Support Specialist"
+msgstr ""
+
+msgctxt "#Dotemu_37"
+msgid "Dwayne Galpin"
+msgstr ""
+
+msgctxt "#Dotemu_38"
+msgid "Community Manager"
+msgstr ""
+
+msgctxt "#Dotemu_39"
+msgid "Charlotte Deville-Cavellin"
+msgstr ""
+
+msgctxt "#Dotemu_40"
+msgid "Social Media Manager"
+msgstr ""
+
+msgctxt "#Dotemu_41"
+msgid "Leslie Rugard"
+msgstr ""
+
+msgctxt "#Dotemu_42"
+msgid "Communication Manager"
+msgstr ""
+
+msgctxt "#Dotemu_43"
+msgid "Jessica Richard"
+msgstr ""
+
+msgctxt "#Dotemu_44"
+msgid "Titouan Coulon"
+msgstr ""
+
+msgctxt "#Dotemu_45"
+msgid "Brand Manager"
+msgstr ""
+
+msgctxt "#Dotemu_46"
+msgid "Adrien Marie"
+msgstr ""
+
+msgctxt "#Dotemu_47"
+msgid "Business Development"
+msgstr ""
+
+msgctxt "#Dotemu_48"
+msgid "Jules Hirtzig"
+msgstr ""
+
+msgctxt "#Dotemu_49"
+msgid "Office Manager"
+msgstr ""
+
+msgctxt "#Dotemu_50"
+msgid "Anny Pang"
+msgstr ""
+
+msgctxt "#Dotemu_51"
+msgid "Head of Finance"
+msgstr ""
+
+msgctxt "#Dotemu_52"
+msgid "Thibaut Camus"
+msgstr ""
+
+msgctxt "#Dotemu_53"
+msgid "Micke Moïsa"
+msgstr ""
+
+msgctxt "#Dotemu_54"
+msgid "Localisation Manager"
+msgstr ""
+
+msgctxt "#Dotemu_55"
+msgid "Foucauld Escaillet"
+msgstr ""
+
+msgctxt "#Dotemu_56"
+msgid "Lucas Parraud"
+msgstr ""
+
+msgctxt "#Dotemu_57"
+msgid "Laura Peitavi"
+msgstr ""
+
+msgctxt "#Dotemu_58"
+msgid "Baptiste Richer"
+msgstr ""
+
+msgctxt "#Dotemu_59"
+msgid "Drice Siamer"
+msgstr ""
+
+msgctxt "#Dotemu_60"
+msgid "Maryna Syvokon"
+msgstr ""
+
+msgctxt "#Dotemu_61"
+msgid "Yeunjoo Kimm"
+msgstr ""
+
+msgctxt "#EODE"
+msgid "EODEstudio"
+msgstr ""
+
+msgctxt "#EODE_01"
+msgid "Léa Fressinaud-Masdefeix - Artist"
+msgstr ""
+
+msgctxt "#EODE_02"
+msgid "Camille Macary - Artist"
+msgstr ""
+
+msgctxt "#EODE_03"
+msgid "Glannon Robidou - Artist"
+msgstr ""
+
+msgctxt "#EODE_04"
+msgid "Antoine Rousselot - Artist"
+msgstr ""
+
+msgctxt "#End_01"
+msgid ""
+"© 2023 Activision Publishing, Inc. PHARAOH is a trademark of Activision "
+"Publishing, Inc. "
+msgstr ""
+
+msgctxt "#End_02"
+msgid "Published by Dotemu and Developed by Triskell Interactive."
+msgstr ""
+
+msgctxt "#GameByAnd"
+msgid "And"
+msgstr ""
+
+msgctxt "#GameByAnd_01"
+msgid "Nadège Carlier - Producer"
+msgstr ""
+
+msgctxt "#GameByAnd_02"
+msgid "Briana Jackson - Egyptologist"
+msgstr ""
+
+msgctxt "#GameByAnd_03"
+msgid "Simon Jacquemin - Programmer"
+msgstr ""
+
+msgctxt "#GameByAnd_04"
+msgid "Christopher Knight - Sound Designer"
+msgstr ""
+
+msgctxt "#HUWIZ"
+msgid "HUWIZ QA/UX"
+msgstr ""
+
+msgctxt "#HUWIZ_01"
+msgid "Carolljo Maher"
+msgstr ""
+
+msgctxt "#HUWIZ_02"
+msgid "David Beauchemin"
+msgstr ""
+
+msgctxt "#HUWIZ_03"
+msgid "Francis Durand"
+msgstr ""
+
+msgctxt "#HUWIZ_04"
+msgid "Frédéric Renard"
+msgstr ""
+
+msgctxt "#HUWIZ_05"
+msgid "Guillaume Lanéel"
+msgstr ""
+
+msgctxt "#HUWIZ_06"
+msgid "Jean-Sébastien Blanchette"
+msgstr ""
+
+msgctxt "#HUWIZ_07"
+msgid "Julie Vieira"
+msgstr ""
+
+msgctxt "#HUWIZ_08"
+msgid "Louis St-Denis"
+msgstr ""
+
+msgctxt "#HUWIZ_09"
+msgid "Martin Gagnon"
+msgstr ""
+
+msgctxt "#HUWIZ_10"
+msgid "Maryse Melançon"
+msgstr ""
+
+msgctxt "#HUWIZ_11"
+msgid "Matthieu Boivin-Simard"
+msgstr ""
+
+msgctxt "#HUWIZ_12"
+msgid "Maxime Lacoste"
+msgstr ""
+
+msgctxt "#HUWIZ_13"
+msgid "Nicolas Lefebvre"
+msgstr ""
+
+msgctxt "#HUWIZ_14"
+msgid "Pierre-Luc Labelle"
+msgstr ""
+
+msgctxt "#HUWIZ_15"
+msgid "Rémi Laliberté-Denis"
+msgstr ""
+
+msgctxt "#HUWIZ_16"
+msgid "Sebastien Bedard"
+msgstr ""
+
+msgctxt "#HUWIZ_17"
+msgid "Thomas Morin"
+msgstr ""
+
+msgctxt "#Indigo Pearl"
+msgid "United Kingdom - Indigo Pearl"
+msgstr ""
+
+msgctxt "#Indigo Pearl_01"
+msgid "Anita Wong"
+msgstr ""
+
+msgctxt "#Indigo Pearl_02"
+msgid "Luke Bennett"
+msgstr ""
+
+msgctxt "#Indigo Pearl_03"
+msgid "Rebecca Chisholme"
+msgstr ""
+
+msgctxt "#Localization"
+msgid "Localization"
+msgstr "Локализация"
+
+msgctxt "#Localize"
+msgid ""
+"Localize Direct AB - English, French, Italian, German and Spanish "
+"localization"
+msgstr ""
+"Localize Direct AB - английский, французский, итальянский, немецкий и "
+"испанский языки"
+
+msgctxt "#Localize_01"
+msgid "English proofreading"
+msgstr ""
+
+msgctxt "#Localize_02"
+msgid "Ben Stowers"
+msgstr ""
+
+msgctxt "#Localize_03"
+msgid "French"
+msgstr "Французский язык"
+
+msgctxt "#Localize_04"
+msgid "Nicolas Bonnet"
+msgstr ""
+
+msgctxt "#Localize_05"
+msgid "Italian"
+msgstr "Итальянский язык"
+
+msgctxt "#Localize_06"
+msgid "Valentina Ambrogio"
+msgstr ""
+
+msgctxt "#Localize_07"
+msgid "German"
+msgstr "Немецкий язык"
+
+msgctxt "#Localize_08"
+msgid "Frank Schröder"
+msgstr ""
+
+msgctxt "#Localize_09"
+msgid "Hans Gießner"
+msgstr ""
+
+msgctxt "#Localize_10"
+msgid "Carina Reisenhofer"
+msgstr ""
+
+msgctxt "#Localize_11"
+msgid "Spanish"
+msgstr "Испанский язык"
+
+msgctxt "#Localize_12"
+msgid "Curri Barceló Ávila"
+msgstr ""
+
+msgctxt "#Localize_13"
+msgid "Marco Fernández"
+msgstr ""
+
+msgctxt "#MusicAnd"
+msgid "And"
+msgstr ""
+
+msgctxt "#MusicAnd_01"
+msgid "Solène Gendre - Singing"
+msgstr ""
+
+msgctxt "#MusicAnd_02"
+msgid "Nidhal Jaoua - Qanun"
+msgstr ""
+
+msgctxt "#MusicAnd_03"
+msgid "Mathilde Legeret - Violin"
+msgstr ""
+
+msgctxt "#MusicAnd_04"
+msgid "Agathe Leprince - Cello"
+msgstr ""
+
+msgctxt "#MusicAnd_05"
+msgid "Saddam Novruzbayov - Ney, Kawala, Zurna/Kaba, Balaban/Duduk & Clarinet"
+msgstr ""
+
+msgctxt "#MusicAnd_06"
+msgid "Mihai Pirvan - Saxophone"
+msgstr ""
+
+msgctxt "#MusicAnd_07"
+msgid "Jonathan Ribot - Qanun"
+msgstr ""
+
+msgctxt "#MusicAnd_08"
+msgid "Sébastien Rocquefelte - Singing"
+msgstr ""
+
+msgctxt "#MusicAnd_09"
+msgid "Bachir Rouimi - Percussion"
+msgstr ""
+
+msgctxt "#MusicAnd_10"
+msgid "Niqolah Seeva - Oud & Singing"
+msgstr ""
+
+msgctxt "#MusicAnd_11"
+msgid "Kais Siala - Viola & Violin"
+msgstr ""
+
+msgctxt "#MusicBy"
+msgid "Music By"
+msgstr "Музыка"
+
+msgctxt "#MusicBy_01"
+msgid ""
+"Louis Godart - Transcription, Arrangement, Musical Direction, Editing & Bass"
+msgstr ""
+
+msgctxt "#MusicOthers_01"
+msgid ""
+"Recorded at Studio 47 (Rezé, France) between november 2020 and february 2021"
+msgstr ""
+
+msgctxt "#MusicOthers_02"
+msgid ""
+"Mixed and mastered by Arthur Lauth @Brown Bear Recording between march and "
+"may 2021"
+msgstr ""
+
+msgctxt "#MusicOthers_03"
+msgid ""
+"Louis would like to especially thanks: Morgane Mercier, Mihai Pirvan, "
+"Sébastien Rocquefelte, Solène Gendre, Maëlle Vallet, Gérald Lebreton, Jean-"
+"François Lecoq, Trempolino, Franck Lagarde, Orchestration Online, Virtual "
+"Orchestration"
+msgstr ""
+
+msgctxt "#MusicOthers_04"
+msgid ""
+"Louis would like to dedicate this soundtrack to the memory of James Mac Gaw "
+"(1968-2021)"
+msgstr ""
+
+msgctxt "#MusicWith"
+msgid "With"
+msgstr ""
+
+msgctxt "#MusicWith_01"
+msgid "Henry Beckett - Original Music"
+msgstr ""
+
+msgctxt "#MusicWith_02"
+msgid "Charlotte Davy - Sound Assistant"
+msgstr ""
+
+msgctxt "#MusicWith_03"
+msgid "Timothée Funfrock - Sound Engineer"
+msgstr ""
+
+msgctxt "#MusicWith_04"
+msgid "Romain Pierre @Foudrage - Production"
+msgstr ""
+
+msgctxt "#MusicWith_05"
+msgid "Vincent Schryve - Viola rental"
+msgstr ""
+
+msgctxt "#MusicWith_06"
+msgid "Keith Zizza - Original Music & Consulting"
+msgstr ""
+
+msgctxt "#Nolan"
+msgid "Nolan Games"
+msgstr ""
+
+msgctxt "#Nolan_01"
+msgid "Edwin Haragova - Level Designer"
+msgstr ""
+
+msgctxt "#PressRelations"
+msgid "Press Relations"
+msgstr ""
+
+msgctxt "#PublishBy"
+msgid "A game published by"
+msgstr ""
+
+msgctxt "#QA"
+msgid "Quality-Assurance"
+msgstr ""
+
+msgctxt "#Seaven"
+msgid "Seaven Studio"
+msgstr ""
+
+msgctxt "#Seaven_01"
+msgid "Pascal Feard - CEO & Co-founder"
+msgstr ""
+
+msgctxt "#Seaven_02"
+msgid "Olivier Penot - Producer & Co-founder"
+msgstr ""
+
+msgctxt "#Seaven_03"
+msgid "Camille Soual - Programmer"
+msgstr ""
+
+msgctxt "#Seenapsis"
+msgid "Seenapsis"
+msgstr ""
+
+msgctxt "#Seenapsis_01"
+msgid "Lucas Junker - Programmer"
+msgstr ""
+
+msgctxt "#Seenapsis_02"
+msgid "Emmanuel Barreau - Programmer"
+msgstr ""
+
+msgctxt "#Tinsley"
+msgid "North America - Tinsley PR"
+msgstr ""
+
+msgctxt "#Tinsley_01"
+msgid "Stephanie Tinsley Fitzwilliam"
+msgstr ""
+
+msgctxt "#Tinsley_02"
+msgid "Thomas Schulenberg"
+msgstr ""
+
+msgctxt "#Tokiko"
+msgid "Tokiko Studio"
+msgstr ""
+
+msgctxt "#Tokiko_01"
+msgid "Louis Schnellbach - Lead Programmer"
+msgstr ""
+
+msgctxt "#Tools"
+msgid "A game made with"
+msgstr "Игра сделана с помощью"
+
+msgctxt "#Tools_01"
+msgid "Unity"
+msgstr "Unity"
+
+msgctxt "#Tools_02"
+msgid "Odin Inspector"
+msgstr "Odin Inspector"
+
+msgctxt "#Tools_03"
+msgid "I2 Localization"
+msgstr "I2 Localization"
+
+msgctxt "#Tools_04"
+msgid "DOTween"
+msgstr "DOTween"
+
+msgctxt "#Torpenn"
+msgid "Torpenn"
+msgstr "Torpenn"
+
+msgctxt "#Torpenn_01"
+msgid "Vincent Beauzée - Programmer"
+msgstr "Vincent Beauzée — программист"
+
+msgctxt "#Triskell"
+msgid "Triskell Interactive"
+msgstr "Triskell Interactive"
+
+msgctxt "#Triskell_01"
+msgid "Leslie Bigo - Lead Artist & Animator"
+msgstr ""
+
+msgctxt "#Triskell_02"
+msgid "Théophile Noiré - Creative Director"
+msgstr ""
+
+msgctxt "#Triskell_03"
+msgid "Guillaume Rousselot - Art Director"
+msgstr ""
+
+msgctxt "#WithHelp"
+msgid "With a lot of help from"
+msgstr ""
+
+msgctxt "#mrktng4"
+msgid "Russia - mrktng4"
+msgstr "Россия — mrktng4"
+
+msgctxt "#mrktng4_01"
+msgid "Yaroslav Kadyshev"
+msgstr "Ярослав Кадышев"

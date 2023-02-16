@@ -1,0 +1,461 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#Abedju"
+msgid "Abedju"
+msgstr ""
+
+msgctxt "#Abu"
+msgid "Abu"
+msgstr ""
+
+msgctxt "#AbuSimbel"
+msgid "Abu Simbel"
+msgstr ""
+
+msgctxt "#Actium"
+msgid "Actium"
+msgstr ""
+
+msgctxt "#Alexandria"
+msgid "Alexandria"
+msgstr ""
+
+msgctxt "#Athens"
+msgid "Athens"
+msgstr ""
+
+msgctxt "#BahariyaOasis"
+msgid "Bahariya Oasis"
+msgstr ""
+
+msgctxt "#Baki"
+msgid "Baki"
+msgstr ""
+
+msgctxt "#Behdet"
+msgid "Behdet"
+msgstr ""
+
+msgctxt "#Bubastis"
+msgid "Bubastis"
+msgstr ""
+
+msgctxt "#Buhen"
+msgid "Buhen"
+msgstr ""
+
+msgctxt "#Byblos"
+msgid "Byblos"
+msgstr ""
+
+msgctxt "#Canaan"
+msgid "CANAAN"
+msgstr ""
+
+msgctxt "#CapturedCity"
+msgid "A captured city"
+msgstr ""
+
+msgctxt "#CityTradeBought"
+msgid "Bought"
+msgstr ""
+
+msgctxt "#CityTradeBuys"
+msgid "Buys"
+msgstr ""
+
+msgctxt "#CityTradeSells"
+msgid "Sells"
+msgstr ""
+
+msgctxt "#CityTradeSold"
+msgid "Sold"
+msgstr ""
+
+msgctxt "#Cleoantonopolis"
+msgid "Cleoantonopolis"
+msgstr ""
+
+msgctxt "#CommerceOverseer"
+msgid "To Overseer of Commerce"
+msgstr ""
+
+msgctxt "#CostToOpen"
+msgid "Cost to open"
+msgstr ""
+
+msgctxt "#Crete"
+msgid "CRETE"
+msgstr ""
+
+msgctxt "#Cyprus"
+msgid "CYPRUS"
+msgstr ""
+
+msgctxt "#Dahshur"
+msgid "Dahshur"
+msgstr ""
+
+msgctxt "#DakhlaOasis"
+msgid "Dakhla Oasis"
+msgstr ""
+
+msgctxt "#Deir el-Medina"
+msgid "Deir el-Medina"
+msgstr ""
+
+msgctxt "#Delta"
+msgid "DELTA"
+msgstr ""
+
+msgctxt "#DistantCity"
+msgid "A distant city"
+msgstr ""
+
+msgctxt "#Djedu"
+msgid "Djedu"
+msgstr ""
+
+msgctxt "#Dunqul Oasis"
+msgid "Dunqul Oasis"
+msgstr ""
+
+msgctxt "#EasternAfrica"
+msgid "EASTERN AFRICA"
+msgstr ""
+
+msgctxt "#EasternDesert"
+msgid "EASTERN DESERT"
+msgstr ""
+
+msgctxt "#EgyptianCity"
+msgid "An Egyptian city"
+msgstr ""
+
+msgctxt "#EgyptianCity_Trade"
+msgid "Egyptian Trade City"
+msgstr ""
+
+msgctxt "#Enkomi"
+msgid "Enkomi"
+msgstr ""
+
+msgctxt "#Farafra Oasis"
+msgid "Farafra Oasis"
+msgstr ""
+
+msgctxt "#Fayuum"
+msgid "FAYUUM"
+msgstr ""
+
+msgctxt "#ForeignCIty"
+msgid "Foreign City"
+msgstr ""
+
+msgctxt "#ForeignCIty_Trade"
+msgid "Foreign Trade City"
+msgstr ""
+
+msgctxt "#Gaza"
+msgid "Gaza"
+msgstr ""
+
+msgctxt "#Greece"
+msgid "GREECE"
+msgstr ""
+
+msgctxt "#Heh"
+msgid "Heh"
+msgstr ""
+
+msgctxt "#Henen-nesw"
+msgid "Henen-nesw"
+msgstr ""
+
+msgctxt "#Hetepsenusret"
+msgid "Hetepsenusret"
+msgstr ""
+
+msgctxt "#Iken"
+msgid "Iken"
+msgstr ""
+
+msgctxt "#Itjtawy"
+msgid "Itjtawy"
+msgstr ""
+
+msgctxt "#Iunet"
+msgid "Iunet"
+msgstr ""
+
+msgctxt "#Jericho"
+msgid "Jericho"
+msgstr ""
+
+msgctxt "#Kebet"
+msgid "Kebet"
+msgstr ""
+
+msgctxt "#Kerma"
+msgid "Kerma"
+msgstr ""
+
+msgctxt "#Kharga Oasis"
+msgid "Kharga Oasis"
+msgstr ""
+
+msgctxt "#Khmun"
+msgid "Khmun"
+msgstr ""
+
+msgctxt "#Knossos"
+msgid "Knossos"
+msgstr ""
+
+msgctxt "#Kyrene"
+msgid "Kyrene"
+msgstr ""
+
+msgctxt "#Lebanon"
+msgid "LEBANON"
+msgstr ""
+
+msgctxt "#Libya"
+msgid "LIBYA"
+msgstr ""
+
+msgctxt "#LowerEgypt"
+msgid "LOWER EGYPT"
+msgstr ""
+
+msgctxt "#Maritis"
+msgid "Maritis"
+msgstr ""
+
+msgctxt "#Meidum"
+msgid "Meidum"
+msgstr ""
+
+msgctxt "#Men-nefer"
+msgid "Men-nefer"
+msgstr ""
+
+msgctxt "#MenatKhufu"
+msgid "Menat Khufu"
+msgstr ""
+
+msgctxt "#Migdol"
+msgid "Migdol"
+msgstr ""
+
+msgctxt "#Mycenae"
+msgid "Mycenae"
+msgstr ""
+
+msgctxt "#Nekhen"
+msgid "Nekhen"
+msgstr ""
+
+msgctxt "#NorthDashur"
+msgid "North Dashur"
+msgstr ""
+
+msgctxt "#Nubia"
+msgid "NUBIA"
+msgstr ""
+
+msgctxt "#Nubt"
+msgid "Nubt"
+msgstr ""
+
+msgctxt "#On"
+msgid "On"
+msgstr ""
+
+msgctxt "#OpenCommercialRoad"
+msgid "Open trade route"
+msgstr ""
+
+msgctxt "#OpenCommericalLandRoadContent"
+msgid "Pay to open this land trade route?"
+msgstr ""
+
+msgctxt "#OpenCommericalWaterRoadContent"
+msgid "Pay to open this water trade route?"
+msgstr ""
+
+msgctxt "#OpenLandRoute"
+msgid "{0}<sprite name=\"Deben\">to open land trade route"
+msgstr ""
+
+msgctxt "#OpenWaterRoute"
+msgid "{0}<sprite name=\"Deben\">to open water trade route"
+msgstr ""
+
+msgctxt "#OurCity"
+msgid "Our city!"
+msgstr ""
+
+msgctxt "#Palestine"
+msgid "PALESTINE"
+msgstr ""
+
+msgctxt "#Perwadjyt"
+msgid "Perwadjyt"
+msgstr ""
+
+msgctxt "#PharaohCity"
+msgid "The Pharaoh's city"
+msgstr ""
+
+msgctxt "#PharaohCity_Trade"
+msgid "Pharaoh Trade City"
+msgstr ""
+
+msgctxt "#Pi-Yer"
+msgid "Pi-Yer"
+msgstr ""
+
+msgctxt "#Piramesse"
+msgid "Piramesse"
+msgstr ""
+
+msgctxt "#Pwenet"
+msgid "Pwenet"
+msgstr ""
+
+msgctxt "#Qadesh"
+msgid "Qadesh"
+msgstr ""
+
+msgctxt "#Quantity"
+msgid "{0} of {1}"
+msgstr ""
+
+msgctxt "#Rome"
+msgid "Rome"
+msgstr ""
+
+msgctxt "#Rostja"
+msgid "Rostja"
+msgstr ""
+
+msgctxt "#Rowarty"
+msgid "Rowarty"
+msgstr ""
+
+msgctxt "#Saqqara"
+msgid "Saqqara"
+msgstr ""
+
+msgctxt "#Sauty"
+msgid "Sauty"
+msgstr ""
+
+msgctxt "#Sawu"
+msgid "Sawu"
+msgstr ""
+
+msgctxt "#SelimaOasis"
+msgid "Selima Oasis"
+msgstr ""
+
+msgctxt "#SerabitKhadim"
+msgid "Serabit Khadim"
+msgstr ""
+
+msgctxt "#Shaat"
+msgid "Shaat"
+msgstr ""
+
+msgctxt "#Sharuhen"
+msgid "Sharuhen"
+msgstr ""
+
+msgctxt "#Sinai"
+msgid "SINAI"
+msgstr ""
+
+msgctxt "#Siwi Oasis"
+msgid "Siwi Oasis"
+msgstr ""
+
+msgctxt "#SouthDashur"
+msgid "South Dashur"
+msgstr ""
+
+msgctxt "#Sumur"
+msgid "Sumur"
+msgstr ""
+
+msgctxt "#Syria"
+msgid "SYRIA"
+msgstr ""
+
+msgctxt "#Tanis"
+msgid "Tanis"
+msgstr ""
+
+msgctxt "#Thinis"
+msgid "Thinis"
+msgstr ""
+
+msgctxt "#Timna"
+msgid "Timna"
+msgstr ""
+
+msgctxt "#Toshka"
+msgid "Toshka"
+msgstr ""
+
+msgctxt "#TradeRouteClose"
+msgid "trade route shuts down"
+msgstr ""
+
+msgctxt "#TradeRouteClosed"
+msgid "This trading route is not yet established"
+msgstr ""
+
+msgctxt "#TradeRouteInfoLand"
+msgid "Land route"
+msgstr ""
+
+msgctxt "#TradeRouteInfoWater"
+msgid "Water route"
+msgstr ""
+
+msgctxt "#TradeRouteOpen"
+msgid "trade route now available"
+msgstr ""
+
+msgctxt "#Tyre"
+msgid "Tyre"
+msgstr ""
+
+msgctxt "#Undersiege"
+msgid "trade city under siege"
+msgstr ""
+
+msgctxt "#UpperEgypt"
+msgid "UPPER EGYPT"
+msgstr ""
+
+msgctxt "#Waset"
+msgid "Waset"
+msgstr ""
+
+msgctxt "#WesternDesert"
+msgid "WESTERN DESERT"
+msgstr ""

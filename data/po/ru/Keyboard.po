@@ -1,0 +1,569 @@
+#
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 20:56\n"
+"PO-Revision-Date: 2023-02-15 23:39+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <azamat.hackimov@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+msgctxt "A"
+msgid "A"
+msgstr "A"
+
+msgctxt "Alpha0"
+msgid "0"
+msgstr "0"
+
+msgctxt "Alpha1"
+msgid "1"
+msgstr "1"
+
+msgctxt "Alpha2"
+msgid "2"
+msgstr "2"
+
+msgctxt "Alpha3"
+msgid "3"
+msgstr "3"
+
+msgctxt "Alpha4"
+msgid "4"
+msgstr "4"
+
+msgctxt "Alpha5"
+msgid "5"
+msgstr "5"
+
+msgctxt "Alpha6"
+msgid "6"
+msgstr "6"
+
+msgctxt "Alpha7"
+msgid "7"
+msgstr "7"
+
+msgctxt "Alpha8"
+msgid "8"
+msgstr "8"
+
+msgctxt "Alpha9"
+msgid "9"
+msgstr "9"
+
+msgctxt "AltGr"
+msgid "Alt Gr"
+msgstr ""
+
+msgctxt "Ampersand"
+msgid "&"
+msgstr "&"
+
+msgctxt "Asterisk"
+msgid "*"
+msgstr "*"
+
+msgctxt "At"
+msgid "@"
+msgstr "@"
+
+msgctxt "B"
+msgid "B"
+msgstr "B"
+
+msgctxt "BackQuote"
+msgid "`"
+msgstr "`"
+
+msgctxt "Backslash"
+msgid "\\"
+msgstr "\\"
+
+msgctxt "Backspace"
+msgid "Backspace"
+msgstr ""
+
+msgctxt "Break"
+msgid "Break"
+msgstr ""
+
+msgctxt "C"
+msgid "C"
+msgstr "C"
+
+msgctxt "CapsLock"
+msgid "Caps Lock"
+msgstr ""
+
+msgctxt "Caret"
+msgid "^"
+msgstr "^"
+
+msgctxt "Clear"
+msgid "Clear"
+msgstr ""
+
+msgctxt "Colon"
+msgid ":"
+msgstr ":"
+
+msgctxt "Comma"
+msgid ","
+msgstr ","
+
+msgctxt "D"
+msgid "D"
+msgstr "D"
+
+msgctxt "Delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "Dollar"
+msgid "$"
+msgstr "$"
+
+msgctxt "DoubleQuote"
+msgid "\""
+msgstr "\""
+
+msgctxt "DownArrow"
+msgid "Down Arrow"
+msgstr ""
+
+msgctxt "E"
+msgid "E"
+msgstr "E"
+
+msgctxt "End"
+msgid "End"
+msgstr ""
+
+msgctxt "Equals"
+msgid "="
+msgstr "="
+
+msgctxt "Escape"
+msgid "Escape"
+msgstr ""
+
+msgctxt "Exclaim"
+msgid "!"
+msgstr "!"
+
+msgctxt "F"
+msgid "F"
+msgstr "F"
+
+msgctxt "F1"
+msgid "F1"
+msgstr "F1"
+
+msgctxt "F10"
+msgid "F10"
+msgstr "F10"
+
+msgctxt "F11"
+msgid "F11"
+msgstr "F11"
+
+msgctxt "F12"
+msgid "F12"
+msgstr "F12"
+
+msgctxt "F13"
+msgid "F13"
+msgstr "F13"
+
+msgctxt "F14"
+msgid "F14"
+msgstr "F14"
+
+msgctxt "F15"
+msgid "F15"
+msgstr "F15"
+
+msgctxt "F2"
+msgid "F2"
+msgstr "F2"
+
+msgctxt "F3"
+msgid "F3"
+msgstr "F3"
+
+msgctxt "F4"
+msgid "F4"
+msgstr "F4"
+
+msgctxt "F5"
+msgid "F5"
+msgstr "F5"
+
+msgctxt "F6"
+msgid "F6"
+msgstr "F6"
+
+msgctxt "F7"
+msgid "F7"
+msgstr "F7"
+
+msgctxt "F8"
+msgid "F8"
+msgstr "F8"
+
+msgctxt "F9"
+msgid "F9"
+msgstr "F9"
+
+msgctxt "G"
+msgid "G"
+msgstr "G"
+
+msgctxt "Greater"
+msgid ">"
+msgstr ">"
+
+msgctxt "H"
+msgid "H"
+msgstr "H"
+
+msgctxt "Hash"
+msgid "#"
+msgstr "#"
+
+msgctxt "Help"
+msgid "Help"
+msgstr ""
+
+msgctxt "Home"
+msgid "Home"
+msgstr ""
+
+msgctxt "I"
+msgid "I"
+msgstr "I"
+
+msgctxt "Insert"
+msgid "Insert"
+msgstr ""
+
+msgctxt "J"
+msgid "J"
+msgstr "J"
+
+msgctxt "K"
+msgid "K"
+msgstr "K"
+
+msgctxt "Keypad0"
+msgid "Keypad 0"
+msgstr ""
+
+msgctxt "Keypad1"
+msgid "Keypad 1"
+msgstr ""
+
+msgctxt "Keypad2"
+msgid "Keypad 2"
+msgstr ""
+
+msgctxt "Keypad3"
+msgid "Keypad 3"
+msgstr ""
+
+msgctxt "Keypad4"
+msgid "Keypad 4"
+msgstr ""
+
+msgctxt "Keypad5"
+msgid "Keypad 5"
+msgstr ""
+
+msgctxt "Keypad6"
+msgid "Keypad 6"
+msgstr ""
+
+msgctxt "Keypad7"
+msgid "Keypad 7"
+msgstr ""
+
+msgctxt "Keypad8"
+msgid "Keypad 8"
+msgstr ""
+
+msgctxt "Keypad9"
+msgid "Keypad 9"
+msgstr ""
+
+msgctxt "KeypadDivide"
+msgid "Keypad /"
+msgstr ""
+
+msgctxt "KeypadEnter"
+msgid "Keypad Enter"
+msgstr ""
+
+msgctxt "KeypadEquals"
+msgid "Keypad ="
+msgstr ""
+
+msgctxt "KeypadMinus"
+msgid "Keypad -"
+msgstr ""
+
+msgctxt "KeypadMultiply"
+msgid "Keypad *"
+msgstr ""
+
+msgctxt "KeypadPeriod"
+msgid "Keypad ."
+msgstr ""
+
+msgctxt "KeypadPlus"
+msgid "Keypad +"
+msgstr ""
+
+msgctxt "L"
+msgid "L"
+msgstr "L"
+
+msgctxt "LeftAlt"
+msgid "Left Alt"
+msgstr ""
+
+msgctxt "LeftApple"
+msgid "Left Apple"
+msgstr ""
+
+msgctxt "LeftArrow"
+msgid "Left Arrow"
+msgstr ""
+
+msgctxt "LeftBracket"
+msgid "["
+msgstr "["
+
+msgctxt "LeftCommand"
+msgid "Left Command"
+msgstr ""
+
+msgctxt "LeftControl"
+msgid "Left Control"
+msgstr ""
+
+msgctxt "LeftCurlyBracket"
+msgid "{"
+msgstr "{"
+
+msgctxt "LeftParen"
+msgid "("
+msgstr "("
+
+msgctxt "LeftShift"
+msgid "Left Shift"
+msgstr ""
+
+msgctxt "LeftWindows"
+msgid "Left Windows"
+msgstr ""
+
+msgctxt "Less"
+msgid "<"
+msgstr "<"
+
+msgctxt "M"
+msgid "M"
+msgstr "M"
+
+msgctxt "Menu"
+msgid "Menu"
+msgstr ""
+
+msgctxt "N"
+msgid "N"
+msgstr "N"
+
+msgctxt "None"
+msgid "None"
+msgstr ""
+
+msgctxt "Numlock"
+msgid "Num Lock"
+msgstr ""
+
+msgctxt "O"
+msgid "O"
+msgstr "O"
+
+msgctxt "P"
+msgid "P"
+msgstr "P"
+
+msgctxt "PageDown"
+msgid "Page Down"
+msgstr ""
+
+msgctxt "PageUp"
+msgid "Page Up"
+msgstr ""
+
+msgctxt "Pause"
+msgid "Pause"
+msgstr ""
+
+msgctxt "Percent"
+msgid "%"
+msgstr "%"
+
+msgctxt "Period"
+msgid "."
+msgstr "."
+
+msgctxt "Pipe"
+msgid "|"
+msgstr "|"
+
+msgctxt "Plus"
+msgid "=+"
+msgstr "=+"
+
+msgctxt "Print"
+msgid "Print"
+msgstr ""
+
+msgctxt "Q"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "Question"
+msgid "?"
+msgstr "?"
+
+msgctxt "Quote"
+msgid "'"
+msgstr "'"
+
+msgctxt "R"
+msgid "R"
+msgstr "R"
+
+msgctxt "Return"
+msgid "Return"
+msgstr ""
+
+msgctxt "RightAlt"
+msgid "Right Alt"
+msgstr ""
+
+msgctxt "RightApple"
+msgid "Right Apple"
+msgstr ""
+
+msgctxt "RightArrow"
+msgid "Right Arrow"
+msgstr ""
+
+msgctxt "RightBracket"
+msgid "]"
+msgstr "]"
+
+msgctxt "RightCommand"
+msgid "Right Command"
+msgstr ""
+
+msgctxt "RightControl"
+msgid "Right Control"
+msgstr ""
+
+msgctxt "RightCurlyBracket"
+msgid "}"
+msgstr "}"
+
+msgctxt "RightParen"
+msgid ")"
+msgstr ")"
+
+msgctxt "RightShift"
+msgid "Right Shift"
+msgstr ""
+
+msgctxt "RightWindows"
+msgid "Right Windows"
+msgstr ""
+
+msgctxt "S"
+msgid "S"
+msgstr "S"
+
+msgctxt "ScrollLock"
+msgid "Scroll Lock"
+msgstr ""
+
+msgctxt "Semicolon"
+msgid ";"
+msgstr ";"
+
+msgctxt "Slash"
+msgid "/"
+msgstr "/"
+
+msgctxt "Space"
+msgid "Space"
+msgstr ""
+
+msgctxt "SysReq"
+msgid "Sys Req"
+msgstr ""
+
+msgctxt "T"
+msgid "T"
+msgstr "T"
+
+msgctxt "Tab"
+msgid "Tab"
+msgstr ""
+
+msgctxt "Tilde"
+msgid "~"
+msgstr "~"
+
+msgctxt "U"
+msgid "U"
+msgstr "U"
+
+msgctxt "Underscore"
+msgid "_"
+msgstr "_"
+
+msgctxt "UpArrow"
+msgid "Up Arrow"
+msgstr ""
+
+msgctxt "V"
+msgid "V"
+msgstr "V"
+
+msgctxt "W"
+msgid "W"
+msgstr "W"
+
+msgctxt "X"
+msgid "X"
+msgstr "X"
+
+msgctxt "Y"
+msgid "Y"
+msgstr "Y"
+
+msgctxt "Z"
+msgid "Z"
+msgstr "Z"

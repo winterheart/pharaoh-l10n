@@ -1,0 +1,533 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "Pharaoh_1"
+msgid "Amenemhet I"
+msgstr ""
+
+msgctxt "Pharaoh_10"
+msgid "Djet"
+msgstr ""
+
+msgctxt "Pharaoh_100"
+msgid "Taharka"
+msgstr ""
+
+msgctxt "Pharaoh_101"
+msgid "Tantamani"
+msgstr ""
+
+msgctxt "Pharaoh_102"
+msgid "Nepherites I"
+msgstr ""
+
+msgctxt "Pharaoh_103"
+msgid "Psammuthis"
+msgstr ""
+
+msgctxt "Pharaoh_104"
+msgid "Nefaarud I"
+msgstr ""
+
+msgctxt "Pharaoh_105"
+msgid "Hakor"
+msgstr ""
+
+msgctxt "Pharaoh_106"
+msgid "Naktnebef"
+msgstr ""
+
+msgctxt "Pharaoh_107"
+msgid "Alexander the Great"
+msgstr ""
+
+msgctxt "Pharaoh_108"
+msgid "Philip Arrhidaeus"
+msgstr ""
+
+msgctxt "Pharaoh_109"
+msgid "Alexander IV"
+msgstr ""
+
+msgctxt "Pharaoh_11"
+msgid "Djoser"
+msgstr ""
+
+msgctxt "Pharaoh_110"
+msgid "Ptolemy I"
+msgstr ""
+
+msgctxt "Pharaoh_111"
+msgid "Ptolemy II"
+msgstr ""
+
+msgctxt "Pharaoh_112"
+msgid "Ptolemy III"
+msgstr ""
+
+msgctxt "Pharaoh_113"
+msgid "Ptolemy IV"
+msgstr ""
+
+msgctxt "Pharaoh_114"
+msgid "Ptolemy V"
+msgstr ""
+
+msgctxt "Pharaoh_115"
+msgid "Ptolemy VI"
+msgstr ""
+
+msgctxt "Pharaoh_116"
+msgid "Ptolemy VII"
+msgstr ""
+
+msgctxt "Pharaoh_117"
+msgid "Ptolemy VIII"
+msgstr ""
+
+msgctxt "Pharaoh_118"
+msgid "Ptolemy IX"
+msgstr ""
+
+msgctxt "Pharaoh_119"
+msgid "Ptolemy X"
+msgstr ""
+
+msgctxt "Pharaoh_12"
+msgid "Hetepsekhemwy"
+msgstr ""
+
+msgctxt "Pharaoh_120"
+msgid "Ptolemy XI"
+msgstr ""
+
+msgctxt "Pharaoh_121"
+msgid "Ptolemy XII"
+msgstr ""
+
+msgctxt "Pharaoh_122"
+msgid "Queen Bernice IV"
+msgstr ""
+
+msgctxt "Pharaoh_123"
+msgid "Ptolemy XIII"
+msgstr ""
+
+msgctxt "Pharaoh_124"
+msgid "Cleopatra VII"
+msgstr ""
+
+msgctxt "Pharaoh_125"
+msgid "Ptolemy XV"
+msgstr ""
+
+msgctxt "Pharaoh_126"
+msgid "Thinite Nobles"
+msgstr ""
+
+msgctxt "Pharaoh_127"
+msgid "Thinite Confederacy"
+msgstr ""
+
+msgctxt "Pharaoh_128"
+msgid "Inyotef Clan"
+msgstr ""
+
+msgctxt "Pharaoh_129"
+msgid "Achoris"
+msgstr ""
+
+msgctxt "Pharaoh_13"
+msgid "Hor"
+msgstr ""
+
+msgctxt "Pharaoh_130"
+msgid "None"
+msgstr ""
+
+msgctxt "Pharaoh_14"
+msgid "Hor-Aha"
+msgstr ""
+
+msgctxt "Pharaoh_15"
+msgid "Huni"
+msgstr ""
+
+msgctxt "Pharaoh_16"
+msgid "Inyotef I"
+msgstr ""
+
+msgctxt "Pharaoh_17"
+msgid "Inyotef II"
+msgstr ""
+
+msgctxt "Pharaoh_18"
+msgid "Inyotef III"
+msgstr ""
+
+msgctxt "Pharaoh_19"
+msgid "Khaba"
+msgstr ""
+
+msgctxt "Pharaoh_2"
+msgid "Amenemhet II"
+msgstr ""
+
+msgctxt "Pharaoh_20"
+msgid "Khasekhemwy"
+msgstr ""
+
+msgctxt "Pharaoh_21"
+msgid "Khendjer"
+msgstr ""
+
+msgctxt "Pharaoh_22"
+msgid "Khephren"
+msgstr ""
+
+msgctxt "Pharaoh_23"
+msgid "Khety"
+msgstr ""
+
+msgctxt "Pharaoh_24"
+msgid "Khufu"
+msgstr ""
+
+msgctxt "Pharaoh_25"
+msgid "Menes"
+msgstr ""
+
+msgctxt "Pharaoh_26"
+msgid "Menkauhor"
+msgstr ""
+
+msgctxt "Pharaoh_27"
+msgid "Menkaura"
+msgstr ""
+
+msgctxt "Pharaoh_28"
+msgid "Mentuhotep I"
+msgstr ""
+
+msgctxt "Pharaoh_29"
+msgid "Mentuhotep II"
+msgstr ""
+
+msgctxt "Pharaoh_3"
+msgid "Amenemhet III"
+msgstr ""
+
+msgctxt "Pharaoh_30"
+msgid "Mentuhotep III"
+msgstr ""
+
+msgctxt "Pharaoh_31"
+msgid "Mentuhotep IV"
+msgstr ""
+
+msgctxt "Pharaoh_32"
+msgid "Merenra"
+msgstr ""
+
+msgctxt "Pharaoh_33"
+msgid "Queen Merneith"
+msgstr ""
+
+msgctxt "Pharaoh_34"
+msgid "Narmer"
+msgstr ""
+
+msgctxt "Pharaoh_35"
+msgid "Nebka"
+msgstr ""
+
+msgctxt "Pharaoh_36"
+msgid "Neferhotep I"
+msgstr ""
+
+msgctxt "Pharaoh_37"
+msgid "Neferirkara"
+msgstr ""
+
+msgctxt "Pharaoh_38"
+msgid "Neuserra"
+msgstr ""
+
+msgctxt "Pharaoh_39"
+msgid "Ninetjer"
+msgstr ""
+
+msgctxt "Pharaoh_4"
+msgid "Amenemhet IV"
+msgstr ""
+
+msgctxt "Pharaoh_40"
+msgid "Nitiqret"
+msgstr ""
+
+msgctxt "Pharaoh_41"
+msgid "Pepi I"
+msgstr ""
+
+msgctxt "Pharaoh_42"
+msgid "Pepi II"
+msgstr ""
+
+msgctxt "Pharaoh_43"
+msgid "Peribsen"
+msgstr ""
+
+msgctxt "Pharaoh_44"
+msgid "Qa'a"
+msgstr ""
+
+msgctxt "Pharaoh_45"
+msgid "Raneferef"
+msgstr ""
+
+msgctxt "Pharaoh_46"
+msgid "Reneb"
+msgstr ""
+
+msgctxt "Pharaoh_47"
+msgid "Sahura"
+msgstr ""
+
+msgctxt "Pharaoh_48"
+msgid "Sekhemkhet"
+msgstr ""
+
+msgctxt "Pharaoh_49"
+msgid "Semerkhet"
+msgstr ""
+
+msgctxt "Pharaoh_5"
+msgid "Anedjib"
+msgstr ""
+
+msgctxt "Pharaoh_50"
+msgid "Sened"
+msgstr ""
+
+msgctxt "Pharaoh_51"
+msgid "Senusret I"
+msgstr ""
+
+msgctxt "Pharaoh_52"
+msgid "Senusret II"
+msgstr ""
+
+msgctxt "Pharaoh_53"
+msgid "Senusret III"
+msgstr ""
+
+msgctxt "Pharaoh_54"
+msgid "Shepseskaf"
+msgstr ""
+
+msgctxt "Pharaoh_55"
+msgid "Shepseskara"
+msgstr ""
+
+msgctxt "Pharaoh_56"
+msgid "Snofru"
+msgstr ""
+
+msgctxt "Pharaoh_57"
+msgid "Sobekhotep III"
+msgstr ""
+
+msgctxt "Pharaoh_58"
+msgid "Queen Sobknefru"
+msgstr ""
+
+msgctxt "Pharaoh_59"
+msgid "Teti"
+msgstr ""
+
+msgctxt "Pharaoh_6"
+msgid "Den"
+msgstr ""
+
+msgctxt "Pharaoh_60"
+msgid "Unas"
+msgstr ""
+
+msgctxt "Pharaoh_61"
+msgid "Userkaf"
+msgstr ""
+
+msgctxt "Pharaoh_62"
+msgid "Userkara"
+msgstr ""
+
+msgctxt "Pharaoh_63"
+msgid "Weneg"
+msgstr ""
+
+msgctxt "Pharaoh_64"
+msgid "Ahmose I"
+msgstr ""
+
+msgctxt "Pharaoh_65"
+msgid "Amenhotep I"
+msgstr ""
+
+msgctxt "Pharaoh_66"
+msgid "Thutmose I"
+msgstr ""
+
+msgctxt "Pharaoh_67"
+msgid "Thutmose II"
+msgstr ""
+
+msgctxt "Pharaoh_68"
+msgid "Hatshepsut"
+msgstr ""
+
+msgctxt "Pharaoh_69"
+msgid "Thutmose III"
+msgstr ""
+
+msgctxt "Pharaoh_7"
+msgid "Djedefra"
+msgstr ""
+
+msgctxt "Pharaoh_70"
+msgid "Amenhotep II"
+msgstr ""
+
+msgctxt "Pharaoh_71"
+msgid "Thutmose IV"
+msgstr ""
+
+msgctxt "Pharaoh_72"
+msgid "Amenhotep III"
+msgstr ""
+
+msgctxt "Pharaoh_73"
+msgid "Akhenaten"
+msgstr ""
+
+msgctxt "Pharaoh_74"
+msgid "Neferneferuaten"
+msgstr ""
+
+msgctxt "Pharaoh_75"
+msgid "Smenkhkare"
+msgstr ""
+
+msgctxt "Pharaoh_76"
+msgid "Tutankhamun"
+msgstr ""
+
+msgctxt "Pharaoh_77"
+msgid "Ay"
+msgstr ""
+
+msgctxt "Pharaoh_78"
+msgid "Horemheb"
+msgstr ""
+
+msgctxt "Pharaoh_79"
+msgid "Ramses I"
+msgstr ""
+
+msgctxt "Pharaoh_8"
+msgid "Djedkara Izezi"
+msgstr ""
+
+msgctxt "Pharaoh_80"
+msgid "Seti I"
+msgstr ""
+
+msgctxt "Pharaoh_81"
+msgid "Ramses II"
+msgstr ""
+
+msgctxt "Pharaoh_82"
+msgid "Merneptah"
+msgstr ""
+
+msgctxt "Pharaoh_83"
+msgid "Amenmes"
+msgstr ""
+
+msgctxt "Pharaoh_84"
+msgid "Seti II"
+msgstr ""
+
+msgctxt "Pharaoh_85"
+msgid "Siptah"
+msgstr ""
+
+msgctxt "Pharaoh_86"
+msgid "Queen Twosret"
+msgstr ""
+
+msgctxt "Pharaoh_87"
+msgid "Setnakhte"
+msgstr ""
+
+msgctxt "Pharaoh_88"
+msgid "Ramses III"
+msgstr ""
+
+msgctxt "Pharaoh_89"
+msgid "Ramses IV"
+msgstr ""
+
+msgctxt "Pharaoh_9"
+msgid "Djer"
+msgstr ""
+
+msgctxt "Pharaoh_90"
+msgid "Ramses V"
+msgstr ""
+
+msgctxt "Pharaoh_91"
+msgid "Ramses VI"
+msgstr ""
+
+msgctxt "Pharaoh_92"
+msgid "Ramses VII"
+msgstr ""
+
+msgctxt "Pharaoh_93"
+msgid "Ramses VIII"
+msgstr ""
+
+msgctxt "Pharaoh_94"
+msgid "Ramses IX"
+msgstr ""
+
+msgctxt "Pharaoh_95"
+msgid "Ramses X"
+msgstr ""
+
+msgctxt "Pharaoh_96"
+msgid "Ramses XI"
+msgstr ""
+
+msgctxt "Pharaoh_97"
+msgid "Piye"
+msgstr ""
+
+msgctxt "Pharaoh_98"
+msgid "Shabaka"
+msgstr ""
+
+msgctxt "Pharaoh_99"
+msgid "Shebitku"
+msgstr ""

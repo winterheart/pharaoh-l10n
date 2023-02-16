@@ -1,0 +1,117 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#CultureRating"
+msgid "Culture rating of {0}"
+msgstr ""
+
+msgctxt "#Houses_01"
+msgid "{0} Crude Huts"
+msgstr ""
+
+msgctxt "#Houses_02"
+msgid "{0} Sturdy Huts"
+msgstr ""
+
+msgctxt "#Houses_03"
+msgid "{0} Meager Shanties"
+msgstr ""
+
+msgctxt "#Houses_04"
+msgid "{0} Common Shanties"
+msgstr ""
+
+msgctxt "#Houses_05"
+msgid "{0} Rough Cottages"
+msgstr ""
+
+msgctxt "#Houses_06"
+msgid "{0} Ordinary Cottages"
+msgstr ""
+
+msgctxt "#Houses_07"
+msgid "{0} Modest Homesteads"
+msgstr ""
+
+msgctxt "#Houses_08"
+msgid "{0} Spacious Homesteads"
+msgstr ""
+
+msgctxt "#Houses_09"
+msgid "{0} Modest Apartments"
+msgstr ""
+
+msgctxt "#Houses_10"
+msgid "{0} Spacious Apartments"
+msgstr ""
+
+msgctxt "#Houses_11"
+msgid "{0} Common Residences"
+msgstr ""
+
+msgctxt "#Houses_12"
+msgid "{0} Spacious Residences"
+msgstr ""
+
+msgctxt "#Houses_13"
+msgid "{0} Elegant Residences"
+msgstr ""
+
+msgctxt "#Houses_14"
+msgid "{0} Fancy Residences"
+msgstr ""
+
+msgctxt "#Houses_15"
+msgid "{0} Common Manors"
+msgstr ""
+
+msgctxt "#Houses_16"
+msgid "{0} Spacious Manors"
+msgstr ""
+
+msgctxt "#Houses_17"
+msgid "{0} Elegant Manors"
+msgstr ""
+
+msgctxt "#Houses_18"
+msgid "{0} Stately Manors"
+msgstr ""
+
+msgctxt "#Houses_19"
+msgid "{0} Modest Estates"
+msgstr ""
+
+msgctxt "#Houses_20"
+msgid "{0} Palatial Estates"
+msgstr ""
+
+msgctxt "#Houses_Level"
+msgid "lvl"
+msgstr ""
+
+msgctxt "#KingdomRating"
+msgid "Kingdom rating of {0}"
+msgstr ""
+
+msgctxt "#MonumentRating"
+msgid "Monument rating of {0}"
+msgstr ""
+
+msgctxt "#Population"
+msgid "Population of {0}"
+msgstr ""
+
+msgctxt "#ProsperityRating"
+msgid "Prosperity rating of {0}"
+msgstr ""

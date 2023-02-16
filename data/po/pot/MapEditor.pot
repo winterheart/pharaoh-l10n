@@ -1,0 +1,257 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt ""
+msgid "Raw materials"
+msgstr ""
+
+msgctxt "#Average"
+msgid "Average landscape"
+msgstr ""
+
+msgctxt "#Enormous"
+msgid "Enormous land"
+msgstr ""
+
+msgctxt "#Game_Good"
+msgid "Resources"
+msgstr ""
+
+msgctxt "#Large"
+msgid "Large landscape"
+msgstr ""
+
+msgctxt "#Small"
+msgid "Small landscape"
+msgstr ""
+
+msgctxt "#Tiny"
+msgid "Tiny landscape"
+msgstr ""
+
+msgctxt "#Title_Win_Conditions"
+msgid "Win conditions"
+msgstr ""
+
+msgctxt "#VeryLarge"
+msgid "Very large land"
+msgstr ""
+
+msgctxt "#map_editor_climate"
+msgid "Climate"
+msgstr ""
+
+msgctxt "#map_editor_create_new_climate"
+msgid "Terrain set"
+msgstr ""
+
+msgctxt "#map_editor_create_new_create"
+msgid "Create"
+msgstr ""
+
+msgctxt "#map_editor_create_new_size"
+msgid "Map size"
+msgstr ""
+
+msgctxt "#map_editor_default_map"
+msgid "Default map"
+msgstr ""
+
+msgctxt "#map_editor_flood_quality"
+msgid "Flooding quality:"
+msgstr ""
+
+msgctxt "#map_editor_griddisplay"
+msgid "Display Grid"
+msgstr ""
+
+msgctxt "#map_editor_parameters"
+msgid "Parameters"
+msgstr ""
+
+msgctxt "#parameters_additional_funds"
+msgid "Rescue Gift"
+msgstr ""
+
+msgctxt "#parameters_buildings"
+msgid "Set available buildings"
+msgstr ""
+
+msgctxt "#parameters_current_pharaoh"
+msgid "Current Pharaoh:"
+msgstr ""
+
+msgctxt "#parameters_ennemy"
+msgid "Choose an enemy"
+msgstr ""
+
+msgctxt "#parameters_events"
+msgid "Plan events"
+msgstr ""
+
+msgctxt "#parameters_flood_duration"
+msgid "Flooding lasts for:"
+msgstr ""
+
+msgctxt "#parameters_flood_start"
+msgid "Flooding starts on:"
+msgstr ""
+
+msgctxt "#parameters_gods"
+msgid "Define gods"
+msgstr ""
+
+msgctxt "#parameters_interests"
+msgid "Interest rate on debt"
+msgstr ""
+
+msgctxt "#parameters_killers"
+msgid "Killer Types"
+msgstr ""
+
+msgctxt "#parameters_kingdom_wages"
+msgid "Kingdom wages"
+msgstr ""
+
+msgctxt "#parameters_late_flood"
+msgid "Late Flood?"
+msgstr ""
+
+msgctxt "#parameters_rank"
+msgid "Initial rank"
+msgstr ""
+
+msgctxt "#parameters_start_15th"
+msgid "Starts the 15th"
+msgstr ""
+
+msgctxt "#parameters_start_1st"
+msgid "Starts the 1st"
+msgstr ""
+
+msgctxt "#parameters_starting year"
+msgid "Starting Year"
+msgstr ""
+
+msgctxt "#parameters_trade"
+msgid "Adjust prices of imports and exports"
+msgstr ""
+
+msgctxt "#save"
+msgid "Save"
+msgstr ""
+
+msgctxt "2Months"
+msgid "Two Months"
+msgstr ""
+
+msgctxt "3Months"
+msgid "Three Months"
+msgstr ""
+
+msgctxt "4Months"
+msgid "Four Months"
+msgstr ""
+
+msgctxt "Arid"
+msgid "Arid climate"
+msgstr ""
+
+msgctxt "Enormous"
+msgid "Enormous map"
+msgstr ""
+
+msgctxt "Excellent"
+msgid "Excellent"
+msgstr ""
+
+msgctxt "Fish"
+msgid "Fishing point"
+msgstr ""
+
+msgctxt "Good"
+msgid "Good"
+msgstr ""
+
+msgctxt "GroundEntry"
+msgid "Entry point"
+msgstr ""
+
+msgctxt "GroundExit"
+msgid "Exit point"
+msgstr ""
+
+msgctxt "GroundInvasion"
+msgid "Invasion point"
+msgstr ""
+
+msgctxt "Humid"
+msgid "Humid climate"
+msgstr ""
+
+msgctxt "Large"
+msgid "Large map"
+msgstr ""
+
+msgctxt "Mediocre"
+msgid "Mediocre"
+msgstr ""
+
+msgctxt "Medium"
+msgid "Medium map"
+msgstr ""
+
+msgctxt "None"
+msgid "None"
+msgstr ""
+
+msgctxt "Normal"
+msgid "Normal climate"
+msgstr ""
+
+msgctxt "Perfect"
+msgid "Perfect"
+msgstr ""
+
+msgctxt "Poor"
+msgid "Poor"
+msgstr ""
+
+msgctxt "Predator"
+msgid "Killer point"
+msgstr ""
+
+msgctxt "Prey"
+msgid "Map prey point"
+msgstr ""
+
+msgctxt "RiverEntry"
+msgid "River entry"
+msgstr ""
+
+msgctxt "RiverExit"
+msgid "River exit"
+msgstr ""
+
+msgctxt "Small"
+msgid "Small map"
+msgstr ""
+
+msgctxt "Tiny"
+msgid "Tiny map"
+msgstr ""
+
+msgctxt "VeryLarge"
+msgid "Huge map"
+msgstr ""

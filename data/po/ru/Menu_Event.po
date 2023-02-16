@@ -1,0 +1,33 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 20:56\n"
+"PO-Revision-Date: 2023-02-15 20:56\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#Accept"
+msgid "Accept"
+msgstr ""
+
+msgctxt "#Acknowledge"
+msgid "Acknowledge"
+msgstr ""
+
+msgctxt "#Decline"
+msgid "Decline"
+msgstr ""
+
+msgctxt "#Deliver"
+msgid "Deliver"
+msgstr ""
+
+msgctxt "#Postpone"
+msgid "Postpone"
+msgstr ""

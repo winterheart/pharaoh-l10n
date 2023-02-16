@@ -1,0 +1,915 @@
+#
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 20:56\n"
+"PO-Revision-Date: 2023-02-15 23:22+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <azamat.hackimov@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+msgctxt "#Bast"
+msgid "Bast"
+msgstr "Баст"
+
+#, fuzzy, fuzzy
+msgctxt "#Bast_flavor"
+msgid "Goddess of the Home"
+msgstr "Богиня домашнего очага"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Bast_FullHouses"
+msgid ""
+"Because this city is so faithful and dedicated, Bast blesses its houses and "
+"Bazaars with a bounty of food and goods!"
+msgstr ""
+"Баст вознаграждает дома и базары города обильной пищей и товарами в награду "
+"за веру и почтение."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Bast_Title"
+msgid "A blessing from Bast"
+msgstr "Благословение Баст"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Osiris_DoubleHarvest"
+msgid ""
+"Osiris, god of the Nile flood, blesses this city for its sincere devotion. "
+"All farms on the flood plain will harvest double what they had expected this "
+"season!"
+msgstr ""
+"Бог нильских разливов благословляет город за веру. Все фермы в пойменной "
+"долине соберут в этом сезоне вдвое больше урожая, чем ожидалось!"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Osiris_PerfectFlood"
+msgid ""
+"Osiris rewards those who pay him worship. The next Inundation will be "
+"significantly better than we were expecting."
+msgstr ""
+"Осирис вознаграждает почитающих его. Следующий разлив будет гораздо лучше, "
+"чем мы предполагали."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Osiris_Title"
+msgid "A blessing from Osiris"
+msgstr "Благословение Осириса"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Osiris_Title_var"
+msgid "Osiris Blesses you"
+msgstr "Осирис благословляет вас"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Ptah_Storage"
+msgid ""
+"Ptah singles out a Storage Yard with excess capacity, and increases the "
+"gems, clay, pottery, flax, linen, or jewelry already present there."
+msgstr ""
+"Птах нашел склад, где много свободного места, и пополнил на нем запасы "
+"самоцветов, глины, керамики, льна, ткани или украшений."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Ptah_StorageFail"
+msgid ""
+"Ptah sought a Storage Yard with room for more gems, clay, pottery, flax, "
+"linen, or jewelry. Had he found one, he would have increased your city's "
+"stores."
+msgstr ""
+"Птах искал склад, где было бы место для самоцветов, глины, керамики, льна, "
+"тканей или украшений. Если бы ему попался подобный склад, он бы пополнил "
+"запасы вашего города."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Ptah_Title"
+msgid "A blessing from Ptah"
+msgstr "Благословение Птаха"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Ra_Kingdom"
+msgid ""
+"You have honored Ra, and so your reputation throughout the Kingdom is "
+"substantially better than it was!"
+msgstr ""
+"Вы хорошо почитали Ра, и ваша репутация в государстве стала значительно выше!"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Ra_Title"
+msgid "A blessing from Ra"
+msgstr "Благословение Ра"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Ra_Trade"
+msgid ""
+"Ra rewards his faithful! For the next 12 months, your city can sell its "
+"exports for half again their usual value."
+msgstr ""
+"Ра вознаграждает верных ему! Следующие 12 месяцев ваш город может продавать "
+"товары другим городам за цену в полтора раза выше обычной."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Seth_Kill"
+msgid ""
+"Seth approves of your fear and obedience, and so will strike down the next "
+"enemies who dare to violate your city."
+msgstr ""
+"Сета радуют ваш страх и покорность, и он уничтожит следующих врагов, которые "
+"осмелятся напасть на ваш город."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Seth_Kill_Event"
+msgid "The spirit of Seth"
+msgstr "Дух Сета"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Seth_Kill_Event_Cont"
+msgid ""
+"Seth remembers his promise to protect you, and is delighted to slay those "
+"who were foolish enough to threaten your city."
+msgstr ""
+"Сет помнит о своем обещании защитить вас и с радостью уничтожает глупцов, "
+"которые вздумали угрожать вашему городу."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Major_Seth_Title"
+msgid "A blessing from Seth"
+msgstr "Благословение Сета"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Minor_Bast_Festival"
+msgid ""
+"Bast is pleased that your city honors her. She has thrown a festival so that "
+"all the gods will notice your piety."
+msgstr ""
+"Баст довольна тем, что ее почитают в вашем городе. Она устроила праздник, "
+"чтобы все боги узнали о вашем почтении."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Minor_Bast_Title"
+msgid "A small blessing from Bast"
+msgstr "Малое благословение Баст"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Minor_Osiris_BetterFlood"
+msgid ""
+"Osiris has noticed your city's faithful dedication. The next Inundation of "
+"the Nile will be better than previously expected."
+msgstr ""
+"Осирис заметил истовую преданность вашего города. Следующий разлив Нила "
+"будет лучше, чем ожидалось."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Minor_Osiris_Title"
+msgid "A small blessing from Osiris"
+msgstr "Малое благословение Осириса"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Minor_Ptah_Stock"
+msgid ""
+"Ptah is pleased by your attention, and so ensures that Shipwrights, Weavers "
+"or Jewelers throughout your city are fully stocked with raw materials."
+msgstr ""
+"Птах доволен вашим вниманием и пополнил запасы сырья для верфей, ткацких или "
+"ювелирных мастерских в городе."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Minor_Ptah_Title"
+msgid "A Minor blessing from Ptah"
+msgstr "Малое благословение Птаха"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Minor_Ra_Kingdom"
+msgid ""
+"Encouraged by your proper awe, Ra lifts your reputation somewhat throughout "
+"the Kingdom."
+msgstr ""
+"Впечатленный вашей истовой верой, Ра улучшает вашу репутацию в государстве."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Minor_Ra_Title"
+msgid "A Minor blessing from Ra"
+msgstr "Малое благословение Ра"
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Minor_Ra_Trade"
+msgid ""
+"To acknowledge your respectful attitude, Ra inspires your trading partners "
+"to trade more than before."
+msgstr ""
+"Ра заметил ваше почтение, и под его влиянием торговые партнеры будут "
+"совершать с вами больше сделок."
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Minor_Seth_Protect"
+msgid ""
+"To reward your obedience to him, Seth vows to protect any of your soldiers "
+"sent to battle in far-off lands."
+msgstr ""
+"В награду за поклонение Сет клянется защитить всех ваших воинов, "
+"отправленных сражаться в далекие земли."
+
+msgctxt "#Blessing_Minor_Seth_Protect_Cont"
+msgid ""
+"Seth remembers his promise and will protect your troops in the battle to "
+"come. Whatever the result all your soldiers will come back safe to the city!"
+msgstr ""
+
+#, fuzzy, fuzzy
+msgctxt "#Blessing_Minor_Seth_Title"
+msgid "A Minor blessing from Seth"
+msgstr "Малое благословение Сета"
+
+msgctxt "#Festival_God_Choice"
+msgid "Choose which god to honor :"
+msgstr ""
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_1"
+msgid ""
+"The grand festival is nearly ready. In one more month, it'll be fresh beer "
+"for everyone."
+msgstr ""
+"Подготовка масштабного праздника почти завершена. Через месяц все будут "
+"распивать свежее пиво."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_10"
+msgid ""
+"Festival organizers are working overtime to ready the new grand festival in "
+"ten months."
+msgstr ""
+"Организаторы работают без устали, чтобы через десять месяцев состоялся новый "
+"масштабный праздник."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_11"
+msgid ""
+"Planners are confident that they can properly throw a grand festival in "
+"eleven months."
+msgstr ""
+"Ответственные за подготовку уверены, что смогут провести масштабный праздник "
+"через одиннадцать месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_12"
+msgid ""
+"Organizers are so overworked that the grand festival you ordered will be a "
+"year from now."
+msgstr ""
+"Организаторы настолько завалены работой, что заказанный вами масштабный "
+"праздник пройдет через год."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_2"
+msgid ""
+"The grand festival's preparation has two months left. The anticipation is "
+"unbearable!"
+msgstr ""
+"До масштабного праздника осталось два месяца. Люди сгорают от нетерпения!"
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_3"
+msgid ""
+"The grand festival is being readied. People have only three more months to "
+"make plans."
+msgstr ""
+"Масштабный праздник готовится. У людей осталось три месяца, чтобы решить, "
+"что они будут делать."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_4"
+msgid ""
+"The grand festival is being prepared. No one wants to wait the four months "
+"planners need!"
+msgstr ""
+"Подготовка масштабного праздника идет полным ходом. Но никому не хочется "
+"ждать четыре месяца, которые требуются организаторам!"
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_5"
+msgid ""
+"Organizers can start preparations next month, enabling a grand festival in "
+"five months."
+msgstr ""
+"Организаторы приступят к работе в следующем месяце, а значит, через пять "
+"месяцев состоится масштабный праздник."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_6"
+msgid ""
+"Jugglers will unveil some real surprises at the grand festival, just six "
+"months from now."
+msgstr ""
+"Жонглеры готовят большие сюрпризы для масштабного праздника, до которого "
+"осталось всего шесть месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_7"
+msgid ""
+"Musicians are all writing new songs for the grand festival, now only seven "
+"months away."
+msgstr ""
+"Музыканты пишут новые песни для масштабного праздника, до которого осталось "
+"семь месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_8"
+msgid ""
+"Dancers can be seen rehearsing daring new moves for the grand festival, "
+"eight months out."
+msgstr ""
+"Танцовщицы уже репетируют дерзкие новые выступления для масштабного "
+"праздника, который пройдет через восемь месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Grand_In_9"
+msgid ""
+"Planners have mustered enough ideas and energy to throw a grand festival in "
+"nine months."
+msgstr ""
+"Организаторы собрали достаточно идей и сил, чтобы через девять месяцев "
+"провести масштабный праздник."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Lavish_In_1"
+msgid ""
+"The lavish festival is almost ready. People are excited about next month's "
+"celebration!"
+msgstr ""
+"Роскошный праздник почти готов. Люди с нетерпением ждут торжеств в следующем "
+"месяце!"
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Lavish_In_10"
+msgid ""
+"Because no one has time to devote to it yet, the lavish festival will occur "
+"in ten months."
+msgstr ""
+"Поскольку на работу над ним пока ни у кого нет времени, роскошный праздник "
+"пройдет только через десять месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Lavish_In_11"
+msgid ""
+"Planners are so busy that they have to schedule the new lavish festival "
+"eleven months out."
+msgstr ""
+"Организаторы настолько заняты, что взяли одиннадцать месяцев на подготовку "
+"роскошного праздника."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Lavish_In_2"
+msgid ""
+"The lavish festival is being prepared, and we have only two more months to "
+"get ready."
+msgstr ""
+"Подготовка роскошного праздника идет полным ходом, и у нас осталось всего "
+"два месяца, чтобы все успеть."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Lavish_In_3"
+msgid ""
+"The lavish festival is being readied. In three months, we'll have a "
+"memorable celebration."
+msgstr ""
+"Роскошный праздник готовится. Через три месяца у нас пройдет торжество, "
+"которое запомнится надолго."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Lavish_In_4"
+msgid ""
+"Planners have hit their stride, and the lavish festival will surely occur in "
+"four months."
+msgstr ""
+"Ответственные за подготовку вошли в рабочую колею, и роскошный праздник "
+"точно состоится через четыре месяца."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Lavish_In_5"
+msgid ""
+"Entertainers are polishing their acts for the lavish festival to be held in "
+"five months."
+msgstr ""
+"Артисты готовят номера для роскошного праздника, который состоится через "
+"пять месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Lavish_In_6"
+msgid ""
+"Planners confirm that the new lavish festival will take place in six months, "
+"as promised."
+msgstr ""
+"Ответственные за подготовку подтверждают, что роскошный праздник пройдет по "
+"расписанию ровно через шесть месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Lavish_In_7"
+msgid ""
+"Organizers are weighing public suggestions for the lavish festival coming in "
+"seven months."
+msgstr ""
+"Организаторы обсуждают предложения жителей касательно роскошного праздника, "
+"который состоится через семь месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Lavish_In_8"
+msgid ""
+"Some entertainers are working out new routines for the lavish festival eight "
+"months hence."
+msgstr ""
+"Некоторые артисты придумывают новые выступления для роскошного праздника, "
+"который пройдет через восемь месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Lavish_In_9"
+msgid ""
+"With so much planning left to do, the lavish festival won't occur for "
+"another nine months."
+msgstr ""
+"Осталось еще столько всего подготовить, что роскошный праздник может пройти "
+"только через девять месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Preparation_1"
+msgid ""
+"Festivals take so much time and effort to prepare that it might be wise to "
+"order one now."
+msgstr ""
+"На подготовку к празднику требуется столько времени и сил, что приказ о "
+"начале работ стоит отдать уже сейчас."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Preparation_2"
+msgid ""
+"The last festival was long enough ago that it's just about time to order "
+"another."
+msgstr ""
+"С последнего праздника как раз прошло достаточно времени, чтобы начать "
+"подготовку следующего."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Since_1"
+msgid ""
+"It's been a few months since the last festival. This would be a good time "
+"for another."
+msgstr ""
+"С последнего праздника прошло уже несколько месяцев. Самое время провести "
+"новый."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Since_2"
+msgid ""
+"There have been no festivals for quite some time, people are starting to "
+"complain."
+msgstr ""
+"Праздники не проводились уже довольно долгое время. Люди начинают жаловаться."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Since_3"
+msgid ""
+"It's been more than a year since the last festival. People feel bored and "
+"overworked."
+msgstr ""
+"С последнего праздника прошло уже больше года. Людям скучно и они измотаны "
+"бесконечной работой."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Since_4"
+msgid ""
+"It's been almost two years since the last festival. The people desperately "
+"need a break."
+msgstr ""
+"С последнего праздника прошло уже почти два года. Людям срочно нужно "
+"отдохнуть и развеяться."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Since_5"
+msgid ""
+"More than two years have passed with no festivals! People are starting to "
+"feel hopeless."
+msgstr ""
+"В городе уже больше двух лет не проводятся праздники! Люди начинают терять "
+"надежду."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Since_6"
+msgid ""
+"People talk wistfully of 'the good old days', when festivals used to relieve "
+"the monotony."
+msgstr ""
+"Люди с ностальгией вспоминают былые времена, когда праздники разбавляли "
+"монотонность быта."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Small_In_1"
+msgid ""
+"The common festival is nearly ready. People are all talking about next "
+"month's holiday."
+msgstr ""
+"Все почти готово к обычному празднику. Люди кругом обсуждают, как отдохнут в "
+"следующем месяце."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Small_In_10"
+msgid ""
+"Another one already? It will be ten months before organizers can hold a "
+"common festival."
+msgstr ""
+"Еще один? Организаторам потребуется десять месяцев на подготовку обычного "
+"праздника."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Small_In_2"
+msgid ""
+"The common festival is being prepared. Just two more months until everyone "
+"gets a holiday!"
+msgstr ""
+"Обычный праздник готовится. Всего два месяца — и тогда все смогут отдохнуть."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Small_In_3"
+msgid ""
+"Preparations for the common festival being held in three months will begin "
+"next month."
+msgstr ""
+"Подготовка к празднику, который пройдет через три месяца, начнется в "
+"следующем месяце."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Small_In_4"
+msgid ""
+"Festival organizers are firming up plans for the common festival coming in "
+"four months."
+msgstr ""
+"Организаторы утверждают планы на праздник, который состоится через четыре "
+"месяца."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Small_In_5"
+msgid ""
+"The common festival will take place in five months. Organizers are reviewing "
+"suggestions."
+msgstr ""
+"Обычный праздник пройдет через пять месяцев. Организаторы рассматривают "
+"поступившие предложения."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Small_In_6"
+msgid ""
+"Planners are confident that they will be ready for a common festival in six "
+"more months."
+msgstr ""
+"Ответственные за проведение уверены, что через шесть месяцев будут полностью "
+"готовы к обычному празднику."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Small_In_7"
+msgid ""
+"Harried organizers promise that your common festival will be held seven "
+"months from now."
+msgstr ""
+"Задерганные организаторы обещают, что обычный праздник пройдет через семь "
+"месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Small_In_8"
+msgid ""
+"The common festival won't occur for another eight months. Planning has "
+"barely even begun."
+msgstr ""
+"До обычного праздника еще не менее восьми месяцев. Подготовка только "
+"началась."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Small_In_9"
+msgid ""
+"Festival organizers are so busy that your requested common festival is nine "
+"months away."
+msgstr ""
+"Организаторы праздника настолько завалены работой, что обычный праздник, "
+"который вы заказали, состоится через девять месяцев."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Soon"
+msgid ""
+"That festival put everyone into such good spirits, the city should hold "
+"another one soon."
+msgstr ""
+"Праздник настолько поднял всем настроение, что стоит скоро провести еще один."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Start_Grand_Content"
+msgid ""
+"The much-anticipated two-day festival is under way at last! Everyone's "
+"converging on the Festival Square for free beer and wild entertainment. The "
+"god honored by this event is surely smiling upon you."
+msgstr ""
+"Долгожданный двухдневный праздник наконец-то начинается! Все собираются на "
+"праздничной площади, чтобы выпить бесплатного пива и поглазеть на "
+"выступления. Бог, которому возносят честь на этом празднике, несомненно "
+"улыбается вам."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Start_Grand_Title"
+msgid "Grand festival"
+msgstr "Масштабный праздник"
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Start_Lavish_Content"
+msgid ""
+"The day-long festival is starting. People all over the city are heading for "
+"the Festival Square now, and seem to be in good spirits. Your chosen god "
+"appreciates your dedication."
+msgstr ""
+"Начинается праздник, который продлится целый день. Люди со всего города "
+"стекаются на праздничную площадь и, похоже, они всем довольны. Избранный "
+"вами бог видит ваше усердие."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Start_Lavish_Title"
+msgid "Lavish festival"
+msgstr "Роскошный праздник"
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Start_Small_Content"
+msgid ""
+"Everyone appreciates getting out of work early to relax for a while at the "
+"Festival Square, and your chosen god notices your kind gesture."
+msgstr ""
+"Все любят закончить работу пораньше и отдохнуть на праздничной площади, а "
+"избранный вами бог тоже увидит ваш добрый жест."
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Start_Small_Title"
+msgid "Common festival"
+msgstr "Обычный праздник"
+
+msgctxt "#Festival_Type_Choice"
+msgid "Choose festival type :"
+msgstr ""
+
+#, fuzzy, fuzzy
+msgctxt "#Festival_Wonderful"
+msgid ""
+"That was such a wonderful festival! It takes a lot of time to prepare a gala "
+"like that."
+msgstr ""
+"Праздник был просто великолепный! Народные гуляния такого размаха "
+"организовать непросто."
+
+msgctxt "#New_Festival"
+msgid "Hold Festival"
+msgstr ""
+
+msgctxt "#Osiris"
+msgid "Osiris"
+msgstr "Осирис"
+
+#, fuzzy, fuzzy
+msgctxt "#Osiris_flavor"
+msgid "God of Agriculture and the Nile Flood"
+msgstr "Бог земледелия и нильских разливов"
+
+msgctxt "#Ptah"
+msgid "Ptah"
+msgstr "Птах"
+
+#, fuzzy, fuzzy
+msgctxt "#Ptah_flavor"
+msgid "God of Craftsmen"
+msgstr "Бог ремесленников"
+
+msgctxt "#Ra"
+msgid "Ra"
+msgstr "Ра"
+
+#, fuzzy, fuzzy
+msgctxt "#Ra_flavor"
+msgid "God of the Kingdom"
+msgstr "Бог государства"
+
+msgctxt "#Seth"
+msgid "Seth"
+msgstr "Сет"
+
+#, fuzzy, fuzzy
+msgctxt "#Seth_flavor"
+msgid "God of Destruction"
+msgstr "Бог разрушений"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Bast_Fire"
+msgid ""
+"Terrible news! Because your city neglects to show her the honor she is due, "
+"Bast, Goddess of the Home, leveled some of its best houses!"
+msgstr ""
+"Ужасные вести! Ваш город оказывал Баст слишком мало почестей, и богиня "
+"домашнего очага уничтожила часть лучших домов!"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Bast_Title"
+msgid "Wrath of Bast"
+msgstr "Гнев Баст"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Osiris_DestroyFarm"
+msgid ""
+"The lord of the Nile flood will punish this city for its lack of devotion, "
+"and next year's flood will destroy all farms in its path!"
+msgstr ""
+"Повелитель Нила покарает город за недостаточное поклонение, и разлив "
+"следующего года уничтожит все фермы на своем пути!"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Osiris_NoFlood"
+msgid ""
+"Terrible new! Because your city neglects to show him the honor he is due, "
+"Osiris, God of Agriculture, made sure that there would be no Inundation this "
+"year!"
+msgstr ""
+"Ужасные вести! Ваш город оказывал ему слишком мало почестей, и Осирис, бог "
+"плодородия, проследил, чтобы в этом году разлива не случилось!"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Osiris_Title"
+msgid "Wrath of Osiris"
+msgstr "Гнев Осириса"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Ptah_Storage"
+msgid ""
+"Dismayed by your disinterest in him, Ptah destroys one of your Storage Yards "
+"and whatever goods it held."
+msgstr ""
+"Оскорбленный вашим безразличием, Птах уничтожил один склад и все, что на нем "
+"хранилось."
+
+msgctxt "#Wrath_Major_Ptah_StorageFail"
+msgid ""
+"Your city escaped the anger of Ptah by having no Storage Yard for the god to "
+"burn. Be wary, nonetheless, of provoking the God of Craftsmen, for his anger "
+"takes many forms and his memory is long."
+msgstr ""
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Ptah_Title"
+msgid "Wrath of Ptah"
+msgstr "Гнев Птаха"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Ra_Kingdom"
+msgid ""
+"Ra punishes your arrogance by severely lowering your reputation throughout "
+"the Kingdom. As you spurned the god, so shall other Egyptians belittle you."
+msgstr ""
+"Ра покарал вас за наглость и значительно ухудшил вашу репутацию в "
+"государстве. Вы оскорбили бога, и теперь другие египтяне от вас отвернутся."
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Ra_Title"
+msgid "Wrath of Ra"
+msgstr "Гнев Ра"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Seth_Navy"
+msgid "Your disregard for Seth prompts the god to destroy all of your ships!"
+msgstr "Из-за вашего безразличия Сет уничтожил все ваши корабли!"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Seth_NavyFail"
+msgid ""
+"Your city escaped the anger of Seth by having no military assets for the god "
+"to destroy. Be wary, nonetheless, of provoking the God of Destruction, for "
+"his anger takes many forms and his memory is long."
+msgstr ""
+"Ваш город избежал божественного гнева только благодаря тому, что в нем не "
+"было войск и защитных сооружений, которые хотел уничтожить Сет. Но не злите "
+"бога разрушений, ибо память его крепка, а ярость способна принять разные "
+"формы."
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Major_Seth_Title"
+msgid "Wrath of Seth"
+msgstr "Гнев Сета"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Bast_FullHouses"
+msgid ""
+"The goddess Bast, stung by your indifference, sends a plague to stalk your "
+"city. Remember that health and happiness flow from her."
+msgstr ""
+"Богиня Баст, уязвленная вашим равнодушием, насылает на город чуму. Помните, "
+"что именно Баст дарует здоровье и счастье."
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Bast_Title"
+msgid "Bast is upset"
+msgstr "Баст недовольна"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Osiris_Title"
+msgid "Osiris is upset"
+msgstr "Осирис недоволен"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Osiris_WorstFlood"
+msgid ""
+"Osiris reminds you that respect is due. The next Inundation will be poorer "
+"than we had expected."
+msgstr ""
+"Осирис напоминает, что требует почтения. Следующий разлив будет хуже, чем "
+"ожидалось."
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Ptah_Industry"
+msgid ""
+"Ptah takes offense at your pride in believing that your city can be "
+"industrious without paying him respect. He destroyed some industrial "
+"buildings as a reminder to you."
+msgstr ""
+"Птаха оскорбила ваша горделивая уверенность в том, что город сможет "
+"процветать и без восхваления бога ремесленников. В назидание он уничтожил "
+"некоторые из ваших производственных зданий."
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Ptah_IndustryFail"
+msgid ""
+"You have incurred the anger of Ptah! Your city currently has no industries "
+"to punish, but mind this god carefully when you start mining, manufacturing "
+"or quarrying."
+msgstr ""
+"Вы вызвали гнев Птаха! Сейчас в вашем городе нет производств, которые он мог "
+"бы покарать, но следите за тем, чтобы не прогневить Птаха, когда начнете "
+"добывать камень и металлы и производить товары."
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Ptah_Title"
+msgid "Ptah is upset"
+msgstr "Птах недоволен"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Ra_Kingdom"
+msgid ""
+"Angered by your disrespect for him, Ra lowers your own reputation in the "
+"eyes of the Kingdom."
+msgstr ""
+"Разозленный вашим неуважением, Ра понижает вашу репутацию в глазах "
+"государства."
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Ra_Title"
+msgid "Ra is upset"
+msgstr "Ра недоволен"
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Ra_Trade"
+msgid ""
+"As you have spurned Ra, so shall your trade partners spurn your city's "
+"goods. They have decided to reduce the amount they are willing to trade with "
+"you."
+msgstr ""
+"Как вы отвернулись от Ра, так и ваши торговые партнеры отвернутся от вас. "
+"Они решили сократить количество товаров для сделок с вами."
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Ra_Trade_var"
+msgid ""
+"You incurred Ra's anger! The god lowered the opinion of your city's goods, "
+"and your trade partners will now trade far less than they did previously."
+msgstr ""
+"Вы вызвали гнев Ра! Он ухудшил мнение египтян о товарах из вашего города, и "
+"теперь с вами будут торговать гораздо меньше, чем раньше."
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Seth_Fort"
+msgid ""
+"To remind you that Seth protects only those who show the proper respect, the "
+"god destroys your best company of soldiers and razes their Fort."
+msgstr ""
+"В напоминание о том, что он защищает лишь тех, кто возносит ему положенные "
+"почести, Сет уничтожает ваш лучший отряд и стирает с лица земли их крепость."
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Seth_FortFail"
+msgid ""
+"Your city escaped the anger of Seth by having no military assets for the god "
+"to destroy. Be wary, nonetheless, of provoking the God of Destruction, for "
+"his anger takes many forms and his memory is long."
+msgstr ""
+"Ваш город избежал божественного гнева только благодаря тому, что в нем не "
+"было войск и защитных сооружений, которые хотел уничтожить Сет. Но не злите "
+"бога разрушений, ибо память его крепка, а ярость способна принять разные "
+"формы."
+
+#, fuzzy, fuzzy
+msgctxt "#Wrath_Minor_Seth_Title"
+msgid "Seth is upset"
+msgstr "Сет недоволен"

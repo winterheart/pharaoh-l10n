@@ -1,0 +1,25 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#NavalLostNoLandCombat"
+msgid ""
+"While your troops were defeated during the naval battle, your enemies didn't"
+" bring any land troops to besiege your city. You are safe, for now..."
+msgstr ""
+
+msgctxt "#NavalWinNoLandCombat"
+msgid ""
+"Your soldiers destroyed every single enemy ship and they were unable to "
+"disembark any troops to siege your city! "
+msgstr ""

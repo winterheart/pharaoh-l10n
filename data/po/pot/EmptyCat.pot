@@ -1,0 +1,57 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#Building"
+msgid "Building"
+msgstr ""
+
+msgctxt "#Companies"
+msgid "Companies"
+msgstr ""
+
+msgctxt "#Company"
+msgid "Company"
+msgstr ""
+
+msgctxt "#Soldier"
+msgid "Soldier"
+msgstr ""
+
+msgctxt "#Soldiers"
+msgid "Soldiers"
+msgstr ""
+
+msgctxt "#Victory_Difficulty"
+msgid "Least-difficult level:"
+msgstr ""
+
+msgctxt "#Victory_Duration"
+msgid "Mission was completed in"
+msgstr ""
+
+msgctxt "#Victory_Duration_Months"
+msgid "months"
+msgstr ""
+
+msgctxt "#Warship"
+msgid "Warship"
+msgstr ""
+
+msgctxt "#Warships"
+msgid "Warships"
+msgstr ""
+
+msgctxt "Buildings_NoRoadAccess"
+msgid "This building needs road access"
+msgstr ""

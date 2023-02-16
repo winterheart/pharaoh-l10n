@@ -1,0 +1,65 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "Assyrians"
+msgid "an Assyrian army"
+msgstr ""
+
+msgctxt "Canaanites"
+msgid "a Canaanite army"
+msgstr ""
+
+msgctxt "Egyptians"
+msgid "an Eygptian army"
+msgstr ""
+
+msgctxt "Hittites"
+msgid "a Hittite army"
+msgstr ""
+
+msgctxt "Hyksos"
+msgid "a Hyksos army"
+msgstr ""
+
+msgctxt "Kushites"
+msgid "a Kushite army"
+msgstr ""
+
+msgctxt "Libyans"
+msgid "a Libyan army"
+msgstr ""
+
+msgctxt "Mitani"
+msgid "a Mitani army"
+msgstr ""
+
+msgctxt "Nubians"
+msgid "a Nubian army"
+msgstr ""
+
+msgctxt "Persians"
+msgid "a Persian army"
+msgstr ""
+
+msgctxt "Phoenicians"
+msgid "a Phoenician army"
+msgstr ""
+
+msgctxt "Romans"
+msgid "a Roman army"
+msgstr ""
+
+msgctxt "SeaPeople"
+msgid "an army of the Sea People"
+msgstr ""

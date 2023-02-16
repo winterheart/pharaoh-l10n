@@ -1,0 +1,507 @@
+#
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 20:56\n"
+"PO-Revision-Date: 2023-02-16 14:02+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <azamat.hackimov@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+msgctxt "#Abedju"
+msgid "Abedju"
+msgstr "Абджу"
+
+msgctxt "#Abu"
+msgid "Abu"
+msgstr "Абу"
+
+msgctxt "#AbuSimbel"
+msgid "Abu Simbel"
+msgstr "Абу-Симбел"
+
+msgctxt "#Actium"
+msgid "Actium"
+msgstr "Акциум"
+
+msgctxt "#Alexandria"
+msgid "Alexandria"
+msgstr "Александрия"
+
+msgctxt "#Athens"
+msgid "Athens"
+msgstr "Афины"
+
+msgctxt "#BahariyaOasis"
+msgid "Bahariya Oasis"
+msgstr "Бахария"
+
+msgctxt "#Baki"
+msgid "Baki"
+msgstr "Баки"
+
+msgctxt "#Behdet"
+msgid "Behdet"
+msgstr "Бехдет"
+
+msgctxt "#Bubastis"
+msgid "Bubastis"
+msgstr "Бубастис"
+
+msgctxt "#Buhen"
+msgid "Buhen"
+msgstr "Бухен"
+
+msgctxt "#Byblos"
+msgid "Byblos"
+msgstr "Библ"
+
+msgctxt "#Canaan"
+msgid "CANAAN"
+msgstr "ХАНААН"
+
+msgctxt "#CapturedCity"
+msgid "A captured city"
+msgstr "Захваченный город"
+
+#, fuzzy, fuzzy
+msgctxt "#CityTradeBought"
+msgid "Bought"
+msgstr "Куплено:"
+
+#, fuzzy, fuzzy
+msgctxt "#CityTradeBuys"
+msgid "Buys"
+msgstr "Покупает:"
+
+#, fuzzy, fuzzy
+msgctxt "#CityTradeSells"
+msgid "Sells"
+msgstr "Продает:"
+
+#, fuzzy, fuzzy
+msgctxt "#CityTradeSold"
+msgid "Sold"
+msgstr "Продано:"
+
+#, fuzzy, fuzzy
+msgctxt "#Cleoantonopolis"
+msgid "Cleoantonopolis"
+msgstr "Клеоантонополис"
+
+#, fuzzy, fuzzy
+msgctxt "#CommerceOverseer"
+msgid "To Overseer of Commerce"
+msgstr "К советнику по торговле"
+
+#, fuzzy, fuzzy
+msgctxt "#CostToOpen"
+msgid "Cost to open"
+msgstr "Цена открытия"
+
+msgctxt "#Crete"
+msgid "CRETE"
+msgstr "КРИТ"
+
+msgctxt "#Cyprus"
+msgid "CYPRUS"
+msgstr "КИПР"
+
+msgctxt "#Dahshur"
+msgid "Dahshur"
+msgstr "Дахшур"
+
+msgctxt "#DakhlaOasis"
+msgid "Dakhla Oasis"
+msgstr "Дахла"
+
+msgctxt "#Deir el-Medina"
+msgid "Deir el-Medina"
+msgstr "Дейр-эль-Медина"
+
+msgctxt "#Delta"
+msgid "DELTA"
+msgstr "ДЕЛЬТА"
+
+msgctxt "#DistantCity"
+msgid "A distant city"
+msgstr "Далёкий город"
+
+msgctxt "#Djedu"
+msgid "Djedu"
+msgstr "Джеду"
+
+#, fuzzy, fuzzy
+msgctxt "#Dunqul Oasis"
+msgid "Dunqul Oasis"
+msgstr "Оазис Дункул"
+
+msgctxt "#EasternAfrica"
+msgid "EASTERN AFRICA"
+msgstr "ВОСТОЧНАЯ АФРИКА"
+
+msgctxt "#EasternDesert"
+msgid "EASTERN DESERT"
+msgstr "ВОСТОЧНАЯ ПУСТЫНЯ"
+
+msgctxt "#EgyptianCity"
+msgid "An Egyptian city"
+msgstr "Египетский город"
+
+msgctxt "#EgyptianCity_Trade"
+msgid "Egyptian Trade City"
+msgstr "Египетский торговый город"
+
+#, fuzzy, fuzzy
+msgctxt "#Enkomi"
+msgid "Enkomi"
+msgstr "Энгоми"
+
+msgctxt "#Farafra Oasis"
+msgid "Farafra Oasis"
+msgstr "Фарафра"
+
+#, fuzzy, fuzzy
+msgctxt "#Fayuum"
+msgid "FAYUUM"
+msgstr "ЭЛЬ-ФАЙЮМ"
+
+msgctxt "#ForeignCIty"
+msgid "Foreign City"
+msgstr "Чужеземный город"
+
+msgctxt "#ForeignCIty_Trade"
+msgid "Foreign Trade City"
+msgstr "Чужеземный торговый город"
+
+msgctxt "#Gaza"
+msgid "Gaza"
+msgstr "Газа"
+
+msgctxt "#Greece"
+msgid "GREECE"
+msgstr "ГРЕЦИЯ"
+
+msgctxt "#Heh"
+msgid "Heh"
+msgstr "Хех"
+
+#, fuzzy, fuzzy
+msgctxt "#Henen-nesw"
+msgid "Henen-nesw"
+msgstr "Хенен-Несут"
+
+#, fuzzy, fuzzy
+msgctxt "#Hetepsenusret"
+msgid "Hetepsenusret"
+msgstr "Хетепсенусерт"
+
+#, fuzzy, fuzzy
+msgctxt "#Iken"
+msgid "Iken"
+msgstr "Икен"
+
+msgctxt "#Itjtawy"
+msgid "Itjtawy"
+msgstr "Иттауи"
+
+#, fuzzy, fuzzy
+msgctxt "#Iunet"
+msgid "Iunet"
+msgstr "Иунет"
+
+msgctxt "#Jericho"
+msgid "Jericho"
+msgstr "Иерихон"
+
+#, fuzzy, fuzzy
+msgctxt "#Kebet"
+msgid "Kebet"
+msgstr "Кебет"
+
+msgctxt "#Kerma"
+msgid "Kerma"
+msgstr "Керма"
+
+msgctxt "#Kharga Oasis"
+msgid "Kharga Oasis"
+msgstr "Харга"
+
+#, fuzzy, fuzzy
+msgctxt "#Khmun"
+msgid "Khmun"
+msgstr "Хмун"
+
+msgctxt "#Knossos"
+msgid "Knossos"
+msgstr "Кносс"
+
+msgctxt "#Kyrene"
+msgid "Kyrene"
+msgstr "Кирена"
+
+msgctxt "#Lebanon"
+msgid "LEBANON"
+msgstr "ЛИВАН"
+
+msgctxt "#Libya"
+msgid "LIBYA"
+msgstr "ЛИВИЯ"
+
+msgctxt "#LowerEgypt"
+msgid "LOWER EGYPT"
+msgstr "НИЖНИЙ ЕГИПЕТ"
+
+#, fuzzy, fuzzy
+msgctxt "#Maritis"
+msgid "Maritis"
+msgstr "Маритис"
+
+msgctxt "#Meidum"
+msgid "Meidum"
+msgstr "Медум"
+
+msgctxt "#Men-nefer"
+msgid "Men-nefer"
+msgstr "Мен-нефер"
+
+#, fuzzy, fuzzy
+msgctxt "#MenatKhufu"
+msgid "Menat Khufu"
+msgstr "Менат-Хуфу"
+
+#, fuzzy, fuzzy
+msgctxt "#Migdol"
+msgid "Migdol"
+msgstr "Мигдол"
+
+msgctxt "#Mycenae"
+msgid "Mycenae"
+msgstr "Микены"
+
+msgctxt "#Nekhen"
+msgid "Nekhen"
+msgstr "Нехен"
+
+#, fuzzy, fuzzy
+msgctxt "#NorthDashur"
+msgid "North Dashur"
+msgstr "Северный Дашур"
+
+msgctxt "#Nubia"
+msgid "NUBIA"
+msgstr "НУБИЯ"
+
+msgctxt "#Nubt"
+msgid "Nubt"
+msgstr "Нубет"
+
+#, fuzzy, fuzzy
+msgctxt "#On"
+msgid "On"
+msgstr "Он"
+
+msgctxt "#OpenCommercialRoad"
+msgid "Open trade route"
+msgstr "Открыть торговый путь"
+
+#, fuzzy, fuzzy
+msgctxt "#OpenCommericalLandRoadContent"
+msgid "Pay to open this land trade route?"
+msgstr "Заплатить, чтобы открыть этот наземный торговый маршрут?"
+
+#, fuzzy, fuzzy
+msgctxt "#OpenCommericalWaterRoadContent"
+msgid "Pay to open this water trade route?"
+msgstr "Заплатить, чтобы открыть этот водный торговый маршрут?"
+
+#, fuzzy, fuzzy
+msgctxt "#OpenLandRoute"
+msgid "{0}<sprite name=\"Deben\">to open land trade route"
+msgstr "{0} <sprite name=\"Deben\"> за открытие наземного торгового маршрута"
+
+#, fuzzy, fuzzy
+msgctxt "#OpenWaterRoute"
+msgid "{0}<sprite name=\"Deben\">to open water trade route"
+msgstr "{0} <sprite name=\"Deben\"> за открытие водного торгового маршрута"
+
+msgctxt "#OurCity"
+msgid "Our city!"
+msgstr "Наш город!"
+
+msgctxt "#Palestine"
+msgid "PALESTINE"
+msgstr "ПАЛЕСТИНА"
+
+#, fuzzy, fuzzy
+msgctxt "#Perwadjyt"
+msgid "Perwadjyt"
+msgstr "Перваджит"
+
+#, fuzzy, fuzzy
+msgctxt "#PharaohCity"
+msgid "The Pharaoh's city"
+msgstr "Город фараона"
+
+#, fuzzy, fuzzy
+msgctxt "#PharaohCity_Trade"
+msgid "Pharaoh Trade City"
+msgstr "Торговый город фараона"
+
+#, fuzzy, fuzzy
+msgctxt "#Pi-Yer"
+msgid "Pi-Yer"
+msgstr "Пи-Ер"
+
+msgctxt "#Piramesse"
+msgid "Piramesse"
+msgstr "Пер-Рамсес"
+
+msgctxt "#Pwenet"
+msgid "Pwenet"
+msgstr "Пунт"
+
+msgctxt "#Qadesh"
+msgid "Qadesh"
+msgstr "Кадеш"
+
+#, fuzzy, fuzzy
+msgctxt "#Quantity"
+msgid "{0} of {1}"
+msgstr "{1}: {0}"
+
+msgctxt "#Rome"
+msgid "Rome"
+msgstr "Рим"
+
+#, fuzzy, fuzzy
+msgctxt "#Rostja"
+msgid "Rostja"
+msgstr "Ростау"
+
+#, fuzzy, fuzzy
+msgctxt "#Rowarty"
+msgid "Rowarty"
+msgstr "Роварти"
+
+msgctxt "#Saqqara"
+msgid "Saqqara"
+msgstr "Саккара"
+
+#, fuzzy, fuzzy
+msgctxt "#Sauty"
+msgid "Sauty"
+msgstr "Саути"
+
+#, fuzzy, fuzzy
+msgctxt "#Sawu"
+msgid "Sawu"
+msgstr "Саву"
+
+#, fuzzy, fuzzy
+msgctxt "#SelimaOasis"
+msgid "Selima Oasis"
+msgstr "Оазис Селима"
+
+#, fuzzy, fuzzy
+msgctxt "#SerabitKhadim"
+msgid "Serabit Khadim"
+msgstr "Серабит-Хадим"
+
+#, fuzzy, fuzzy
+msgctxt "#Shaat"
+msgid "Shaat"
+msgstr "Шаат"
+
+msgctxt "#Sharuhen"
+msgid "Sharuhen"
+msgstr "Шарухен"
+
+msgctxt "#Sinai"
+msgid "SINAI"
+msgstr "СИНАЙ"
+
+#, fuzzy, fuzzy
+msgctxt "#Siwi Oasis"
+msgid "Siwi Oasis"
+msgstr "Оазис Сиви"
+
+#, fuzzy, fuzzy
+msgctxt "#SouthDashur"
+msgid "South Dashur"
+msgstr "Южный Дашур"
+
+msgctxt "#Sumur"
+msgid "Sumur"
+msgstr "Симира"
+
+msgctxt "#Syria"
+msgid "SYRIA"
+msgstr "СИРИЯ"
+
+msgctxt "#Tanis"
+msgid "Tanis"
+msgstr "Танис"
+
+msgctxt "#Thinis"
+msgid "Thinis"
+msgstr "Тинис"
+
+msgctxt "#Timna"
+msgid "Timna"
+msgstr "Тимна"
+
+msgctxt "#Toshka"
+msgid "Toshka"
+msgstr "Тошка"
+
+#, fuzzy, fuzzy
+msgctxt "#TradeRouteClose"
+msgid "trade route shuts down"
+msgstr "торговый маршрут закрыт"
+
+#, fuzzy, fuzzy
+msgctxt "#TradeRouteClosed"
+msgid "This trading route is not yet established"
+msgstr "Этот торговый маршрут еще не открыт."
+
+msgctxt "#TradeRouteInfoLand"
+msgid "Land route"
+msgstr ""
+
+msgctxt "#TradeRouteInfoWater"
+msgid "Water route"
+msgstr "морской путь"
+
+#, fuzzy, fuzzy
+msgctxt "#TradeRouteOpen"
+msgid "trade route now available"
+msgstr "доступен торговый маршрут"
+
+msgctxt "#Tyre"
+msgid "Tyre"
+msgstr "Тир"
+
+msgctxt "#Undersiege"
+msgid "trade city under siege"
+msgstr "торговый город в осаде"
+
+msgctxt "#UpperEgypt"
+msgid "UPPER EGYPT"
+msgstr "ВЕРХНИЙ ЕГИПЕТ"
+
+msgctxt "#Waset"
+msgid "Waset"
+msgstr "Уасет"
+
+msgctxt "#WesternDesert"
+msgid "WESTERN DESERT"
+msgstr "ЗАПАДНАЯ ПУСТЫНЯ"

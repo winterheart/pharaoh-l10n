@@ -1,0 +1,830 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#AD"
+msgid "AD"
+msgstr ""
+
+msgctxt "#April"
+msgid "April"
+msgstr ""
+
+msgctxt "#April_Short"
+msgid "Apr"
+msgstr ""
+
+msgctxt "#August"
+msgid "August"
+msgstr ""
+
+msgctxt "#August_Short"
+msgid "Aug"
+msgstr ""
+
+msgctxt "#Autosave"
+msgid "autosave"
+msgstr ""
+
+msgctxt "#BC"
+msgid "BC"
+msgstr ""
+
+msgctxt "#Battle_Defeat_Debt"
+msgid ""
+"With no debens <sprite name=\"Deben\"> in your treasury, invaders decided to"
+" stay and oust your from power. They'll find someone that will not leave an "
+"empty vault behind them."
+msgstr ""
+
+msgctxt "#Battle_Defeat_DebtANDKingdom"
+msgid ""
+"You've lost the battle, but you've also lost the respect of your population "
+"and your fellow Egyptians. Now that there is no army to defend you, your own"
+" people oust you from power!"
+msgstr ""
+
+msgctxt "#Battle_Defeat_Kingdom"
+msgid ""
+"As your reputation in Egypt is so low, invaders oust you from power without "
+"any trouble, and will rule {[city_name]} in your place!"
+msgstr ""
+
+msgctxt "#Battle_Defeat_Normal"
+msgid ""
+"Invaders pillaged your treasury, {[debens]} debens <sprite name=\"Deben\"> were stolen and some of your buildings were destroyed.\n"
+" They've now retreated, but that will not be the case if your city find itself in debt or if your Kingdom Rating falls too low."
+msgstr ""
+
+msgctxt "#Battle_Victory"
+msgid ""
+"You have defeated the invaders! {[city_name]} is safe for now...\n"
+" Rebuild your army as soon as possible!"
+msgstr ""
+
+msgctxt "#CampaignSave"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "#Campaign_Save_Details"
+msgid "Last save on {[cityname]} {[year]} {[month]} {[day]}"
+msgstr ""
+
+msgctxt "#Campaign_Save_None"
+msgid "There is no campaign save for this family"
+msgstr ""
+
+msgctxt "#Cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "#CityFunds"
+msgid "Current city funds"
+msgstr ""
+
+msgctxt "#CityPopulation"
+msgid "Current city population"
+msgstr ""
+
+msgctxt "#Clear_History"
+msgid "Clear"
+msgstr ""
+
+msgctxt "#Completed"
+msgid "Completed"
+msgstr ""
+
+msgctxt "#Confirm"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "#Continue"
+msgid "Continue"
+msgstr ""
+
+msgctxt "#Create_Family"
+msgid "Create Family"
+msgstr ""
+
+msgctxt "#Create_Save"
+msgid "New Save"
+msgstr ""
+
+msgctxt "#CurrentDate"
+msgid "The current date!"
+msgstr ""
+
+msgctxt "#December"
+msgid "December"
+msgstr ""
+
+msgctxt "#December_Short"
+msgid "Dec"
+msgstr ""
+
+msgctxt "#DesirabilityOverlay_Hover_0"
+msgid "This is one of the least desirable places in town"
+msgstr ""
+
+msgctxt "#DesirabilityOverlay_Hover_1"
+msgid "No one would prefer to live here, but there are worse places"
+msgstr ""
+
+msgctxt "#DesirabilityOverlay_Hover_2"
+msgid "People have no strong feelings about this area's desirability"
+msgstr ""
+
+msgctxt "#DesirabilityOverlay_Hover_3"
+msgid "This area is better than some, although not highly attractive"
+msgstr ""
+
+msgctxt "#DesirabilityOverlay_Hover_4"
+msgid "Most people would find this a pleasant place to live"
+msgstr ""
+
+msgctxt "#DesirabilityOverlay_Hover_5"
+msgid "This is among the most fashionable addresses in your city"
+msgstr ""
+
+msgctxt "#Enter_Name"
+msgid "Enter a family name"
+msgstr ""
+
+msgctxt "#Enter_Save_Name"
+msgid "Enter a save name"
+msgstr ""
+
+msgctxt "#Family_Avatar"
+msgid "Choose an avatar"
+msgstr ""
+
+msgctxt "#February"
+msgid "February"
+msgstr ""
+
+msgctxt "#February_Short"
+msgid "Feb"
+msgstr ""
+
+msgctxt "#FinalCityFunds"
+msgid "Final City Funds"
+msgstr ""
+
+msgctxt "#FinalCultureRating"
+msgid "Final Culture Rating"
+msgstr ""
+
+msgctxt "#FinalKingdomRating"
+msgid "Final Kingdom Rating"
+msgstr ""
+
+msgctxt "#FinalMonumentRating"
+msgid "Final Monument rating"
+msgstr ""
+
+msgctxt "#FinalPopulation"
+msgid "Final Population"
+msgstr ""
+
+msgctxt "#FinalProsperityRating"
+msgid "Final Prosperity Rating"
+msgstr ""
+
+msgctxt "#Funds_hover"
+msgid "Make sure you don't go into debt"
+msgstr ""
+
+msgctxt "#Funds_hover_EmergencyFundUsed"
+msgid "You already used your emergency fund, don't go into debt again."
+msgstr ""
+
+msgctxt "#Funds_hover_Negative"
+msgid "Find a way to make some deben before you reach a debt of 5000"
+msgstr ""
+
+msgctxt "#Funds_hover_Over5000"
+msgid ""
+"You won't be able to build anything unless you debt gets lower than 5000 "
+"debens"
+msgstr ""
+
+msgctxt "#Game_Selectin_Mission"
+msgid "Mission Selection"
+msgstr ""
+
+msgctxt "#Game_Selection_Campaign"
+msgid "Campaigns"
+msgstr ""
+
+msgctxt "#Game_Selection_Load"
+msgid "Load game"
+msgstr ""
+
+msgctxt "#Home"
+msgid "Home"
+msgstr ""
+
+msgctxt "#Hover_BastetOverlay"
+msgid "Bastet Overlay"
+msgstr ""
+
+msgctxt "#Hover_BazaarOverlay"
+msgid "Bazaar Overlay"
+msgstr ""
+
+msgctxt "#Hover_Briefing"
+msgid "Briefing"
+msgstr ""
+
+msgctxt "#Hover_ChiefOverseer"
+msgid "Chief Overseer"
+msgstr ""
+
+msgctxt "#Hover_CloseOverlay"
+msgid "Close active overlay"
+msgstr ""
+
+msgctxt "#Hover_CollapseOverlay"
+msgid "Collapse Risk Overlay"
+msgstr ""
+
+msgctxt "#Hover_CrimeOverlay"
+msgid "Crime Risk Overlay"
+msgstr ""
+
+msgctxt "#Hover_DancersOverlay"
+msgid "Dancers Overlay"
+msgstr ""
+
+msgctxt "#Hover_DentistsOverlay"
+msgid "Dentists Overlay"
+msgstr ""
+
+msgctxt "#Hover_DesirabilityOverlay"
+msgid "Desirability Overlay"
+msgstr ""
+
+msgctxt "#Hover_DiseasesOverlay"
+msgid "Diseases Risk Overlay"
+msgstr ""
+
+msgctxt "#Hover_EducationOverlay"
+msgid "Education Overlay"
+msgstr ""
+
+msgctxt "#Hover_EmbalmersOverlay"
+msgid "Embalmers Overlay"
+msgstr ""
+
+msgctxt "#Hover_Encyclopedia"
+msgid "Encyclopedia"
+msgstr ""
+
+msgctxt "#Hover_EntertainmentOverlay"
+msgid "Entertainment Overlay"
+msgstr ""
+
+msgctxt "#Hover_FireOverlay"
+msgid "Fire Risk Overlay"
+msgstr ""
+
+msgctxt "#Hover_HealthOverlay"
+msgid "Health Overlay"
+msgstr ""
+
+msgctxt "#Hover_Help"
+msgid "Ingame Help"
+msgstr ""
+
+msgctxt "#Hover_HerbalistsOverlay"
+msgid "Herbalists Overlay"
+msgstr ""
+
+msgctxt "#Hover_JugglersOverlay"
+msgid "Jugglers Overlay"
+msgstr ""
+
+msgctxt "#Hover_LibrariansOverlay"
+msgid "Librarians Overlay"
+msgstr ""
+
+msgctxt "#Hover_MagistrateOverlay"
+msgid "Magistrate Overlay"
+msgstr ""
+
+msgctxt "#Hover_MalariaOverlay"
+msgid "Malaria Risk Overlay"
+msgstr ""
+
+msgctxt "#Hover_Menu"
+msgid "Menu"
+msgstr ""
+
+msgctxt "#Hover_MilitaryOverseer"
+msgid "Military Overseer"
+msgstr ""
+
+msgctxt "#Hover_MusiciansOverlay"
+msgid "Musicians Overlay"
+msgstr ""
+
+msgctxt "#Hover_NilometerExcellent"
+msgid "The next flood should be excellent"
+msgstr ""
+
+msgctxt "#Hover_NilometerGood"
+msgid "The next flood should be good"
+msgstr ""
+
+msgctxt "#Hover_NilometerMediocre"
+msgid "The next flood is likely to be mediocre"
+msgstr ""
+
+msgctxt "#Hover_NilometerNone"
+msgid "The next flood will likely fail entirely"
+msgstr ""
+
+msgctxt "#Hover_NilometerOff"
+msgid "Close the Nilometer"
+msgstr ""
+
+msgctxt "#Hover_NilometerOn"
+msgid "Open the Nilometer"
+msgstr ""
+
+msgctxt "#Hover_NilometerPerfect"
+msgid "The next flood should be perfect"
+msgstr ""
+
+msgctxt "#Hover_NilometerPoor"
+msgid "The next flood is likely to be poor"
+msgstr ""
+
+msgctxt "#Hover_Notifications"
+msgid "Notifications"
+msgstr ""
+
+msgctxt "#Hover_OsirisOverlay"
+msgid "Osiris Overlay"
+msgstr ""
+
+msgctxt "#Hover_OverlayAll"
+msgid "All"
+msgstr ""
+
+msgctxt "#Hover_Overlays"
+msgid "Overlays"
+msgstr ""
+
+msgctxt "#Hover_OverseerCommerce"
+msgid "Overseer of Commerce"
+msgstr ""
+
+msgctxt "#Hover_OverseerDiversions"
+msgid "Overseer of Diversions"
+msgstr ""
+
+msgctxt "#Hover_OverseerGranaries"
+msgid "Overseer of the Granaries"
+msgstr ""
+
+msgctxt "#Hover_OverseerHealth"
+msgid "Overseer of Public Health"
+msgstr ""
+
+msgctxt "#Hover_OverseerLearning"
+msgid "Overseer of Learning"
+msgstr ""
+
+msgctxt "#Hover_OverseerMonuments"
+msgid "Overseer of the Monuments"
+msgstr ""
+
+msgctxt "#Hover_OverseerTemples"
+msgid "Overseer of the Temples"
+msgstr ""
+
+msgctxt "#Hover_OverseerTreasury"
+msgid "Overseer of the Treasury"
+msgstr ""
+
+msgctxt "#Hover_OverseerWorkers"
+msgid "Overseer of the Workers"
+msgstr ""
+
+msgctxt "#Hover_Overseers"
+msgid "Overseers"
+msgstr ""
+
+msgctxt "#Hover_PhysiciansOverlay"
+msgid "Phyisicans Overlay"
+msgstr ""
+
+msgctxt "#Hover_PoliticalOverseer"
+msgid "Political Overseer"
+msgstr ""
+
+msgctxt "#Hover_ProblemsOverlay"
+msgid "Problems Overlay"
+msgstr ""
+
+msgctxt "#Hover_PtahOverlay"
+msgid "Ptah Overlay"
+msgstr ""
+
+msgctxt "#Hover_RaOverlay"
+msgid "Ra Overlay"
+msgstr ""
+
+msgctxt "#Hover_RatingsOverseer"
+msgid "Ratings Overseer"
+msgstr ""
+
+msgctxt "#Hover_ReligionOverlay"
+msgid "Religion Overlay"
+msgstr ""
+
+msgctxt "#Hover_RisksOverlay"
+msgid "Risks Overlay"
+msgstr ""
+
+msgctxt "#Hover_SenetPlayersOverlay"
+msgid "Senet players Overlay"
+msgstr ""
+
+msgctxt "#Hover_SethOverlay"
+msgid "Seth Overlay"
+msgstr ""
+
+msgctxt "#Hover_TaxationOverlay"
+msgid "Taxation Overlay"
+msgstr ""
+
+msgctxt "#Hover_TeachersOverlay"
+msgid "Teachers Overlay"
+msgstr ""
+
+msgctxt "#Hover_WaterOverlay"
+msgid "Water Overlay"
+msgstr ""
+
+msgctxt "#Hover_Worldmap"
+msgid "Worldmap"
+msgstr ""
+
+msgctxt "#Hover_ZookeepersOverlay"
+msgid "Zookeepers Overlay"
+msgstr ""
+
+msgctxt "#In_Game_Saved"
+msgid "City Saved"
+msgstr ""
+
+msgctxt "#In_Game_Saved_Desc"
+msgid "Your city was successfully saved!"
+msgstr ""
+
+msgctxt "#Intro_skip"
+msgid "Press any key to skip"
+msgstr ""
+
+msgctxt "#January"
+msgid "January"
+msgstr ""
+
+msgctxt "#January_Short"
+msgid "Jan"
+msgstr ""
+
+msgctxt "#July"
+msgid "July"
+msgstr ""
+
+msgctxt "#July_Short"
+msgid "Jul"
+msgstr ""
+
+msgctxt "#June"
+msgid "June"
+msgstr ""
+
+msgctxt "#June_Short"
+msgid "Jun"
+msgstr ""
+
+msgctxt "#KeepPlaying"
+msgid "Keep Governing"
+msgstr ""
+
+msgctxt "#LeaveConfirmation"
+msgid ""
+"Are you sure you want to leave the game ? Unsaved progress will be lost."
+msgstr ""
+
+msgctxt "#LoadMapIssue_Content"
+msgid "Something's wrong with this save file!"
+msgstr ""
+
+msgctxt "#LoadMapIssue_Title"
+msgid "Loading Issue"
+msgstr ""
+
+msgctxt "#Load_Campaign"
+msgid "Resume Campaign"
+msgstr ""
+
+msgctxt "#Loading_Saved_Game"
+msgid "Load Saved Game"
+msgstr ""
+
+msgctxt "#March"
+msgid "March"
+msgstr ""
+
+msgctxt "#March_Short"
+msgid "Mar"
+msgstr ""
+
+msgctxt "#May"
+msgid "May"
+msgstr ""
+
+msgctxt "#May_Short"
+msgid "May"
+msgstr ""
+
+msgctxt "#MissionCompleted"
+msgid "Mission completed"
+msgstr ""
+
+msgctxt "#NextMission"
+msgid "Next Mission"
+msgstr ""
+
+msgctxt "#Notifications"
+msgid "Notifications"
+msgstr ""
+
+msgctxt "#November"
+msgid "November"
+msgstr ""
+
+msgctxt "#November_Short"
+msgid "Nov"
+msgstr ""
+
+msgctxt "#Objectives"
+msgid "Objectives"
+msgstr ""
+
+msgctxt "#October"
+msgid "October"
+msgstr ""
+
+msgctxt "#October_Short"
+msgid "Oct"
+msgstr ""
+
+msgctxt "#Ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "#Options_Audio_Volume_Ambiance"
+msgid "Ambient Sounds"
+msgstr ""
+
+msgctxt "#Options_Audio_Volume_Master"
+msgid "Master"
+msgstr ""
+
+msgctxt "#Options_Audio_Volume_Music"
+msgid "Music"
+msgstr ""
+
+msgctxt "#Options_Audio_Volume_SFX"
+msgid "SFX"
+msgstr ""
+
+msgctxt "#Options_Audio_Volume_Voice"
+msgid "Voices"
+msgstr ""
+
+msgctxt "#Population_hover"
+msgid "{0} workers out of {1} inhabitants. Unemployment at {2}%"
+msgstr ""
+
+msgctxt "#Population_hover_missing_workers"
+msgid "{0} workers out of {1} inhabitants. {2} additional workers required."
+msgstr ""
+
+msgctxt "#Popup_Destroy_Monument_Content"
+msgid "Are you sure you want to destroy this monument ?"
+msgstr ""
+
+msgctxt "#Popup_Destroy_Monument_Title"
+msgid "Monument Destruction"
+msgstr ""
+
+msgctxt "#Proceed"
+msgid "Proceed"
+msgstr ""
+
+msgctxt "#Remove_Family"
+msgid "Delete Dynasty?"
+msgstr ""
+
+msgctxt "#Remove_Family_Desc"
+msgid ""
+"This deletes the selected dynasty and all of its saved games. Are you sure "
+"you want to do that?"
+msgstr ""
+
+msgctxt "#Remove_Save"
+msgid "Delete game"
+msgstr ""
+
+msgctxt "#Remove_Save_Desc"
+msgid "Are you absolutely certain you want to delete this save forever?"
+msgstr ""
+
+msgctxt "#Replay"
+msgid "Replay mission"
+msgstr ""
+
+msgctxt "#Reset"
+msgid "Reset"
+msgstr ""
+
+msgctxt "#Restart"
+msgid "Restart"
+msgstr ""
+
+msgctxt "#Return_Main_Menu"
+msgid "Return to main menu"
+msgstr ""
+
+msgctxt "#Sandbox"
+msgid "Sandbox"
+msgstr ""
+
+msgctxt "#Save"
+msgid "Save game"
+msgstr ""
+
+msgctxt "#SaveRequireRestart_Content"
+msgid "Some options require restarting the game to be applied."
+msgstr ""
+
+msgctxt "#SaveRequireRestart_Title"
+msgid "Restart required"
+msgstr ""
+
+msgctxt "#Save_Campaign"
+msgid "Save Campaign"
+msgstr ""
+
+msgctxt "#September"
+msgid "September"
+msgstr ""
+
+msgctxt "#September_Short"
+msgid "Sep"
+msgstr ""
+
+msgctxt "#Speed"
+msgid "Speed settings"
+msgstr ""
+
+msgctxt "#Speed_Faster"
+msgid "Speed up the game"
+msgstr ""
+
+msgctxt "#Speed_Lower"
+msgid "Slow down the game"
+msgstr ""
+
+msgctxt "#Speed_Normal"
+msgid "Normal speed"
+msgstr ""
+
+msgctxt "#Speed_Pause"
+msgid "Pause the game"
+msgstr ""
+
+msgctxt "#Title_Choose_Mission"
+msgid "Choose a Mission"
+msgstr ""
+
+msgctxt "#Title_Click_To_Start"
+msgid "Click to start the game"
+msgstr ""
+
+msgctxt "#Title_Credits"
+msgid "Credits"
+msgstr ""
+
+msgctxt "#Title_Exit_Game"
+msgid "Exit game"
+msgstr ""
+
+msgctxt "#Title_Extras"
+msgid "Extras"
+msgstr ""
+
+msgctxt "#Title_Family_Selection"
+msgid "Family Registry"
+msgstr ""
+
+msgctxt "#Title_Historical"
+msgid "Explore History"
+msgstr ""
+
+msgctxt "#Title_Loading_Saved_Game"
+msgid "Loading saved game"
+msgstr ""
+
+msgctxt "#Title_Map_Editor"
+msgid "Mission Editor"
+msgstr ""
+
+msgctxt "#Title_Options"
+msgid "Options"
+msgstr ""
+
+msgctxt "#Title_Personal"
+msgid "Custom Missions"
+msgstr ""
+
+msgctxt "#Title_Play"
+msgid "Play"
+msgstr ""
+
+msgctxt "#Victory"
+msgid "Victory"
+msgstr ""
+
+msgctxt "#WhishlistOn"
+msgid "Whishlist on <sprite name=\"Steam_icon_logo\">"
+msgstr ""
+
+msgctxt "#WorkInProgress"
+msgid "Work in progress"
+msgstr ""
+
+msgctxt "#load"
+msgid "Load"
+msgstr ""
+
+msgctxt "#map_editor_create_new"
+msgid "New map"
+msgstr ""
+
+msgctxt "#map_editor_load"
+msgid "Load map"
+msgstr ""
+
+msgctxt "#map_editor_save"
+msgid "Save map"
+msgstr ""
+
+msgctxt "#menu_back"
+msgid "Back"
+msgstr ""
+
+msgctxt "#options_audio"
+msgid "Audio"
+msgstr ""
+
+msgctxt "#options_fullscreen"
+msgid "Full screen"
+msgstr ""
+
+msgctxt "#options_gameplay"
+msgid "Gameplay"
+msgstr ""
+
+msgctxt "#options_graphics"
+msgid "Graphics"
+msgstr ""
+
+msgctxt "#options_keybinding"
+msgid "Keybinding"
+msgstr ""
+
+msgctxt "#options_language"
+msgid "Language"
+msgstr ""
+
+msgctxt "#options_resolution"
+msgid "Display settings"
+msgstr ""

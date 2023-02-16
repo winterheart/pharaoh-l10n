@@ -1,0 +1,2074 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#Barge_Heading"
+msgid "Heading to city docks"
+msgstr ""
+
+msgctxt "#Barge_Returning"
+msgid "Returning to my city"
+msgstr ""
+
+msgctxt "#Barge_Waiting"
+msgid "Waiting for a free dock"
+msgstr ""
+
+msgctxt "#Carrier_Content"
+msgid "{0} units of {1}"
+msgstr ""
+
+msgctxt "#Carrier_Content_Stone"
+msgid "1 block of {1}"
+msgstr ""
+
+msgctxt "#Carrier_Content_Stone_Plural"
+msgid "{0] blocks of {1}"
+msgstr ""
+
+msgctxt "#Carrier_Empty"
+msgid "The cart is empty"
+msgstr ""
+
+msgctxt "#Carrier_GoingFromTo"
+msgid "Going from {0} to {1}"
+msgstr ""
+
+msgctxt "#Carrier_ReturningTo"
+msgid "Returning to {0} from {1}"
+msgstr ""
+
+msgctxt "#Carrier_WaitingFor"
+msgid "Waiting from {0} for a place to deliver its goods"
+msgstr ""
+
+msgctxt "#Labor_e01"
+msgid "I'm the most popular person in the city. A lot of people need jobs."
+msgstr ""
+
+msgctxt "#Labor_e02"
+msgid ""
+"My list of job openings is huge, and I can't find any workers to fill the "
+"posts."
+msgstr ""
+
+msgctxt "#Labor_g01"
+msgid "I see sick people everywhere. A plague could break out!"
+msgstr ""
+
+msgctxt "#Labor_g02"
+msgid "I'm starving. I'd rather be looking for food than for workers. "
+msgstr ""
+
+msgctxt "#Labor_g03"
+msgid ""
+"City defenses are so weak, I could soon be filling jobs with foreigners "
+"instead of Egyptians."
+msgstr ""
+
+msgctxt "#Labor_g04"
+msgid "Without workers available, my job is impossible."
+msgstr ""
+
+msgctxt "#Labor_g05"
+msgid ""
+"I hope the gods don't unleash their fury. We need to pay more attention to "
+"them."
+msgstr ""
+
+msgctxt "#Labor_g06"
+msgid ""
+"Enemies could attack at any time. Our reputation is low, and no one respects"
+" us."
+msgstr ""
+
+msgctxt "#Labor_g07"
+msgid "With so many able people out of work, my job ought to be easy."
+msgstr ""
+
+msgctxt "#Labor_g08"
+msgid "It's boring here. I wish I could hire more entertainers."
+msgstr ""
+
+msgctxt "#Labor_g09"
+msgid "I don't mind living here. Things could certainly be worse."
+msgstr ""
+
+msgctxt "#Labor_g10"
+msgid "This city is the best!"
+msgstr ""
+
+msgctxt "#Merchant_Heading"
+msgid "Heading to city Storage Yards"
+msgstr ""
+
+msgctxt "#Merchant_Returning"
+msgid "Returning home"
+msgstr ""
+
+msgctxt "#REED_E01"
+msgid "To the marsh I march for the reeds we need."
+msgstr ""
+
+msgctxt "#REED_E02"
+msgid "These reeds will make some fine papyrus."
+msgstr ""
+
+msgctxt "#Walker_Buys"
+msgid "Buys"
+msgstr ""
+
+msgctxt "#Walker_From"
+msgid "from"
+msgstr ""
+
+msgctxt "#Walker_GoTo"
+msgid "Going to"
+msgstr ""
+
+msgctxt "#Walker_Sells"
+msgid "Sells"
+msgstr ""
+
+msgctxt "#antelop_flavor"
+msgid "Catch them before the lions do."
+msgstr ""
+
+msgctxt "#apothecary_e02"
+msgid "Malaria doesn't seem to be a problem here."
+msgstr ""
+
+msgctxt "#apothecary_e03"
+msgid "An outbreak of malaria could strike if something isn't done."
+msgstr ""
+
+msgctxt "#archer"
+msgid "Archer"
+msgstr ""
+
+msgctxt "#architect"
+msgid "Architect"
+msgstr ""
+
+msgctxt "#artisan_e01"
+msgid "My painting and plastering skills are needed at the monument!"
+msgstr ""
+
+msgctxt "#artisan_e02"
+msgid "I capture the stories of Egypt on the walls of the royal tombs."
+msgstr ""
+
+msgctxt "#asp_flavor"
+msgid "No one got close enough to confirm if it's a viper or not."
+msgstr ""
+
+msgctxt "#barge_e01"
+msgid ""
+"I wonder if this city has any sights I could see while they unload my ship."
+msgstr ""
+
+msgctxt "#barge_e02"
+msgid "We're waiting for some cargo to be delivered to our ship."
+msgstr ""
+
+msgctxt "#barge_e03"
+msgid ""
+"I don't know why we came. This city never trades, and the shore leave is "
+"boring."
+msgstr ""
+
+msgctxt "#barge_e04"
+msgid "I love the art of the deal! I can't wait to trade my supplies."
+msgstr ""
+
+msgctxt "#barge_e05"
+msgid "What a bountiful journey!"
+msgstr ""
+
+msgctxt "#bazaarboy"
+msgid "Bazaar Boy"
+msgstr ""
+
+msgctxt "#bazaarboy_flavor"
+msgid ""
+"Will follow that lady anywhere, carrying food and goods for the people."
+msgstr ""
+
+msgctxt "#bazaarbuyer"
+msgid "Bazaar buyer"
+msgstr ""
+
+msgctxt "#bazaartrader"
+msgid "Bazaar trader"
+msgstr ""
+
+msgctxt "#birds_flavor"
+msgid "Only the best of hunters will catch these wild birds."
+msgstr ""
+
+msgctxt "#brick_e01"
+msgid "It's bricklaying time at the monument!"
+msgstr ""
+
+msgctxt "#brick_e02"
+msgid "With my bricks, this monument will be strong."
+msgstr ""
+
+msgctxt "#bricklayer"
+msgid "Bricklayer"
+msgstr ""
+
+msgctxt "#caravan"
+msgid "Caravan of merchants from"
+msgstr ""
+
+msgctxt "#caravan_e01"
+msgid ""
+"Our long and dangerous trek here was for nothing! This city won't trade."
+msgstr ""
+
+msgctxt "#caravan_e02"
+msgid "Buy low, sell high. That's my motto!"
+msgstr ""
+
+msgctxt "#caravan_e03"
+msgid "It's the trader's life for me!"
+msgstr ""
+
+msgctxt "#caravan_e04"
+msgid "I'll be a hero when I bring these goods back to my homeland."
+msgstr ""
+
+msgctxt "#caravan_e05"
+msgid "You talk a fine bargain, my friend. I'll barely make back my costs."
+msgstr ""
+
+msgctxt "#carpenter"
+msgid "Carpenter"
+msgstr ""
+
+msgctxt "#carpenter_e01"
+msgid "My services are needed at the monument!"
+msgstr ""
+
+msgctxt "#carpenter_e02"
+msgid "This monument would be very short without my ramps and scaffolds."
+msgstr ""
+
+msgctxt "#cartpusher"
+msgid "Delivery man"
+msgstr ""
+
+msgctxt "#cartpusher_e01"
+msgid ""
+"I'm not taking these supplies any further until someone's available to "
+"unload them."
+msgstr ""
+
+msgctxt "#cartpusher_e02"
+msgid "No one can accept these goods! That's okay, I can use the rest."
+msgstr ""
+
+msgctxt "#cartpusher_e03"
+msgid ""
+"I have to go clear across the city with these goods. It'll take all day!"
+msgstr ""
+
+msgctxt "#charioteer"
+msgid "Charioteer"
+msgstr ""
+
+msgctxt "#citizen"
+msgid "Citizen"
+msgstr ""
+
+msgctxt "#constable"
+msgid "Constable"
+msgstr ""
+
+msgctxt "#criminal"
+msgid "Criminal"
+msgstr ""
+
+msgctxt "#crocodile_flavor"
+msgid "You can't see any tears roll upon their thick armored skin."
+msgstr ""
+
+msgctxt "#dancer"
+msgid "Dancer"
+msgstr ""
+
+msgctxt "#dancer_e01"
+msgid ""
+"These festival crowds are so enthusiastic, they make me want to leap higher."
+msgstr ""
+
+msgctxt "#dancer_g01"
+msgid "Many people have taken ill in the city. I hope I don't catch anything!"
+msgstr ""
+
+msgctxt "#dancer_g02"
+msgid "I can't prance and leap very well without enough food!"
+msgstr ""
+
+msgctxt "#dancer_g03"
+msgid ""
+"Invaders would have little trouble taking over our city. Nothing defends it."
+msgstr ""
+
+msgctxt "#dancer_g04"
+msgid ""
+"Another dance partner lost to the worker shortage! I hate dancing alone."
+msgstr ""
+
+msgctxt "#dancer_g05"
+msgid "We should do more to appease the gods - and quickly!"
+msgstr ""
+
+msgctxt "#dancer_g06"
+msgid ""
+"This city's reputation is worse than a juggler's! I hope we aren't attacked."
+msgstr ""
+
+msgctxt "#dancer_g07"
+msgid ""
+"If I weren't so light on my feet, I would trip over all these jobless "
+"people!"
+msgstr ""
+
+msgctxt "#dancer_g08"
+msgid "(Yawn) I need to be entertained!"
+msgstr ""
+
+msgctxt "#dancer_g09"
+msgid "This city is just about as good as any other city, I guess."
+msgstr ""
+
+msgctxt "#dancer_g10"
+msgid "This city is fantastic!"
+msgstr ""
+
+msgctxt "#deliveryboy"
+msgid "Delivery boy"
+msgstr ""
+
+msgctxt "#dentist"
+msgid "Dentist"
+msgstr ""
+
+msgctxt "#dentist_g01"
+msgid ""
+"People are so concerned about catching the plague that they're neglecting "
+"their teeth."
+msgstr ""
+
+msgctxt "#dentist_g02"
+msgid "I've had so little to eat lately...what a sad waste of perfect teeth."
+msgstr ""
+
+msgctxt "#dentist_g03"
+msgid ""
+"The city's defenses are full of gaps. Our enemies could have their way with "
+"us."
+msgstr ""
+
+msgctxt "#dentist_g04"
+msgid ""
+"This city's workforce is like an old man's mouth. So many holes to be "
+"filled!"
+msgstr ""
+
+msgctxt "#dentist_g05"
+msgid ""
+"I'm worried about this city's molars - I mean morals! We need to pay the "
+"gods more respect."
+msgstr ""
+
+msgctxt "#dentist_g06"
+msgid "Our reputation is rotten. We could be attacked."
+msgstr ""
+
+msgctxt "#dentist_g07"
+msgid "I've never seen so many people out of work before!"
+msgstr ""
+
+msgctxt "#dentist_g08"
+msgid "I'm bored! I guess I'll brush my teeth again."
+msgstr ""
+
+msgctxt "#dentist_g09"
+msgid "This city is okay. Only a few cavities!"
+msgstr ""
+
+msgctxt "#dentist_g10"
+msgid "This city has the brightest smile in all of Egypt."
+msgstr ""
+
+msgctxt "#disease_e01"
+msgid "Ohhh, my stomach! Oh, my head!"
+msgstr ""
+
+msgctxt "#dockpusher_e01"
+msgid "We're doing more than our share of work. We need more help."
+msgstr ""
+
+msgctxt "#dockpusher_e02"
+msgid "I'll wait here until some space for this stuff opens up."
+msgstr ""
+
+msgctxt "#dockpusher_e03"
+msgid "Am I there yet? I can't haul these goods much further."
+msgstr ""
+
+msgctxt "#doctor_e01"
+msgid "Plague could strike us dead at any moment!"
+msgstr ""
+
+msgctxt "#doctor_g01"
+msgid "With city health so dismal, I'm a busy man. Still, plague threatens."
+msgstr ""
+
+msgctxt "#doctor_g02"
+msgid "Being hungry all the time isn't good for me."
+msgstr ""
+
+msgctxt "#doctor_g03"
+msgid ""
+"I'd advise this city to bolster its defenses so our enemies do not do us "
+"damage."
+msgstr ""
+
+msgctxt "#doctor_g04"
+msgid ""
+"I've seen many workers pushed to their limits. This city could use more "
+"employees."
+msgstr ""
+
+msgctxt "#doctor_g05"
+msgid ""
+"I don't think we're paying the gods enough respect. This is terribly risky "
+"behavior."
+msgstr ""
+
+msgctxt "#doctor_g06"
+msgid "Our base reputation invites others to attack."
+msgstr ""
+
+msgctxt "#doctor_g07"
+msgid "Sitting idly by waiting for jobs is bad for our people's health!"
+msgstr ""
+
+msgctxt "#doctor_g08"
+msgid ""
+"I've had people come in for checkups just because they've got nothing better"
+" to do!"
+msgstr ""
+
+msgctxt "#doctor_g09"
+msgid "This city is good enough, I guess."
+msgstr ""
+
+msgctxt "#doctor_g10"
+msgid "I cannot imagine a healthier place to live."
+msgstr ""
+
+msgctxt "#embalmer"
+msgid "Embalmer"
+msgstr ""
+
+msgctxt "#embalmer_e01"
+msgid "Health seems to be worsening throughout the city."
+msgstr ""
+
+msgctxt "#embalmer_g01"
+msgid ""
+"Judging by the number of sick people in this city, I could soon have my "
+"hands full!"
+msgstr ""
+
+msgctxt "#embalmer_g02"
+msgid "I'm famished. Before long, I'll be skinnier than a mummy!"
+msgstr ""
+
+msgctxt "#embalmer_g03"
+msgid ""
+"The city is not securely wrapped in defenses. An enemy could easily defeat "
+"us."
+msgstr ""
+
+msgctxt "#embalmer_g04"
+msgid ""
+"If I ever wanted to leave embalming behind, now is my chance. So many job "
+"openings!"
+msgstr ""
+
+msgctxt "#embalmer_g05"
+msgid ""
+"The gods could soon unravel our city if we don't pay them more respect."
+msgstr ""
+
+msgctxt "#embalmer_g06"
+msgid ""
+"The city's bad reputation could be the death of us all. We could be attacked"
+" at any moment."
+msgstr ""
+
+msgctxt "#embalmer_g07"
+msgid ""
+"When I see so many people out of work, it makes me glad that I have a job."
+msgstr ""
+
+msgctxt "#embalmer_g08"
+msgid ""
+"This city is as dead as the bodies I work with all day. I wish the city were"
+" alive with entertainment."
+msgstr ""
+
+msgctxt "#embalmer_g09"
+msgid "I might as will live here. It's about as good as anywhere else."
+msgstr ""
+
+msgctxt "#embalmer_g10"
+msgid ""
+"I feel truly sorry for my clients. They aren't around to enjoy this "
+"incredible city!"
+msgstr ""
+
+msgctxt "#emigrant"
+msgid "Emigrant"
+msgstr ""
+
+msgctxt "#emigrant_e01"
+msgid "I can't find a job here. I will look elsewhere."
+msgstr ""
+
+msgctxt "#emigrant_e02"
+msgid "There's not enough food for me to eat. I'm moving out of this desert!"
+msgstr ""
+
+msgctxt "#emigrant_e03"
+msgid "Taxes are too high here. I'm surprised I wasn't taxed for leaving."
+msgstr ""
+
+msgctxt "#emigrant_e04"
+msgid "I can't live on what they pay me here."
+msgstr ""
+
+msgctxt "#emigrant_e05"
+msgid ""
+"Houses I've seen are overstuffed with people. I can't stay here without a "
+"place to live."
+msgstr ""
+
+msgctxt "#engineer_e01"
+msgid "There are so many places in poor condition, I can barely keep up."
+msgstr ""
+
+msgctxt "#engineer_e02"
+msgid "I hope I'm credited for the great condition of this city."
+msgstr ""
+
+msgctxt "#engineer_g01"
+msgid ""
+"A lot of people are in much worse condition than the buildings. I hope "
+"things don't get worse."
+msgstr ""
+
+msgctxt "#engineer_g02"
+msgid ""
+"Starvation might not affect the strength of these buildings, but it sure "
+"affects mine!"
+msgstr ""
+
+msgctxt "#engineer_g03"
+msgid "How are we to defend ourselves? The city's defenses are laughable."
+msgstr ""
+
+msgctxt "#engineer_g04"
+msgid ""
+"Why does it matter if these buildings collapse? No workers are in them "
+"anyway."
+msgstr ""
+
+msgctxt "#engineer_g05"
+msgid ""
+"If the gods are angry, not even the best architect can fix the damage they "
+"cause."
+msgstr ""
+
+msgctxt "#engineer_g06"
+msgid "Our city's reputation is so low, I fear our enemies will attack."
+msgstr ""
+
+msgctxt "#engineer_g07"
+msgid "By my estimation, a lot of people are out of work."
+msgstr ""
+
+msgctxt "#engineer_g08"
+msgid "Ho hum. Even architects like a little fun every now and then."
+msgstr ""
+
+msgctxt "#engineer_g09"
+msgid "Life here could be a lot worse."
+msgstr ""
+
+msgctxt "#engineer_g10"
+msgid "This city has everything an architect's heart could desire!"
+msgstr ""
+
+msgctxt "#ferryboat"
+msgid "Ferry boat"
+msgstr ""
+
+msgctxt "#festivalpriest"
+msgid "Festival priest"
+msgstr ""
+
+msgctxt "#fireman_e01"
+msgid "I can't talk now. I'm busy dousing this fire."
+msgstr ""
+
+msgctxt "#fireman_e02"
+msgid "This fire could burn the whole city down if I don't act fast!"
+msgstr ""
+
+msgctxt "#fireman_e03"
+msgid "Ooh, that's hot!"
+msgstr ""
+
+msgctxt "#fireman_g01"
+msgid "I hope a plague doesn't break out. Plagues can spread like wildfire."
+msgstr ""
+
+msgctxt "#fireman_g02"
+msgid "Even when fires are burning, all I can think about is how hungry I am."
+msgstr ""
+
+msgctxt "#fireman_g03"
+msgid "If our enemies invade, the whole city could go up in flames."
+msgstr ""
+
+msgctxt "#fireman_g04"
+msgid ""
+"I fear that some of these half-empty buildings could catch fire. I wish "
+"there were more workers."
+msgstr ""
+
+msgctxt "#fireman_g05"
+msgid ""
+"The gods' fiery wrath will come down on us if we don't pay more respect."
+msgstr ""
+
+msgctxt "#fireman_g06"
+msgid ""
+"I wouldn't dream of letting my reputation sink so low. Our city's bad "
+"reputation is inviting attack."
+msgstr ""
+
+msgctxt "#fireman_g07"
+msgid ""
+"I've had more people volunteer for the fire department. These people need "
+"jobs."
+msgstr ""
+
+msgctxt "#fireman_g08"
+msgid ""
+"Firefighting is hard work, and I'd love to cool off with a good show. "
+"There's not enough of that here."
+msgstr ""
+
+msgctxt "#fireman_g09"
+msgid "I'm satisfied with this city."
+msgstr ""
+
+msgctxt "#fireman_g10"
+msgid "This city is cool."
+msgstr ""
+
+msgctxt "#firemarshal"
+msgid "Fire marshal"
+msgstr ""
+
+msgctxt "#fish"
+msgid "Fish"
+msgstr ""
+
+msgctxt "#fish_flavor"
+msgid ""
+"Teach a man to fish and he'll empty the Nile faster than you can imagine."
+msgstr ""
+
+msgctxt "#fishing_e01"
+msgid ""
+"Another perfect day for fishing. I hope the catch is as plentiful as usual."
+msgstr ""
+
+msgctxt "#fishing_e02"
+msgid ""
+"Our hold is overflowing, but you should have seen the one that got away!"
+msgstr ""
+
+msgctxt "#fishing_e03"
+msgid "Move faster! We can't get back to work until you unload us."
+msgstr ""
+
+msgctxt "#fishingboat"
+msgid "Fishing boat"
+msgstr ""
+
+msgctxt "#frog"
+msgid "Frog"
+msgstr ""
+
+msgctxt "#frog_flavor"
+msgid "Their land swarmed with frogs, even in the chambers of their kings."
+msgstr ""
+
+msgctxt "#guard_e01"
+msgid "No enemies have been sighted, but we're ready nonetheless."
+msgstr ""
+
+msgctxt "#guard_e02"
+msgid "We're coiled like an asp, eager to strike at the approaching enemy."
+msgstr ""
+
+msgctxt "#guard_e03"
+msgid ""
+"You call that an army?! We'll have no trouble defeating that motley crew."
+msgstr ""
+
+msgctxt "#guard_e04"
+msgid "This enemy is a fierce one! I'm doing all that I can to defeat them."
+msgstr ""
+
+msgctxt "#herbalist"
+msgid "Herbalist"
+msgstr ""
+
+msgctxt "#hippopotamus_flavor"
+msgid "The biggest, baddest, meanest mammal out there."
+msgstr ""
+
+msgctxt "#homeless"
+msgid "Homeless"
+msgstr ""
+
+msgctxt "#hunt_ant_e01"
+msgid "Antelopes are no match for us!"
+msgstr ""
+
+msgctxt "#hunt_ant_e02"
+msgid "There will be steaks for everyone tonight."
+msgstr ""
+
+msgctxt "#hunt_bird_e01"
+msgid ""
+"Birds are wily. They'll fly away if you don't approach them just right."
+msgstr ""
+
+msgctxt "#hunt_bird_e02"
+msgid "Look at those beautiful birds, ready for roasting!"
+msgstr ""
+
+msgctxt "#hunt_ostrich_e01"
+msgid "Ostriches are nearly invisible when they put their heads in the sand."
+msgstr ""
+
+msgctxt "#hunt_ostrich_e02"
+msgid "Now, those are some BIG drumsticks!"
+msgstr ""
+
+msgctxt "#hunter"
+msgid "Hunter"
+msgstr ""
+
+msgctxt "#hyena_flavor"
+msgid ""
+"Hyenas don't wander far from their den unless they have a good reason. "
+"Eating a lost citizen is often a good one."
+msgstr ""
+
+msgctxt "#immigrant"
+msgid "Immigrant"
+msgstr ""
+
+msgctxt "#immigrant_e01"
+msgid "I'm new here. I wonder what the city will offer to a person like me."
+msgstr ""
+
+msgctxt "#immigrant_e02"
+msgid "I heard there is a job here for anyone who wants one."
+msgstr ""
+
+msgctxt "#immigrant_e03"
+msgid "People say that this city has plenty of food to go around."
+msgstr ""
+
+msgctxt "#infantry"
+msgid "Infantry"
+msgstr ""
+
+msgctxt "#juggler"
+msgid "Juggler"
+msgstr ""
+
+msgctxt "#juggler_e01"
+msgid "I love working these festival crowds. Everyone's so happy!"
+msgstr ""
+
+msgctxt "#juggler_g01"
+msgid ""
+"I've never seen so many sick people. I hope a plague doesn't break out."
+msgstr ""
+
+msgctxt "#juggler_g02"
+msgid ""
+"It's hard to catch these clubs when you're doubled over with hunger pangs."
+msgstr ""
+
+msgctxt "#juggler_g03"
+msgid ""
+"Maybe I can throw these clubs at the enemy should they attack. Little else "
+"is defending this city."
+msgstr ""
+
+msgctxt "#juggler_g04"
+msgid ""
+"I see job vacancies everywhere! I wonder if I could juggle more than one "
+"job."
+msgstr ""
+
+msgctxt "#juggler_g05"
+msgid "I'm expecting the worst. The gods must think we've forgotten them."
+msgstr ""
+
+msgctxt "#juggler_g06"
+msgid "This city has a worse reputation than I do. I hope no one attacks us."
+msgstr ""
+
+msgctxt "#juggler_g07"
+msgid ""
+"I wish there were more jobs in this city. None of the people I entertain can"
+" pay me."
+msgstr ""
+
+msgctxt "#juggler_g08"
+msgid ""
+"I can only juggle so much. I wish there were other entertainers in the city."
+msgstr ""
+
+msgctxt "#juggler_g09"
+msgid "This city isn't too bad."
+msgstr ""
+
+msgctxt "#juggler_g10"
+msgid "There's no place I'd rather juggle."
+msgstr ""
+
+msgctxt "#laborer"
+msgid "Laborer"
+msgstr ""
+
+msgctxt "#librarian"
+msgid "Librarian"
+msgstr ""
+
+msgctxt "#library_g01"
+msgid ""
+"People are sick. My medical papyri tell me that the illness could soon "
+"escalate to plague!"
+msgstr ""
+
+msgctxt "#library_g02"
+msgid "I'm famished. It's hard to lift my scrolls on an empty stomach."
+msgstr ""
+
+msgctxt "#library_g03"
+msgid "Even the simplest enemy could manage to get through our defenses!"
+msgstr ""
+
+msgctxt "#library_g04"
+msgid "Unless more workers arrive soon, the city will surely suffer."
+msgstr ""
+
+msgctxt "#library_g05"
+msgid ""
+"The literature is replete with stories of angry gods and their vengeance."
+msgstr ""
+
+msgctxt "#library_g06"
+msgid ""
+"History shows that a city like ours will pay serious consequences for its "
+"poor reputation."
+msgstr ""
+
+msgctxt "#library_g07"
+msgid ""
+"There are a lot of unemployed in the city. At least they have plenty of time"
+" to read."
+msgstr ""
+
+msgctxt "#library_g08"
+msgid ""
+"Sometimes my eyes like to rest on something other than hieroglyphs. I want "
+"to see a show!"
+msgstr ""
+
+msgctxt "#library_g09"
+msgid "This city is comparable to others I've read about."
+msgstr ""
+
+msgctxt "#library_g10"
+msgid "This city is the best that history has ever known!"
+msgstr ""
+
+msgctxt "#lion_flavor"
+msgid "Just a big cat. Also happens to be the king of beasts."
+msgstr ""
+
+msgctxt "#locust"
+msgid "Locust"
+msgstr ""
+
+msgctxt "#locust_flavor"
+msgid "He spoke, and the locusts came, young locusts without number."
+msgstr ""
+
+msgctxt "#lumberjack"
+msgid "Lumberjack"
+msgstr ""
+
+msgctxt "#magistrate"
+msgid "Magistrate"
+msgstr ""
+
+msgctxt "#magistrate_e02"
+msgid "I hope I will earn a funeral procession when the time comes."
+msgstr ""
+
+msgctxt "#magistrate_e03"
+msgid "All is quiet in the court. There is no crime here."
+msgstr ""
+
+msgctxt "#magistrate_e04"
+msgid "I've been trying only petty cases. Nothing too serious!"
+msgstr ""
+
+msgctxt "#magistrate_e05"
+msgid "I can barely manage my caseload, yet the streets are still unsafe."
+msgstr ""
+
+msgctxt "#magistrate_g01"
+msgid ""
+"Health conditions in this city are criminal. Plague is the punishment that "
+"fits the crime."
+msgstr ""
+
+msgctxt "#magistrate_g02"
+msgid "I'm so hungry, a good meal will buy you any verdict you want."
+msgstr ""
+
+msgctxt "#magistrate_g03"
+msgid ""
+"What woeful defenses! Our enemies could walk right into the city and take "
+"over."
+msgstr ""
+
+msgctxt "#magistrate_g04"
+msgid "I've never seen so many job openings before!"
+msgstr ""
+
+msgctxt "#magistrate_g05"
+msgid ""
+"The gods will find us guilty of neglect if we don't start paying more "
+"attention to them."
+msgstr ""
+
+msgctxt "#magistrate_g06"
+msgid ""
+"Our city is judged among the worst in the Kingdom. I dread the execution of "
+"our punishment."
+msgstr ""
+
+msgctxt "#magistrate_g07"
+msgid ""
+"Unemployed people have too much time on their hands, and that's dangerous."
+msgstr ""
+
+msgctxt "#magistrate_g08"
+msgid "This city is guilty of poor entertainment options!"
+msgstr ""
+
+msgctxt "#magistrate_g09"
+msgid "This city is balanced: nothing too good, but nothing too bad."
+msgstr ""
+
+msgctxt "#magistrate_g10"
+msgid "I judge this city to be the best."
+msgstr ""
+
+msgctxt "#marketboy_e01"
+msgid "These baskets are too heavy for a little kid like me!"
+msgstr ""
+
+msgctxt "#marketboy_e02"
+msgid "That bossy lady makes me carry goods all day!"
+msgstr ""
+
+msgctxt "#marketboy_e03"
+msgid "Maybe I just carry baskets now, but one day I'll run the Bazaar."
+msgstr ""
+
+msgctxt "#mkt_buyer_e01"
+msgid "The bazaar needs some items, and I'm going to get them."
+msgstr ""
+
+msgctxt "#mkt_buyer_e02"
+msgid "These goods will make welcome additions to the bazaar."
+msgstr ""
+
+msgctxt "#mkt_buyer_g01"
+msgid ""
+"So many people have taken ill. I hope they recover soon, or else a plague "
+"might break out."
+msgstr ""
+
+msgctxt "#mkt_buyer_g02"
+msgid ""
+"I'm starving. Most of my customers demand food, and I can barely feed "
+"myself."
+msgstr ""
+
+msgctxt "#mkt_buyer_g03"
+msgid "Our defenses are flimsy. We could easily be invaded."
+msgstr ""
+
+msgctxt "#mkt_buyer_g04"
+msgid ""
+"I better be extra nice to my helpers. With this many job openings in the "
+"city, I could easily lose them."
+msgstr ""
+
+msgctxt "#mkt_buyer_g05"
+msgid ""
+"If we don't soon pay the gods more respect, they are going to dole out a "
+"miserable punishment."
+msgstr ""
+
+msgctxt "#mkt_buyer_g06"
+msgid ""
+"I wouldn't dream of letting my reputation slip as far as this city's has. We"
+" could soon pay the price."
+msgstr ""
+
+msgctxt "#mkt_buyer_g07"
+msgid "I'm lucky to have a job. I know a lot of people who are out of work."
+msgstr ""
+
+msgctxt "#mkt_buyer_g08"
+msgid "Nothing whatsoever happens here. I wish there were more shows to see. "
+msgstr ""
+
+msgctxt "#mkt_buyer_g09"
+msgid "I won't complain about this city... but I could."
+msgstr ""
+
+msgctxt "#mkt_buyer_g10"
+msgid "This city is tops!"
+msgstr ""
+
+msgctxt "#mkt_seller_e01"
+msgid ""
+"My supplies sold like hot cakes! I'm going back to the Bazaar for more."
+msgstr ""
+
+msgctxt "#mkt_seller_e02"
+msgid "I do my best to give the people what they want."
+msgstr ""
+
+msgctxt "#mule"
+msgid "Mule"
+msgstr ""
+
+msgctxt "#mule_flavor"
+msgid ""
+"They carried blocs of granite through the desert so your city could refuse "
+"to trade, and you don't hear them complain."
+msgstr ""
+
+msgctxt "#mummy"
+msgid "Mummy"
+msgstr ""
+
+msgctxt "#mummy_flavor"
+msgid "Embalmed bodies make for the best nightmares."
+msgstr ""
+
+msgctxt "#musician"
+msgid "Musican"
+msgstr ""
+
+msgctxt "#musician_e01"
+msgid "These festivals are great! Everyone sings along."
+msgstr ""
+
+msgctxt "#musician_g01"
+msgid ""
+"If health doesn't improve in this city, I'll be playing only funeral dirges."
+msgstr ""
+
+msgctxt "#musician_g02"
+msgid "I'd sing for my supper, but this city doesn't have enough food."
+msgstr ""
+
+msgctxt "#musician_g03"
+msgid ""
+"Maybe I could beat invaders over the head with my sistrum. The city is not "
+"defended well."
+msgstr ""
+
+msgctxt "#musician_g04"
+msgid "All my performances are solos. This city doesn't have enough workers."
+msgstr ""
+
+msgctxt "#musician_g05"
+msgid ""
+"I hope my music soothes the gods. Their anger could soon rain down on us."
+msgstr ""
+
+msgctxt "#musician_g06"
+msgid "Our terrible reputation could provoke an attack!"
+msgstr ""
+
+msgctxt "#musician_g07"
+msgid ""
+"For the last time, I am not hiring any more roadies! So many people are "
+"looking for work."
+msgstr ""
+
+msgctxt "#musician_g08"
+msgid ""
+"Even an entertainer likes to be entertained! There's not enough to do here."
+msgstr ""
+
+msgctxt "#musician_g09"
+msgid "This city could be a lot worse, I suppose."
+msgstr ""
+
+msgctxt "#musician_g10"
+msgid ""
+"I hope we continue to make beautiful music in this city for a long time."
+msgstr ""
+
+msgctxt "#ostrich_flavor"
+msgid "Invisible to human eyes when they hide their heads in the sand."
+msgstr ""
+
+msgctxt "#physician"
+msgid "Physician"
+msgstr ""
+
+msgctxt "#plaguedcitizen"
+msgid "Plagued citizen"
+msgstr ""
+
+msgctxt "#police_e01"
+msgid "Everybody's friendly here. No one is reporting any crimes."
+msgstr ""
+
+msgctxt "#police_e02"
+msgid ""
+"A few crimes here, a few crimes there, but nothing out of the ordinary."
+msgstr ""
+
+msgctxt "#police_e03"
+msgid "Even I don't like to walk in this part of town!"
+msgstr ""
+
+msgctxt "#police_e04"
+msgid "I'm really too busy to talk right now - ask me again later."
+msgstr ""
+
+msgctxt "#police_e05"
+msgid "I'll do my part to make sure this city is safe!"
+msgstr ""
+
+msgctxt "#police_e06"
+msgid "Fighting invaders wasn't in my job description!"
+msgstr ""
+
+msgctxt "#police_e07"
+msgid "These rascals aren't taking over the city on my watch!"
+msgstr ""
+
+msgctxt "#police_e08"
+msgid "The enemy could soon win if I don't get some help! "
+msgstr ""
+
+msgctxt "#police_g01"
+msgid "With so many people so weak and sickly, I fear for the future."
+msgstr ""
+
+msgctxt "#police_g02"
+msgid "I haven't eaten in so long, even I'm considering stealing food!"
+msgstr ""
+
+msgctxt "#police_g03"
+msgid ""
+"If invaders do come, it looks like it will be up to me to defend the city."
+msgstr ""
+
+msgctxt "#police_g04"
+msgid ""
+"If I didn't enjoy the danger of police work, I'd quickly take one of the "
+"many available jobs."
+msgstr ""
+
+msgctxt "#police_g05"
+msgid "If I were running things, I'd pay more attention to the gods."
+msgstr ""
+
+msgctxt "#police_g06"
+msgid ""
+"I've heard our city is an easy mark for invaders. We have a bad reputation."
+msgstr ""
+
+msgctxt "#police_g07"
+msgid ""
+"I don't like to see this many jobless loiterers. I can't walk my beat "
+"without tripping over them!"
+msgstr ""
+
+msgctxt "#police_g08"
+msgid "This city is dull. I can't find any good shows to see."
+msgstr ""
+
+msgctxt "#police_g09"
+msgid "This city isn't perfect, but then what city is?"
+msgstr ""
+
+msgctxt "#police_g10"
+msgid "If only the Bazaar carried donuts, this city would be perfect."
+msgstr ""
+
+msgctxt "#priest"
+msgid "Priest"
+msgstr ""
+
+msgctxt "#priest_bast_e01"
+msgid "Bast loves a good festival."
+msgstr ""
+
+msgctxt "#priest_bast_e02"
+msgid "People in the city are deeply unhappy. They could soon turn to crime."
+msgstr ""
+
+msgctxt "#priest_bast_e03"
+msgid "What's a priestess to do? There is so little diversion here."
+msgstr ""
+
+msgctxt "#priest_bast_e04"
+msgid ""
+"Bast grants me power to heal the sick before they spread their disease."
+msgstr ""
+
+msgctxt "#priest_bast_g01"
+msgid ""
+"Bast cries to see so many sickly people. I hope the plague doesn't strike."
+msgstr ""
+
+msgctxt "#priest_bast_g02"
+msgid "It's hard to get enough food in this city. Hunger strikes everyone."
+msgstr ""
+
+msgctxt "#priest_bast_g03"
+msgid "Our city's woeful defenses invite our foes to attack us."
+msgstr ""
+
+msgctxt "#priest_bast_g04"
+msgid "Our city cannot possible run well with so many job openings."
+msgstr ""
+
+msgctxt "#priest_bast_g05"
+msgid ""
+"The gods are turning their backs on this city. We should pay them more "
+"respect."
+msgstr ""
+
+msgctxt "#priest_bast_g06"
+msgid "The city's reputation is terrible. An invasion could come at any time."
+msgstr ""
+
+msgctxt "#priest_bast_g07"
+msgid "Not even Bast can lighten the hearts of so many jobless people."
+msgstr ""
+
+msgctxt "#priest_bast_g08"
+msgid "Bast is horrified by the lack of entertainment in this city."
+msgstr ""
+
+msgctxt "#priest_bast_g09"
+msgid "This city isn't a bad place to live."
+msgstr ""
+
+msgctxt "#priest_bast_g10"
+msgid "This city is the greatest!"
+msgstr ""
+
+msgctxt "#priest_osiris_e01"
+msgid "Festivals warm Osiris' heart."
+msgstr ""
+
+msgctxt "#priest_osiris_e02"
+msgid "Osiris could punish the city for its neglect with a low flood."
+msgstr ""
+
+msgctxt "#priest_osiris_g01"
+msgid ""
+"The city is flooded with sick people. I hope a plague doesn't break out."
+msgstr ""
+
+msgctxt "#priest_osiris_g02"
+msgid "No priest of Osiris should have to suffer from hunger!"
+msgstr ""
+
+msgctxt "#priest_osiris_g03"
+msgid "Our city is almost defenseless. I hope no one attacks."
+msgstr ""
+
+msgctxt "#priest_osiris_g04"
+msgid ""
+"Without workers, we may not be able to pay Osiris the respect he deserves."
+msgstr ""
+
+msgctxt "#priest_osiris_g05"
+msgid "Osiris is not the only god made angry by neglect."
+msgstr ""
+
+msgctxt "#priest_osiris_g06"
+msgid "Our city is the laughingstock of Egypt. We are ripe for attack."
+msgstr ""
+
+msgctxt "#priest_osiris_g07"
+msgid ""
+"Unemployment is a serious problem in this city. I hope more jobs open up "
+"soon."
+msgstr ""
+
+msgctxt "#priest_osiris_g08"
+msgid "Even a priest needs more than prayers to be entertained."
+msgstr ""
+
+msgctxt "#priest_osiris_g09"
+msgid "This city is adequate."
+msgstr ""
+
+msgctxt "#priest_osiris_g10"
+msgid "Osiris is proud to be worshiped in such a fine city."
+msgstr ""
+
+msgctxt "#priest_ptah_09"
+msgid "This city has its problems, but it's a good place to live."
+msgstr ""
+
+msgctxt "#priest_ptah_e01"
+msgid "Ptah knows that holidays make workers happier."
+msgstr ""
+
+msgctxt "#priest_ptah_e02"
+msgid ""
+"Ptah's guiding hand can do only so much. The industries in this city need "
+"more workers!"
+msgstr ""
+
+msgctxt "#priest_ptah_g01"
+msgid ""
+"Poor health could result in plague if nothing is done about conditions in "
+"the city."
+msgstr ""
+
+msgctxt "#priest_ptah_g02"
+msgid "The rumbling of my empty stomach distracts me from my duties to Ptah."
+msgstr ""
+
+msgctxt "#priest_ptah_g03"
+msgid "Our holey defenses will be useless if anyone chooses to attack us."
+msgstr ""
+
+msgctxt "#priest_ptah_g04"
+msgid "It saddens Ptah to see industries idle because of the worker shortage."
+msgstr ""
+
+msgctxt "#priest_ptah_g05"
+msgid ""
+"The gods my inflict a just retribution if the city continues to ignore them."
+msgstr ""
+
+msgctxt "#priest_ptah_g06"
+msgid "Our ill repute could encourage invaders."
+msgstr ""
+
+msgctxt "#priest_ptah_g07"
+msgid ""
+"Ptah wishes that all the unemployed in the city could find productive work."
+msgstr ""
+
+msgctxt "#priest_ptah_g08"
+msgid ""
+"I like to have a good time, just like anyone else. I wish there were more "
+"entertainers in this city."
+msgstr ""
+
+msgctxt "#priest_ptah_g10"
+msgid "This is the best crafted city in all of Egypt!"
+msgstr ""
+
+msgctxt "#priest_ra_e01"
+msgid "Ra loves to see his people during the festival."
+msgstr ""
+
+msgctxt "#priest_ra_e02"
+msgid "Our city is an embarrassment to the rest of the Kingdom."
+msgstr ""
+
+msgctxt "#priest_ra_g01"
+msgid ""
+"The people coming to the Temple don't look healthy. I hope the illness "
+"doesn't escalate."
+msgstr ""
+
+msgctxt "#priest_ra_g02"
+msgid "I don't have enough food to feed Ra or myself!"
+msgstr ""
+
+msgctxt "#priest_ra_g03"
+msgid ""
+"I wish it were up to Ra to defend our city. I don't think this city does a "
+"good job of it."
+msgstr ""
+
+msgctxt "#priest_ra_g04"
+msgid "I hope this city finds more workers soon. Services could soon suffer."
+msgstr ""
+
+msgctxt "#priest_ra_g05"
+msgid "This city would do well to pay more respect to the gods."
+msgstr ""
+
+msgctxt "#priest_ra_g06"
+msgid ""
+"Reputation is important. Without it, the city is prone to hostile takeover."
+msgstr ""
+
+msgctxt "#priest_ra_g07"
+msgid ""
+"I've never heard more people ask Ra whether they'll finally land a job."
+msgstr ""
+
+msgctxt "#priest_ra_g08"
+msgid ""
+"I need more entertainment. Pleasing Ra all day isn't easy, and I need to "
+"relax."
+msgstr ""
+
+msgctxt "#priest_ra_g09"
+msgid "I have no major complaints about this city."
+msgstr ""
+
+msgctxt "#priest_ra_g10"
+msgid "The only place better than this city is the Field of Reeds."
+msgstr ""
+
+msgctxt "#priest_seth_e01"
+msgid "Even Seth's warriors need the occasional festival."
+msgstr ""
+
+msgctxt "#priest_seth_e02"
+msgid "Glory is on the horizon! Enemies are fast approaching the city."
+msgstr ""
+
+msgctxt "#priest_seth_g01"
+msgid "A plague may wreak havoc on the city if health does not improve."
+msgstr ""
+
+msgctxt "#priest_seth_g02"
+msgid "All day, I battle my hunger. I need more food."
+msgstr ""
+
+msgctxt "#priest_seth_g03"
+msgid ""
+"We'll have to rely on Seth to protect us in battle. The city isn't prepared "
+"to defend itself."
+msgstr ""
+
+msgctxt "#priest_seth_g04"
+msgid "Services are suffering because no workers can be found!"
+msgstr ""
+
+msgctxt "#priest_seth_g05"
+msgid "This city should stop provoking the gods' anger with its inaction."
+msgstr ""
+
+msgctxt "#priest_seth_g06"
+msgid ""
+"We may soon find out how little others think of our city when they sweep in "
+"and destroy it."
+msgstr ""
+
+msgctxt "#priest_seth_g07"
+msgid "The legions of the unemployed clog the streets."
+msgstr ""
+
+msgctxt "#priest_seth_g08"
+msgid "It's hard to believe how dull it is here!"
+msgstr ""
+
+msgctxt "#priest_seth_g09"
+msgid "This city is suitable enough for me."
+msgstr ""
+
+msgctxt "#priest_seth_g10"
+msgid "This city is unrivaled in all Egypt!"
+msgstr ""
+
+msgctxt "#reedgatherer"
+msgid "Reed gatherer"
+msgstr ""
+
+msgctxt "#robber_e01"
+msgid "Gold should be for the living, not the dead!"
+msgstr ""
+
+msgctxt "#robber_e02"
+msgid ""
+"Just think of the fortune I'll have when I sell off all those treasures!"
+msgstr ""
+
+msgctxt "#scorpion_flavor"
+msgid "And they said the little beast would not eat the big one."
+msgstr ""
+
+msgctxt "#scribe"
+msgid "Scribe"
+msgstr ""
+
+msgctxt "#scribe_e01"
+msgid ""
+"These festivals would be so much better if they were by invitation only."
+msgstr ""
+
+msgctxt "#scribe_g01"
+msgid ""
+"Plague could break out at any time! I hope it stays in the poor parts of "
+"town!"
+msgstr ""
+
+msgctxt "#scribe_g02"
+msgid "That a person of my quality could know hunger is scandalous!"
+msgstr ""
+
+msgctxt "#scribe_g03"
+msgid ""
+"I don't think this city could handle an attack, and I have so very much to "
+"lose."
+msgstr ""
+
+msgctxt "#scribe_g04"
+msgid "How can so few workers properly cater to my needs?"
+msgstr ""
+
+msgctxt "#scribe_g05"
+msgid "I'm treated far better than the gods! I hope they don't strike at us."
+msgstr ""
+
+msgctxt "#scribe_g06"
+msgid ""
+"I'm ashamed to live here. I hope our enemies don't take advantage of our "
+"reputation!"
+msgstr ""
+
+msgctxt "#scribe_g07"
+msgid "Look at all these idlers! Why don't they get jobs?"
+msgstr ""
+
+msgctxt "#scribe_g08"
+msgid "How can I lead a posh lifestyle if I'm not properly entertained?"
+msgstr ""
+
+msgctxt "#scribe_g09"
+msgid "This city passes muster, I suppose."
+msgstr ""
+
+msgctxt "#scribe_g10"
+msgid "This city couldn't be better!"
+msgstr ""
+
+msgctxt "#senet_e01"
+msgid "Get your beer here! Warm, flat, refreshing beer! Low in sediment!"
+msgstr ""
+
+msgctxt "#senet_g01"
+msgid "People's health is in jeopardy. The risk of plague is great."
+msgstr ""
+
+msgctxt "#senet_g02"
+msgid "I'm as hungry as a hippo, but there's little food to be found."
+msgstr ""
+
+msgctxt "#senet_g03"
+msgid ""
+"I ought to learn the crafts of war. With defenses so weak, we're at risk."
+msgstr ""
+
+msgctxt "#senet_g04"
+msgid "The worker shortage could cause real trouble in the city."
+msgstr ""
+
+msgctxt "#senet_g05"
+msgid "To tell the truth, I would not dare to treat the gods so badly."
+msgstr ""
+
+msgctxt "#senet_g06"
+msgid "This city's reputation is checkered at best. We could be attacked."
+msgstr ""
+
+msgctxt "#senet_g07"
+msgid ""
+"For most, finding work in this city is a trivial pursuit that ends in "
+"failure."
+msgstr ""
+
+msgctxt "#senet_g08"
+msgid "This city should clue in to the lack of entertainment!"
+msgstr ""
+
+msgctxt "#senet_g09"
+msgid "I'm not sorry to live here."
+msgstr ""
+
+msgctxt "#senet_g10"
+msgid "This city has a monopoly on my heart. I love it here!"
+msgstr ""
+
+msgctxt "#senetplayer"
+msgid "Senet player"
+msgstr ""
+
+msgctxt "#sentry"
+msgid "Sentry"
+msgstr ""
+
+msgctxt "#stone_e01"
+msgid "I'm going to the monument to shape the stones."
+msgstr ""
+
+msgctxt "#stone_e02"
+msgid "My stonework will endure through the ages."
+msgstr ""
+
+msgctxt "#stonemason"
+msgid "Stone mason"
+msgstr ""
+
+msgctxt "#taxcollector"
+msgid "Tax collector"
+msgstr ""
+
+msgctxt "#taxman_e01"
+msgid ""
+"This city could bring in so much more revenue if they'd just hire some more "
+"tax collectors."
+msgstr ""
+
+msgctxt "#taxman_e02"
+msgid ""
+"Seems like the nicer their houses, the more people grumble about paying "
+"their share."
+msgstr ""
+
+msgctxt "#taxman_e03"
+msgid ""
+"I hate collecting taxes from these run-down houses. It's hardly worth my "
+"time."
+msgstr ""
+
+msgctxt "#taxman_g01"
+msgid ""
+"It seems an illness is taxing the people's health. I pray a plague doesn't "
+"strike."
+msgstr ""
+
+msgctxt "#taxman_g02"
+msgid "I wish people could pay their taxes in food. I'm so hungry!"
+msgstr ""
+
+msgctxt "#taxman_g03"
+msgid "Our city doesn't seem capable of defending itself!"
+msgstr ""
+
+msgctxt "#taxman_g04"
+msgid ""
+"No amount of tax money is going to make this city run smoothly. We need more"
+" workers!"
+msgstr ""
+
+msgctxt "#taxman_g05"
+msgid ""
+"We owe the gods a great debt, and I don't want to be here when they come to "
+"collect!"
+msgstr ""
+
+msgctxt "#taxman_g06"
+msgid "I've heard that invasion is imminent given our standing in Egypt."
+msgstr ""
+
+msgctxt "#taxman_g07"
+msgid ""
+"Many of these houses have unemployed workers! How can they be expected to "
+"pay tax?"
+msgstr ""
+
+msgctxt "#taxman_g08"
+msgid ""
+"As much as I like collecting taxes, I'd still like to see some professional "
+"entertainment."
+msgstr ""
+
+msgctxt "#taxman_g09"
+msgid "Life isn't too bad here."
+msgstr ""
+
+msgctxt "#taxman_g10"
+msgid "I'd rather live here than anywhere else!"
+msgstr ""
+
+msgctxt "#teacher"
+msgid "Teacher"
+msgstr ""
+
+msgctxt "#teacher_e01"
+msgid "One can learn much about human nature at a festival."
+msgstr ""
+
+msgctxt "#teacher_g01"
+msgid "The city may soon learn that bad health can lead to a horrible plague."
+msgstr ""
+
+msgctxt "#teacher_g02"
+msgid "My mind is fed with learning, but my body hungers for food."
+msgstr ""
+
+msgctxt "#teacher_g03"
+msgid "Invaders would have no trouble penetrating our scanty defenses!"
+msgstr ""
+
+msgctxt "#teacher_g04"
+msgid ""
+"The scarcity of workers reverberates throughout the city, limiting its "
+"services."
+msgstr ""
+
+msgctxt "#teacher_g05"
+msgid "The city's sacrilegious ways could cause the gods to smite us!"
+msgstr ""
+
+msgctxt "#teacher_g06"
+msgid "Ah, reputation, reputation. Our scandalous reputation invites attack."
+msgstr ""
+
+msgctxt "#teacher_g07"
+msgid "Even education won't cure this city's jobless problem."
+msgstr ""
+
+msgctxt "#teacher_g08"
+msgid "Boring, dull, tedious, monotonous, ho-hum. This city is all five."
+msgstr ""
+
+msgctxt "#teacher_g09"
+msgid "This city is thoroughly average."
+msgstr ""
+
+msgctxt "#teacher_g10"
+msgid "This city earns top marks!"
+msgstr ""
+
+msgctxt "#thief_e01"
+msgid ""
+"Maybe stealing from his treasury will get that false beard's attention!"
+msgstr ""
+
+msgctxt "#thief_e02"
+msgid "I take what I want! Don't try to stop me!"
+msgstr ""
+
+msgctxt "#thief_e03"
+msgid "Thievery is a lot more profitable than other jobs in this city!"
+msgstr ""
+
+msgctxt "#thief_e04"
+msgid "Take, take, take. That's all I ever do."
+msgstr ""
+
+msgctxt "#tombartisan"
+msgid "Tomb artisan"
+msgstr ""
+
+msgctxt "#tombrobber"
+msgid "Tomb Robber"
+msgstr ""
+
+msgctxt "#tradeship"
+msgid "Trade ship from"
+msgstr ""
+
+msgctxt "#transport_e01"
+msgid "Row harder! We must protect our ship at all costs!"
+msgstr ""
+
+msgctxt "#transport_e02"
+msgid "The enemy is here! All hands prepare for maneuvers."
+msgstr ""
+
+msgctxt "#transport_e03"
+msgid "Bring on the attack! We're prepared."
+msgstr ""
+
+msgctxt "#transport_e04"
+msgid "We're ready to serve if the need arises."
+msgstr ""
+
+msgctxt "#transportship"
+msgid "Transport"
+msgstr ""
+
+msgctxt "#vagrant_e01"
+msgid "I've been kicked out of my home, and through no fault of my own."
+msgstr ""
+
+msgctxt "#vagrant_e02"
+msgid "I can't find a place to live!"
+msgstr ""
+
+msgctxt "#warship"
+msgid "Warship"
+msgstr ""
+
+msgctxt "#warship_e01"
+msgid "We'll fight to the death to defend our fair city!"
+msgstr ""
+
+msgctxt "#warship_e02"
+msgid ""
+"The enemy is too much for us! If we escape them, we'll be ready to fight "
+"another day."
+msgstr ""
+
+msgctxt "#warship_e03"
+msgid "Enemies are coming this way!"
+msgstr ""
+
+msgctxt "#warship_e04"
+msgid ""
+"We're as dangerous as a crocodile, ready to attack our invaders when they "
+"arrive."
+msgstr ""
+
+msgctxt "#warship_e05"
+msgid "If and when our foes come, we'll be ready for them."
+msgstr ""
+
+msgctxt "#water_g01"
+msgid ""
+"I'm afraid to go into some neighborhoods. People are sick, and I don't want "
+"to catch anything."
+msgstr ""
+
+msgctxt "#water_g02"
+msgid ""
+"I'm weak from hunger. I'm nearly collapsing under the weight of all this "
+"water."
+msgstr ""
+
+msgctxt "#water_g03"
+msgid ""
+"It seems that it will be up to the citizens to defend this city if it comes "
+"under attack."
+msgstr ""
+
+msgctxt "#water_g04"
+msgid "Jobs, jobs everywhere, and not a worker to fill them."
+msgstr ""
+
+msgctxt "#water_g05"
+msgid ""
+"If I were a god, I wouldn't be pleased with this city's lack of attention to"
+" me."
+msgstr ""
+
+msgctxt "#water_g06"
+msgid ""
+"I hear that other cities are laughing at us and are planning to invade."
+msgstr ""
+
+msgctxt "#water_g07"
+msgid "I see plenty of people out of work as I make my deliveries."
+msgstr ""
+
+msgctxt "#water_g08"
+msgid ""
+"Carrying water is not entertainment. I wish we had some real diversions "
+"here."
+msgstr ""
+
+msgctxt "#water_g09"
+msgid ""
+"I like living here, but if I were running the town I'd do some things "
+"differently."
+msgstr ""
+
+msgctxt "#water_g10"
+msgid "There is no better place upon this earth."
+msgstr ""
+
+msgctxt "#watercarrier"
+msgid "Water carrier"
+msgstr ""
+
+msgctxt "#woodcutter_e01"
+msgid "I am off for a hard day's logging."
+msgstr ""
+
+msgctxt "#woodcutter_e02"
+msgid "This timber will be put to good use, I am sure."
+msgstr ""
+
+msgctxt "#worker"
+msgid "Worker"
+msgstr ""
+
+msgctxt "#worker_e02"
+msgid "I'm ready to work!"
+msgstr ""
+
+msgctxt "#worker_e03"
+msgid "With the fields under water, I work now for glory everlasting."
+msgstr ""
+
+msgctxt "#worker_g01"
+msgid "So many people are sick. I hope things don't get worse."
+msgstr ""
+
+msgctxt "#worker_g02"
+msgid "I'm famished. It's hard to work on an empty stomach."
+msgstr ""
+
+msgctxt "#worker_g03"
+msgid "I hope our enemies don't know how easy it would be to invade us."
+msgstr ""
+
+msgctxt "#worker_g04"
+msgid "Job openings are everywhere! Maybe I can get a job as a fire marshal!"
+msgstr ""
+
+msgctxt "#worker_g05"
+msgid "I hope the gods don't unleash their wrath."
+msgstr ""
+
+msgctxt "#worker_g06"
+msgid ""
+"I hear that our city doesn't have a good reputation. We could come under "
+"attack!"
+msgstr ""
+
+msgctxt "#worker_g07"
+msgid ""
+"I'll hold on to this job as tightly as I can. I know many people who are out"
+" of work."
+msgstr ""
+
+msgctxt "#worker_g08"
+msgid "All I ever do is work. There's nothing else to do in this city."
+msgstr ""
+
+msgctxt "#worker_g09"
+msgid "I like it here, but there is always room for improvement."
+msgstr ""
+
+msgctxt "#worker_g10"
+msgid "I hope I live here forever!"
+msgstr ""
+
+msgctxt "#zookeeper"
+msgid "Zookeeper"
+msgstr ""
+
+msgctxt "#zookeeper_e01"
+msgid ""
+"This danger of disease is so great that even the laughing hyenas are sad."
+msgstr ""
+
+msgctxt "#zookeeper_e02"
+msgid "How will we feed the animals when we can't feed ourselves?"
+msgstr ""
+
+msgctxt "#zookeeper_e03"
+msgid ""
+"Our defenses are terribly weak. Perhaps I should train the hippo to fight?"
+msgstr ""
+
+msgctxt "#zookeeper_e04"
+msgid ""
+"Even an elephant cannot recall when the worker shortage has been worse."
+msgstr ""
+
+msgctxt "#zookeeper_e05"
+msgid ""
+"When a god is angry you don't want your neck sticking out like a giraffe's!"
+msgstr ""
+
+msgctxt "#zookeeper_e06"
+msgid ""
+"Pharaoh is so unhappy. I hope the zoo animals are not needed for exotic "
+"gifts!"
+msgstr ""
+
+msgctxt "#zookeeper_e07"
+msgid ""
+"Trying to land a job in this city is more difficult than trapping a wild "
+"lion."
+msgstr ""
+
+msgctxt "#zookeeper_e08"
+msgid ""
+"The entertainment situation in this city stinks worse than the monkey cages."
+msgstr ""
+
+msgctxt "#zookeeper_e09"
+msgid "Living here is better than sleeping in the lions' pen."
+msgstr ""
+
+msgctxt "#zookeeper_e10"
+msgid "I am happier than a mud-covered hippo to be living in this city."
+msgstr ""
+
+msgctxt "Antelope"
+msgid "Antelope"
+msgstr ""
+
+msgctxt "Birds"
+msgid "Birds"
+msgstr ""
+
+msgctxt "Ostrich"
+msgid "Ostrich"
+msgstr ""

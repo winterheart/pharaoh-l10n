@@ -1,0 +1,335 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#Aging"
+msgid "Workers population"
+msgstr ""
+
+msgctxt "#Aging_0"
+msgid "Age Simulation"
+msgstr ""
+
+msgctxt "#Aging_0_hover"
+msgid "Citizens grow old, and only the ones between 20 and 49 years old work"
+msgstr ""
+
+msgctxt "#Aging_1"
+msgid "Fixed Worker Ratio"
+msgstr ""
+
+msgctxt "#Aging_1_hover"
+msgid "{0}% of the population is always available for work."
+msgstr ""
+
+msgctxt "#AutoSaveDelay"
+msgid "Auto-save delay"
+msgstr ""
+
+msgctxt "#AutoSaveDelayLabel"
+msgid "{0} years"
+msgstr ""
+
+msgctxt "#AutoSaveDelayLabel_Disabled"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "#BazaarDefault"
+msgid "Bazaar Default Accept"
+msgstr ""
+
+msgctxt "#BazaarDefault_0_hover"
+msgid "Bazaar accept and distribute all goods by default"
+msgstr ""
+
+msgctxt "#BazaarDefault_1_hover"
+msgid "Bazaar don't distribute any goods by default"
+msgstr ""
+
+msgctxt "#Cheatcodes"
+msgid "Cheatcodes"
+msgstr ""
+
+msgctxt "#Cheatcodes_0_hover"
+msgid "You can use cheatcodes"
+msgstr ""
+
+msgctxt "#Cheatcodes_1_hover"
+msgid "You can't use cheatcodes"
+msgstr ""
+
+msgctxt "#Cheatcodes_activated"
+msgid "activated"
+msgstr ""
+
+msgctxt "#Cheatcodes_invalid"
+msgid "Invalid code :"
+msgstr ""
+
+msgctxt "#CursorConfined"
+msgid "Cursor confined"
+msgstr ""
+
+msgctxt "#Difficulty_Easy"
+msgid "Easy"
+msgstr ""
+
+msgctxt "#Difficulty_Easy_Hover"
+msgid "A more relaxed way to play"
+msgstr ""
+
+msgctxt "#Difficulty_Hard"
+msgid "Hard"
+msgstr ""
+
+msgctxt "#Difficulty_Hard_Hover"
+msgid "For those who seek more of a challenge"
+msgstr ""
+
+msgctxt "#Difficulty_Normal"
+msgid "Normal"
+msgstr ""
+
+msgctxt "#Difficulty_Normal_Hover"
+msgid "The standard way of experiencing Pharaoh: A New Era"
+msgstr ""
+
+msgctxt "#Difficulty_Title"
+msgid "Difficulty"
+msgstr ""
+
+msgctxt "#Difficulty_Title_Hover"
+msgid "Set the difficulty level to how you feel most comfortable with."
+msgstr ""
+
+msgctxt "#DockDefault"
+msgid "Dock Default Accept"
+msgstr ""
+
+msgctxt "#DockDefault_0_hover"
+msgid "Docks trade all resources by default"
+msgstr ""
+
+msgctxt "#DockDefault_1_hover"
+msgid "Docks don't trade any resource by default"
+msgstr ""
+
+msgctxt "#Dropdown_accept_all"
+msgid "All"
+msgstr ""
+
+msgctxt "#Dropdown_accept_none"
+msgid "None"
+msgstr ""
+
+msgctxt "#EventsPause"
+msgid "Scripted Events Pause"
+msgstr ""
+
+msgctxt "#EventsPause_0_hover"
+msgid "Scripted Events prompts pause the game"
+msgstr ""
+
+msgctxt "#EventsPause_1_hover"
+msgid "You city keeps running while a scripted event prompt is displayed"
+msgstr ""
+
+msgctxt "#Framerate"
+msgid "Framerate"
+msgstr ""
+
+msgctxt "#Gardens"
+msgid "Gardens"
+msgstr ""
+
+msgctxt "#Gardens_0"
+msgid "Random Click & Drag Gardens"
+msgstr ""
+
+msgctxt "#Gardens_0_hover"
+msgid ""
+"You can click & drag to build gardens. They are selected randomly and "
+"regroup themselves automatically by stack of 2x2 or 3x3 when possible"
+msgstr ""
+
+msgctxt "#Gardens_1"
+msgid "Select Your Gardens"
+msgstr ""
+
+msgctxt "#Gardens_1_hover"
+msgid ""
+"You can place Gardens the same way you can place Statues and change their "
+"look by pressing the rotation key"
+msgstr ""
+
+msgctxt "#HoverDelay"
+msgid "Hover on building Delay"
+msgstr ""
+
+msgctxt "#HoverDelay_hover"
+msgid "Duration of the hover on a building before the info are display"
+msgstr ""
+
+msgctxt "#Monitor"
+msgid "Display"
+msgstr ""
+
+msgctxt "#OverseerPause"
+msgid "Overseer Pause Off"
+msgstr ""
+
+msgctxt "#OverseerPause_0_hover"
+msgid "Opening any Overseer pauses the game"
+msgstr ""
+
+msgctxt "#OverseerPause_1_hover"
+msgid "Your city keeps running while you consult the Overseers"
+msgstr ""
+
+msgctxt "#Predators"
+msgid "Predators"
+msgstr ""
+
+msgctxt "#Predators_0_hover"
+msgid "Predators roam the map and will kill citizens that pass by too closely"
+msgstr ""
+
+msgctxt "#Predators_1_hover"
+msgid "There are no dangers on the map"
+msgstr ""
+
+msgctxt "#ScreenMode"
+msgid "Screen mode"
+msgstr ""
+
+msgctxt "#StorageDefault"
+msgid "Storage Default Accept"
+msgstr ""
+
+msgctxt "#StorageDefault_0_hover"
+msgid "Granaries & Storage Yards accept all goods by default"
+msgstr ""
+
+msgctxt "#StorageDefault_1_hover"
+msgid "Granaries & Storage Yards refuse all goods by default"
+msgstr ""
+
+msgctxt "#Subcategory"
+msgid "Subcategory Preopen"
+msgstr ""
+
+msgctxt "#Subcategory_0_hover"
+msgid ""
+"Clicking on a building category on the rightbar opens every subcategory "
+"directly"
+msgstr ""
+
+msgctxt "#Subcategory_1_hover"
+msgid ""
+"You have to individually click on every subcategory in order to access the "
+"buildings inside"
+msgstr ""
+
+msgctxt "#Toggle_no"
+msgid "No"
+msgstr ""
+
+msgctxt "#Toggle_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "#Toggle_on"
+msgid "On"
+msgstr ""
+
+msgctxt "#Toggle_yes"
+msgid "Yes"
+msgstr ""
+
+msgctxt "#Tower"
+msgid "Off-Road Tower"
+msgstr ""
+
+msgctxt "#Tower_0_hover"
+msgid "Towers get access to the workforce event when not connected to a road"
+msgstr ""
+
+msgctxt "#Tower_1_hover"
+msgid ""
+"Towers need a connection to a road in order to get access to the workforce"
+msgstr ""
+
+msgctxt "#UIScale"
+msgid "UI scale"
+msgstr ""
+
+msgctxt "#UnlimitedFramerate"
+msgid "Unlimited"
+msgstr ""
+
+msgctxt "#Vsync"
+msgid "Vertical synchronisation"
+msgstr ""
+
+msgctxt "#WalkerRange"
+msgid "Unique Walker Range"
+msgstr ""
+
+msgctxt "#WalkerRanger_0_hover"
+msgid "All walker have the same basic range"
+msgstr ""
+
+msgctxt "#WalkerRanger_1_hover"
+msgid ""
+"Every type of walker has its own range, some can cover more tiles than "
+"others"
+msgstr ""
+
+msgctxt "#Waterlift"
+msgid "Off-Road Water Lift"
+msgstr ""
+
+msgctxt "#Waterlift_0_hover"
+msgid ""
+"Waterlifts automatically get access to the workforce even when not connected"
+" to a road"
+msgstr ""
+
+msgctxt "#Waterlift_1_hover"
+msgid ""
+"Waterlifts need a connection to a road in order to get access to the "
+"workforce"
+msgstr ""
+
+msgctxt "#Worforce"
+msgid "Recruitment system"
+msgstr ""
+
+msgctxt "#Worforce_0"
+msgid "Recruiters"
+msgstr ""
+
+msgctxt "#Worforce_0_hover"
+msgid ""
+"Buildings send recruiters looking for the workforce in inhabited houses"
+msgstr ""
+
+msgctxt "#Worforce_1"
+msgid "Global Labor Pool"
+msgstr ""
+
+msgctxt "#Worforce_1_hover"
+msgid ""
+"Every building has access to the workforce as long as it's connected to a "
+"road"
+msgstr ""

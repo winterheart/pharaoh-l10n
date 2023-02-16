@@ -1,0 +1,5039 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-02-15 21:21\n"
+"PO-Revision-Date: 2023-02-15 21:21\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#Academy"
+msgid "Military Academy"
+msgstr ""
+
+msgctxt "#Administration"
+msgid "Administration"
+msgstr ""
+
+msgctxt "#Altar_built"
+msgid "The Altar of this Temple Complex is already built"
+msgstr ""
+
+msgctxt "#AmonAltar"
+msgid "Altar of Amon"
+msgstr ""
+
+msgctxt "#AnubisAltar"
+msgid "Altar of Anubis"
+msgstr ""
+
+msgctxt "#Apothecary"
+msgid "Apothecary"
+msgstr ""
+
+msgctxt "#Apothecary_flavor"
+msgid ""
+"Apothecaries improve citizens' health as they make house-calls in the "
+"neighborhoods on their route. Wealthy areas want an Apothecary nearby."
+msgstr ""
+
+msgctxt "#Apothecary_tooltip"
+msgid "Houses visited by apothecaries are better protected from malaria"
+msgstr ""
+
+msgctxt "#Apothecary_workers_0"
+msgid ""
+"This Apothecary is not operational, and does nothing for the health of the "
+"local community."
+msgstr ""
+
+msgctxt "#Apothecary_workers_1"
+msgid ""
+"This Apothecary is operational and provides potions and unguents to the "
+"local community."
+msgstr ""
+
+msgctxt "#ArchitectPost"
+msgid "Architect's Post"
+msgstr ""
+
+msgctxt "#ArchitectPost_Architect_In"
+msgid "Our architect is preparing to depart."
+msgstr ""
+
+msgctxt "#ArchitectPost_Architect_Out"
+msgid "Our architect is hard at work."
+msgstr ""
+
+msgctxt "#ArchitectPost_flavor"
+msgid ""
+"Egyptian architects are the most advanced the world has ever known. Their "
+"vigilance prevents buildings from collapsing."
+msgstr ""
+
+msgctxt "#ArchitectPost_tooltip"
+msgid ""
+"Sends an architect roaming the streets to prevent buildings from collapsing"
+msgstr ""
+
+msgctxt "#ArchitectPost_workers_0"
+msgid ""
+"With no architects on staff, the neighborhood is at the mercy of shifting "
+"sands."
+msgstr ""
+
+msgctxt "#ArchitectPost_workers_1"
+msgid ""
+"We are operating on a skeleton staff. We can barely field one architect each"
+" month."
+msgstr ""
+
+msgctxt "#ArchitectPost_workers_100"
+msgid ""
+"Currently we have no down time. Our architects are constantly out inspecting"
+" and repairing the city's larger buildings."
+msgstr ""
+
+msgctxt "#ArchitectPost_workers_25"
+msgid ""
+"We are badly understaffed and have a two-week gap between each architect's "
+"rounds."
+msgstr ""
+
+msgctxt "#ArchitectPost_workers_50"
+msgid ""
+"We are understaffed, so we have a week's wait before our returning "
+"architects go back on duty."
+msgstr ""
+
+msgctxt "#ArchitectPost_workers_75"
+msgid ""
+"We have a day or two before our overworked architects are back out on the "
+"streets."
+msgstr ""
+
+msgctxt "#ArtisansGuild"
+msgid "Artisans' Guild"
+msgstr ""
+
+msgctxt "#ArtisansGuild_flavor"
+msgid ""
+"Artisans meet here to prepare plaster from clay and mix their paints before "
+"heading out to decorate a tomb. "
+msgstr ""
+
+msgctxt "#ArtisansGuild_stock_clay_0"
+msgid ""
+"The guild won't send any artisans to the tomb until it receives a supply of "
+"clay."
+msgstr ""
+
+msgctxt "#ArtisansGuild_stock_paint_0"
+msgid ""
+"Artisans are hard-pressed to decorate a tomb without the paint it needs from"
+" a Paint Maker or Storage Yard."
+msgstr ""
+
+msgctxt "#ArtisansGuild_storage_clay"
+msgid "Clay<sprite name=\"Clay\">: {0} units."
+msgstr ""
+
+msgctxt "#ArtisansGuild_storage_paint"
+msgid "Paint<sprite name=\"Paint\">: {0} units."
+msgstr ""
+
+msgctxt "#ArtisansGuild_tooltip"
+msgid ""
+"Sends artisans working on monuments when provided with paint <sprite "
+"name=\"Paint\"> and clay <sprite name=\"Clay\">"
+msgstr ""
+
+msgctxt "#ArtisansGuild_workers_0"
+msgid "This guild has no employees and cannot send out any artisans."
+msgstr ""
+
+msgctxt "#ArtisansGuild_workers_1"
+msgid ""
+"Paint in the tombs has plenty of time to dry. Unless this guild finds more "
+"workers, the tomb may take an eternity to decorate."
+msgstr ""
+
+msgctxt "#ArtisansGuild_workers_100"
+msgid ""
+"This guild has a full palette of artisans who waste no time decorating the "
+"interiors of tombs."
+msgstr ""
+
+msgctxt "#ArtisansGuild_workers_25"
+msgid ""
+"This guild needs many more workers. The few artisans that work here are "
+"doing what they can to decorate the tomb, but they need more help."
+msgstr ""
+
+msgctxt "#ArtisansGuild_workers_50"
+msgid ""
+"This guild is doing its best to provide artisans to the tomb and provides "
+"fewer tomb artisans than it could."
+msgstr ""
+
+msgctxt "#ArtisansGuild_workers_75"
+msgid ""
+"This guild lacks an artisan or two. Tomb painting has slowed a little bit."
+msgstr ""
+
+msgctxt "#Bandstand"
+msgid "Bandstand"
+msgstr ""
+
+msgctxt "#Bandstand_J_M"
+msgid ""
+"This square offers its community both exciting juggling and music from local"
+" musicians."
+msgstr ""
+
+msgctxt "#Bandstand_J_NoM"
+msgid ""
+"This square stages juggling. It could please audiences better if it had "
+"musicians to play."
+msgstr ""
+
+msgctxt "#Bandstand_JugglingShow"
+msgid "Current jugglers will amaze for another {0} days."
+msgstr ""
+
+msgctxt "#Bandstand_MusicalShow"
+msgid "The musicians will play for another {0} days."
+msgstr ""
+
+msgctxt "#Bandstand_NoJ_M"
+msgid ""
+"This square hosts music for the amusement of the local community. It seeks "
+"jugglers to put on a few shows."
+msgstr ""
+
+msgctxt "#Bandstand_NoJ_NoM"
+msgid ""
+"This square never has any shows. It needs jugglers and musicians to liven it"
+" up."
+msgstr ""
+
+msgctxt "#Bandstand_NoJugglingShow"
+msgid "No current juggling acts"
+msgstr ""
+
+msgctxt "#Bandstand_NoMusicalShow"
+msgid "No current musical shows"
+msgstr ""
+
+msgctxt "#Bandstand_flavor"
+msgid ""
+"People come here to watch the latest juggling tricks and listen to music."
+msgstr ""
+
+msgctxt "#Bandstand_tooltip"
+msgid ""
+"Generates jugglers and musicians if serviced with the appropriate schools. "
+"Must be built on a crossroad"
+msgstr ""
+
+msgctxt "#Bandstand_workers_0"
+msgid ""
+"This square is dead. With no employees, it provides no leisure services to "
+"the local community."
+msgstr ""
+
+msgctxt "#BarleyFarm"
+msgid "Barley Farm"
+msgstr ""
+
+msgctxt "#BarleyFarm_disabled"
+msgid "Your Overseer of Commerce commanded that barley farming should cease."
+msgstr ""
+
+msgctxt "#BarleyFarm_flavor"
+msgid ""
+"Barley is a key ingredient for beer, without which our civilization would "
+"surely not exist."
+msgstr ""
+
+msgctxt "#BarleyFarm_harvest"
+msgid "The next barley harvest is in {[Month]}."
+msgstr ""
+
+msgctxt "#BarleyFarm_tooltip"
+msgid ""
+"Produces barley <sprite name=\"Barley\">. Harvest in February and August "
+"when built on a meadow"
+msgstr ""
+
+msgctxt "#BarleyFarm_workers_0"
+msgid "This farm has no workers. The land lies fallow."
+msgstr ""
+
+msgctxt "#BarleyFarm_workers_1"
+msgid ""
+"With hardly any workers at this farm, Egyptians might soon be reduced to "
+"drinking water."
+msgstr ""
+
+msgctxt "#BarleyFarm_workers_100"
+msgid ""
+"This farm has all the workers it needs. It gets maximum yield, given its "
+"fertility."
+msgstr ""
+
+msgctxt "#BarleyFarm_workers_25"
+msgid ""
+"So few farmers work here that we have barely enough barley for 'lite' beer."
+msgstr ""
+
+msgctxt "#BarleyFarm_workers_50"
+msgid ""
+"This farm is understaffed. The barley crop could be much better than it is."
+msgstr ""
+
+msgctxt "#BarleyFarm_workers_75"
+msgid ""
+"This farm has a few job openings. It could grow more barley with more "
+"workers."
+msgstr ""
+
+msgctxt "#BastShrine"
+msgid "Shrine to Bast"
+msgstr ""
+
+msgctxt "#BastShrine_flavor"
+msgid ""
+"When Bast is displeased, nobody's home is safe. Some blame Bast for disease,"
+" too."
+msgstr ""
+
+msgctxt "#BastShrine_title"
+msgid "Shrine to Bast (Home)"
+msgstr ""
+
+msgctxt "#BastShrine_tooltip"
+msgid "Improves Bast's mood. Can be built a tile away from the road"
+msgstr ""
+
+msgctxt "#BastTemple"
+msgid "Temple to Bast"
+msgstr ""
+
+msgctxt "#BastTempleComplex"
+msgid "Temple Complex to Bast"
+msgstr ""
+
+msgctxt "#BastTempleComplex_flavor"
+msgid ""
+"As goddess of the home, Bast can improve the quality of life in your city, "
+"and can allow your citizens to enjoy a much higher standard of living than "
+"might otherwise be the case. So great is her power that she can even help "
+"keep the other gods happy. Of course, if she is unappeased, then your city "
+"will know true misery and suffering. An Altar of Isis - goddess of healing -"
+" can help ensure that your citizens remain in good health, and even assist "
+"them if they do get sick, while an Oracle of Hathor - goddess of joy, love "
+"and festivity - can help keep your people a little happier in spite of "
+"whatever problems they might have."
+msgstr ""
+
+msgctxt "#BastTempleComplex_tooltip"
+msgid ""
+"This gigantic temple can be only be built once, and for one god only. "
+"Greatly improves Bast's mood"
+msgstr ""
+
+msgctxt "#BastTemple_flavor"
+msgid ""
+"When Bast is displeased, nobody's home is safe. Some blame Bast for disease,"
+" too."
+msgstr ""
+
+msgctxt "#BastTemple_title"
+msgid "Temple to Bast (Home)"
+msgstr ""
+
+msgctxt "#BastTemple_tooltip"
+msgid "Improves Bast's mood"
+msgstr ""
+
+msgctxt "#Bazaar"
+msgid "Bazaar"
+msgstr ""
+
+msgctxt "#Bazaar_TraderBack"
+msgid "The Bazaar trader is returning to restock."
+msgstr ""
+
+msgctxt "#Bazaar_TraderIn"
+msgid "The Bazaar trader is here, awaiting food."
+msgstr ""
+
+msgctxt "#Bazaar_TraderOut"
+msgid "The Bazaar trader is out distributing goods."
+msgstr ""
+
+msgctxt "#Bazaar_flavor"
+msgid ""
+"Our Bazaars make the Kingdom's bounty available to every nearby citizen. "
+"Every home needs Bazaar access, although no one wants to live next door to "
+"one."
+msgstr ""
+
+msgctxt "#Bazaar_stock_0"
+msgid ""
+"This Bazaar has traders, but they are currently looking for food or goods to"
+" sell."
+msgstr ""
+
+msgctxt "#Bazaar_tooltip"
+msgid ""
+"Get food and goods from your granaries and storage yards to distribute them "
+"to nearby houses"
+msgstr ""
+
+msgctxt "#Bazaar_workers_0"
+msgid ""
+"This Bazaar is not operational, and supplies nothing to the local community."
+msgstr ""
+
+msgctxt "#Bazaar_workers_1"
+msgid "This Bazaar is operational and supplies the needs of local homes."
+msgstr ""
+
+msgctxt "#Beautification"
+msgid "Beautification"
+msgstr ""
+
+msgctxt "#Booth"
+msgid "Booth"
+msgstr ""
+
+msgctxt "#Booth_J"
+msgid ""
+"This square is currently staging shows from local jugglers, who usually draw"
+" a good audience."
+msgstr ""
+
+msgctxt "#Booth_JugglingShow"
+msgid "Current show runs for another {0} days."
+msgstr ""
+
+msgctxt "#Booth_NoJ"
+msgid ""
+"This square never has any shows. It needs real jugglers to provide "
+"entertainment for it."
+msgstr ""
+
+msgctxt "#Booth_NoJugglingShow"
+msgid "No current juggling shows"
+msgstr ""
+
+msgctxt "#Booth_flavor"
+msgid "Citizens enjoy clever juggling acts and general nonsense here."
+msgstr ""
+
+msgctxt "#Booth_tooltip"
+msgid ""
+"Generates jugglers if serviced by a juggler school. Must be built on a turn"
+msgstr ""
+
+msgctxt "#Booth_workers_0"
+msgid ""
+"Breezes are the only thing stirring in this square. Without workers, it "
+"provides no shows for the locals."
+msgstr ""
+
+msgctxt "#BowMaker"
+msgid "Bowyer"
+msgstr ""
+
+msgctxt "#BowMaker_disabled"
+msgid ""
+"Your Overseer of Commerce decreed that composite bow production should "
+"cease."
+msgstr ""
+
+msgctxt "#BowMaker_flavor"
+msgid ""
+"The best artisans of the city craft deadly composite bow to equip your "
+"archers with."
+msgstr ""
+
+msgctxt "#BowMaker_stock_0"
+msgid ""
+"This workshop will produce no composite bows without a shipment of wood, "
+"whether from a Storage Yard or a Wood Cutter."
+msgstr ""
+
+msgctxt "#BowMaker_storage"
+msgid "Stored wood<sprite name=\"Wood\">: {0} units."
+msgstr ""
+
+msgctxt "#BowMaker_tooltip"
+msgid ""
+"Produces Composite Bows<sprite name=\"CompositeBows\"> from Wood<sprite "
+"name=\"Wood\">"
+msgstr ""
+
+msgctxt "#BowMaker_workers_0"
+msgid "This Bowyer has no employees, and will produce no weapons at all."
+msgstr ""
+
+msgctxt "#BowMaker_workers_1"
+msgid ""
+"With hardly any employees, this Bowyer will produce very few composite bows "
+"over the coming year."
+msgstr ""
+
+msgctxt "#BowMaker_workers_100"
+msgid ""
+"This Bowyer is fully staffed, and produces many high-quality composite bows."
+msgstr ""
+
+msgctxt "#BowMaker_workers_25"
+msgid ""
+"Very few people work at this Bowyer. Composite bows production is slow as a "
+"result."
+msgstr ""
+
+msgctxt "#BowMaker_workers_50"
+msgid ""
+"This Bowyer is understaffed, and produces composite bows more slowly than it"
+" should."
+msgstr ""
+
+msgctxt "#BowMaker_workers_75"
+msgid ""
+"This Bowyer could use more workers to reach its full potential for composite"
+" bow production."
+msgstr ""
+
+msgctxt "#Brewery"
+msgid "Brewery"
+msgstr ""
+
+msgctxt "#Brewery_disabled"
+msgid "An edict from the Overseer of Commerce ordered a halt to brewing."
+msgstr ""
+
+msgctxt "#Brewery_flavor"
+msgid ""
+"Brewers turn barley into beer, without which the Senet Houses would be empty"
+" and the city's festivals boring. Beer is a widely demanded trade commodity."
+msgstr ""
+
+msgctxt "#Brewery_stock_0"
+msgid ""
+"This Brewery cannot make beer until it receives a delivery of barley from a "
+"Storage Yard or a farm."
+msgstr ""
+
+msgctxt "#Brewery_storage"
+msgid "Stored barley<sprite name=\"Barley\">: {0} units."
+msgstr ""
+
+msgctxt "#Brewery_tooltip"
+msgid "Produces beer <sprite name=\"Beer\"> out of barley <sprite name=\"Barley\">"
+msgstr ""
+
+msgctxt "#Brewery_workers_0"
+msgid "This Brewery has no employees. There will be no beer from here."
+msgstr ""
+
+msgctxt "#Brewery_workers_1"
+msgid ""
+"With hardly any brewers on staff, this Brewery will produce almost no beer "
+"over the coming year."
+msgstr ""
+
+msgctxt "#Brewery_workers_100"
+msgid ""
+"With a full complement of employees, this Brewery works at top speed to "
+"slake Egypt's thirst."
+msgstr ""
+
+msgctxt "#Brewery_workers_25"
+msgid ""
+"Very few people work at this Brewery. Beer production is very slow as a "
+"result."
+msgstr ""
+
+msgctxt "#Brewery_workers_50"
+msgid ""
+"This Brewery is understaffed, and takes much longer to produce beer than it "
+"should."
+msgstr ""
+
+msgctxt "#Brewery_workers_75"
+msgid ""
+"This Brewery is working below maximum capacity. Beer output is slightly "
+"slower than it could be."
+msgstr ""
+
+msgctxt "#BricklayersGuild"
+msgid "Bricklayers' Guild"
+msgstr ""
+
+msgctxt "#BricklayersGuild_disabled"
+msgid "This guild has been shut down by your Overseer of Commerce"
+msgstr ""
+
+msgctxt "#BricklayersGuild_flavor"
+msgid ""
+"Bricklayers gather here to swap stories and tips about their profession, "
+"find work assignments and lay plans for the future. "
+msgstr ""
+
+msgctxt "#BricklayersGuild_info"
+msgid ""
+"This guild provides skilled workers for monument construction. It does not "
+"need its own supply of bricks."
+msgstr ""
+
+msgctxt "#BricklayersGuild_tooltip"
+msgid "Sends bricklayers to work on monuments"
+msgstr ""
+
+msgctxt "#BricklayersGuild_workers_0"
+msgid "This guild has no employees. No bricks can be laid."
+msgstr ""
+
+msgctxt "#BricklayersGuild_workers_1"
+msgid ""
+"With hardly any employees at this guild, it seems to take forever for a "
+"bricklayer to show up."
+msgstr ""
+
+msgctxt "#BricklayersGuild_workers_100"
+msgid ""
+"This guild has all the employees it needs. Bricklayers can work with maximal"
+" efficiency."
+msgstr ""
+
+msgctxt "#BricklayersGuild_workers_25"
+msgid ""
+"Very few people work here. There is a substantial wait for bricklaying "
+"services."
+msgstr ""
+
+msgctxt "#BricklayersGuild_workers_50"
+msgid ""
+"This guild is understaffed, and supplies fewer bricklayers than it could."
+msgstr ""
+
+msgctxt "#BricklayersGuild_workers_75"
+msgid ""
+"This guild is working below maximum capacity. Work will be slightly slower "
+"as a result."
+msgstr ""
+
+msgctxt "#Brickworks"
+msgid "Brickworks"
+msgstr ""
+
+msgctxt "#Brickworks_disabled"
+msgid "Your Overseer of Commerce ordered a halt to brick production."
+msgstr ""
+
+msgctxt "#Brickworks_flavor"
+msgid "Clay and straw are combined here to form sturdy, durable bricks."
+msgstr ""
+
+msgctxt "#Brickworks_stock_clay_0"
+msgid ""
+"This workshop needs clay delivered to it, from a Storage Yard or a Clay Pit,"
+" to produce bricks."
+msgstr ""
+
+msgctxt "#Brickworks_stock_straw_0"
+msgid ""
+"This workshop needs straw delivered to it, from a Storage Yard or a Grain "
+"Farm, to produce bricks."
+msgstr ""
+
+msgctxt "#Brickworks_storage_clay"
+msgid "Clay<sprite name=\"Clay\">: {0} units."
+msgstr ""
+
+msgctxt "#Brickworks_storage_straw"
+msgid "Straw<sprite name=\"Straw\">: {0} units."
+msgstr ""
+
+msgctxt "#Brickworks_tooltip"
+msgid ""
+"Produces bricks <sprite name=\"Bricks\"> from clay <sprite name=\"Clay\"> "
+"and straw <sprite name=\"Straw\">"
+msgstr ""
+
+msgctxt "#Brickworks_workers_0"
+msgid "This Brickworks has no employees. Not a single brick can be made."
+msgstr ""
+
+msgctxt "#Brickworks_workers_1"
+msgid ""
+"With hardly any workers, this Brickworks will produce very few bricks over "
+"the coming year."
+msgstr ""
+
+msgctxt "#Brickworks_workers_100"
+msgid ""
+"This workshop has all the employees it needs. It produces tons of bricks."
+msgstr ""
+
+msgctxt "#Brickworks_workers_25"
+msgid ""
+"Very few people work here. Brick production is much slower than it could be."
+msgstr ""
+
+msgctxt "#Brickworks_workers_50"
+msgid ""
+"This workshop is understaffed, and it takes longer to produce bricks than it"
+" should."
+msgstr ""
+
+msgctxt "#Brickworks_workers_75"
+msgid ""
+"This Brickworks has some unfilled jobs, which slows down brick production "
+"somewhat."
+msgstr ""
+
+msgctxt "#Bridge"
+msgid "Bridge"
+msgstr ""
+
+msgctxt "#Bridge_tooltip"
+msgid "Allows your citizens to cross small bodies of water"
+msgstr ""
+
+msgctxt "#Building"
+msgid "Building"
+msgstr ""
+
+msgctxt "#Buildings_NoRoadAccess"
+msgid "This building needs road access"
+msgstr ""
+
+msgctxt "#BurningRuin"
+msgid "Burning ruin"
+msgstr ""
+
+msgctxt "#BurningRuin_flavor"
+msgid ""
+"Fire marshals could not get here in time to save the building. When the "
+"fires burn out, only rubble will be left on this site."
+msgstr ""
+
+msgctxt "#CarpentersGuild"
+msgid "Carpenters' Guild"
+msgstr ""
+
+msgctxt "#CarpentersGuild_disabled"
+msgid "This guild has been shuttered by your Overseer of Commerce"
+msgstr ""
+
+msgctxt "#CarpentersGuild_flavor"
+msgid ""
+"Carpenters gather here to swap stories and tips about their profession, find"
+" work assignments and hammer out their problems."
+msgstr ""
+
+msgctxt "#CarpentersGuild_stocks_0"
+msgid "This workshop needs wood delivered to it."
+msgstr ""
+
+msgctxt "#CarpentersGuild_storage"
+msgid "Stored wood<sprite name=\"Wood\">: {0} units."
+msgstr ""
+
+msgctxt "#CarpentersGuild_tooltip"
+msgid ""
+"Needed to build some monuments. Requires deliveries of wood <sprite "
+"name=\"Wood\">"
+msgstr ""
+
+msgctxt "#CarpentersGuild_workers_0"
+msgid "This guild has no employees. Carpentry services are not available."
+msgstr ""
+
+msgctxt "#CarpentersGuild_workers_1"
+msgid ""
+"With hardly any employees at this guild, it seems to take forever for a "
+"carpenter to show up."
+msgstr ""
+
+msgctxt "#CarpentersGuild_workers_100"
+msgid ""
+"This guild has all the employees it needs. Carpenters can work with maximal "
+"efficiency."
+msgstr ""
+
+msgctxt "#CarpentersGuild_workers_25"
+msgid ""
+"Very few people work here. There is a considerable wait for a carpenter's "
+"services."
+msgstr ""
+
+msgctxt "#CarpentersGuild_workers_50"
+msgid ""
+"This guild is understaffed, and supplies fewer carpenters than it could."
+msgstr ""
+
+msgctxt "#CarpentersGuild_workers_75"
+msgid ""
+"This guild is working below maximum capacity. Work will be slightly slower "
+"as a result."
+msgstr ""
+
+msgctxt "#CattleRanch"
+msgid "Cattle Ranch"
+msgstr ""
+
+msgctxt "#CattleRanch_disabled"
+msgid "By decree of the Overseer of Commerce, cattle ranching has ceased."
+msgstr ""
+
+msgctxt "#CattleRanch_flavor"
+msgid ""
+"Well-fed citizens want meat in their diet. Meat can be kept in Granaries for"
+" local consumption, or taken to Storage Yards for export."
+msgstr ""
+
+msgctxt "#CattleRanch_tooltip"
+msgid "Produces meat <sprite name=\"Meat\"> out of straw <sprite name=\"Straw\">"
+msgstr ""
+
+msgctxt "#CattleRanch_workers_0"
+msgid "This ranch has no workers. All of the animals have escaped or died."
+msgstr ""
+
+msgctxt "#CattleRanch_workers_1"
+msgid "With hardly any workers, this ranch can raise very few cattle."
+msgstr ""
+
+msgctxt "#CattleRanch_workers_100"
+msgid ""
+"This ranch has all the workers it needs. With straw, it can yield ample "
+"meat."
+msgstr ""
+
+msgctxt "#CattleRanch_workers_25"
+msgid ""
+"Very few people work at this ranch. Its potential meat production is low."
+msgstr ""
+
+msgctxt "#CattleRanch_workers_50"
+msgid "This farm is understaffed. It cannot reach its potential output."
+msgstr ""
+
+msgctxt "#CattleRanch_workers_75"
+msgid ""
+"This ranch needs to hire more workers if it is to produce meat efficiently. "
+msgstr ""
+
+msgctxt "#ChariotMaker"
+msgid "Chariot Workshop"
+msgstr ""
+
+msgctxt "#ChariotMaker_disabled"
+msgid ""
+"Your Overseer of Commerce decreed that chariot production should cease."
+msgstr ""
+
+msgctxt "#ChariotMaker_flavor"
+msgid ""
+"Here, expert craftsmen produce 'war wheels', one of Egypt's deadliest "
+"weapons."
+msgstr ""
+
+msgctxt "#ChariotMaker_stock_0"
+msgid ""
+"This workshop will produce no chariots without a shipment of wood and "
+"copper, whether from a Storage Yard, a Wood Cutter or a Copper Mine."
+msgstr ""
+
+msgctxt "#ChariotMaker_storage_copper"
+msgid "Stored copper<sprite name=\"Copper\">: {0} units."
+msgstr ""
+
+msgctxt "#ChariotMaker_storage_wood"
+msgid "Stored wood<sprite name=\"Wood\">: {0} units."
+msgstr ""
+
+msgctxt "#ChariotMaker_tooltip"
+msgid ""
+"Produces chariots<sprite name=\"Chariots\"> out of copper<sprite "
+"name=\"Copper\"> and wood <sprite name=\"Wood\">"
+msgstr ""
+
+msgctxt "#ChariotMaker_workers_0"
+msgid ""
+"This Chariot Maker has no employees, and will produce no war wheels at all."
+msgstr ""
+
+msgctxt "#ChariotMaker_workers_1"
+msgid ""
+"With hardly any employees, this Chariot Maker will produce very few chariots"
+" over the coming year."
+msgstr ""
+
+msgctxt "#ChariotMaker_workers_100"
+msgid ""
+"This Chariot Maker is fully staffed, and produces many high-quality "
+"chariots."
+msgstr ""
+
+msgctxt "#ChariotMaker_workers_25"
+msgid ""
+"Very few people work at this Chariot Maker. Chariot production is slow as a "
+"result."
+msgstr ""
+
+msgctxt "#ChariotMaker_workers_50"
+msgid ""
+"This Chariot Maker is understaffed, and produces chariots more slowly than "
+"it should."
+msgstr ""
+
+msgctxt "#ChariotMaker_workers_75"
+msgid ""
+"This Chariot Maker could use more workers to reach its full potential for "
+"chariot production."
+msgstr ""
+
+msgctxt "#ChickpeaFarm"
+msgid "Chickpea Farm"
+msgstr ""
+
+msgctxt "#ChickpeaFarm_disabled"
+msgid "Your Overseer of Commerce ordered a halt to chickpea farming."
+msgstr ""
+
+msgctxt "#ChickpeaFarm_flavor"
+msgid ""
+"Chickpeas are a versatile source of protein, and quite popular in your "
+"people's diets."
+msgstr ""
+
+msgctxt "#ChickpeaFarm_harvest"
+msgid "The next chickpea harvest is in {[Month]}."
+msgstr ""
+
+msgctxt "#ChickpeaFarm_tooltip"
+msgid ""
+"Produces chickpeas <sprite name=\"Chickpeas\">. Harvest in April when built "
+"on a meadow"
+msgstr ""
+
+msgctxt "#ChickpeaFarm_workers_0"
+msgid "This farm has no workers. The land lies fallow."
+msgstr ""
+
+msgctxt "#ChickpeaFarm_workers_1"
+msgid ""
+"With hardly any workers at this farm, the chickpea harvest will be "
+"negligible."
+msgstr ""
+
+msgctxt "#ChickpeaFarm_workers_100"
+msgid ""
+"This farm has all the workers it needs. It gets maximum yield, given its "
+"fertility."
+msgstr ""
+
+msgctxt "#ChickpeaFarm_workers_25"
+msgid ""
+"There are very few farmers working here. Chickpea production is far from "
+"maximal."
+msgstr ""
+
+msgctxt "#ChickpeaFarm_workers_50"
+msgid ""
+"This farm is understaffed. Its workers grow fewer chickpeas than the land "
+"could yield."
+msgstr ""
+
+msgctxt "#ChickpeaFarm_workers_75"
+msgid ""
+"This farm would like to hire more workers. It could grow more chickpeas than"
+" it does."
+msgstr ""
+
+msgctxt "#CityPalace"
+msgid "City Palace"
+msgstr ""
+
+msgctxt "#CityPalace_tooltip"
+msgid ""
+"This humongous Palace stores most of the city treasure. Allows you to "
+"collect tax. Must be built on a grassy area."
+msgstr ""
+
+msgctxt "#ClayPit"
+msgid "Clay Pit"
+msgstr ""
+
+msgctxt "#ClayPit_disabled"
+msgid "Your Overseer of Commerce stopped clay digging."
+msgstr ""
+
+msgctxt "#ClayPit_flavor"
+msgid ""
+"Mine clay for trade, or to supply potters. People find endless uses for "
+"pottery, and you can often trade it profitably with other cities."
+msgstr ""
+
+msgctxt "#ClayPit_tooltip"
+msgid "To be placed near water. Produces clay <sprite name=\"Clay\">"
+msgstr ""
+
+msgctxt "#ClayPit_workers_0"
+msgid "This pit has no workers to dig clay."
+msgstr ""
+
+msgctxt "#ClayPit_workers_1"
+msgid ""
+"With hardly any diggers at this pit, it will produce very little clay over "
+"the coming year."
+msgstr ""
+
+msgctxt "#ClayPit_workers_100"
+msgid ""
+"This pit has all the workers it needs, and produces large amounts of clay."
+msgstr ""
+
+msgctxt "#ClayPit_workers_25"
+msgid "So few people work at this pit that clay production is extremely slow."
+msgstr ""
+
+msgctxt "#ClayPit_workers_50"
+msgid ""
+"This pit is understaffed, and is taking longer to produce clay than it "
+"should."
+msgstr ""
+
+msgctxt "#ClayPit_workers_75"
+msgid ""
+"This pit is working below maximum capacity. Clay production will be slightly"
+" slower as a result."
+msgstr ""
+
+msgctxt "#Conservatory"
+msgid "Conservatory"
+msgstr ""
+
+msgctxt "#Conservatory_flavor"
+msgid ""
+"Egyptian people are always eager to hear the latest renditions from new "
+"musicians."
+msgstr ""
+
+msgctxt "#Conservatory_tooltip"
+msgid "Sends Musicians to Bandcamps and Pavilions"
+msgstr ""
+
+msgctxt "#Conservatory_workers_0"
+msgid "With no training staff, this school cannot train any new musicians."
+msgstr ""
+
+msgctxt "#Conservatory_workers_1"
+msgid ""
+"I have no staff other than myself. I cannot be expected to work under these "
+"conditions! At best, I can train a musician in three months."
+msgstr ""
+
+msgctxt "#Conservatory_workers_100"
+msgid ""
+"We are pleased to announce that, with full employment, we are training up to"
+" four new musicians every month."
+msgstr ""
+
+msgctxt "#Conservatory_workers_25"
+msgid ""
+"We have so few employees that we will struggle to turn out one new musician "
+"over the next two months."
+msgstr ""
+
+msgctxt "#Conservatory_workers_50"
+msgid ""
+"We are half-staffed, and so are only able to train one musician in the "
+"coming month."
+msgstr ""
+
+msgctxt "#Conservatory_workers_75"
+msgid ""
+"We are slightly understaffed, and so can train at most two new musicians "
+"each month."
+msgstr ""
+
+msgctxt "#ConstructionSites"
+msgid "Construction Sites"
+msgstr ""
+
+msgctxt "#CopperMine"
+msgid "Copper Mine"
+msgstr ""
+
+msgctxt "#CopperMine_disabled"
+msgid "Your Overseer of Commerce ordered a halt to copper mining."
+msgstr ""
+
+msgctxt "#CopperMine_flavor"
+msgid ""
+"Easily worked and durable, copper makes fine weapons and a valuable export."
+msgstr ""
+
+msgctxt "#CopperMine_tooltip"
+msgid "Needs to be placed near rocks to produce copper <sprite name=\"Copper\">"
+msgstr ""
+
+msgctxt "#CopperMine_workers_0"
+msgid "This mine has no workers. Production has ceased."
+msgstr ""
+
+msgctxt "#CopperMine_workers_1"
+msgid ""
+"With hardly any workers here, output has nearly stopped. It will produce "
+"little over the coming year."
+msgstr ""
+
+msgctxt "#CopperMine_workers_100"
+msgid ""
+"This mine has all the workers it needs, and is producing plenty of copper."
+msgstr ""
+
+msgctxt "#CopperMine_workers_25"
+msgid "Very few people work in this building. Production is slow as a result."
+msgstr ""
+
+msgctxt "#CopperMine_workers_50"
+msgid ""
+"This mine is understaffed. It takes longer to produce copper than it should."
+msgstr ""
+
+msgctxt "#CopperMine_workers_75"
+msgid ""
+"This mine is working below maximum capacity. Production could be slightly "
+"more efficient with more workers."
+msgstr ""
+
+msgctxt "#Courthouse"
+msgid "Courthouse"
+msgstr ""
+
+msgctxt "#Courthouse_Magistrate_In"
+msgid "The magistrate is in his chambers."
+msgstr ""
+
+msgctxt "#Courthouse_Magistrate_Out"
+msgid "The magistrate is out resolving disputes."
+msgstr ""
+
+msgctxt "#Courthouse_flavor"
+msgid ""
+"Courthouses send forth magistrates, who help to reduce crime by ensuring "
+"that all grievances get a fair hearing. Courthouse vaults hold part of your "
+"city's treasury."
+msgstr ""
+
+msgctxt "#Courthouse_tooltip"
+msgid "Reduces crime. Holds part of your treasury"
+msgstr ""
+
+msgctxt "#Courthouse_workers_0"
+msgid ""
+"This Courthouse has no workers at all, so local citizens solve their own "
+"disputes in whatever ways they can."
+msgstr ""
+
+msgctxt "#Courthouse_workers_1"
+msgid ""
+"There are so few magistrates available that legal decisions seem almost "
+"random to the plaintiffs."
+msgstr ""
+
+msgctxt "#Courthouse_workers_100"
+msgid ""
+"The Courthouse has all the staff it needs to hear citizens' complaints "
+"swiftly and dispatch careful decisions."
+msgstr ""
+
+msgctxt "#Courthouse_workers_50"
+msgid ""
+"With only half the workers it needs, this Courthouse sometimes rushes to "
+"judgment."
+msgstr ""
+
+msgctxt "#Courthouse_workers_75"
+msgid ""
+"Because it is slightly understaffed, this Courthouse has a small backlog of "
+"cases to hear."
+msgstr ""
+
+msgctxt "#DanceSchool"
+msgid "Dance School"
+msgstr ""
+
+msgctxt "#DanceSchool_flavor"
+msgid "Dancers delight audiences with graceful and tantalizing new moves."
+msgstr ""
+
+msgctxt "#DanceSchool_tooltip"
+msgid "Sends Dancers to Pavilions"
+msgstr ""
+
+msgctxt "#DanceSchool_workers_0"
+msgid "With no instructors, this dance school cannot teach any new dancers."
+msgstr ""
+
+msgctxt "#DanceSchool_workers_1"
+msgid ""
+"I have no staff other than myself. I cannot be expected to work under these "
+"conditions! At best, I can teach one dancer in three months."
+msgstr ""
+
+msgctxt "#DanceSchool_workers_100"
+msgid ""
+"We are pleased to announce that, with full employment, we can provide up to "
+"four new dancers every month."
+msgstr ""
+
+msgctxt "#DanceSchool_workers_25"
+msgid ""
+"We need instructors so badly that we can barely handle one new dancer over "
+"the next two months."
+msgstr ""
+
+msgctxt "#DanceSchool_workers_50"
+msgid ""
+"We are half-staffed, so we can train only one dancer in the coming month."
+msgstr ""
+
+msgctxt "#DanceSchool_workers_75"
+msgid ""
+"We are slightly understaffed, and so can only train two new dancers each "
+"month at most."
+msgstr ""
+
+msgctxt "#Defense"
+msgid "Defensive Structures"
+msgstr ""
+
+msgctxt "#Dentist"
+msgid "Dentist"
+msgstr ""
+
+msgctxt "#Dentist_flavor"
+msgid ""
+"Sand gets into everything, including food. Constant abrasion makes plenty of"
+" work for Egyptian dentists."
+msgstr ""
+
+msgctxt "#Dentist_tooltip"
+msgid "Increases the health of your city. Required for spacious residences"
+msgstr ""
+
+msgctxt "#Dentist_workers_0"
+msgid ""
+"This Dentist's office is not operational, and its neighbors' teeth show the "
+"lack of care."
+msgstr ""
+
+msgctxt "#Dentist_workers_1"
+msgid ""
+"This Dentist's office is operational, and the local community's teeth gleam "
+"with pride."
+msgstr ""
+
+msgctxt "#Distribution"
+msgid "Stock & Distribution"
+msgstr ""
+
+msgctxt "#Dock"
+msgid "Dock"
+msgstr ""
+
+msgctxt "#Dock_docked_workers_0"
+msgid "Without any dockers on staff, we cannot service the docked ship."
+msgstr ""
+
+msgctxt "#Dock_docked_workers_1"
+msgid ""
+"We are servicing the docked ship. With so few dock workers, though, this "
+"could take a long time."
+msgstr ""
+
+msgctxt "#Dock_docked_workers_100"
+msgid ""
+"With full employment, we can service the docked ship quickly and "
+"efficiently."
+msgstr ""
+
+msgctxt "#Dock_docked_workers_50"
+msgid ""
+"We are servicing the docked ship, although this will take a little longer "
+"than it would if we were fully staffed."
+msgstr ""
+
+msgctxt "#Dock_empty_workers_0"
+msgid ""
+"Any ship that moors here will find no workers to load or unload its cargo."
+msgstr ""
+
+msgctxt "#Dock_empty_workers_1"
+msgid ""
+"The few dockers employed here would take a long time to load and unload any "
+"ships that arrive in port."
+msgstr ""
+
+msgctxt "#Dock_empty_workers_100"
+msgid ""
+"With full employment, our dockers are just waiting for their ship to come "
+"in."
+msgstr ""
+
+msgctxt "#Dock_empty_workers_50"
+msgid ""
+"We are understaffed, so it will take a little longer than normal to load and"
+" unload any ships that arrive in port."
+msgstr ""
+
+msgctxt "#Dock_flavor"
+msgid ""
+"Trading ships from all over the world moor here to deliver imports and pick "
+"up exports. You cannot conduct waterborne trade without Docks."
+msgstr ""
+
+msgctxt "#Dock_order_dont_trade"
+msgid "Don't Trade"
+msgstr ""
+
+msgctxt "#Dock_order_trade"
+msgid "Trade"
+msgstr ""
+
+msgctxt "#Dock_tooltip"
+msgid ""
+"Trading ships will exchange goods here. Don't forget to build storage yards "
+"close by!"
+msgstr ""
+
+msgctxt "#DynastyMansion"
+msgid "Dynasty Mansion"
+msgstr ""
+
+msgctxt "#DynastyMansion_tooltip"
+msgid ""
+"One of the most incredible residence of all Egypt, and it's yours! Allows "
+"you to draw a salary. Must be built on a grassy area"
+msgstr ""
+
+msgctxt "#Education"
+msgid "Education"
+msgstr ""
+
+msgctxt "#Entertainment"
+msgid "Entertainment"
+msgstr ""
+
+msgctxt "#FamilyMansion"
+msgid "Family Mansion"
+msgstr ""
+
+msgctxt "#FamilyMansion_tooltip"
+msgid ""
+"A beautiful mansion for you and your family. Allows you to draw a salary. "
+"Must be built on a grassy area"
+msgstr ""
+
+msgctxt "#FarmBarley"
+msgid "Barley Farm"
+msgstr ""
+
+msgctxt "#FarmChickpea"
+msgid "Chickpea Farm"
+msgstr ""
+
+msgctxt "#FarmFigs"
+msgid "Fig Farm"
+msgstr ""
+
+msgctxt "#FarmFlax"
+msgid "Flax Farm"
+msgstr ""
+
+msgctxt "#FarmGrain"
+msgid "Grain Farm"
+msgstr ""
+
+msgctxt "#FarmHenna"
+msgid "Henna Farm"
+msgstr ""
+
+msgctxt "#FarmLettuce"
+msgid "Lettuce Farm"
+msgstr ""
+
+msgctxt "#FarmPomegranate"
+msgid "Pomegranate Farm"
+msgstr ""
+
+msgctxt "#Farm_Irrigated_No"
+msgid "This farmland is not irrigated."
+msgstr ""
+
+msgctxt "#Farm_Irrigated_Yes"
+msgid "This farmland is irrigated."
+msgstr ""
+
+msgctxt "#Farm_Nextflood"
+msgid "The next floods will come in {[Month]}."
+msgstr ""
+
+msgctxt "#Farm_Nile_empty"
+msgid "This farm needs laborers, who can be trained at a Work Camp."
+msgstr ""
+
+msgctxt "#Farm_Nile_staffed"
+msgid "This farm has a full crew of laborers working the fields."
+msgstr ""
+
+msgctxt "#Farm_Plagued"
+msgid ""
+"This farm's land was blighted by the recent swarm of locusts, and will take "
+"some time to recover."
+msgstr ""
+
+msgctxt "#FerryLanding"
+msgid "Ferry Landing"
+msgstr ""
+
+msgctxt "#FerryLanding_noroad"
+msgid ""
+"WARNING! This ferry's associated landing site lacks road access. Only "
+"migrants can cross."
+msgstr ""
+
+msgctxt "#FerryLanding_notwin"
+msgid ""
+"WARNING! This Ferry Landing lacks a linked site across the river. No one can"
+" cross."
+msgstr ""
+
+msgctxt "#FerryLanding_tooltip"
+msgid "Allows citizens to cross bodies of water too large for a bridge"
+msgstr ""
+
+msgctxt "#FerryLanding_workers_0"
+msgid ""
+"WARNING! This ferry's associated landing site has labor problems. Only "
+"migrants can cross."
+msgstr ""
+
+msgctxt "#FestivalSquare"
+msgid "Festival Square"
+msgstr ""
+
+msgctxt "#FestivalSquare_flavor"
+msgid ""
+"When you instruct your Overseer of the Temples to throw a festival in honor "
+"of one of the gods, citizens gather here to participate. "
+msgstr ""
+
+msgctxt "#FestivalSquare_nofestival"
+msgid "Hold a festival to make the people happy, and to appease the gods"
+msgstr ""
+
+msgctxt "#FestivalSquare_ongoing_festival"
+msgid "A festival is currently in progress"
+msgstr ""
+
+msgctxt "#FestivalSquare_tooltip"
+msgid ""
+"Must be built on a crossroad. Allows you to hold festivals to the gods of "
+"your city"
+msgstr ""
+
+msgctxt "#FigFarm"
+msgid "Fig Farm"
+msgstr ""
+
+msgctxt "#FigFarm_disabled"
+msgid "Your Overseer of Commerce ordered a halt to fig farming."
+msgstr ""
+
+msgctxt "#FigFarm_flavor"
+msgid ""
+"Figs figure prominently in the balanced diet that people need for health and"
+" happiness."
+msgstr ""
+
+msgctxt "#FigFarm_harvest"
+msgid "The next fig harvest is in {[Month]}."
+msgstr ""
+
+msgctxt "#FigFarm_tooltip"
+msgid ""
+"Produces figs <sprite name=\"Figs\">. Harvest in September when built on a "
+"meadow"
+msgstr ""
+
+msgctxt "#FigFarm_workers_0"
+msgid "This grove has no workers. The trees are wild and barren."
+msgstr ""
+
+msgctxt "#FigFarm_workers_1"
+msgid "With hardly any workers at this farm, it will barely give a fig."
+msgstr ""
+
+msgctxt "#FigFarm_workers_100"
+msgid ""
+"This grove has all the workers it needs. It gets maximum yield for its "
+"fertility."
+msgstr ""
+
+msgctxt "#FigFarm_workers_25"
+msgid ""
+"There are very few farmers working here. Fig production is far from maximal."
+msgstr ""
+
+msgctxt "#FigFarm_workers_50"
+msgid ""
+"This grove is understaffed. Its workers harvest fewer figs than they "
+"otherwise could."
+msgstr ""
+
+msgctxt "#FigFarm_workers_75"
+msgid "This grove could use more workers. It would produce more figs."
+msgstr ""
+
+msgctxt "#Firehouse"
+msgid "Firehouse"
+msgstr ""
+
+msgctxt "#Firehouse_Marshal_In"
+msgid "Our marshal is preparing for duty."
+msgstr ""
+
+msgctxt "#Firehouse_Marshal_Out"
+msgid "Our marshal is patrolling the streets."
+msgstr ""
+
+msgctxt "#Firehouse_flavor"
+msgid ""
+"Firehouses send marshals into the city to prevent fires, and to fight those "
+"that do break out. "
+msgstr ""
+
+msgctxt "#Firehouse_tooltip"
+msgid ""
+"Prevents buildings from catching fire. The fire marshal can stop ongoing "
+"fires"
+msgstr ""
+
+msgctxt "#Firehouse_workers_0"
+msgid ""
+"With no staff, this Firehouse is little more than a fire waiting to happen."
+msgstr ""
+
+msgctxt "#Firehouse_workers_1"
+msgid ""
+"We are operating with desk staff only. We frequently go a full month without"
+" sending a marshal out on the streets."
+msgstr ""
+
+msgctxt "#Firehouse_workers_100"
+msgid ""
+"Currently our duty roster is full. Our marshals are always out there, "
+"sniffing out evidence of fire."
+msgstr ""
+
+msgctxt "#Firehouse_workers_25"
+msgid ""
+"We have far too few men. Often, no marshals leave the Firehouse for up to "
+"two weeks at a time."
+msgstr ""
+
+msgctxt "#Firehouse_workers_50"
+msgid ""
+"We are understaffed. There are delays of up to a week in fire prevention "
+"patrols."
+msgstr ""
+
+msgctxt "#Firehouse_workers_75"
+msgid ""
+"We are a little short of marshals. We have gaps of perhaps a day or two in "
+"our coverage."
+msgstr ""
+
+msgctxt "#FishingWharf"
+msgid "Fishing Wharf"
+msgstr ""
+
+msgctxt "#FishingWharf_disabled"
+msgid "Your Overseer of Commerce ordered a halt to fishing."
+msgstr ""
+
+msgctxt "#FishingWharf_dockedboat"
+msgid "We are re-stocking our fishing boat for another outbound voyage."
+msgstr ""
+
+msgctxt "#FishingWharf_fishing"
+msgid "Our boat is at the fishing grounds now, hauling in fish."
+msgstr ""
+
+msgctxt "#FishingWharf_flavor"
+msgid ""
+"Boats sail here from the Shipwright to take on crews and begin fishing local"
+" waters. Each Wharf can service one fishing boat."
+msgstr ""
+
+msgctxt "#FishingWharf_fromfishingpoint"
+msgid ""
+"Our fishing boat is sailing back from the fishing grounds with its catch."
+msgstr ""
+
+msgctxt "#FishingWharf_fromshipwright"
+msgid "Our boat is sailing to the Wharf now."
+msgstr ""
+
+msgctxt "#FishingWharf_noboat"
+msgid "We are currently waiting for a Shipwright to build us a fishing boat."
+msgstr ""
+
+msgctxt "#FishingWharf_nofishingpoint"
+msgid ""
+"Our fishermen hope that someone discovers fishing grounds in this area "
+"someday. They can't earn much of a living with the waters depleted."
+msgstr ""
+
+msgctxt "#FishingWharf_plague"
+msgid "Our fishing boat is not going out into that polluted water!"
+msgstr ""
+
+msgctxt "#FishingWharf_tofishingpoint"
+msgid "Our fishing boat is sailing out to the fishing grounds."
+msgstr ""
+
+msgctxt "#FishingWharf_tooltip"
+msgid ""
+"Once the shipwright has sent this wharf its fishing boat, will produce fish "
+"<sprite name=\"Fish\"> from the nearest fishing point"
+msgstr ""
+
+msgctxt "#FlaxFarm"
+msgid "Flax Farm"
+msgstr ""
+
+msgctxt "#FlaxFarm_disabled"
+msgid "Your Overseer of Commerce ordered a halt to flax growing."
+msgstr ""
+
+msgctxt "#FlaxFarm_flavor"
+msgid ""
+"Flax goes to a Weaver, who processes the fibers and weaves them into linen "
+"for Mortuaries to use in embalming, or for export."
+msgstr ""
+
+msgctxt "#FlaxFarm_harvest"
+msgid "The next flax harvest is in {[Month]}."
+msgstr ""
+
+msgctxt "#FlaxFarm_tooltip"
+msgid ""
+"Produces flax <sprite name=\"Flax\">. Harvest in December when built on a "
+"meadow"
+msgstr ""
+
+msgctxt "#FlaxFarm_workers_0"
+msgid "This farm has no workers. No flax can grow here."
+msgstr ""
+
+msgctxt "#FlaxFarm_workers_1"
+msgid "With hardly any workers in this farm, the ground is mostly barren."
+msgstr ""
+
+msgctxt "#FlaxFarm_workers_100"
+msgid ""
+"This farm has all the workers it needs. The fields are carpeted with blue "
+"flax flowers."
+msgstr ""
+
+msgctxt "#FlaxFarm_workers_25"
+msgid ""
+"There are very few people working here. The flax harvest will suffer as a "
+"result."
+msgstr ""
+
+msgctxt "#FlaxFarm_workers_50"
+msgid ""
+"This farm is understaffed. Flax plants aren't as dense or as sturdy as they "
+"could be."
+msgstr ""
+
+msgctxt "#FlaxFarm_workers_75"
+msgid ""
+"This farm is working below maximum capacity. Flax production could be better"
+" with more workers."
+msgstr ""
+
+msgctxt "#FoodAndFarming"
+msgid "Food & Farming"
+msgstr ""
+
+msgctxt "#FoodFarm"
+msgid "Food Farms"
+msgstr ""
+
+msgctxt "#FoodWorkCamp"
+msgid "Work Camp"
+msgstr ""
+
+msgctxt "#Fort"
+msgid "Fort"
+msgstr ""
+
+msgctxt "#FortArchers"
+msgid "Fort: Archers"
+msgstr ""
+
+msgctxt "#FortArchers_tooltip"
+msgid "Where your archers can rest between battles"
+msgstr ""
+
+msgctxt "#FortArchers_troops"
+msgid "There are currently {0} archers stationed at this fort."
+msgstr ""
+
+msgctxt "#FortArchers_troops_0"
+msgid "There are no archers at all stationed at this fort."
+msgstr ""
+
+msgctxt "#FortArchers_troops_1"
+msgid "Only one lonely archer is stationed at this fort."
+msgstr ""
+
+msgctxt "#FortArchers_upgrade_button"
+msgid "Equip {0} archers with Composite Bows<sprite name=\"CompositeBows\">"
+msgstr ""
+
+msgctxt "#FortArchers_upgrade_full"
+msgid ""
+"Every archer at this fort is fully equipped with the best Composite "
+"Bows<sprite name=\"CompositeBows\"> in all Egypt!"
+msgstr ""
+
+msgctxt "#FortArchers_upgrade_none"
+msgid ""
+"Archers here are only equipped with simple bows. Produce some Composite "
+"Bows<sprite name=\"CompositeBows\"> from wood<sprite name=\"Wood\"> to "
+"benefit your men."
+msgstr ""
+
+msgctxt "#FortArchers_upgrade_one"
+msgid ""
+"Only one archer in this fort is currently equipped with a composite "
+"bow<sprite name=\"CompositeBows\">."
+msgstr ""
+
+msgctxt "#FortArchers_upgrade_state"
+msgid ""
+"Currently, {0} of your archers are equipped with Composite Bows<sprite "
+"name=\"CompositeBows\">, making them more resilient in battle."
+msgstr ""
+
+msgctxt "#FortCharioteers"
+msgid "Fort: Charioteers"
+msgstr ""
+
+msgctxt "#FortCharioteers_tooltip"
+msgid "Where your charioteers can rest between battles"
+msgstr ""
+
+msgctxt "#FortCharioteers_troops"
+msgid "There are currently {0} charioteers stationed at this fort."
+msgstr ""
+
+msgctxt "#FortCharioteers_troops_0"
+msgid "There are no men stationed at this fort."
+msgstr ""
+
+msgctxt "#FortCharioteers_troops_1"
+msgid "Only one charioteer is stationed at this fort."
+msgstr ""
+
+msgctxt "#FortInfantery"
+msgid "Fort: Infantry"
+msgstr ""
+
+msgctxt "#FortInfantery_tooltip"
+msgid "Where your infantry can rest between battles"
+msgstr ""
+
+msgctxt "#FortInfantery_troops"
+msgid "There are currently {0} men stationed at this fort."
+msgstr ""
+
+msgctxt "#FortInfantery_troops_0"
+msgid "There are no men stationed at this fort."
+msgstr ""
+
+msgctxt "#FortInfantery_troops_1"
+msgid "Only one soldier is stationed at this fort."
+msgstr ""
+
+msgctxt "#FortInfantery_upgrade_button"
+msgid "Equip {0} soldiers with shields<sprite name=\"Shields\">"
+msgstr ""
+
+msgctxt "#FortInfantery_upgrade_full"
+msgid ""
+"All the men in this fort are fully equipped with weapons<sprite "
+"name=\"Weapons\"> and shields<sprite name=\"Shields\">, you could not find a"
+" more efficient company."
+msgstr ""
+
+msgctxt "#FortInfantery_upgrade_none"
+msgid ""
+"No soldier at this fort is equipped with shields<sprite name=\"Shields\">. "
+"Produce some from hides<sprite name=\"Hides\"> to benefit your men."
+msgstr ""
+
+msgctxt "#FortInfantery_upgrade_one"
+msgid ""
+"Only one man in this fort is currently equipped with a shield<sprite "
+"name=\"Shields\">."
+msgstr ""
+
+msgctxt "#FortInfantery_upgrade_state"
+msgid ""
+"Currently, {0} of your men are equipped with shields<sprite "
+"name=\"Shields\">, making them more resilient in battle."
+msgstr ""
+
+msgctxt "#FortInfantry"
+msgid "Fort: Infantry"
+msgstr ""
+
+msgctxt "#Fort_curse"
+msgid ""
+"This Fort is accursed by Seth, and it will be some time yet before any "
+"soldiers dare to venture back here."
+msgstr ""
+
+msgctxt "#Fort_flavor"
+msgid ""
+"Forts draw soldiers from the city's Recruiter. A Military Academy would "
+"provide better-trained troops."
+msgstr ""
+
+msgctxt "#Fort_full"
+msgid ""
+"This fort holds as many soldiers as it can. Build more forts to grow your "
+"army!"
+msgstr ""
+
+msgctxt "#Game_Order"
+msgid "Special orders"
+msgstr ""
+
+msgctxt "#Game_Order_Accept"
+msgid "Accept"
+msgstr ""
+
+msgctxt "#Game_Order_AcceptAll"
+msgid "Accept All"
+msgstr ""
+
+msgctxt "#Game_Order_AcceptNone"
+msgid "Accept None"
+msgstr ""
+
+msgctxt "#Game_Order_Buy"
+msgid "Buy"
+msgstr ""
+
+msgctxt "#Game_Order_DontAccept"
+msgid "Don't Accept"
+msgstr ""
+
+msgctxt "#Game_Order_DontBuy"
+msgid "Don't Buy"
+msgstr ""
+
+msgctxt "#Game_Order_Empty"
+msgid "Empty "
+msgstr ""
+
+msgctxt "#Game_Order_GetMaximum"
+msgid "Get"
+msgstr ""
+
+msgctxt "#Game_Quantity"
+msgid "Quantity"
+msgstr ""
+
+msgctxt "#Game_Throw_Good"
+msgid "Throw away goods"
+msgstr ""
+
+msgctxt "#Game_Throw_Good_Description"
+msgid "Are you sure you want to throw these goods away?"
+msgstr ""
+
+msgctxt "#Gardens"
+msgid "Gardens"
+msgstr ""
+
+msgctxt "#Gardens_flavor"
+msgid ""
+"This pleasant lot gives citizens relief from the noise, heat and dirt of the"
+" city with a cool oasis of green space. Everyone wants a garden next door."
+msgstr ""
+
+msgctxt "#Gardens_tooltip"
+msgid "Provides desirability to nearby houses"
+msgstr ""
+
+msgctxt "#Gatehouse"
+msgid "Gatehouse"
+msgstr ""
+
+msgctxt "#Gatehouse_flavor"
+msgid ""
+"Walls need a Gatehouse so that migrants and traders can come and go freely."
+msgstr ""
+
+msgctxt "#Gatehouse_tooltip"
+msgid ""
+"A segment of wall that allows the passage of a road. Acts as a roadblock"
+msgstr ""
+
+msgctxt "#GemstoneMine"
+msgid "Gemstone Mine"
+msgstr ""
+
+msgctxt "#GemstoneMine_disabled"
+msgid ""
+"Your Overseer of Commerce ruled that the city has enough gems, and halted "
+"mining."
+msgstr ""
+
+msgctxt "#GemstoneMine_flavor"
+msgid ""
+"Mine gems for export, or to produce jewelry, your city's basic luxury good."
+msgstr ""
+
+msgctxt "#GemstoneMine_tooltip"
+msgid "Needs to be placed near rocks to produce gems <sprite name=\"Gems\">"
+msgstr ""
+
+msgctxt "#GemstoneMine_workers_0"
+msgid ""
+"This mine has no workers. Precious stones remain locked forever in the rock."
+msgstr ""
+
+msgctxt "#GemstoneMine_workers_1"
+msgid "With hardly any workers here, almost no gems are being mined."
+msgstr ""
+
+msgctxt "#GemstoneMine_workers_100"
+msgid ""
+"This mine has all the workers it needs, and produces glittering mounds of "
+"gems."
+msgstr ""
+
+msgctxt "#GemstoneMine_workers_25"
+msgid ""
+"Very few miners work here. Teasing gems from rock is very slow going indeed."
+msgstr ""
+
+msgctxt "#GemstoneMine_workers_50"
+msgid ""
+"This mine is understaffed. It produces considerably fewer gems than it "
+"could."
+msgstr ""
+
+msgctxt "#GemstoneMine_workers_75"
+msgid ""
+"This mine has some job openings, and gem production is less efficient than "
+"it could be."
+msgstr ""
+
+msgctxt "#GoldMine"
+msgid "Gold Mine"
+msgstr ""
+
+msgctxt "#GoldMine_disabled"
+msgid "The Overseer of Commerce commanded an end to gold mining."
+msgstr ""
+
+msgctxt "#GoldMine_flavor"
+msgid ""
+"Mining gold is the most direct way to fill your city's treasury. Lucky is "
+"the city that has this precious resource, for its wealth is assured."
+msgstr ""
+
+msgctxt "#GoldMine_tooltip"
+msgid ""
+"Needs to be placed near veins to produce gold <sprite name=\"Gold\"> that is"
+" transformed into debens <sprite name=\"Deben\"> at the palace"
+msgstr ""
+
+msgctxt "#GoldMine_workers_0"
+msgid "This mine has no workers. No ore whatsoever can be extracted."
+msgstr ""
+
+msgctxt "#GoldMine_workers_1"
+msgid ""
+"With hardly any workers here, mining has nearly stopped. Very little gold "
+"will come of this."
+msgstr ""
+
+msgctxt "#GoldMine_workers_100"
+msgid ""
+"This mine has all the workers it needs, and produces a small fortune in "
+"gold."
+msgstr ""
+
+msgctxt "#GoldMine_workers_25"
+msgid "Very few people work here. Gold output is rather anemic."
+msgstr ""
+
+msgctxt "#GoldMine_workers_50"
+msgid "This mine is understaffed. It produces less gold than it could."
+msgstr ""
+
+msgctxt "#GoldMine_workers_75"
+msgid ""
+"This mine is working below maximum capacity. It would yield more gold if "
+"there were more miners."
+msgstr ""
+
+msgctxt "#Goods"
+msgid "Goods Production"
+msgstr ""
+
+msgctxt "#GrainFarm"
+msgid "Grain Farm"
+msgstr ""
+
+msgctxt "#GrainFarm_disabled"
+msgid "Your Overseer of Commerce ordered a halt to grain farming."
+msgstr ""
+
+msgctxt "#GrainFarm_flavor"
+msgid ""
+"Grain must be stored in Granaries to feed your people, or in Storage Yards "
+"if it is for export."
+msgstr ""
+
+msgctxt "#GrainFarm_harvest"
+msgid "The next grain harvest is in {[Month]}."
+msgstr ""
+
+msgctxt "#GrainFarm_tooltip"
+msgid ""
+"Produces grain <sprite name=\"Grain\"> and 100 units of straw <sprite "
+"name=\"Straw\">. Harvest in May and January when built on a meadow"
+msgstr ""
+
+msgctxt "#GrainFarm_workers_0"
+msgid "This farm has no workers. Even weeds struggle to grow here."
+msgstr ""
+
+msgctxt "#GrainFarm_workers_1"
+msgid ""
+"With hardly any workers at this farm, it will produce very little grain this"
+" season."
+msgstr ""
+
+msgctxt "#GrainFarm_workers_100"
+msgid ""
+"This farm has all the workers it needs. It gets maximum yield, given its "
+"current fertility."
+msgstr ""
+
+msgctxt "#GrainFarm_workers_25"
+msgid ""
+"There are very few farmers working here. Grain production is scanty as a "
+"result."
+msgstr ""
+
+msgctxt "#GrainFarm_workers_50"
+msgid ""
+"This farm is understaffed. Its workers don't grow as much food as they "
+"could."
+msgstr ""
+
+msgctxt "#GrainFarm_workers_75"
+msgid "This farm could be more productive if it had more workers."
+msgstr ""
+
+msgctxt "#Granary"
+msgid "Granary"
+msgstr ""
+
+msgctxt "#Granary_flavor"
+msgid ""
+"Full Granaries are vital for keeping the people's bellies filled, and help "
+"attract new citizens. A Granary can store any type of food."
+msgstr ""
+
+msgctxt "#Granary_tooltip"
+msgid ""
+"Can store every type of food: Chickpeas <sprite name=\"Chickpeas\">, Figs "
+"<sprite name=\"Figs\">, Fish <sprite name=\"Fish\">, Game Meat <sprite "
+"name=\"GameMeat\">, Grain <sprite name=\"Grain\">, Lettuce <sprite "
+"name=\"Lettuce\">, Meat <sprite name=\"Meat\">and Pomegranate <sprite "
+"name=\"Pomegranate\">"
+msgstr ""
+
+msgctxt "#GraniteQuarry"
+msgid "Granite Quarry"
+msgstr ""
+
+msgctxt "#GraniteQuarry_disabled"
+msgid "Your Overseer of Commerce ordered that no more granite be quarried."
+msgstr ""
+
+msgctxt "#GraniteQuarry_flavor"
+msgid ""
+"Obelisks use the heavy blocks of sturdy granite that you carve from the "
+"bones of the earth here."
+msgstr ""
+
+msgctxt "#GraniteQuarry_tooltip"
+msgid "Needs to be placed near rocks. Produces granite <sprite name=\"Granite\">"
+msgstr ""
+
+msgctxt "#GraniteQuarry_workers_0"
+msgid "This quarry has no workers. Production has ceased."
+msgstr ""
+
+msgctxt "#GraniteQuarry_workers_1"
+msgid ""
+"With hardly any workers here, output has nearly stopped. It will produce "
+"little over the coming year."
+msgstr ""
+
+msgctxt "#GraniteQuarry_workers_100"
+msgid ""
+"This quarry has all the workers it needs, and is working flat out to produce"
+" granite."
+msgstr ""
+
+msgctxt "#GraniteQuarry_workers_25"
+msgid "Very few people work here. The quarry yields very little granite."
+msgstr ""
+
+msgctxt "#GraniteQuarry_workers_50"
+msgid ""
+"This quarry is understaffed. It takes longer to produce granite than it "
+"should."
+msgstr ""
+
+msgctxt "#GraniteQuarry_workers_75"
+msgid ""
+"This quarry is working below maximum capacity. Production could be slightly "
+"more efficient with more workers."
+msgstr ""
+
+msgctxt "#GuildArtisans"
+msgid "Artisans' Guild"
+msgstr ""
+
+msgctxt "#GuildBricklayers"
+msgid "Bricklayers' Guild"
+msgstr ""
+
+msgctxt "#GuildCarpenters"
+msgid "Carpenters' Guild"
+msgstr ""
+
+msgctxt "#GuildStonemasons"
+msgid "Stonemasons' Guild"
+msgstr ""
+
+msgctxt "#Guilds"
+msgid "Guilds"
+msgstr ""
+
+msgctxt "#HathorOracle"
+msgid "Oracle of Hathor"
+msgstr ""
+
+msgctxt "#Health"
+msgid "Hygiene"
+msgstr ""
+
+msgctxt "#HennaFarm"
+msgid "Henna Farm"
+msgstr ""
+
+msgctxt "#HennaFarm_disabled"
+msgid ""
+"Your Overseer of Commerce has decreed that henna production should stop."
+msgstr ""
+
+msgctxt "#HennaFarm_flavor"
+msgid ""
+"The finest henna is grown here and sent to the Paint Maker, who makes the "
+"bright paints that decorate tomb walls."
+msgstr ""
+
+msgctxt "#HennaFarm_harvest"
+msgid "The next henna harvest is in {[Month]}."
+msgstr ""
+
+msgctxt "#HennaFarm_tooltip"
+msgid ""
+"Produces henna <sprite name=\"Henna\">. Harvest in December when built on a "
+"meadow"
+msgstr ""
+
+msgctxt "#HennaFarm_workers_0"
+msgid "Without any workers, this farm can't possibly grow any henna."
+msgstr ""
+
+msgctxt "#HennaFarm_workers_1"
+msgid ""
+"Most of this farm is barren. It needs more workers before it can grow more "
+"henna."
+msgstr ""
+
+msgctxt "#HennaFarm_workers_100"
+msgid ""
+"This farm has all the workers it needs. They are in the fields, tending to "
+"the plants."
+msgstr ""
+
+msgctxt "#HennaFarm_workers_25"
+msgid ""
+"There are very few people working here. The henna harvest will suffer as a "
+"result."
+msgstr ""
+
+msgctxt "#HennaFarm_workers_50"
+msgid ""
+"This farm doesn't have enough workers to tend to an entire field of henna."
+msgstr ""
+
+msgctxt "#HennaFarm_workers_75"
+msgid "This farm could harvest more henna if it had more workers."
+msgstr ""
+
+msgctxt "#HorusOracle"
+msgid "Oracle of Horus"
+msgstr ""
+
+msgctxt "#Housing"
+msgid "Housing"
+msgstr ""
+
+msgctxt "#Housing_tooltip"
+msgid "Place plots of housing so migrants join your city"
+msgstr ""
+
+msgctxt "#HuntingLodge"
+msgid "Hunting Lodge"
+msgstr ""
+
+msgctxt "#HuntingLodge_DistantPreyPoint"
+msgid ""
+"It takes too long for meat to get back to the lodge. Try putting it closer "
+"to wildlife."
+msgstr ""
+
+msgctxt "#HuntingLodge_HuntersOut"
+msgid "This lodge's hunters are out seeking prey."
+msgstr ""
+
+msgctxt "#HuntingLodge_disabled"
+msgid "The Overseer of Commerce decreed that hunting should cease."
+msgstr ""
+
+msgctxt "#HuntingLodge_flavor"
+msgid ""
+"Hunters based here track and hunt local wildlife. The Hunting Lodge then "
+"distributes game meat to local Storage Yards or Granaries."
+msgstr ""
+
+msgctxt "#HuntingLodge_storage_Hides"
+msgid "Stored hides<sprite name=\"Hides\">: {0} units."
+msgstr ""
+
+msgctxt "#HuntingLodge_storage_Meat"
+msgid "Stored meat<sprite name=\"GameMeat\">: {0} units."
+msgstr ""
+
+msgctxt "#HuntingLodge_tooltip"
+msgid ""
+"Dispatches 3 hunters to gather game meat <sprite name=\"GameMeat\"> from "
+"prey"
+msgstr ""
+
+msgctxt "#HuntingLodge_workers_0"
+msgid "This lodge has no workers. The hunt is canceled."
+msgstr ""
+
+msgctxt "#HuntingLodge_workers_1"
+msgid ""
+"With hardly any hunters working here, prey animals cavort unmolested. It "
+"could be a very hungry dry season..."
+msgstr ""
+
+msgctxt "#HuntingLodge_workers_100"
+msgid ""
+"This lodge has all the workers it needs. The hunters are stalking every herd"
+" they can find."
+msgstr ""
+
+msgctxt "#HuntingLodge_workers_25"
+msgid "Very few people work here. Meat collection is slow, indeed."
+msgstr ""
+
+msgctxt "#HuntingLodge_workers_50"
+msgid ""
+"This lodge is understaffed, and it takes longer to collect meat than it "
+"should."
+msgstr ""
+
+msgctxt "#HuntingLodge_workers_75"
+msgid ""
+"This lodge is working below maximum capacity. Food collection will be slower"
+" as a result."
+msgstr ""
+
+msgctxt "#Hygiene"
+msgid "Hygiene"
+msgstr ""
+
+msgctxt "#Industry"
+msgid "Production Buildings"
+msgstr ""
+
+msgctxt "#IndustryShutDown"
+msgid "Industry shut down"
+msgstr ""
+
+msgctxt "#Irrigation"
+msgid "Irrigation"
+msgstr ""
+
+msgctxt "#IrrigationDitch"
+msgid "Irrigation Ditch"
+msgstr ""
+
+msgctxt "#IrrigationDitch_nsource"
+msgid ""
+"This Irrigation Ditch is not transporting water to less fertile areas, as it"
+" has no source of water from which to draw."
+msgstr ""
+
+msgctxt "#IrrigationDitch_tooltip"
+msgid "When connected to a working water lift, irrigates nearby farms"
+msgstr ""
+
+msgctxt "#IrrigationDitch_working"
+msgid "This Irrigation Ditch moves water to help fertilize farmland"
+msgstr ""
+
+msgctxt "#IsisAltar"
+msgid "Altar of Isis"
+msgstr ""
+
+msgctxt "#Jeweler"
+msgid "Jeweler"
+msgstr ""
+
+msgctxt "#Jeweler_disabled"
+msgid "The Overseer of Commerce commands a halt to jewelry production."
+msgstr ""
+
+msgctxt "#Jeweler_flavor"
+msgid ""
+"The craftsmen here turn gemstones into jewelry (a luxury good). Some "
+"citizens want jewelry for themselves, and you can often export any surplus, "
+"although it is seldom worth much."
+msgstr ""
+
+msgctxt "#Jeweler_stock_0"
+msgid ""
+"This workshop needs a shipment of gems from a Storage Yard or a Gemstone "
+"Mine to produce jewelry."
+msgstr ""
+
+msgctxt "#Jeweler_storage"
+msgid "Stored gems<sprite name=\"Gems\">: {0} units."
+msgstr ""
+
+msgctxt "#Jeweler_tooltip"
+msgid "Produces jewelry <sprite name=\"Jewelry\"> out of gems <sprite name=\"Gems\">"
+msgstr ""
+
+msgctxt "#Jeweler_workers_0"
+msgid "This Jeweler has no employees, and is not producing anything."
+msgstr ""
+
+msgctxt "#Jeweler_workers_1"
+msgid ""
+"With hardly any craftsmen, this Jeweler will produce few luxury goods over "
+"the coming year."
+msgstr ""
+
+msgctxt "#Jeweler_workers_100"
+msgid ""
+"This facility is at full employment, and makes as much jewelry as possible."
+msgstr ""
+
+msgctxt "#Jeweler_workers_25"
+msgid ""
+"Very few craftsmen work here. Jewelry production is very slow as a result."
+msgstr ""
+
+msgctxt "#Jeweler_workers_50"
+msgid ""
+"This facility is understaffed, and takes longer to produce jewelry than it "
+"should."
+msgstr ""
+
+msgctxt "#Jeweler_workers_75"
+msgid ""
+"This facility has some job openings. Jewelry production will improve when "
+"they are filled."
+msgstr ""
+
+msgctxt "#JugglerSchool"
+msgid "Juggler School"
+msgstr ""
+
+msgctxt "#JugglerSchool_flavor"
+msgid "New jugglers with inventive new routines are always in demand."
+msgstr ""
+
+msgctxt "#JugglerSchool_tooltip"
+msgid ""
+"Sends jugglers to all performances venues: Booths, Bandcamps and Pavilions"
+msgstr ""
+
+msgctxt "#JugglerSchool_workers_0"
+msgid ""
+"This school is deserted. Without mentors in its employ, no new jugglers will"
+" be produced."
+msgstr ""
+
+msgctxt "#JugglerSchool_workers_1"
+msgid ""
+"I have no staff other than myself. I cannot be expected to work under these "
+"conditions! At best, I can train a juggler in three months."
+msgstr ""
+
+msgctxt "#JugglerSchool_workers_100"
+msgid ""
+"We are pleased to announce that, with full employment, we train up to four "
+"new jugglers every month."
+msgstr ""
+
+msgctxt "#JugglerSchool_workers_25"
+msgid ""
+"We need employees badly. It will be a struggle to turn out one new juggler "
+"over the next two months."
+msgstr ""
+
+msgctxt "#JugglerSchool_workers_50"
+msgid ""
+"We are half-staffed, and so are only able to train one juggler in the coming"
+" month."
+msgstr ""
+
+msgctxt "#JugglerSchool_workers_75"
+msgid ""
+"We are slightly understaffed, and so can produce two new jugglers each "
+"month, at most."
+msgstr ""
+
+msgctxt "#LampMaker"
+msgid "Lamp Maker"
+msgstr ""
+
+msgctxt "#LampMaker_disabled"
+msgid "Your Overseer of Commerce turned out the lights on lamp production."
+msgstr ""
+
+msgctxt "#LampMaker_flavor"
+msgid "Here, workers fill pottery with oil to make long-burning lamps."
+msgstr ""
+
+msgctxt "#LampMaker_stock_oil_0"
+msgid ""
+"This workshop needs oil delivered to it from a Storage Yard to produce "
+"lamps."
+msgstr ""
+
+msgctxt "#LampMaker_stock_pottery_0"
+msgid ""
+"This workshop needs pottery delivered to it, from a Storage Yard or a "
+"Potter, to produce lamps."
+msgstr ""
+
+msgctxt "#LampMaker_storage_oil"
+msgid "Oil<sprite name=\"Oil\">: {0} units."
+msgstr ""
+
+msgctxt "#LampMaker_storage_pottery"
+msgid "Pottery<sprite name=\"Pottery\">: {0} units."
+msgstr ""
+
+msgctxt "#LampMaker_tooltip"
+msgid ""
+"Produces lamps <sprite name=\"Lamp\"> out of oil <sprite name=\"Oil\"> and "
+"pottery <sprite name=\"Pottery\">"
+msgstr ""
+
+msgctxt "#LampMaker_workers_0"
+msgid "No lamps are made at this Lamp Maker. It lacks employees."
+msgstr ""
+
+msgctxt "#LampMaker_workers_1"
+msgid ""
+"Hardly any lamps are being produce at this Paint Maker. It needs many more "
+"workers before it can increase production."
+msgstr ""
+
+msgctxt "#LampMaker_workers_100"
+msgid ""
+"With a full staff of workers, this Lamp Maker has no trouble producing lamps"
+" in a timely fashion."
+msgstr ""
+
+msgctxt "#LampMaker_workers_25"
+msgid ""
+"This Lamp Maker needs several more employees. The limited staff is doing the"
+" best they can, but lamp production has slowed considerably."
+msgstr ""
+
+msgctxt "#LampMaker_workers_50"
+msgid "This workshop is understaffed, and lamp production is light."
+msgstr ""
+
+msgctxt "#LampMaker_workers_75"
+msgid ""
+"This Lamp Maker has some unfilled jobs, which slows down lamp production "
+"somewhat."
+msgstr ""
+
+msgctxt "#LandFertility"
+msgid "Land is {0}% fertile."
+msgstr ""
+
+msgctxt "#LargeGarden"
+msgid "Large Gardens"
+msgstr ""
+
+msgctxt "#LargeStatue"
+msgid "Large Statues"
+msgstr ""
+
+msgctxt "#LettuceFarm"
+msgid "Lettuce Farm"
+msgstr ""
+
+msgctxt "#LettuceFarm_disabled"
+msgid "The Overseer of Commerce decreed that lettuce farming should cease."
+msgstr ""
+
+msgctxt "#LettuceFarm_flavor"
+msgid ""
+"Lettuce contributes to the balanced diet your people need for happiness and "
+"health. Granaries store lettuce for local consumption, and Storage Yards "
+"take surpluses for export."
+msgstr ""
+
+msgctxt "#LettuceFarm_harvest"
+msgid "The next lettuce harvest is in {[Month]}."
+msgstr ""
+
+msgctxt "#LettuceFarm_tooltip"
+msgid ""
+"Produces lettuce <sprite name=\"Lettuce\">. Harvest in April when built on a"
+" meadow"
+msgstr ""
+
+msgctxt "#LettuceFarm_workers_0"
+msgid "This farm has no workers. Nothing has been planted."
+msgstr ""
+
+msgctxt "#LettuceFarm_workers_1"
+msgid ""
+"With almost no farmers to tend the crop, this will not be a banner year for "
+"lettuce."
+msgstr ""
+
+msgctxt "#LettuceFarm_workers_100"
+msgid ""
+"This farm has all the workers it needs. It grows as much lettuce as its "
+"fertility allows."
+msgstr ""
+
+msgctxt "#LettuceFarm_workers_25"
+msgid ""
+"There are very few farmers working here. The lettuce harvest will suffer "
+"greatly for it."
+msgstr ""
+
+msgctxt "#LettuceFarm_workers_50"
+msgid ""
+"This farm is understaffed. Its lettuce heads are smaller and fewer than they"
+" could be."
+msgstr ""
+
+msgctxt "#LettuceFarm_workers_75"
+msgid ""
+"This farm is working below maximum capacity, so its crop is smaller than it "
+"could be."
+msgstr ""
+
+msgctxt "#Library"
+msgid "Library"
+msgstr ""
+
+msgctxt "#Library_flavor"
+msgid ""
+"Literary works of all kinds are produced and stored here. Scribes insist "
+"that Libraries are crucial for an important city."
+msgstr ""
+
+msgctxt "#Library_stock"
+msgid "Stored Papyrus<sprite name=\"Papyrus\">: {0} units."
+msgstr ""
+
+msgctxt "#Library_tooltip"
+msgid ""
+"Also costs 500 papyrus <sprite name=\"Papyrus\"> to be built. Upon regular "
+"deliveries of papyrus <sprite name=\"Papyrus\">, will improve education in "
+"the city"
+msgstr ""
+
+msgctxt "#Library_workers_0"
+msgid ""
+"This Library lacks employees, papyrus, or both. It cannot serve the "
+"community."
+msgstr ""
+
+msgctxt "#Library_workers_1"
+msgid ""
+"As long as this Library has employees and papyrus, it can serve the "
+"community."
+msgstr ""
+
+msgctxt "#LimestoneQuarry"
+msgid "Limestone Quarry"
+msgstr ""
+
+msgctxt "#LimestoneQuarry_disabled"
+msgid "Your Overseer of Commerce ordered a halt to limestone quarrying."
+msgstr ""
+
+msgctxt "#LimestoneQuarry_flavor"
+msgid "Cut fine limestone for use in monument construction or for export."
+msgstr ""
+
+msgctxt "#LimestoneQuarry_tooltip"
+msgid ""
+"Needs to be placed near rocks. Produces limestone <sprite "
+"name=\"Limestone\">"
+msgstr ""
+
+msgctxt "#LimestoneQuarry_workers_0"
+msgid "This quarry has no workers, and thus produces no limestone."
+msgstr ""
+
+msgctxt "#LimestoneQuarry_workers_1"
+msgid ""
+"With hardly any workers here, limestone production is almost nonexistent. "
+msgstr ""
+
+msgctxt "#LimestoneQuarry_workers_100"
+msgid ""
+"This quarry has all the workers it needs, and produces as much limestone as "
+"possible."
+msgstr ""
+
+msgctxt "#LimestoneQuarry_workers_25"
+msgid ""
+"Very few people work in this building. Production is much too slow as a "
+"result."
+msgstr ""
+
+msgctxt "#LimestoneQuarry_workers_50"
+msgid ""
+"This building is understaffed. It takes longer than it should to cut blocks "
+"of limestone."
+msgstr ""
+
+msgctxt "#LimestoneQuarry_workers_75"
+msgid ""
+"This quarry is working below maximum capacity. Production could be greater "
+"with more workers."
+msgstr ""
+
+msgctxt "#LookingForLabor"
+msgid "Looking for laborers"
+msgstr ""
+
+msgctxt "#MaatAltar"
+msgid "Altar of Ma'at"
+msgstr ""
+
+msgctxt "#Mansion"
+msgid "Mansion"
+msgstr ""
+
+msgctxt "#MansionDynasty"
+msgid "Dynasty Mansion"
+msgstr ""
+
+msgctxt "#MansionFamily"
+msgid "Family Mansion"
+msgstr ""
+
+msgctxt "#MansionPersonal"
+msgid "Personal Mansion"
+msgstr ""
+
+msgctxt "#Mansion_Deben"
+msgid "Deben per month"
+msgstr ""
+
+msgctxt "#Mansion_Royal1"
+msgid "Royal Scholar's salary of"
+msgstr ""
+
+msgctxt "#Mansion_Royal2"
+msgid "Royal Scribe's salary of"
+msgstr ""
+
+msgctxt "#Mansion_Royal3"
+msgid "Royal Judge's salary of"
+msgstr ""
+
+msgctxt "#Mansion_Royal4"
+msgid "Royal Mayor's salary of"
+msgstr ""
+
+msgctxt "#Mansion_Royal5"
+msgid "Royal Governor's salary of"
+msgstr ""
+
+msgctxt "#Mansion_Royal6"
+msgid "Nomarch's salary of"
+msgstr ""
+
+msgctxt "#Mansion_Royal7"
+msgid "Chancellor's salary of"
+msgstr ""
+
+msgctxt "#Mansion_Royal8"
+msgid "Vizier's salary of"
+msgstr ""
+
+msgctxt "#Mansion_Royal9"
+msgid "Pharaoh's salary of"
+msgstr ""
+
+msgctxt "#Mansion_Village1"
+msgid "Village Elder's salary of"
+msgstr ""
+
+msgctxt "#Mansion_Village2"
+msgid "Village Noble's salary of"
+msgstr ""
+
+msgctxt "#Mansion_flavor"
+msgid ""
+"Your home is one of the city's most desirable addresses. Your Mansion gives "
+"you the authority to draw a salary. "
+msgstr ""
+
+msgctxt "#ManufacturedGoods"
+msgid "Manufactured Goods"
+msgstr ""
+
+msgctxt "#MeatFish"
+msgid "Meat & Fish Production"
+msgstr ""
+
+msgctxt "#MediumGarden"
+msgid "Medium Gardens"
+msgstr ""
+
+msgctxt "#MediumStatue"
+msgid "Medium Statues"
+msgstr ""
+
+msgctxt "#Military"
+msgid "Military Buildings"
+msgstr ""
+
+msgctxt "#MilitaryAcademy"
+msgid "Military Academy"
+msgstr ""
+
+msgctxt "#MilitaryAcademy_flavor"
+msgid ""
+"When new soldiers finish their basic training at the Recruiter, they seek to"
+" improve in quality and capability at this academy, but cannot until it "
+"receives its full quota of staff."
+msgstr ""
+
+msgctxt "#MilitaryAcademy_tooltip"
+msgid "Train recruits before they join a fort"
+msgstr ""
+
+msgctxt "#MilitaryAcademy_workers_0"
+msgid ""
+"With no staff, we cannot polish the skills of the city's new soldiers. They "
+"will have to go straight to their Forts and hope for the best."
+msgstr ""
+
+msgctxt "#MilitaryAcademy_workers_1"
+msgid ""
+"We give green soldiers from the city's Recruiter the extra edge they need to"
+" excel in today's Egyptian army."
+msgstr ""
+
+msgctxt "#MinOracle"
+msgid "Oracle of Min"
+msgstr ""
+
+msgctxt "#MineCopper"
+msgid "Copper Mine"
+msgstr ""
+
+msgctxt "#MineGem"
+msgid "Gemstone Mine"
+msgstr ""
+
+msgctxt "#MineGold"
+msgid "Gold Mine"
+msgstr ""
+
+msgctxt "#Mines"
+msgid "Mines"
+msgstr ""
+
+msgctxt "#Monuments"
+msgid "Monuments"
+msgstr ""
+
+msgctxt "#Mortuary"
+msgid "Mortuary"
+msgstr ""
+
+msgctxt "#Mortuary_flavor"
+msgid ""
+"Although no one wants to live near one, Mortuaries save lives when disease "
+"strikes. The city should have the capacity to embalm all of its dead."
+msgstr ""
+
+msgctxt "#Mortuary_stock"
+msgid "Stored Linen<sprite name=\"Linen\">: {0} units."
+msgstr ""
+
+msgctxt "#Mortuary_stock_0"
+msgid ""
+"Without linen, we cannot prepare the dead for their journey through "
+"eternity."
+msgstr ""
+
+msgctxt "#Mortuary_tooltip"
+msgid ""
+"Upon regular deliveries of linen <sprite name=\"Linen\">, will help prevent "
+"diseases and increase health in the city"
+msgstr ""
+
+msgctxt "#Mortuary_workers_0"
+msgid ""
+"This Mortuary is not operational, and cannot prepare departed residents' "
+"bodies for the afterlife."
+msgstr ""
+
+msgctxt "#Mortuary_workers_1"
+msgid ""
+"This Mortuary is operational and mummifies deceased neighbors quickly and "
+"professionally."
+msgstr ""
+
+msgctxt "#Municipal"
+msgid "Administration"
+msgstr ""
+
+msgctxt "#Naval"
+msgid "Wharfs"
+msgstr ""
+
+msgctxt "#NoLabor"
+msgid "No labor"
+msgstr ""
+
+msgctxt "#NoWorkersNearby"
+msgid "No workers live nearby"
+msgstr ""
+
+msgctxt "#NonFoodFarm"
+msgid "Non-Food Farms"
+msgstr ""
+
+msgctxt "#Oracle_built"
+msgid "The Oracle of this Temple Complex is already built"
+msgstr ""
+
+msgctxt "#Order_Quota_Empty"
+msgid "empty"
+msgstr ""
+
+msgctxt "#Order_Quota_Full"
+msgid "all"
+msgstr ""
+
+msgctxt "#Order_Quota_Half"
+msgid "up to 1/2 of"
+msgstr ""
+
+msgctxt "#Order_Quota_Quarter"
+msgid "up to 1/4 of"
+msgstr ""
+
+msgctxt "#Order_Quota_ThreeQuarter"
+msgid "up to 3/4 of"
+msgstr ""
+
+msgctxt "#OsirisShrine"
+msgid "Shrine to Osiris"
+msgstr ""
+
+msgctxt "#OsirisShrine_flavor"
+msgid ""
+"Osiris brings fertility to the land and makes the crops grow. Appease him, "
+"or prepare to go hungry."
+msgstr ""
+
+msgctxt "#OsirisShrine_title"
+msgid "Shrine to Osiris (Agriculture)"
+msgstr ""
+
+msgctxt "#OsirisShrine_tooltip"
+msgid "Improves Osiris' mood. Can be built a tile away from the road"
+msgstr ""
+
+msgctxt "#OsirisTemple"
+msgid "Temple to Osiris"
+msgstr ""
+
+msgctxt "#OsirisTempleComplex"
+msgid "Temple Complex to Osiris"
+msgstr ""
+
+msgctxt "#OsirisTempleComplex_flavor"
+msgid ""
+"Osiris is the god of the Nile flood, and all life which springs from the "
+"underworld. With his benevolence, your city may receive the blessing of a "
+"bountiful annual Inundation, bringing life-giving fertile soil to your "
+"fields. He can also improve the yield at harvest time in other ways. An "
+"Altar of Sebek - god of fertility - means that priests of Osiris can help "
+"your citizens stretch their food and other supplies a little further, while "
+"an Oracle of Min - god of regeneration - infuses the wildlife in and around "
+"your city with greater vitality. His Oracle makes animal herds and fish "
+"colonies more resilient, and even accelerates the regrowth of some plants. "
+msgstr ""
+
+msgctxt "#OsirisTempleComplex_tooltip"
+msgid ""
+"This gigantic temple can be only be built once, and for one god only. "
+"Greatly improves Osiris' mood"
+msgstr ""
+
+msgctxt "#OsirisTemple_flavor"
+msgid ""
+"Osiris brings fertility to the land and makes the crops grow. Appease him, "
+"or prepare to go hungry."
+msgstr ""
+
+msgctxt "#OsirisTemple_title"
+msgid "Temple to Osiris (Agriculture)"
+msgstr ""
+
+msgctxt "#OsirisTemple_tooltip"
+msgid "Improves Osiris' mood"
+msgstr ""
+
+msgctxt "#PaintMaker"
+msgid "Paint Maker"
+msgstr ""
+
+msgctxt "#PaintMaker_disabled"
+msgid "Your Overseer of Commerce has stopped paint production."
+msgstr ""
+
+msgctxt "#PaintMaker_flavor"
+msgid ""
+"Here, henna is crushed and processed into paint, which artisans use to "
+"lavishly decorate the walls of Royal Burial Tombs."
+msgstr ""
+
+msgctxt "#PaintMaker_stock_0"
+msgid ""
+"This workshop needs henna from a Henna Farm or Storage Yard before it can "
+"make any paint. "
+msgstr ""
+
+msgctxt "#PaintMaker_storage"
+msgid "Henna<sprite name=\"Henna\">: {0} units."
+msgstr ""
+
+msgctxt "#PaintMaker_tooltip"
+msgid "Produces paint <sprite name=\"Paint\"> out of henna <sprite name=\"Henna\">"
+msgstr ""
+
+msgctxt "#PaintMaker_workers_0"
+msgid ""
+"This Paint Maker's staff has completely dried up. With no workers, no paint "
+"can be made."
+msgstr ""
+
+msgctxt "#PaintMaker_workers_1"
+msgid ""
+"Only a few workers are employed by this Paint Maker. The small staff can "
+"hardly turn out any paint at all."
+msgstr ""
+
+msgctxt "#PaintMaker_workers_100"
+msgid ""
+"With a full staff, this Paint Maker produces paint as quickly and "
+"efficiently as it can."
+msgstr ""
+
+msgctxt "#PaintMaker_workers_25"
+msgid ""
+"This Paint Maker needs many more workers. Paint production here has slowed "
+"to a crawl."
+msgstr ""
+
+msgctxt "#PaintMaker_workers_50"
+msgid ""
+"This Paint Maker is understaffed, and produces paint more slowly than it "
+"should."
+msgstr ""
+
+msgctxt "#PaintMaker_workers_75"
+msgid ""
+"This Paint Maker's staffing level is a little thin, so paint production is "
+"compromised."
+msgstr ""
+
+msgctxt "#Palace"
+msgid "Palace"
+msgstr ""
+
+msgctxt "#PalaceVillage"
+msgid "Village Palace"
+msgstr ""
+
+msgctxt "#Palace_flavor"
+msgid ""
+"The Palace is among your city's most desirable buildings and the cornerstone"
+" of the city economy. It turns gold nuggets to debens and stores some of the"
+" city's funds."
+msgstr ""
+
+msgctxt "#PapyrusMaker"
+msgid "Papyrus Maker"
+msgstr ""
+
+msgctxt "#PapyrusMaker_disabled"
+msgid ""
+"Your Overseer of Commerce decreed that papyrus production should cease."
+msgstr ""
+
+msgctxt "#PapyrusMaker_flavor"
+msgid ""
+"Here reeds are bound together to make papyrus, which educational "
+"institutions require for writing down information and sharing knowledge. "
+"Papyrus may also be profitably traded."
+msgstr ""
+
+msgctxt "#PapyrusMaker_stock_0"
+msgid ""
+"This workshop will produce no papyrus without a shipment of reeds, whether "
+"from a Storage Yard or a Reed Gatherer."
+msgstr ""
+
+msgctxt "#PapyrusMaker_storage"
+msgid "Stored reeds<sprite name=\"Reeds\">: {0} units."
+msgstr ""
+
+msgctxt "#PapyrusMaker_tooltip"
+msgid "Produces papyrus<sprite name=\"Papyrus\"> out of reeds<sprite name=\"Reeds\">"
+msgstr ""
+
+msgctxt "#PapyrusMaker_workers_0"
+msgid ""
+"This Papyrus Maker has no employees, and will yield no products as a result."
+msgstr ""
+
+msgctxt "#PapyrusMaker_workers_1"
+msgid ""
+"With hardly any employees, this Papyrus Maker will produce little papyrus "
+"over the coming year."
+msgstr ""
+
+msgctxt "#PapyrusMaker_workers_100"
+msgid ""
+"This Papyrus Maker is fully staffed, and produces ample high-quality "
+"papyrus."
+msgstr ""
+
+msgctxt "#PapyrusMaker_workers_25"
+msgid ""
+"Very few people work at this workshop. Papyrus production is slow as a "
+"result."
+msgstr ""
+
+msgctxt "#PapyrusMaker_workers_50"
+msgid ""
+"This Papyrus Maker is understaffed, and produces papyrus more slowly than it"
+" should."
+msgstr ""
+
+msgctxt "#PapyrusMaker_workers_75"
+msgid ""
+"This Papyrus Maker could use more workers to reach its full potential for "
+"papyrus production."
+msgstr ""
+
+msgctxt "#PartialLabor"
+msgid "Partial labor"
+msgstr ""
+
+msgctxt "#Pavilion"
+msgid "Pavilion"
+msgstr ""
+
+msgctxt "#Pavilion_DanceShow"
+msgid "Dance shows run for another {0} days."
+msgstr ""
+
+msgctxt "#Pavilion_J_M_D"
+msgid ""
+"This square is in constant motion with dancing, music and juggling greatly "
+"delighting the local community."
+msgstr ""
+
+msgctxt "#Pavilion_J_M_NoD"
+msgid ""
+"This square has musicians and jugglers, but the music cries out for dancers "
+"to complete the show."
+msgstr ""
+
+msgctxt "#Pavilion_J_NoM_D"
+msgid ""
+"This square has dancers and jugglers. It needs musicians to provide complete"
+" entertainment."
+msgstr ""
+
+msgctxt "#Pavilion_J_NoM_NoD"
+msgid ""
+"This square has juggling performances, but it needs musicians and dancers to"
+" fill the otherwise empty stages."
+msgstr ""
+
+msgctxt "#Pavilion_JugglingShow"
+msgid "Juggling will continue for another {0} days."
+msgstr ""
+
+msgctxt "#Pavilion_MusicalShow"
+msgid "Musical shows run for another {0} days."
+msgstr ""
+
+msgctxt "#Pavilion_NoDanceShow"
+msgid "No current dancing"
+msgstr ""
+
+msgctxt "#Pavilion_NoJ_M_D"
+msgid ""
+"This square has dancers and musicians for the locals, but some jugglers "
+"would be most welcome."
+msgstr ""
+
+msgctxt "#Pavilion_NoJ_M_NoD"
+msgid "This square has musicians, but no jugglers or dancers."
+msgstr ""
+
+msgctxt "#Pavilion_NoJ_NoM_D"
+msgid ""
+"This square has dancers, who would greatly welcome some music. Juggling "
+"would be nice, too."
+msgstr ""
+
+msgctxt "#Pavilion_NoJ_NoM_NoD"
+msgid ""
+"This square has no shows. It needs dancers, musicians and jugglers to draw "
+"crowds."
+msgstr ""
+
+msgctxt "#Pavilion_NoJugglingShow"
+msgid "No current juggling shows"
+msgstr ""
+
+msgctxt "#Pavilion_NoMusicalShow"
+msgid "No current musicals"
+msgstr ""
+
+msgctxt "#Pavilion_flavor"
+msgid "Dancing, music and juggling...what more could a citizen desire?"
+msgstr ""
+
+msgctxt "#Pavilion_tooltip"
+msgid ""
+"Generates jugglers, musicians and dancers if serviced by the appropriate "
+"schools. Must be built on a crossroad"
+msgstr ""
+
+msgctxt "#Pavilion_workers_0"
+msgid ""
+"This square is closed. With no employees to run it, it is useless as a "
+"leisure amenity."
+msgstr ""
+
+msgctxt "#PerformanceVenues"
+msgid "Performances Venues"
+msgstr ""
+
+msgctxt "#PersonalMansion"
+msgid "Personal Mansion"
+msgstr ""
+
+msgctxt "#PersonalMansion_tooltip"
+msgid ""
+"Your own home! Allows you to draw a salary. Must be built on a grassy area"
+msgstr ""
+
+msgctxt "#Physician"
+msgid "Physician"
+msgstr ""
+
+msgctxt "#Physician_flavor"
+msgid ""
+"A pomegranate a day keeps the doctor away, or so the saying goes. Physicians"
+" improve health as they make their rounds."
+msgstr ""
+
+msgctxt "#Physician_tooltip"
+msgid "Protects citizens from diseases and increases health in the city"
+msgstr ""
+
+msgctxt "#Physician_workers_0"
+msgid ""
+"This Physician's office is not operational, and does nothing for community "
+"health."
+msgstr ""
+
+msgctxt "#Physician_workers_1"
+msgid ""
+"This Physician's office is operational, and the local community is healthy "
+"and fit."
+msgstr ""
+
+msgctxt "#PlainStoneQuarry"
+msgid "Plain Stone Quarry"
+msgstr ""
+
+msgctxt "#PlainStoneQuarry_disabled"
+msgid "The Overseer of Commerce commanded a halt to quarrying."
+msgstr ""
+
+msgctxt "#PlainStoneQuarry_flavor"
+msgid ""
+"Cut plain stone from the earth here. With monuments rising all across Egypt,"
+" you can usually find a buyer for good building stone, even if you have no "
+"use for it yourself. "
+msgstr ""
+
+msgctxt "#PlainStoneQuarry_tooltip"
+msgid ""
+"Needs to be placed near rocks. Produces plain stone <sprite "
+"name=\"Plainstone\">"
+msgstr ""
+
+msgctxt "#PlainStoneQuarry_workers_0"
+msgid "This quarry has no workers to cut rock from the earth."
+msgstr ""
+
+msgctxt "#PlainStoneQuarry_workers_1"
+msgid ""
+"With hardly any workers at this quarry, production is at a virtual "
+"standstill. It will produce little over the coming year."
+msgstr ""
+
+msgctxt "#PlainStoneQuarry_workers_100"
+msgid ""
+"This quarry has all the workers it needs, and produces many tons of plain "
+"stone."
+msgstr ""
+
+msgctxt "#PlainStoneQuarry_workers_25"
+msgid ""
+"There are very few people working at this quarry. Production is very slow as"
+" a result."
+msgstr ""
+
+msgctxt "#PlainStoneQuarry_workers_50"
+msgid ""
+"This quarry is understaffed, and takes longer to produce stone blocks than "
+"it should."
+msgstr ""
+
+msgctxt "#PlainStoneQuarry_workers_75"
+msgid ""
+"This quarry is working below maximum capacity due to a small shortage of "
+"workers."
+msgstr ""
+
+msgctxt "#Plaza"
+msgid "Plaza"
+msgstr ""
+
+msgctxt "#Plaza_flavor"
+msgid ""
+"Plazas make ordinary paved roads more desirable, without affecting traffic."
+msgstr ""
+
+msgctxt "#Plaza_tooltip"
+msgid "To be placed on paved roads to improve desirability"
+msgstr ""
+
+msgctxt "#PoliceStation"
+msgid "Police Station"
+msgstr ""
+
+msgctxt "#PoliceStation_flavor"
+msgid ""
+"Police Stations send constables into the city to keep the peace. Civic order"
+" is assured when constables patrol the city evenly."
+msgstr ""
+
+msgctxt "#PoliceStation_goldstolen"
+msgid "{0} gold stolen this year."
+msgstr ""
+
+msgctxt "#PoliceStation_thefts"
+msgid "{0} thefts this year."
+msgstr ""
+
+msgctxt "#PoliceStation_tooltip"
+msgid ""
+"Curbs crime in the neighborhood. The constable can fight thieves and tomb "
+"robbers"
+msgstr ""
+
+msgctxt "#PoliceStation_walker_in"
+msgid "Our constable is preparing for duty."
+msgstr ""
+
+msgctxt "#PoliceStation_walker_out"
+msgid "Our constable is out on patrol."
+msgstr ""
+
+msgctxt "#PoliceStation_workers_0"
+msgid "With no staff, this station is little more than a target for vandals."
+msgstr ""
+
+msgctxt "#PoliceStation_workers_1"
+msgid ""
+"We are operating with desk staff only. We frequently go a full month without"
+" sending a constable out on the streets."
+msgstr ""
+
+msgctxt "#PoliceStation_workers_100"
+msgid ""
+"Currently our duty roster is full. Our constables are always alert to signs "
+"of crime."
+msgstr ""
+
+msgctxt "#PoliceStation_workers_25"
+msgid ""
+"We have far too few men. Criminals could operate unchecked for up to two "
+"weeks at a time."
+msgstr ""
+
+msgctxt "#PoliceStation_workers_50"
+msgid ""
+"We are understaffed. Criminals are encouraged by gaps of up to a week in our"
+" duty roster."
+msgstr ""
+
+msgctxt "#PoliceStation_workers_75"
+msgid ""
+"We are a little short of constables. We have gaps of perhaps a day or two in"
+" our coverage."
+msgstr ""
+
+msgctxt "#PomegranateFarm"
+msgid "Pomegranate Farm"
+msgstr ""
+
+msgctxt "#PomegranateFarm_disabled"
+msgid "Pomegranate farming has ceased, by order of the Overseer of Commerce."
+msgstr ""
+
+msgctxt "#PomegranateFarm_flavor"
+msgid ""
+"Pomegranates enhance the balanced diet people need for health and happiness."
+" Granaries store pomegranates for local consumption, and Storage Yards can "
+"export surpluses."
+msgstr ""
+
+msgctxt "#PomegranateFarm_harvest"
+msgid "The next pomegranate harvest is in {[Month]}."
+msgstr ""
+
+msgctxt "#PomegranateFarm_tooltip"
+msgid ""
+"Produces pomegranate <sprite name=\"Pomegranate\">. Harvest in June and "
+"November when built on a meadow"
+msgstr ""
+
+msgctxt "#PomegranateFarm_workers_0"
+msgid "This orchard has no workers, and the trees are fruitless and gnarled."
+msgstr ""
+
+msgctxt "#PomegranateFarm_workers_1"
+msgid ""
+"With hardly any workers at this orchard, the pomegranate crop will be quite "
+"disappointing."
+msgstr ""
+
+msgctxt "#PomegranateFarm_workers_100"
+msgid ""
+"This orchard has all the workers it needs. The trees bear as much fruit as "
+"the land's fertility allows."
+msgstr ""
+
+msgctxt "#PomegranateFarm_workers_25"
+msgid ""
+"Very few people work at this orchard. The pomegranate harvest will be small."
+msgstr ""
+
+msgctxt "#PomegranateFarm_workers_50"
+msgid ""
+"This orchard is understaffed. It produces fewer pomegranates than it could."
+msgstr ""
+
+msgctxt "#PomegranateFarm_workers_75"
+msgid ""
+"This orchard is working below maximum capacity, so the crop this year is a "
+"bit lighter than it should be."
+msgstr ""
+
+msgctxt "#Potter"
+msgid "Potter"
+msgstr ""
+
+msgctxt "#Potter_disabled"
+msgid "Pottery production has ceased, by order of the Overseer of Commerce."
+msgstr ""
+
+msgctxt "#Potter_flavor"
+msgid ""
+"Here, potters mould clay into pots that citizens use for storing "
+"commodities. Trade pottery, or let your Bazaars distribute it so that people"
+" can build better housing."
+msgstr ""
+
+msgctxt "#Potter_stock_0"
+msgid ""
+"This workshop needs clay delivered to it, from a Storage Yard or a Clay Pit,"
+" to produce pottery."
+msgstr ""
+
+msgctxt "#Potter_storage"
+msgid "Stored clay<sprite name=\"Clay\">: {0} units."
+msgstr ""
+
+msgctxt "#Potter_tooltip"
+msgid "Produces pottery <sprite name=\"Pottery\"> out of clay <sprite name=\"Clay\">"
+msgstr ""
+
+msgctxt "#Potter_workers_0"
+msgid "This Potter has no employees. It will not turn out a single pot."
+msgstr ""
+
+msgctxt "#Potter_workers_1"
+msgid ""
+"With hardly any employees, this Potter will produce almost no pottery over "
+"the coming year."
+msgstr ""
+
+msgctxt "#Potter_workers_100"
+msgid ""
+"This Potter has all the employees it needs, and produces as much pottery as "
+"possible."
+msgstr ""
+
+msgctxt "#Potter_workers_25"
+msgid "Very few people work here, so pottery production is very slow."
+msgstr ""
+
+msgctxt "#Potter_workers_50"
+msgid ""
+"This workshop is understaffed, and it takes longer to produce pottery than "
+"it should."
+msgstr ""
+
+msgctxt "#Potter_workers_75"
+msgid ""
+"This Potter has some job openings. Pottery production will suffer slightly "
+"as a result."
+msgstr ""
+
+msgctxt "#Production"
+msgid "Production"
+msgstr ""
+
+msgctxt "#ProductionCompletion"
+msgid "Production is {0}% complete."
+msgstr ""
+
+msgctxt "#PtahShrine"
+msgid "Shrine to Ptah"
+msgstr ""
+
+msgctxt "#PtahShrine_flavor"
+msgid ""
+"Laborers and craftsmen worship Ptah to ease their toil. When Ptah is "
+"angered, no industry is safe from catastrophe."
+msgstr ""
+
+msgctxt "#PtahShrine_title"
+msgid "Shrine to Ptah (Craftsman)"
+msgstr ""
+
+msgctxt "#PtahShrine_tooltip"
+msgid "Improves Ptah's mood. Can be built a tile away from the road"
+msgstr ""
+
+msgctxt "#PtahTemple"
+msgid "Temple to Ptah"
+msgstr ""
+
+msgctxt "#PtahTempleComplex"
+msgid "Temple Complex to Ptah"
+msgstr ""
+
+msgctxt "#PtahTempleComplex_flavor"
+msgid ""
+"Ptah is the patron god of craftsmen, and helps many of them finish their "
+"tasks more quickly. An Altar of Amon - god of the Sun - improves your city's"
+" ability to build monuments, while an Oracle of Thoth - god of wisdom and "
+"learning - can facilitate the education of your people."
+msgstr ""
+
+msgctxt "#PtahTempleComplex_tooltip"
+msgid ""
+"This gigantic temple can be only be built once, and for one god only. "
+"Greatly improves Ptah's mood"
+msgstr ""
+
+msgctxt "#PtahTemple_flavor"
+msgid ""
+"Laborers and craftsmen worship Ptah to ease their toil. When Ptah is "
+"angered, no industry is safe from catastrophe."
+msgstr ""
+
+msgctxt "#PtahTemple_title"
+msgid "Temple to Ptah (Craftsman)"
+msgstr ""
+
+msgctxt "#PtahTemple_tooltip"
+msgid "Improves Ptah's mood"
+msgstr ""
+
+msgctxt "#Quarries"
+msgid "Quarries"
+msgstr ""
+
+msgctxt "#QuarryGranite"
+msgid "Granite Quarry"
+msgstr ""
+
+msgctxt "#QuarryLimestone"
+msgid "Limestone Quarry"
+msgstr ""
+
+msgctxt "#QuarryPlainStone"
+msgid "Plain Stone Quarry"
+msgstr ""
+
+msgctxt "#QuarrySandstone"
+msgid "Sandstone Quarry"
+msgstr ""
+
+msgctxt "#RaShrine"
+msgid "Shrine to Ra"
+msgstr ""
+
+msgctxt "#RaShrine_flavor"
+msgid ""
+"Merchants know well the value in pleasing Ra. Trade is safer and more "
+"profitable with Ra's blessing, and your city's esteem is greater."
+msgstr ""
+
+msgctxt "#RaShrine_title"
+msgid "Shrine to Ra (The Kingdom)"
+msgstr ""
+
+msgctxt "#RaShrine_tooltip"
+msgid "Improves Ra's mood. Can be built a tile away from the road"
+msgstr ""
+
+msgctxt "#RaTemple"
+msgid "Temple to Ra"
+msgstr ""
+
+msgctxt "#RaTempleComplex"
+msgid "Temple Complex to Ra"
+msgstr ""
+
+msgctxt "#RaTempleComplex_flavor"
+msgid ""
+"As god of the Kingdom, Ra facilitates trade and travel throughout the known "
+"world, and can even help to bolster your reputation throughout Egypt. An "
+"Altar of Ma'at - goddess of justice - helps prevent crime in your city, "
+"while an Oracle of Horus - god of the Pharaoh - makes your employees more "
+"willing to attend to their daily labors. In the name of Pharaoh, they'll be "
+"inspired to work for the greater good of Egypt."
+msgstr ""
+
+msgctxt "#RaTempleComplex_tooltip"
+msgid ""
+"This gigantic temple can be only be built once, and for one god only. "
+"Greatly improves Ra's mood"
+msgstr ""
+
+msgctxt "#RaTemple_flavor"
+msgid ""
+"Merchants know well the value in pleasing Ra. Trade is safer and more "
+"profitable with Ra's blessing, and your city's esteem is greater."
+msgstr ""
+
+msgctxt "#RaTemple_title"
+msgid "Temple to Ra (The Kingdom)"
+msgstr ""
+
+msgctxt "#RaTemple_tooltip"
+msgid "Improves Ra's mood"
+msgstr ""
+
+msgctxt "#RawMaterials"
+msgid "Raw Materials"
+msgstr ""
+
+msgctxt "#Recruiter"
+msgid "Recruiter"
+msgstr ""
+
+msgctxt "#Recruiter_ChariotsStored"
+msgid "Chariots<sprite name=\"Chariots\"> Stored: {0} units."
+msgstr ""
+
+msgctxt "#Recruiter_ChariotsStored_None"
+msgid "No Chariots<sprite name=\"Chariots\"> in stock."
+msgstr ""
+
+msgctxt "#Recruiter_ChariotsStored_One"
+msgid "Chariot<sprite name=\"Chariots\"> Stored: {0} unit."
+msgstr ""
+
+msgctxt "#Recruiter_CompositeBowsStored"
+msgid ""
+"Composite Bows<sprite name=\"CompositeBows\"> Stored: {0} "
+"units.[i2p_One]Composite Bow<sprite name=\"CompositeBows\"> Stored: {0} "
+"unit."
+msgstr ""
+
+msgctxt "#Recruiter_ShieldsStored"
+msgid ""
+"Shields<sprite name=\"Shields\"> Stored: {0} units.[i2p_One]Shield<sprite "
+"name=\"Shields\"> Stored: {0} unit."
+msgstr ""
+
+msgctxt "#Recruiter_WeaponsStored"
+msgid "Weapons<sprite name=\"Weapons\"> Stored: {0} units."
+msgstr ""
+
+msgctxt "#Recruiter_WeaponsStored_None"
+msgid "No Weapons<sprite name=\"Weapons\"> in stock."
+msgstr ""
+
+msgctxt "#Recruiter_WeaponsStored_One"
+msgid "Weapon<sprite name=\"Weapon\"> Stored: {0} unit."
+msgstr ""
+
+msgctxt "#Recruiter_flavor"
+msgid ""
+"No one can join the Egyptian army without first passing through here; it's "
+"the city's training school for new recruits."
+msgstr ""
+
+msgctxt "#Recruiter_nostock_workers_1"
+msgid ""
+"With a skeleton staff and no supply of weapons, we can just barely train the"
+" occasional archer."
+msgstr ""
+
+msgctxt "#Recruiter_nostock_workers_100"
+msgid ""
+"We can train new archers quickly enough, but we need weapons to add any "
+"infantry or chariots to the city's battalion."
+msgstr ""
+
+msgctxt "#Recruiter_nostock_workers_33"
+msgid ""
+"We are understaffed and out of weapons! We can train archers, but only "
+"slowly."
+msgstr ""
+
+msgctxt "#Recruiter_nostock_workers_66"
+msgid ""
+"We are missing employees, so we can train soldiers at a reduced rate. "
+"Without stored weapons, we can train neither infantry nor charioteers."
+msgstr ""
+
+msgctxt "#Recruiter_notneeded"
+msgid ""
+"We are not currently training any recruits, as we have no requests from city"
+" Forts or Towers for any new men."
+msgstr ""
+
+msgctxt "#Recruiter_tooltip"
+msgid ""
+"Recruits soldiers among your citizens. Needs weapons <sprite "
+"name=\"Weapons\"> for infantry and chariots <sprite name=\"Chariots\"> for "
+"charioteers"
+msgstr ""
+
+msgctxt "#Recruiter_workers_0"
+msgid ""
+"With no staff, we cannot train a single new recruit. Seth help us in times "
+"of war!"
+msgstr ""
+
+msgctxt "#Recruiter_workers_1"
+msgid ""
+"With a skeleton staff, we are training new soldiers extremely slowly, even "
+"though we have the weapons to train any type of soldier."
+msgstr ""
+
+msgctxt "#Recruiter_workers_100"
+msgid ""
+"We train new soldiers at maximum efficiency, and we have the weapons to "
+"train any type of soldier."
+msgstr ""
+
+msgctxt "#Recruiter_workers_33"
+msgid ""
+"We are understaffed and training new soldiers slowly, but we have the "
+"weapons to train any type of soldier."
+msgstr ""
+
+msgctxt "#Recruiter_workers_66"
+msgid ""
+"We train new soldiers at reduced speed due to lack of staff, although we do "
+"have the weapons to train any type of soldier."
+msgstr ""
+
+msgctxt "#ReedGatherer"
+msgid "Reed Gatherer"
+msgstr ""
+
+msgctxt "#ReedGatherer_disabled"
+msgid "Reed harvesting has ceased, by command of the Overseer of Commerce."
+msgstr ""
+
+msgctxt "#ReedGatherer_flavor"
+msgid ""
+"Reed gatherers venture from here into the marshes to collect reeds for "
+"papyrus, without which education would be impossible."
+msgstr ""
+
+msgctxt "#ReedGatherer_storage"
+msgid "Stored reeds<sprite name=\"Reeds\">: {0} units."
+msgstr ""
+
+msgctxt "#ReedGatherer_tooltip"
+msgid ""
+"Dispatches 5 gatherers looking for reeds <sprite name=\"Reeds\"> in the "
+"marshes"
+msgstr ""
+
+msgctxt "#ReedGatherer_workers_0"
+msgid "This place has no workers to gather reeds. "
+msgstr ""
+
+msgctxt "#ReedGatherer_workers_1"
+msgid "With so few gatherers employed here, almost no reeds are harvested."
+msgstr ""
+
+msgctxt "#ReedGatherer_workers_100"
+msgid "This place has all the workers it needs. No reed is safe. "
+msgstr ""
+
+msgctxt "#ReedGatherer_workers_25"
+msgid "Very few people work here, and few reeds are being cut."
+msgstr ""
+
+msgctxt "#ReedGatherer_workers_50"
+msgid "This place is understaffed, so reed cutting is slow going. "
+msgstr ""
+
+msgctxt "#ReedGatherer_workers_75"
+msgid ""
+"This place is below its labor potential, so reed gathering is slowed "
+"somewhat."
+msgstr ""
+
+msgctxt "#Religion"
+msgid "Religion"
+msgstr ""
+
+msgctxt "#Remove"
+msgid "Remove"
+msgstr ""
+
+msgctxt "#Remove_tooltip"
+msgid "Repair your mistakes"
+msgstr ""
+
+msgctxt "#Road"
+msgid "Road"
+msgstr ""
+
+msgctxt "#Road_tooltip"
+msgid "Connect your city"
+msgstr ""
+
+msgctxt "#Roadblock"
+msgid "Roadblock"
+msgstr ""
+
+msgctxt "#Roadblock_flavor"
+msgid ""
+"Place roadblocks to restrict walkers' patrol routes. People with specific "
+"destinations (like delivery men or Bazaar buyers) can pass freely."
+msgstr ""
+
+msgctxt "#Roadblock_tooltip"
+msgid "Restricts walkers' patrol routes. Must be built on a road"
+msgstr ""
+
+msgctxt "#Rubble"
+msgid "Rubble"
+msgstr ""
+
+msgctxt "#RubbleFlavor"
+msgid ""
+"These are the ruins of the building named above. Derelict sites like this do"
+" little to enhance the location."
+msgstr ""
+
+msgctxt "#Safety"
+msgid "Safety"
+msgstr ""
+
+msgctxt "#SandstoneQuarry"
+msgid "Sandstone Quarry"
+msgstr ""
+
+msgctxt "#SandstoneQuarry_disabled"
+msgid "Your Overseer of Commerce ordered that no more sandstone be quarried."
+msgstr ""
+
+msgctxt "#SandstoneQuarry_flavor"
+msgid ""
+"Only sandstone has the right properties for mausoleums and sun temples."
+msgstr ""
+
+msgctxt "#SandstoneQuarry_tooltip"
+msgid ""
+"Needs to be placed near rocks. Produces sandstone <sprite "
+"name=\"Sandstone\">"
+msgstr ""
+
+msgctxt "#SandstoneQuarry_workers_0"
+msgid "This quarry has no workers. Production has ceased."
+msgstr ""
+
+msgctxt "#SandstoneQuarry_workers_1"
+msgid ""
+"With hardly any workers here, output has nearly stopped. It will produce "
+"little over the coming year."
+msgstr ""
+
+msgctxt "#SandstoneQuarry_workers_100"
+msgid ""
+"This quarry has all the workers it needs, and is working flat out to produce"
+" sandstone."
+msgstr ""
+
+msgctxt "#SandstoneQuarry_workers_25"
+msgid ""
+"Very few people work in this building. Production is extremely slow as a "
+"result."
+msgstr ""
+
+msgctxt "#SandstoneQuarry_workers_50"
+msgid ""
+"This quarry is understaffed. It takes longer to produce sandstone than it "
+"should."
+msgstr ""
+
+msgctxt "#SandstoneQuarry_workers_75"
+msgid ""
+"This quarry is working below maximum capacity. Production could be slightly "
+"more efficient with more workers."
+msgstr ""
+
+msgctxt "#Schools"
+msgid "Schools"
+msgstr ""
+
+msgctxt "#ScribalSchool"
+msgid "Scribal School"
+msgstr ""
+
+msgctxt "#ScribalSchool_flavor"
+msgid ""
+"Children of the wealthy must attend neighborhood schools to learn reading "
+"and writing if they are to attain their parents' status."
+msgstr ""
+
+msgctxt "#ScribalSchool_stock"
+msgid "Stored Papyrus<sprite name=\"Papyrus\">: {0} units."
+msgstr ""
+
+msgctxt "#ScribalSchool_tooltip"
+msgid ""
+"Upon regular deliveries of papyrus <sprite name=\"Papyrus\">, will improve "
+"education in the city"
+msgstr ""
+
+msgctxt "#ScribalSchool_workers_0"
+msgid ""
+"This school cannot educate anyone at present. It lacks employees, papyrus, "
+"or both."
+msgstr ""
+
+msgctxt "#ScribalSchool_workers_1"
+msgid ""
+"This school enables children to escape a life of physical toil as long as it"
+" has both employees and papyrus."
+msgstr ""
+
+msgctxt "#SebekAltar"
+msgid "Altar of Sebek"
+msgstr ""
+
+msgctxt "#SekhmetOracle"
+msgid "Oracle of Sekhmet"
+msgstr ""
+
+msgctxt "#SenetHouse"
+msgid "Senet House"
+msgstr ""
+
+msgctxt "#SenetHouse_flavor"
+msgid ""
+"Games of skill and chance can make or break the fortunes of the players."
+msgstr ""
+
+msgctxt "#SenetHouse_stock_0"
+msgid ""
+"This Senet House has players, but a reliable supply of beer would enliven "
+"the games."
+msgstr ""
+
+msgctxt "#SenetHouse_storage"
+msgid "Stored beer <sprite name=\"Beer\">: {0} units"
+msgstr ""
+
+msgctxt "#SenetHouse_tooltip"
+msgid ""
+"Upon regular deliveries of beer <sprite name=\"Beer\">, will improve "
+"entertainment in the city"
+msgstr ""
+
+msgctxt "#SenetHouse_workers_0"
+msgid ""
+"No one visits this Senet House. Without workers, the local community draws "
+"no entertainment from it."
+msgstr ""
+
+msgctxt "#SenetHouse_workers_1"
+msgid ""
+"This Senet House has constant games, much to the delight of the local "
+"population."
+msgstr ""
+
+msgctxt "#Services"
+msgid "Services"
+msgstr ""
+
+msgctxt "#SethShrine"
+msgid "Shrine to Seth"
+msgstr ""
+
+msgctxt "#SethShrine_flavor"
+msgid ""
+"Seth watches over soldiers and encourages valor in combat. No man dares "
+"fight without the blessing of Seth."
+msgstr ""
+
+msgctxt "#SethShrine_title"
+msgid "Shrine to Seth (Destruction)"
+msgstr ""
+
+msgctxt "#SethShrine_tooltip"
+msgid "Improves Seth's mood. Can be built a tile away from the road"
+msgstr ""
+
+msgctxt "#SethTemple"
+msgid "Temple to Seth"
+msgstr ""
+
+msgctxt "#SethTempleComplex"
+msgid "Temple Complex to Seth"
+msgstr ""
+
+msgctxt "#SethTempleComplex_flavor"
+msgid ""
+"When Seth is appeased, your enemies are his enemies. He can help your "
+"greenest soldiers fight like seasoned veterans, and even strike down your "
+"enemies by his own hand. So powerful is he that his influence even extends "
+"to battles fought far afield. An Altar of Anubis - God of Death - makes "
+"Mortuaries need less linen to prepare bodies for eternity while an Oracle of"
+" Sekhmet - Goddess of War - endows priests of Seth with the power to reduce "
+"the risk of crime in the houses that they pass and to apprehend criminals in"
+" the city."
+msgstr ""
+
+msgctxt "#SethTempleComplex_tooltip"
+msgid ""
+"This gigantic temple can be only be built once, and for one god only. "
+"Greatly improves Seth's mood"
+msgstr ""
+
+msgctxt "#SethTemple_flavor"
+msgid ""
+"Seth watches over soldiers and encourages valor in combat. No man dares "
+"fight without the blessing of Seth."
+msgstr ""
+
+msgctxt "#SethTemple_title"
+msgid "Temple to Seth (Destruction)"
+msgstr ""
+
+msgctxt "#SethTemple_tooltip"
+msgid "Improves Seth's mood"
+msgstr ""
+
+msgctxt "#ShieldMaker"
+msgid "Shield Maker"
+msgstr ""
+
+msgctxt "#ShieldMaker_disabled"
+msgid "Your Overseer of Commerce decreed that shield production should cease."
+msgstr ""
+
+msgctxt "#ShieldMaker_flavor"
+msgid ""
+"Here are produced the life-saving shields that will protect your infantry "
+"during battle."
+msgstr ""
+
+msgctxt "#ShieldMaker_stock_0"
+msgid ""
+"This workshop will produce no shields without a shipment of hides, whether "
+"from a Storage Yard or a Hunter's Lodge."
+msgstr ""
+
+msgctxt "#ShieldMaker_storage"
+msgid "Stored hides<sprite name=\"Hides\">: {0} units."
+msgstr ""
+
+msgctxt "#ShieldMaker_tooltip"
+msgid "Produces Shields<sprite name=\"Shields\">from Hides<sprite name=\"Hides\">"
+msgstr ""
+
+msgctxt "#ShieldMaker_workers_0"
+msgid ""
+"This Shield Maker has no employees, and will produce no protection for your "
+"infantry at all."
+msgstr ""
+
+msgctxt "#ShieldMaker_workers_1"
+msgid ""
+"With hardly any employees, this Shield Maker will produce very few shields "
+"over the coming year."
+msgstr ""
+
+msgctxt "#ShieldMaker_workers_100"
+msgid ""
+"This Shield Maker is fully staffed, and produces many high-quality shields."
+msgstr ""
+
+msgctxt "#ShieldMaker_workers_25"
+msgid ""
+"Very few people work at this Shield Maker. Shield production is slow as a "
+"result."
+msgstr ""
+
+msgctxt "#ShieldMaker_workers_50"
+msgid ""
+"This Shield Maker is understaffed, and produces shields more slowly than it "
+"should."
+msgstr ""
+
+msgctxt "#ShieldMaker_workers_75"
+msgid ""
+"This Shield Maker could use more workers to reach its full potential for "
+"shield production."
+msgstr ""
+
+msgctxt "#Shipwright"
+msgid "Shipwright"
+msgstr ""
+
+msgctxt "#Shipwright_flavor"
+msgid ""
+"With enough workers, the Shipwright builds military vessels and fishing "
+"boats for the city's Wharves. Wood is required to build warships and "
+"transport ships; no raw materials are needed to build fishing boats."
+msgstr ""
+
+msgctxt "#Shipwright_idle"
+msgid "There are currently no Wharves demanding any of our vessels."
+msgstr ""
+
+msgctxt "#Shipwright_idle_nowood"
+msgid "We need wood to repair and build military vessels."
+msgstr ""
+
+msgctxt "#Shipwright_repairing"
+msgid "We are repairing a military vessel."
+msgstr ""
+
+msgctxt "#Shipwright_repairing_nowood"
+msgid ""
+"We have ships lined up to be repaired, but no wood with which to repair "
+"them."
+msgstr ""
+
+msgctxt "#Shipwright_storage"
+msgid "Stored wood <sprite name=\"Wood\">: {0} units."
+msgstr ""
+
+msgctxt "#Shipwright_tooltip"
+msgid ""
+"Builds boats for your wharfs. Fishing boats are free but military boats will"
+" require deliveries of wood <sprite name=\"Wood\">."
+msgstr ""
+
+msgctxt "#Shipwright_working"
+msgid ""
+"We are building a military vessel or fishing boat to order for a Wharf in "
+"the city."
+msgstr ""
+
+msgctxt "#Shipwright_working_nowood"
+msgid ""
+"A Warship or Transport Wharf has ordered us to build a ship, but we lack the"
+" necessary wood."
+msgstr ""
+
+msgctxt "#ShrineBast"
+msgid "Shrine to Bast"
+msgstr ""
+
+msgctxt "#ShrineOsiris"
+msgid "Shrine to Osiris"
+msgstr ""
+
+msgctxt "#ShrinePtah"
+msgid "Shrine to Ptah"
+msgstr ""
+
+msgctxt "#ShrineRa"
+msgid "Shrine to Ra"
+msgstr ""
+
+msgctxt "#ShrineSeth"
+msgid "Shrine to Seth"
+msgstr ""
+
+msgctxt "#Shrines"
+msgid "Shrines"
+msgstr ""
+
+msgctxt "#SmallGarden"
+msgid "Small Gardens"
+msgstr ""
+
+msgctxt "#SmallStatue"
+msgid "Small Statues"
+msgstr ""
+
+msgctxt "#Statue"
+msgid "Statue"
+msgstr ""
+
+msgctxt "#Statue_flavor"
+msgid ""
+"Monuments to gods and bygone pharaohs enhance a neighborhood's prestige. "
+"People are proud to have statues nearby...and the bigger, the better."
+msgstr ""
+
+msgctxt "#Statue_tooltip"
+msgid ""
+"Provides desirability to nearby houses, the bigger the statue, the better!"
+msgstr ""
+
+msgctxt "#StockAndDistribution"
+msgid "Stock & Distribution"
+msgstr ""
+
+msgctxt "#StockCount"
+msgid "{0} units"
+msgstr ""
+
+msgctxt "#StonemasonsGuild"
+msgid "Stonemasons' Guild"
+msgstr ""
+
+msgctxt "#StonemasonsGuild_disabled"
+msgid "This guild has been shut down by your Overseer of Commerce"
+msgstr ""
+
+msgctxt "#StonemasonsGuild_flavor"
+msgid ""
+"Stonemasons meet here to swap stories and tips about their profession, find "
+"work assignments and hew plans for the future. "
+msgstr ""
+
+msgctxt "#StonemasonsGuild_info"
+msgid ""
+"This guild provides skilled workers for monument construction. It does not "
+"need its own supply of stone."
+msgstr ""
+
+msgctxt "#StonemasonsGuild_tooltip"
+msgid "Sends stonemasons to work on monuments"
+msgstr ""
+
+msgctxt "#StonemasonsGuild_workers_0"
+msgid "This guild has no employees. Stonecarving is not possible."
+msgstr ""
+
+msgctxt "#StonemasonsGuild_workers_1"
+msgid ""
+"With hardly any employees at this guild, it seems to take forever for a "
+"stonemason to report for duty."
+msgstr ""
+
+msgctxt "#StonemasonsGuild_workers_100"
+msgid ""
+"This guild has all the employees it needs. Stonemasons can work with maximal"
+" efficiency."
+msgstr ""
+
+msgctxt "#StonemasonsGuild_workers_25"
+msgid "Very few people work here. There is a lengthy wait for stonemasonry."
+msgstr ""
+
+msgctxt "#StonemasonsGuild_workers_50"
+msgid ""
+"This guild is understaffed, and provides fewer stonemasons than it could."
+msgstr ""
+
+msgctxt "#StonemasonsGuild_workers_75"
+msgid ""
+"This guild is working below maximum capacity. Work will be slightly slower "
+"as a result."
+msgstr ""
+
+msgctxt "#StorageYard"
+msgid "Storage Yard"
+msgstr ""
+
+msgctxt "#StorageYard_AlmostFull"
+msgid ""
+"WARNING: This Storage Yard is getting full. It can only accept goods of "
+"existing types. No new commodity types will be checked in at all."
+msgstr ""
+
+msgctxt "#StorageYard_Empty"
+msgid "This Storage Yard is empty."
+msgstr ""
+
+msgctxt "#StorageYard_Full"
+msgid ""
+"WARNING: This Storage Yard is completely full. It cannot accept any more "
+"goods."
+msgstr ""
+
+msgctxt "#StorageYard_flavor"
+msgid ""
+"All manner of goods need storage. Caravans trade at Storage Yards, Docks "
+"swap exports for imports at nearby yards, and Bazaars stock up here, too."
+msgstr ""
+
+msgctxt "#StorageYard_tooltip"
+msgid ""
+"Can store every type of resource your city can produce or trade. Can be used"
+" for trade on land"
+msgstr ""
+
+msgctxt "#Storage_DeliveryManBack"
+msgid "Our delivery man is on his way back."
+msgstr ""
+
+msgctxt "#Storage_DeliveryManGet"
+msgid "Our delivery man is out getting goods"
+msgstr ""
+
+msgctxt "#Storage_DeliveryManIn"
+msgid "Our delivery man is ready for new orders."
+msgstr ""
+
+msgctxt "#Storage_DeliveryManOut"
+msgid "Our delivery man is taking goods elsewhere."
+msgstr ""
+
+msgctxt "#Storage_Order"
+msgid "Special orders"
+msgstr ""
+
+msgctxt "#Storage_Quantity"
+msgid "Storing"
+msgstr ""
+
+msgctxt "#Storage_SpaceFor"
+msgid "Space for"
+msgstr ""
+
+msgctxt "#TaxCollector"
+msgid "Tax Collector's office"
+msgstr ""
+
+msgctxt "#TaxCollector_Collector_In"
+msgid "Our collector is preparing to depart."
+msgstr ""
+
+msgctxt "#TaxCollector_Collector_Out"
+msgid "Our collector is out auditing the locals' accounts."
+msgstr ""
+
+msgctxt "#TaxCollector_NoPalace"
+msgid "Your city needs a Palace before you can collect taxes."
+msgstr ""
+
+msgctxt "#TaxCollector_NoWorkingPalace"
+msgid "Your city needs a working Palace in order to collect taxes."
+msgstr ""
+
+msgctxt "#TaxCollector_flavor"
+msgid ""
+"Although not the most popular workers in the city, tax collectors make "
+"possible our great Kingdom and all the benefits that flow to us."
+msgstr ""
+
+msgctxt "#TaxCollector_tooltip"
+msgid "Allows you to tax your citizens. Requires a working Palace"
+msgstr ""
+
+msgctxt "#TaxCollector_workers_0"
+msgid ""
+"With no collection staff, this office contributes nothing to the city "
+"treasury."
+msgstr ""
+
+msgctxt "#TaxCollector_workers_1"
+msgid ""
+"With so few people in this office, local citizens can evade many of their "
+"tax bills."
+msgstr ""
+
+msgctxt "#TaxCollector_workers_100"
+msgid ""
+"Currently working with complete efficiency, our collectors ensure that all "
+"due taxes on their routes are paid."
+msgstr ""
+
+msgctxt "#TaxCollector_workers_25"
+msgid "We are badly understaffed and go two weeks between collection patrols."
+msgstr ""
+
+msgctxt "#TaxCollector_workers_50"
+msgid ""
+"We are understaffed, and have a week's wait before any collectors return to "
+"duty."
+msgstr ""
+
+msgctxt "#TaxCollector_workers_75"
+msgid ""
+"We have a day or two of idle time before returning collectors go back out on"
+" the streets."
+msgstr ""
+
+msgctxt "#TempleBast"
+msgid "Temple to Bast"
+msgstr ""
+
+msgctxt "#TempleComplexBast"
+msgid "Temple Complex to Bast"
+msgstr ""
+
+msgctxt "#TempleComplexOsiris"
+msgid "Temple Complex to Osiris"
+msgstr ""
+
+msgctxt "#TempleComplexPtah"
+msgid "Temple Complex to Ptah"
+msgstr ""
+
+msgctxt "#TempleComplexRa"
+msgid "Temple Complex to Ra"
+msgstr ""
+
+msgctxt "#TempleComplexSeth"
+msgid "Temple Complex to Seth"
+msgstr ""
+
+msgctxt "#TempleComplexes"
+msgid "Temple Complexes"
+msgstr ""
+
+msgctxt "#TempleOsiris"
+msgid "Temple to Osiris"
+msgstr ""
+
+msgctxt "#TemplePtah"
+msgid "Temple to Ptah"
+msgstr ""
+
+msgctxt "#TempleRa"
+msgid "Temple to Ra"
+msgstr ""
+
+msgctxt "#TempleSeth"
+msgid "Temple to Seth"
+msgstr ""
+
+msgctxt "#Temples"
+msgid "Temples"
+msgstr ""
+
+msgctxt "#ThothOracle"
+msgid "Oracle of Thoth"
+msgstr ""
+
+msgctxt "#Tower"
+msgid "Tower"
+msgstr ""
+
+msgctxt "#Tower_NoSentry"
+msgid ""
+"We have maintenance staff, but we need guards from a Recruiter to defend the"
+" city."
+msgstr ""
+
+msgctxt "#Tower_UpgradeBow"
+msgid ""
+"The guard in this Tower can be upgraded with 1 Composite Bow<sprite "
+"name=\"CompositeBows\">."
+msgstr ""
+
+msgctxt "#Tower_UpgradeButton"
+msgid "Upgrade this tower"
+msgstr ""
+
+msgctxt "#Tower_UpgradeFull"
+msgid ""
+"This Tower is now fully upgraded and will protect your city in the most "
+"efficient way."
+msgstr ""
+
+msgctxt "#Tower_UpgradeHalf"
+msgid ""
+"You already upgraded this Tower once, it could be even more efficient in "
+"protecting your city with a second upgrade."
+msgstr ""
+
+msgctxt "#Tower_UpgradeNone"
+msgid ""
+"This Tower has not yet been upgraded, it will protect your city but could be"
+" more efficient."
+msgstr ""
+
+msgctxt "#Tower_UpgradeStone"
+msgid ""
+"This Tower can be upgraded for 1 block of plain stone<sprite "
+"name=\"Plainstone\">."
+msgstr ""
+
+msgctxt "#Tower_flavor"
+msgid ""
+"Build Towers into Walls at regular intervals, or at least in vulnerable "
+"areas. When connected to roads, Towers receive guards from the city's "
+"Recruiter. Tower guards rain javelins on nearby invaders, and patrol thick "
+"enough walls."
+msgstr ""
+
+msgctxt "#Tower_tooltip"
+msgid "Must be built on a thick wall. Occupied by a sentry"
+msgstr ""
+
+msgctxt "#Tower_workers_0"
+msgid ""
+"With no workers, we cannot station Tower guards or hire anyone to patrol the"
+" Walls."
+msgstr ""
+
+msgctxt "#Tower_workers_1"
+msgid "Our men are at full strength, alert and ready to repel any threats."
+msgstr ""
+
+msgctxt "#TownPalace"
+msgid "Town Palace"
+msgstr ""
+
+msgctxt "#TownPalace_tooltip"
+msgid ""
+"A proper Palace for your thriving town that stores most of the city "
+"treasure. Allows you to collect tax. Must be built on a grassy area."
+msgstr ""
+
+msgctxt "#TransportWharf"
+msgid "Transport Wharf"
+msgstr ""
+
+msgctxt "#TransportWharf_dockedship"
+msgid "Our transport is in port."
+msgstr ""
+
+msgctxt "#TransportWharf_flavor"
+msgid ""
+"Transport ships, built by Shipwrights, moor here between assignments. Your "
+"battalion needs transports to navigate the Nile."
+msgstr ""
+
+msgctxt "#TransportWharf_sailingship"
+msgid "Our transport is off transporting."
+msgstr ""
+
+msgctxt "#TransportWharf_tooltip"
+msgid "Transports troops to battlefields far away"
+msgstr ""
+
+msgctxt "#Troops"
+msgid "Forts"
+msgstr ""
+
+msgctxt "#Undo"
+msgid "Undo your last action and get back"
+msgstr ""
+
+msgctxt "#Vault"
+msgid "Vaults hold {0} debens<sprite name=\"Deben\">"
+msgstr ""
+
+msgctxt "#VillagePalace"
+msgid "Village Palace"
+msgstr ""
+
+msgctxt "#VillagePalace_tooltip"
+msgid ""
+"Stores most of the city treasure. Allows you to collect tax. Must be built "
+"on a grassy area"
+msgstr ""
+
+msgctxt "#Wall"
+msgid "Wall"
+msgstr ""
+
+msgctxt "#Wall_flavor"
+msgid ""
+"While not offering protections on their own, the towers you build on them "
+"can help win battles."
+msgstr ""
+
+msgctxt "#Wall_tooltip"
+msgid "Necessary to build towers, terrible for desirability"
+msgstr ""
+
+msgctxt "#WarningWorkers"
+msgid "The Overseer of Workers could shift some labor"
+msgstr ""
+
+msgctxt "#WarningWorkersAlert"
+msgid "<color=#ea4242>WARNING: Poor access to workers</color>"
+msgstr ""
+
+msgctxt "#WarshipWharf"
+msgid "Warship Wharf"
+msgstr ""
+
+msgctxt "#WarshipWharf_dockedship"
+msgid "Our warship is in port."
+msgstr ""
+
+msgctxt "#WarshipWharf_flavor"
+msgid ""
+"A warship berths here between battles. Any city on the Nile ought to have at"
+" least a couple of defensive ships at the ready."
+msgstr ""
+
+msgctxt "#WarshipWharf_sailingship"
+msgid "Our warship is out in battle."
+msgstr ""
+
+msgctxt "#WarshipWharf_tooltip"
+msgid "A warship to face the battles to come"
+msgstr ""
+
+msgctxt "#WaterCrossing"
+msgid "Water Crossing"
+msgstr ""
+
+msgctxt "#WaterLift"
+msgid "Water Lift"
+msgstr ""
+
+msgctxt "#WaterLift_flavor"
+msgid ""
+"This Water Lift can pump large volumes of water when Irrigation Ditches are "
+"connected to its front or back sluices."
+msgstr ""
+
+msgctxt "#WaterLift_floodplain_unconnected"
+msgid ""
+"This Water Lift needs to be adjacent to water, or connected by an Irrigation"
+" Ditch to a working Water Lift, before it will function."
+msgstr ""
+
+msgctxt "#WaterLift_tooltip"
+msgid ""
+"Pump water from the Nile into Irrigation Ditches to irrigate your farms."
+msgstr ""
+
+msgctxt "#WaterLift_workers_0"
+msgid ""
+"This Water Lift is not working. Ask your Overseer of the Workers to assign "
+"more workers to Water Services."
+msgstr ""
+
+msgctxt "#WaterSupply"
+msgid "Water Supply"
+msgstr ""
+
+msgctxt "#WaterSupply_flavor"
+msgid ""
+"Water carriers get clean water from this desirable source, and improve "
+"health and happiness as they deliver it to houses on their routes. "
+msgstr ""
+
+msgctxt "#WaterSupply_tooltips"
+msgid ""
+"Sends a water carrier to deliver drinking water to your houses. Must be "
+"built on a grassy area."
+msgstr ""
+
+msgctxt "#WaterSupply_workers_0"
+msgid ""
+"With no delivery staff, this facility could just as well be a dry hole in "
+"the ground."
+msgstr ""
+
+msgctxt "#WaterSupply_workers_1"
+msgid ""
+"We are operating with a skeleton staff only. We frequently go a full month "
+"without delivering any water."
+msgstr ""
+
+msgctxt "#WaterSupply_workers_100"
+msgid "Our staff continuously carry clean water to the local populace."
+msgstr ""
+
+msgctxt "#WaterSupply_workers_25"
+msgid ""
+"We have far too few workers. Sometimes, no water is delivered for up to two "
+"weeks at a time."
+msgstr ""
+
+msgctxt "#WaterSupply_workers_50"
+msgid ""
+"We are understaffed, and have dangerous gaps of up to a week in our water "
+"delivery cycle."
+msgstr ""
+
+msgctxt "#WaterSupply_workers_75"
+msgid ""
+"We are a little short of water carriers. We have gaps of perhaps a day or "
+"two in our coverage."
+msgstr ""
+
+msgctxt "#Weaponsmith"
+msgid "Weaponsmith"
+msgstr ""
+
+msgctxt "#Weaponsmith_disabled"
+msgid "Your Overseer of Commerce ordered a halt to weapon production."
+msgstr ""
+
+msgctxt "#Weaponsmith_flavor"
+msgid ""
+"Armorers transform copper into spears, which you may trade at a handsome "
+"profit or use to equip your own companies."
+msgstr ""
+
+msgctxt "#Weaponsmith_stock_0"
+msgid ""
+"This Weaponsmith needs copper, from a Storage Yard or a Copper Mine, to "
+"produce weapons."
+msgstr ""
+
+msgctxt "#Weaponsmith_storage"
+msgid "Stored copper<sprite name=\"Copper\">: {0} units."
+msgstr ""
+
+msgctxt "#Weaponsmith_tooltip"
+msgid ""
+"Produces weapons <sprite name=\"Weapons\"> out of copper <sprite "
+"name=\"Copper\">"
+msgstr ""
+
+msgctxt "#Weaponsmith_workers_0"
+msgid ""
+"This Weaponsmith has no employees, and will therefore produce no weapons."
+msgstr ""
+
+msgctxt "#Weaponsmith_workers_1"
+msgid ""
+"With hardly any employees, this Weaponsmith contributes very few weapons to "
+"the city's efforts."
+msgstr ""
+
+msgctxt "#Weaponsmith_workers_100"
+msgid ""
+"This workshop has all the employees it needs, and produces as many weapons "
+"as possible."
+msgstr ""
+
+msgctxt "#Weaponsmith_workers_25"
+msgid ""
+"There are very few people working at this Weaponsmith. Weapon production is "
+"very slow."
+msgstr ""
+
+msgctxt "#Weaponsmith_workers_50"
+msgid ""
+"This workshop is understaffed. It takes longer to produce weapons than it "
+"should."
+msgstr ""
+
+msgctxt "#Weaponsmith_workers_75"
+msgid ""
+"This Weaponsmith is not fully staffed, so weapon production is slightly "
+"slower than it could be."
+msgstr ""
+
+msgctxt "#Weaver"
+msgid "Weaver"
+msgstr ""
+
+msgctxt "#Weaver_disabled"
+msgid "Your Overseer of Commerce decreed that linen production be wrapped up."
+msgstr ""
+
+msgctxt "#Weaver_flavor"
+msgid ""
+"Here flax is processed into linen, which Mortuaries need for embalming. "
+"Linen may also be profitably traded."
+msgstr ""
+
+msgctxt "#Weaver_stock_0"
+msgid ""
+"This workshop will produce no linen without a shipment of flax, whether from"
+" a Storage Yard or a farm."
+msgstr ""
+
+msgctxt "#Weaver_storage"
+msgid "Stored flax<sprite name=\"Flax\">: {0} units."
+msgstr ""
+
+msgctxt "#Weaver_tooltip"
+msgid "Produces linen <sprite name=\"Linen\"> out of flax <sprite name=\"Flax\">"
+msgstr ""
+
+msgctxt "#Weaver_workers_0"
+msgid "This Weaver has no workers, and so cannot produce any linen at all."
+msgstr ""
+
+msgctxt "#Weaver_workers_1"
+msgid ""
+"With hardly any employees, this Weaver can produce almost no linen over the "
+"coming year."
+msgstr ""
+
+msgctxt "#Weaver_workers_100"
+msgid "This Weaver is fully staffed, and produces ample high-quality linen."
+msgstr ""
+
+msgctxt "#Weaver_workers_25"
+msgid ""
+"Very few people work at this Weaver. Linen production is slow as a result."
+msgstr ""
+
+msgctxt "#Weaver_workers_50"
+msgid ""
+"This Weaver is understaffed, and produces linen more slowly than it should."
+msgstr ""
+
+msgctxt "#Weaver_workers_75"
+msgid ""
+"This Weaver could use more workers to reach its full potential for linen "
+"production."
+msgstr ""
+
+msgctxt "#Well"
+msgid "Well"
+msgstr ""
+
+msgctxt "#Well_flavor"
+msgid ""
+"Citizens without clean water deliveries can draw water from Wells, but Well-"
+"water neighborhoods are not the healthiest or most desirable places to live."
+msgstr ""
+
+msgctxt "#Well_nohouses"
+msgid ""
+"This well's water is going to waste, as there are no houses within its "
+"service range."
+msgstr ""
+
+msgctxt "#Well_tooltips"
+msgid ""
+"Provides water within a 2-tile radius of themselves. No workers needed. Must"
+" be built on a grassy area."
+msgstr ""
+
+msgctxt "#Well_unneeded"
+msgid ""
+"This well is unneeded. All the houses it serves get deliveries from a Water "
+"Supply."
+msgstr ""
+
+msgctxt "#WoodCutter"
+msgid "Wood Cutter"
+msgstr ""
+
+msgctxt "#WoodCutter_disabled"
+msgid "Tree cutting has ceased, by order of the Overseer of Commerce."
+msgstr ""
+
+msgctxt "#WoodCutter_flavor"
+msgid ""
+"Wood has many uses ranging from monument construction to shipbuilding, and "
+"is in great demand throughout the Kingdom."
+msgstr ""
+
+msgctxt "#WoodCutter_storage"
+msgid "Holds {0} raw wood<sprite name=\"Wood\">."
+msgstr ""
+
+msgctxt "#WoodCutter_tooltip"
+msgid ""
+"Dispatches 3 tree-cutters to gather as much wood <sprite name=\"Wood\"> as "
+"possible"
+msgstr ""
+
+msgctxt "#WoodCutter_workers_0"
+msgid ""
+"This facility has no workers, and contributes nothing to the city's economy."
+msgstr ""
+
+msgctxt "#WoodCutter_workers_1"
+msgid ""
+"With hardly any tree-cutters, wood output is at a virtual standstill here."
+msgstr ""
+
+msgctxt "#WoodCutter_workers_100"
+msgid ""
+"This building has all the workers it needs. It harvests wood with maximum "
+"efficiency."
+msgstr ""
+
+msgctxt "#WoodCutter_workers_25"
+msgid ""
+"Very few people work at this yard. Wood production is very slow as a result."
+msgstr ""
+
+msgctxt "#WoodCutter_workers_50"
+msgid ""
+"This industry is understaffed, and takes longer to cut wood than it should."
+msgstr ""
+
+msgctxt "#WoodCutter_workers_75"
+msgid ""
+"This Wood Cutter is not fully staffed, and wood production is lower than it "
+"could be."
+msgstr ""
+
+msgctxt "#Work Camp"
+msgid "Work Camp"
+msgstr ""
+
+msgctxt "#Work Camp_both"
+msgid "Our laborers are off working on both floodplain farms and monuments."
+msgstr ""
+
+msgctxt "#Work Camp_farms"
+msgid "Our laborers are off working on floodplain farms."
+msgstr ""
+
+msgctxt "#Work Camp_flavor"
+msgid ""
+"This Work Camp houses laborers who can work either on floodplain farms or on"
+" monuments."
+msgstr ""
+
+msgctxt "#Work Camp_monuments"
+msgid "Our laborers are off working on monuments."
+msgstr ""
+
+msgctxt "#Work Camp_notarget"
+msgid "Our laborers are off looking for work."
+msgstr ""
+
+msgctxt "#Work Camp_tooltip"
+msgid "Provides workers for floodplains farms and monuments."
+msgstr ""
+
+msgctxt "#Work Camp_workers_0"
+msgid ""
+"This Work Camp needs workers to support the manual laborers based here. "
+msgstr ""
+
+msgctxt "#Work Camp_workers_1"
+msgid "We supply as much unskilled labor as is humanly possible."
+msgstr ""
+
+msgctxt "#WorkersCount"
+msgid "{0} / {1} workers"
+msgstr ""
+
+msgctxt "#WorkforceCount"
+msgid "{0} Employees ({1} needed)"
+msgstr ""
+
+msgctxt "#Zoo"
+msgid "Zoo"
+msgstr ""
+
+msgctxt "#Zoo_stock_gamemeat_0"
+msgid ""
+"This Zoo has zookeepers, but needs a supply of game meat before any animals "
+"can call it home."
+msgstr ""
+
+msgctxt "#Zoo_stock_straw_0"
+msgid "This Zoo has employees, but with no straw it cannot host any animals."
+msgstr ""
+
+msgctxt "#Zoo_storage_gamemeat"
+msgid "Game Meat<sprite name=\"GameMeat\">: {0} units."
+msgstr ""
+
+msgctxt "#Zoo_storage_straw"
+msgid "Straw<sprite name=\"Straw\">: {0} units."
+msgstr ""
+
+msgctxt "#Zoo_tooltip"
+msgid ""
+"Provides entertainment upon regular deliveries of game meat <sprite "
+"name=\"GameMeat\"> and straw <sprite name=\"Straw\">"
+msgstr ""
+
+msgctxt "#Zoo_workers_0"
+msgid ""
+"People are afraid to visit a Zoo without zookeepers. Until the Zoo finds "
+"some employees, it won't bring the neighborhood any benefit."
+msgstr ""
+
+msgctxt "#Zoo_workers_0_alt"
+msgid "With no animals, this Zoo is nothing more than empty cages."
+msgstr ""
+
+msgctxt "#Zoo_workers_1"
+msgid ""
+"Exotic animals from near and far delight crowds of citizens at the Zoo."
+msgstr ""
+
+msgctxt "#building_cannot_burn"
+msgid "Cannot burn"
+msgstr ""
+
+msgctxt "#building_cannot_collapse"
+msgid "Cannot collapse"
+msgstr ""
+
+msgctxt "#building_damagerisk_00"
+msgid "No collapse risk"
+msgstr ""
+
+msgctxt "#building_damagerisk_15"
+msgid "Very low collapse risk"
+msgstr ""
+
+msgctxt "#building_damagerisk_30"
+msgid "Low collapse risk"
+msgstr ""
+
+msgctxt "#building_damagerisk_45"
+msgid "Some collapse risk"
+msgstr ""
+
+msgctxt "#building_damagerisk_60"
+msgid "High collapse risk"
+msgstr ""
+
+msgctxt "#building_damagerisk_75"
+msgid "Very high collapse risk"
+msgstr ""
+
+msgctxt "#building_damagerisk_90"
+msgid "Extreme collapse risk"
+msgstr ""
+
+msgctxt "Altar_button"
+msgid "Build the Altar for {0}<sprite name=\"Deben\">"
+msgstr ""
+
+msgctxt "Oracle_button"
+msgid "Build the Oracle for {0}<sprite name=\"Deben\">"
+msgstr ""
