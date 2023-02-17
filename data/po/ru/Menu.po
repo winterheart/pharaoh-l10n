@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-17 05:05+0300\n"
+"PO-Revision-Date: 2023-02-17 17:10+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -19,29 +19,25 @@ msgctxt "#AD"
 msgid "AD"
 msgstr "н. э."
 
-#, fuzzy, fuzzy
 msgctxt "#April"
 msgid "April"
-msgstr "апр."
+msgstr "апрель"
 
-#, fuzzy, fuzzy
 msgctxt "#April_Short"
 msgid "Apr"
-msgstr "апр."
+msgstr "апр"
 
-#, fuzzy, fuzzy
 msgctxt "#August"
 msgid "August"
-msgstr "авг."
+msgstr "август"
 
-#, fuzzy, fuzzy
 msgctxt "#August_Short"
 msgid "Aug"
-msgstr "авг."
+msgstr "авг"
 
 msgctxt "#Autosave"
 msgid "autosave"
-msgstr ""
+msgstr "autosave"
 
 msgctxt "#BC"
 msgid "BC"
@@ -53,6 +49,9 @@ msgid ""
 "stay and oust your from power. They'll find someone that will not leave an "
 "empty vault behind them."
 msgstr ""
+"Не найдя ни одного дебена <sprite name=\"Deben\"> в вашей казне, захватчики "
+"решили остаться и отстранить вас от власти. Они подберут себе того, кто не "
+"оставляет после себя пустых сокровищниц."
 
 msgctxt "#Battle_Defeat_DebtANDKingdom"
 msgid ""
@@ -60,12 +59,17 @@ msgid ""
 "and your fellow Egyptians. Now that there is no army to defend you, your own "
 "people oust you from power!"
 msgstr ""
+"Проиграв битву, вы также потеряли уважение среди ваших жителей и других "
+"египтян. Теперь, когда нет защищавшей вас армии, люди отстраняют вас от "
+"власти!"
 
 msgctxt "#Battle_Defeat_Kingdom"
 msgid ""
 "As your reputation in Egypt is so low, invaders oust you from power without "
 "any trouble, and will rule {[city_name]} in your place!"
 msgstr ""
+"Ваша репутация в Египте настолько низка, что захватчики без труда отстранили "
+"вас от власти, и теперь  {[city_name]} в их руках!"
 
 msgctxt "#Battle_Defeat_Normal"
 msgid ""
@@ -74,48 +78,53 @@ msgid ""
 " They've now retreated, but that will not be the case if your city find "
 "itself in debt or if your Kingdom Rating falls too low."
 msgstr ""
+"Захватчики разграбили вашу казну, украв {[debens]} дебенов <sprite "
+"name=\"Deben\"> и разрушив часть зданий.\n"
+"Теперь они уходят, но это будет не самой большой бедой, если ваш город "
+"окажется в долгах и ваша репутация упадёт слишком низко."
 
 msgctxt "#Battle_Victory"
 msgid ""
 "You have defeated the invaders! {[city_name]} is safe for now...\n"
 " Rebuild your army as soon as possible!"
 msgstr ""
+"Вы победили захватчиков! {[city_name]} пока что в безопасности...\n"
+"Восстановить свои войска как можно скорее!"
 
 msgctxt "#CampaignSave"
 msgid "Campaign"
-msgstr ""
+msgstr "Кампания"
 
 msgctxt "#Campaign_Save_Details"
 msgid "Last save on {[cityname]} {[year]} {[month]} {[day]}"
-msgstr ""
+msgstr "Последнее сохранение в {[cityname]} {[year]} {[month]} {[day]}"
 
 msgctxt "#Campaign_Save_None"
 msgid "There is no campaign save for this family"
-msgstr ""
+msgstr "Для данной династии нет сохранённой кампании"
 
 msgctxt "#Cancel"
 msgid "Cancel"
 msgstr "Отмена"
 
-#, fuzzy, fuzzy
 msgctxt "#CityFunds"
 msgid "Current city funds"
-msgstr "Текущая казна города"
+msgstr "Текущие средства города"
 
-#, fuzzy, fuzzy
 msgctxt "#CityPopulation"
 msgid "Current city population"
 msgstr "Текущее население города"
 
 msgctxt "#Clear_History"
 msgid "Clear"
-msgstr ""
+msgstr "Очистить"
+
+# Проверить.
 
 msgctxt "#Completed"
 msgid "Completed"
-msgstr ""
+msgstr "Завершено"
 
-#, fuzzy, fuzzy
 msgctxt "#Confirm"
 msgid "Confirm"
 msgstr "Подтвердить"
@@ -124,125 +133,106 @@ msgctxt "#Continue"
 msgid "Continue"
 msgstr "Продолжить"
 
-#, fuzzy, fuzzy
 msgctxt "#Create_Family"
 msgid "Create Family"
 msgstr "Создать династию"
 
-#, fuzzy, fuzzy
 msgctxt "#Create_Save"
 msgid "New Save"
 msgstr "Новое сохранение"
 
-#, fuzzy, fuzzy
 msgctxt "#CurrentDate"
 msgid "The current date!"
 msgstr "Текущая дата!"
 
-#, fuzzy, fuzzy
 msgctxt "#December"
 msgid "December"
-msgstr "дек."
+msgstr "декабрь"
 
-#, fuzzy, fuzzy
 msgctxt "#December_Short"
 msgid "Dec"
-msgstr "дек."
+msgstr "дек"
 
 msgctxt "#DesirabilityOverlay_Hover_0"
 msgid "This is one of the least desirable places in town"
-msgstr ""
+msgstr "Это одно из самых непривлекательных мест в городе."
 
 msgctxt "#DesirabilityOverlay_Hover_1"
 msgid "No one would prefer to live here, but there are worse places"
-msgstr ""
+msgstr "Никто не желает жить здесь, но бывают места и похуже."
 
 msgctxt "#DesirabilityOverlay_Hover_2"
 msgid "People have no strong feelings about this area's desirability"
-msgstr ""
+msgstr "Люди не уверены, является ли данная местность привлекательной."
 
 msgctxt "#DesirabilityOverlay_Hover_3"
 msgid "This area is better than some, although not highly attractive"
-msgstr ""
+msgstr "Здесь получше, чем в других местах, хотя и не так уж привлекательно."
 
 msgctxt "#DesirabilityOverlay_Hover_4"
 msgid "Most people would find this a pleasant place to live"
-msgstr ""
+msgstr "Большинство людей с удовольствием будут здесь жить."
 
 msgctxt "#DesirabilityOverlay_Hover_5"
 msgid "This is among the most fashionable addresses in your city"
-msgstr ""
+msgstr "Это наиболее привлекательные места в вашем городе."
 
-#, fuzzy, fuzzy
 msgctxt "#Enter_Name"
 msgid "Enter a family name"
 msgstr "Введите имя династии"
 
-#, fuzzy, fuzzy
 msgctxt "#Enter_Save_Name"
 msgid "Enter a save name"
 msgstr "Введите название сохранения"
 
 msgctxt "#Family_Avatar"
 msgid "Choose an avatar"
-msgstr ""
+msgstr "Выберите изображение"
 
-#, fuzzy, fuzzy
 msgctxt "#February"
 msgid "February"
-msgstr "фев."
+msgstr "февраль"
 
-#, fuzzy, fuzzy
 msgctxt "#February_Short"
 msgid "Feb"
-msgstr "фев."
+msgstr "фев"
 
-#, fuzzy, fuzzy
 msgctxt "#FinalCityFunds"
 msgid "Final City Funds"
-msgstr "Итоговая казна города"
+msgstr "Итоговые средства города"
 
-#, fuzzy, fuzzy
 msgctxt "#FinalCultureRating"
 msgid "Final Culture Rating"
 msgstr "Итоговый рейтинг культуры"
 
-#, fuzzy, fuzzy
 msgctxt "#FinalKingdomRating"
 msgid "Final Kingdom Rating"
-msgstr "Итоговый рейтинг государства"
+msgstr "Итоговый рейтинг Царства"
 
 msgctxt "#FinalMonumentRating"
 msgid "Final Monument rating"
-msgstr ""
+msgstr "Итоговый рейтинг монументов"
 
-#, fuzzy, fuzzy
 msgctxt "#FinalPopulation"
 msgid "Final Population"
 msgstr "Итоговое население"
 
-#, fuzzy, fuzzy
 msgctxt "#FinalProsperityRating"
 msgid "Final Prosperity Rating"
 msgstr "Итоговый рейтинг благополучия"
 
-#, fuzzy, fuzzy
 msgctxt "#Funds_hover"
 msgid "Make sure you don't go into debt"
 msgstr "Следите за тем, чтобы не влезть в долги."
 
-#, fuzzy, fuzzy
 msgctxt "#Funds_hover_EmergencyFundUsed"
 msgid "You already used your emergency fund, don't go into debt again."
-msgstr ""
-"Вы уже использовали сбережения на черный день, больше не влезайте в долги."
+msgstr "Вы уже использовали экстренные средства, больше не влезайте в долги."
 
-#, fuzzy, fuzzy
 msgctxt "#Funds_hover_Negative"
 msgid "Find a way to make some deben before you reach a debt of 5000"
-msgstr "Найдите способ получить дебены, пока ваш долг не вырос до 5000."
+msgstr "Найдите способ получить дебены, пока ваш долг не достиг 5000."
 
-#, fuzzy, fuzzy
 msgctxt "#Funds_hover_Over5000"
 msgid ""
 "You won't be able to build anything unless you debt gets lower than 5000 "
@@ -250,56 +240,53 @@ msgid ""
 msgstr ""
 "Вы не сможете ничего построить, пока ваш долг не станет меньше 5000 дебенов."
 
-#, fuzzy, fuzzy
 msgctxt "#Game_Selectin_Mission"
 msgid "Mission Selection"
-msgstr "Выбор задания"
+msgstr "Выбор миссии"
 
-#, fuzzy, fuzzy
 msgctxt "#Game_Selection_Campaign"
 msgid "Campaigns"
 msgstr "Кампании"
 
-#, fuzzy, fuzzy
 msgctxt "#Game_Selection_Load"
 msgid "Load game"
 msgstr "Загрузить игру"
 
 msgctxt "#Home"
 msgid "Home"
-msgstr ""
+msgstr "Домой"
 
 msgctxt "#Hover_BastetOverlay"
 msgid "Bastet Overlay"
-msgstr ""
+msgstr "Слой Бастет"
 
 msgctxt "#Hover_BazaarOverlay"
 msgid "Bazaar Overlay"
-msgstr ""
+msgstr "Слой базаров"
 
 msgctxt "#Hover_Briefing"
 msgid "Briefing"
-msgstr ""
+msgstr "Инструктаж"
 
 msgctxt "#Hover_ChiefOverseer"
 msgid "Chief Overseer"
-msgstr ""
+msgstr "Главный советник"
 
 msgctxt "#Hover_CloseOverlay"
 msgid "Close active overlay"
-msgstr ""
+msgstr "Закрыть текущий слой"
 
 msgctxt "#Hover_CollapseOverlay"
 msgid "Collapse Risk Overlay"
-msgstr ""
+msgstr "Слой угрозы обрушения"
 
 msgctxt "#Hover_CrimeOverlay"
 msgid "Crime Risk Overlay"
-msgstr ""
+msgstr "Слой угрозы преступности"
 
 msgctxt "#Hover_DancersOverlay"
 msgid "Dancers Overlay"
-msgstr ""
+msgstr "Слой танцовщиц"
 
 msgctxt "#Hover_DentistsOverlay"
 msgid "Dentists Overlay"
@@ -307,15 +294,15 @@ msgstr ""
 
 msgctxt "#Hover_DesirabilityOverlay"
 msgid "Desirability Overlay"
-msgstr ""
+msgstr "Слой привлекательности"
 
 msgctxt "#Hover_DiseasesOverlay"
 msgid "Diseases Risk Overlay"
-msgstr ""
+msgstr "Слой угрозы заболеваний"
 
 msgctxt "#Hover_EducationOverlay"
 msgid "Education Overlay"
-msgstr ""
+msgstr "Слой образования"
 
 msgctxt "#Hover_EmbalmersOverlay"
 msgid "Embalmers Overlay"
@@ -327,19 +314,19 @@ msgstr "Энциклопедия"
 
 msgctxt "#Hover_EntertainmentOverlay"
 msgid "Entertainment Overlay"
-msgstr ""
+msgstr "Слой развлечений"
 
 msgctxt "#Hover_FireOverlay"
 msgid "Fire Risk Overlay"
-msgstr ""
+msgstr "Слой угрозы пожара"
 
 msgctxt "#Hover_HealthOverlay"
 msgid "Health Overlay"
-msgstr ""
+msgstr "Слой здоровья"
 
 msgctxt "#Hover_Help"
 msgid "Ingame Help"
-msgstr ""
+msgstr "Внутриигровая справка"
 
 msgctxt "#Hover_HerbalistsOverlay"
 msgid "Herbalists Overlay"
@@ -347,11 +334,11 @@ msgstr ""
 
 msgctxt "#Hover_JugglersOverlay"
 msgid "Jugglers Overlay"
-msgstr ""
+msgstr "Слой жонглёров"
 
 msgctxt "#Hover_LibrariansOverlay"
 msgid "Librarians Overlay"
-msgstr ""
+msgstr "Слой библиотекарей"
 
 msgctxt "#Hover_MagistrateOverlay"
 msgid "Magistrate Overlay"
@@ -359,7 +346,7 @@ msgstr ""
 
 msgctxt "#Hover_MalariaOverlay"
 msgid "Malaria Risk Overlay"
-msgstr ""
+msgstr "Слой угрозы малярии"
 
 msgctxt "#Hover_Menu"
 msgid "Menu"
@@ -371,59 +358,59 @@ msgstr "Военный советник"
 
 msgctxt "#Hover_MusiciansOverlay"
 msgid "Musicians Overlay"
-msgstr ""
+msgstr "Слой музыкантов"
 
 msgctxt "#Hover_NilometerExcellent"
 msgid "The next flood should be excellent"
-msgstr ""
+msgstr "Следующий разлив должен быть отличным."
 
 msgctxt "#Hover_NilometerGood"
 msgid "The next flood should be good"
-msgstr ""
+msgstr "Следующий разлив должен быть хорошим"
 
 msgctxt "#Hover_NilometerMediocre"
 msgid "The next flood is likely to be mediocre"
-msgstr ""
+msgstr "Следующий разлив, скорее всего, будет посредственным."
 
 msgctxt "#Hover_NilometerNone"
 msgid "The next flood will likely fail entirely"
-msgstr ""
+msgstr "Следующего разлива, скорее всего, не будет."
 
 msgctxt "#Hover_NilometerOff"
 msgid "Close the Nilometer"
-msgstr ""
+msgstr "Закрыть Нилометр"
 
 msgctxt "#Hover_NilometerOn"
 msgid "Open the Nilometer"
-msgstr ""
+msgstr "Открыть Нилометр"
 
 msgctxt "#Hover_NilometerPerfect"
 msgid "The next flood should be perfect"
-msgstr ""
+msgstr "Следующий разлив должен быть идеальным."
 
 msgctxt "#Hover_NilometerPoor"
 msgid "The next flood is likely to be poor"
-msgstr ""
+msgstr "Следующий разлив, скорее всего, будет слабым."
 
 msgctxt "#Hover_Notifications"
 msgid "Notifications"
-msgstr ""
+msgstr "Оповещения"
 
 msgctxt "#Hover_OsirisOverlay"
 msgid "Osiris Overlay"
-msgstr ""
+msgstr "Слой Осириса"
 
 msgctxt "#Hover_OverlayAll"
 msgid "All"
-msgstr ""
+msgstr "Все"
 
 msgctxt "#Hover_Overlays"
 msgid "Overlays"
-msgstr ""
+msgstr "Слои"
 
 msgctxt "#Hover_OverseerCommerce"
 msgid "Overseer of Commerce"
-msgstr ""
+msgstr "Торговый советник"
 
 msgctxt "#Hover_OverseerDiversions"
 msgid "Overseer of Diversions"
@@ -431,31 +418,31 @@ msgstr ""
 
 msgctxt "#Hover_OverseerGranaries"
 msgid "Overseer of the Granaries"
-msgstr ""
+msgstr "Советник по продовольствию"
 
 msgctxt "#Hover_OverseerHealth"
 msgid "Overseer of Public Health"
-msgstr ""
+msgstr "Советник по здравоохранению"
 
 msgctxt "#Hover_OverseerLearning"
 msgid "Overseer of Learning"
-msgstr ""
+msgstr "Советник по образованию"
 
 msgctxt "#Hover_OverseerMonuments"
 msgid "Overseer of the Monuments"
-msgstr ""
+msgstr "Советник по монументам"
 
 msgctxt "#Hover_OverseerTemples"
 msgid "Overseer of the Temples"
-msgstr ""
+msgstr "Советник по храмам"
 
 msgctxt "#Hover_OverseerTreasury"
 msgid "Overseer of the Treasury"
-msgstr ""
+msgstr "Советник по казне"
 
 msgctxt "#Hover_OverseerWorkers"
 msgid "Overseer of the Workers"
-msgstr ""
+msgstr "Советник по рабочей силе"
 
 msgctxt "#Hover_Overseers"
 msgid "Overseers"
@@ -467,51 +454,51 @@ msgstr ""
 
 msgctxt "#Hover_PoliticalOverseer"
 msgid "Political Overseer"
-msgstr ""
+msgstr "Советник по политике"
 
 msgctxt "#Hover_ProblemsOverlay"
 msgid "Problems Overlay"
-msgstr ""
+msgstr "Слой проблем"
 
 msgctxt "#Hover_PtahOverlay"
 msgid "Ptah Overlay"
-msgstr ""
+msgstr "Слой Птаха"
 
 msgctxt "#Hover_RaOverlay"
 msgid "Ra Overlay"
-msgstr ""
+msgstr "Слой Ра"
 
 msgctxt "#Hover_RatingsOverseer"
 msgid "Ratings Overseer"
-msgstr ""
+msgstr "Советник по рейтингу"
 
 msgctxt "#Hover_ReligionOverlay"
 msgid "Religion Overlay"
-msgstr ""
+msgstr "Слой религии"
 
 msgctxt "#Hover_RisksOverlay"
 msgid "Risks Overlay"
-msgstr ""
+msgstr "Слой угроз"
 
 msgctxt "#Hover_SenetPlayersOverlay"
 msgid "Senet players Overlay"
-msgstr ""
+msgstr "Слой игроков в сенет"
 
 msgctxt "#Hover_SethOverlay"
 msgid "Seth Overlay"
-msgstr ""
+msgstr "Слой Сета"
 
 msgctxt "#Hover_TaxationOverlay"
 msgid "Taxation Overlay"
-msgstr ""
+msgstr "Слой налогообложения"
 
 msgctxt "#Hover_TeachersOverlay"
 msgid "Teachers Overlay"
-msgstr ""
+msgstr "Слой учителей"
 
 msgctxt "#Hover_WaterOverlay"
 msgid "Water Overlay"
-msgstr ""
+msgstr "Слой водоснабжения"
 
 msgctxt "#Hover_Worldmap"
 msgid "Worldmap"
@@ -521,49 +508,41 @@ msgctxt "#Hover_ZookeepersOverlay"
 msgid "Zookeepers Overlay"
 msgstr ""
 
-#, fuzzy, fuzzy
 msgctxt "#In_Game_Saved"
 msgid "City Saved"
-msgstr "Город сохранен"
+msgstr "Город сохранён"
 
-#, fuzzy, fuzzy
 msgctxt "#In_Game_Saved_Desc"
 msgid "Your city was successfully saved!"
-msgstr "Ваш город успешно сохранен!"
+msgstr "Ваш город успешно сохранён!"
 
 msgctxt "#Intro_skip"
 msgid "Press any key to skip"
-msgstr ""
+msgstr "Нажмите любую клавишу для пропуска"
 
-#, fuzzy, fuzzy
 msgctxt "#January"
 msgid "January"
-msgstr "янв."
+msgstr "январь"
 
-#, fuzzy, fuzzy
 msgctxt "#January_Short"
 msgid "Jan"
-msgstr "янв."
+msgstr "янв"
 
-#, fuzzy, fuzzy
 msgctxt "#July"
 msgid "July"
-msgstr "июл."
+msgstr "июль"
 
-#, fuzzy, fuzzy
 msgctxt "#July_Short"
 msgid "Jul"
-msgstr "июл."
+msgstr "июл"
 
-#, fuzzy, fuzzy
 msgctxt "#June"
 msgid "June"
-msgstr "июн."
+msgstr "июнь"
 
-#, fuzzy, fuzzy
 msgctxt "#June_Short"
 msgid "Jun"
-msgstr "июн."
+msgstr "июн"
 
 msgctxt "#KeepPlaying"
 msgid "Keep Governing"
@@ -573,43 +552,39 @@ msgctxt "#LeaveConfirmation"
 msgid ""
 "Are you sure you want to leave the game ? Unsaved progress will be lost."
 msgstr ""
+"Вы уверены, что хотите покинуть игру? Несохранённый прогресс будет утерян."
 
 msgctxt "#LoadMapIssue_Content"
 msgid "Something's wrong with this save file!"
-msgstr ""
+msgstr "Произошло что-то не так с данным сохранением!"
 
 msgctxt "#LoadMapIssue_Title"
 msgid "Loading Issue"
-msgstr ""
+msgstr "Проблема загрузки"
 
 msgctxt "#Load_Campaign"
 msgid "Resume Campaign"
 msgstr "Продолжить кампанию"
 
-#, fuzzy, fuzzy
 msgctxt "#Loading_Saved_Game"
 msgid "Load Saved Game"
-msgstr "Загрузить сохраненную игру"
+msgstr "Загрузить сохранённую игру"
 
-#, fuzzy, fuzzy
 msgctxt "#March"
 msgid "March"
-msgstr "мар."
+msgstr "март"
 
-#, fuzzy, fuzzy
 msgctxt "#March_Short"
 msgid "Mar"
-msgstr "мар."
+msgstr "мар"
 
-#, fuzzy, fuzzy
 msgctxt "#May"
 msgid "May"
 msgstr "май"
 
-#, fuzzy, fuzzy
 msgctxt "#May_Short"
 msgid "May"
-msgstr "мая"
+msgstr "май"
 
 msgctxt "#MissionCompleted"
 msgid "Mission completed"
@@ -621,43 +596,36 @@ msgstr "Следующая миссия"
 
 msgctxt "#Notifications"
 msgid "Notifications"
-msgstr ""
+msgstr "Оповещения"
 
-#, fuzzy, fuzzy
 msgctxt "#November"
 msgid "November"
-msgstr "ноя."
+msgstr "ноябрь"
 
-#, fuzzy, fuzzy
 msgctxt "#November_Short"
 msgid "Nov"
-msgstr "ноя."
+msgstr "ноя"
 
-#, fuzzy, fuzzy
 msgctxt "#Objectives"
 msgid "Objectives"
-msgstr "Цели"
+msgstr "Задачи"
 
-#, fuzzy, fuzzy
 msgctxt "#October"
 msgid "October"
-msgstr "окт."
+msgstr "октябрь"
 
-#, fuzzy, fuzzy
 msgctxt "#October_Short"
 msgid "Oct"
-msgstr "окт."
+msgstr "окт"
 
 msgctxt "#Ok"
 msgid "OK"
 msgstr "ОК"
 
-#, fuzzy, fuzzy
 msgctxt "#Options_Audio_Volume_Ambiance"
 msgid "Ambient Sounds"
 msgstr "Фоновые звуки"
 
-#, fuzzy, fuzzy
 msgctxt "#Options_Audio_Volume_Master"
 msgid "Master"
 msgstr "Общий"
@@ -666,34 +634,33 @@ msgctxt "#Options_Audio_Volume_Music"
 msgid "Music"
 msgstr "Музыка"
 
-#, fuzzy, fuzzy
 msgctxt "#Options_Audio_Volume_SFX"
 msgid "SFX"
 msgstr "Спецэффекты"
 
-#, fuzzy, fuzzy
 msgctxt "#Options_Audio_Volume_Voice"
 msgid "Voices"
 msgstr "Голоса"
 
-#, fuzzy, fuzzy
 msgctxt "#Population_hover"
 msgid "{0} workers out of {1} inhabitants. Unemployment at {2}%"
-msgstr "Количество рабочих: {0}. Всего жителей: {1}. Уровень безработицы: {2}%"
+msgstr ""
+"Количество рабочих: {0}. Всего жителей: {1}. Уровень безработицы: {2}%."
 
 msgctxt "#Population_hover_missing_workers"
 msgid "{0} workers out of {1} inhabitants. {2} additional workers required."
 msgstr ""
+"Количество рабочих: {0}. Всего жителей: {1}. Требуется дополнительных "
+"рабочих: {2}."
 
 msgctxt "#Popup_Destroy_Monument_Content"
 msgid "Are you sure you want to destroy this monument ?"
-msgstr ""
+msgstr "Вы действительно хотите разрушить этот монумент?"
 
 msgctxt "#Popup_Destroy_Monument_Title"
 msgid "Monument Destruction"
-msgstr ""
+msgstr "Разрушение монумента"
 
-#, fuzzy, fuzzy
 msgctxt "#Proceed"
 msgid "Proceed"
 msgstr "Продолжить"
@@ -702,105 +669,93 @@ msgctxt "#Remove_Family"
 msgid "Delete Dynasty?"
 msgstr "Удалить династию?"
 
-#, fuzzy, fuzzy
 msgctxt "#Remove_Family_Desc"
 msgid ""
 "This deletes the selected dynasty and all of its saved games. Are you sure "
 "you want to do that?"
 msgstr ""
-"Это действие удаляет выбранную династию и все ее сохраненные игры. Вы "
-"действительно хотите удалить их?"
+"Это действие удалит выбранную династию и все её сохранённые игры. Вы "
+"действительно хотите это сделать?"
 
-#, fuzzy, fuzzy
 msgctxt "#Remove_Save"
 msgid "Delete game"
 msgstr "Удалить игру"
 
-#, fuzzy, fuzzy
 msgctxt "#Remove_Save_Desc"
 msgid "Are you absolutely certain you want to delete this save forever?"
 msgstr "Вы уверены, что хотите навсегда удалить это сохранение?"
 
 msgctxt "#Replay"
 msgid "Replay mission"
-msgstr ""
+msgstr "Начать миссию заново"
 
 msgctxt "#Reset"
 msgid "Reset"
-msgstr ""
+msgstr "Сбросить"
 
 msgctxt "#Restart"
 msgid "Restart"
-msgstr ""
+msgstr "Перезапуск"
 
-#, fuzzy, fuzzy
 msgctxt "#Return_Main_Menu"
 msgid "Return to main menu"
-msgstr "Возврат в главное меню"
+msgstr "В главное меню"
 
 msgctxt "#Sandbox"
 msgid "Sandbox"
-msgstr ""
+msgstr "Песочница"
 
-#, fuzzy, fuzzy
 msgctxt "#Save"
 msgid "Save game"
 msgstr "Сохранить игру"
 
 msgctxt "#SaveRequireRestart_Content"
 msgid "Some options require restarting the game to be applied."
-msgstr ""
+msgstr "Для применения некоторых настроек требуется перезапуск игры."
 
 msgctxt "#SaveRequireRestart_Title"
 msgid "Restart required"
-msgstr ""
+msgstr "Требуется перезапуск"
 
 msgctxt "#Save_Campaign"
 msgid "Save Campaign"
-msgstr ""
+msgstr "Сохранить компанию"
 
-#, fuzzy, fuzzy
 msgctxt "#September"
 msgid "September"
-msgstr "сен."
+msgstr "сентябрь"
 
-#, fuzzy, fuzzy
 msgctxt "#September_Short"
 msgid "Sep"
-msgstr "сен."
+msgstr "сен"
 
-#, fuzzy, fuzzy
 msgctxt "#Speed"
 msgid "Speed settings"
 msgstr "Настройки скорости"
 
-#, fuzzy, fuzzy
 msgctxt "#Speed_Faster"
 msgid "Speed up the game"
 msgstr "Ускорить игру"
 
-#, fuzzy, fuzzy
 msgctxt "#Speed_Lower"
 msgid "Slow down the game"
 msgstr "Замедлить игру"
 
 msgctxt "#Speed_Normal"
 msgid "Normal speed"
-msgstr ""
+msgstr "Обычная скорость"
 
-#, fuzzy, fuzzy
 msgctxt "#Speed_Pause"
 msgid "Pause the game"
-msgstr "Пауза"
+msgstr "Поставить на паузу"
 
-#, fuzzy, fuzzy
 msgctxt "#Title_Choose_Mission"
 msgid "Choose a Mission"
-msgstr "Выбрать задание"
+msgstr "Выбор миссии"
 
 msgctxt "#Title_Click_To_Start"
 msgid "Click to start the game"
-msgstr ""
+msgstr "Щёлкните, чтобы начать игру"
 
 msgctxt "#Title_Credits"
 msgid "Credits"
@@ -810,39 +765,33 @@ msgctxt "#Title_Exit_Game"
 msgid "Exit game"
 msgstr "Выход из игры"
 
-#, fuzzy, fuzzy
 msgctxt "#Title_Extras"
 msgid "Extras"
 msgstr "Дополнения"
 
-#, fuzzy, fuzzy
 msgctxt "#Title_Family_Selection"
 msgid "Family Registry"
-msgstr "Родовая книга"
+msgstr "Обзор династий"
 
-#, fuzzy, fuzzy
 msgctxt "#Title_Historical"
 msgid "Explore History"
-msgstr "Историческая справка"
+msgstr "Изучение истории"
 
-#, fuzzy, fuzzy
 msgctxt "#Title_Loading_Saved_Game"
 msgid "Loading saved game"
 msgstr "Загрузка сохраненной игры"
 
-#, fuzzy, fuzzy
 msgctxt "#Title_Map_Editor"
 msgid "Mission Editor"
-msgstr "Редактор заданий"
+msgstr "Редактор миссий"
 
 msgctxt "#Title_Options"
 msgid "Options"
 msgstr "Параметры"
 
-#, fuzzy, fuzzy
 msgctxt "#Title_Personal"
 msgid "Custom Missions"
-msgstr "Пользовательские задания"
+msgstr "Отдельные миссии"
 
 msgctxt "#Title_Play"
 msgid "Play"
@@ -852,32 +801,26 @@ msgctxt "#Victory"
 msgid "Victory"
 msgstr "Победа"
 
-#, fuzzy, fuzzy
 msgctxt "#WhishlistOn"
 msgid "Whishlist on <sprite name=\"Steam_icon_logo\">"
 msgstr "Список желаемого в <sprite name=\"Steam_icon_logo\">"
 
-#, fuzzy, fuzzy
 msgctxt "#WorkInProgress"
 msgid "Work in progress"
 msgstr "В работе"
 
-#, fuzzy, fuzzy
 msgctxt "#load"
 msgid "Load"
 msgstr "Загрузка"
 
-#, fuzzy, fuzzy
 msgctxt "#map_editor_create_new"
 msgid "New map"
 msgstr "Новая карта"
 
-#, fuzzy, fuzzy
 msgctxt "#map_editor_load"
 msgid "Load map"
 msgstr "Загрузить карту"
 
-#, fuzzy, fuzzy
 msgctxt "#map_editor_save"
 msgid "Save map"
 msgstr "Сохранить карту"
@@ -890,12 +833,10 @@ msgctxt "#options_audio"
 msgid "Audio"
 msgstr "Звук"
 
-#, fuzzy, fuzzy
 msgctxt "#options_fullscreen"
 msgid "Full screen"
 msgstr "Полный экран"
 
-#, fuzzy, fuzzy
 msgctxt "#options_gameplay"
 msgid "Gameplay"
 msgstr "Игровой процесс"
@@ -912,7 +853,6 @@ msgctxt "#options_language"
 msgid "Language"
 msgstr "Язык"
 
-#, fuzzy, fuzzy
 msgctxt "#options_resolution"
 msgid "Display settings"
 msgstr "Настройки отображения"
