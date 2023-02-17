@@ -53,16 +53,16 @@ class I2LocCsvKeys(Enum):
 
 
 class I2LocLanguages(Enum):
-    LANG_CHINESESIMPLIFIED = {"key": "Chinese (Simplified)", "iso_code": "zh-cn"}
-    LANG_CHINESETRADITIONAL = {"key": "Chinese (Traditional)", "iso_code": "zh-tw"}
-    LANG_ENGLISH = {"key": "English", "iso_code": "en"}
-    LANG_FRENCH = {"key": "French", "iso_code": "fr"}
-    LANG_GERMAN = {"key": "German", "iso_code": "de"}
-    LANG_ITALIAN = {"key": "Italian", "iso_code": "it"}
-    LANG_JAPANESE = {"key": "Japanese", "iso_code": "ja"}
-    LANG_KOREAN = {"key": "Korean", "iso_code": "ko"}
-    LANG_RUSSIAN = {"key": "Russian", "iso_code": "ru"}
-    LANG_SPANISH = {"key": "Spanish", "iso_code": "es"}
+    LANG_CHINESESIMPLIFIED = {"key": "Chinese (Simplified)", "iso_code": "zh-cn", "loc_name": "Chinese (Simplified)"}
+    LANG_CHINESETRADITIONAL = {"key": "Chinese (Traditional)", "iso_code": "zh-tw", "loc_name": "Chinese (Traditional)"}
+    LANG_ENGLISH = {"key": "English", "iso_code": "en", "loc_name": "English"}
+    LANG_FRENCH = {"key": "French", "iso_code": "fr", "loc_name": "Français"}
+    LANG_GERMAN = {"key": "German", "iso_code": "de", "loc_name": "Deutsch"}
+    LANG_ITALIAN = {"key": "Italian", "iso_code": "it", "loc_name": "Italiano"}
+    LANG_JAPANESE = {"key": "Japanese", "iso_code": "ja", "loc_name": "Japanese"}
+    LANG_KOREAN = {"key": "Korean", "iso_code": "ko", "loc_name": "Korean"}
+    LANG_RUSSIAN = {"key": "Russian", "iso_code": "ru", "loc_name": "Русский"}
+    LANG_SPANISH = {"key": "Spanish", "iso_code": "es", "loc_name": "Español"}
 
 
 LANG_KEY = "Key"
@@ -86,6 +86,7 @@ class I2LocTranslation:
         Init class for handling *.csv
         :param csv_path: Path to CSV file (UTF-8, ";" as delimiter)
         """
+        self.inject_langs = list([I2LocLanguages.LANG_RUSSIAN])
         self.logger = logging.getLogger("I2Loc")
         with open(csv_path, "r", newline="", encoding="utf-8") as read_file:
             csv_content = csv.DictReader(read_file, delimiter=";")
@@ -140,14 +141,30 @@ class I2LocTranslation:
                 if csv_root_key != I2LocCsvKeys.EMPTY_CATEGORY:
                     temp_list.append(csv_root_key.value)
                 temp_list.append(entry.msgctxt)
+                try:
+                    csv_entry = next(item for item in self.content if item[LANG_KEY] == "/".join(temp_list))
+                    if not entry.obsolete and entry.translated() and "fuzzy" not in entry.flags:
+                        csv_entry[language] = entry.msgstr
+                    else:
+                        csv_entry[language] = entry.msgid
+                except StopIteration:
+                    self.logger.warning("Entry '{}' does not exist in source CSV".format("/".join(temp_list)))
+                    for lang in self.inject_langs:
+                        if "#{}".format(lang.value["key"]) == entry.msgctxt:
+                            self.content.append(
+                                {
+                                    "Key": "/".join(temp_list),
+                                    "Type": "Text",
+                                    "Desc": "",
+                                    I2LocLanguages.LANG_ENGLISH.value["key"]: entry.msgstr,
+                                    I2LocLanguages.LANG_FRENCH.value["key"]: entry.msgstr,
+                                    I2LocLanguages.LANG_SPANISH.value["key"]: entry.msgstr,
+                                    I2LocLanguages.LANG_GERMAN.value["key"]: entry.msgstr,
+                                    I2LocLanguages.LANG_ITALIAN.value["key"]: entry.msgstr,
+                                    I2LocLanguages.LANG_RUSSIAN.value["key"]: entry.msgstr,
+                                }
+                            )
 
-                csv_entry = next(item for item in self.content if item[LANG_KEY] == "/".join(temp_list))
-                if not entry.obsolete and entry.translated() and "fuzzy" not in entry.flags:
-                    csv_entry[language] = entry.msgstr
-                else:
-                    # if csv_entry[language] == "":
-                        # Add entry if there is no entry at all
-                    csv_entry[language] = "" # entry.msgid
         else:
             self.logger.warning("ERROR: '{}' is not exists! Skipping.".format(po_file))
 
@@ -205,6 +222,18 @@ class I2LocTranslation:
         # We ready to dump POT files into FS
         for i in I2LocCsvKeys:
             self.logger.info("Saving POT-file {}".format(pot_files[i.value].path))
+            if i == I2LocCsvKeys.MENU_LANGUAGE:
+                # Injecting here own languages
+                for lang in self.inject_langs:
+                    po_entry = POEntry(
+                        msgctxt="#{}".format(lang.value["key"]),
+                        msgid=lang.value["loc_name"],
+                    )
+                    try:
+                        pot_files[i.value].po_file.append(po_entry)
+                    except ValueError:
+                        self.logger.debug("Entry {} already exists, skipping...".format(po_entry.msgid))
+
             pot_files[i.value].po_file.save(pot_files[i.value].path)
 
         for lang_code in languages:
