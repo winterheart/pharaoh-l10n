@@ -4,14 +4,15 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-16 20:10+0300\n"
+"PO-Revision-Date: 2023-02-17 11:17+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 msgctxt ""
@@ -41,7 +42,7 @@ msgstr "Кирпичи"
 
 msgctxt "#Chariots"
 msgid "Chariot"
-msgstr ""
+msgstr "Колесница"
 
 msgctxt "#Chickpeas"
 msgid "Chickpeas"
@@ -212,86 +213,70 @@ msgctxt "#Wood"
 msgid "Wood"
 msgstr "Древесина"
 
-#, fuzzy, fuzzy
 msgctxt "Assyrians"
 msgid "Assyrians"
 msgstr "Ассирийцы"
 
 msgctxt "Bedouins"
 msgid "Bedouins"
-msgstr ""
+msgstr "Бедуины"
 
-#, fuzzy, fuzzy
 msgctxt "Canaanites"
 msgid "Canaanites"
 msgstr "Ханаане"
 
-#, fuzzy, fuzzy
 msgctxt "Chancellor"
 msgid "Chancellor"
 msgstr "Казначей"
 
-#, fuzzy, fuzzy
 msgctxt "CompanyName_01"
 msgid "The Lions"
 msgstr "Львы"
 
-#, fuzzy, fuzzy
 msgctxt "CompanyName_02"
 msgid "The Crocodiles"
 msgstr "Крокодилы"
 
-#, fuzzy, fuzzy
 msgctxt "CompanyName_03"
 msgid "The Cobras"
 msgstr "Кобры"
 
-#, fuzzy, fuzzy
 msgctxt "CompanyName_04"
 msgid "The Scorpions"
 msgstr "Скорпионы"
 
-#, fuzzy, fuzzy
 msgctxt "CompanyName_05"
 msgid "The Falcons"
 msgstr "Соколы"
 
-#, fuzzy, fuzzy
 msgctxt "CompanyName_06"
 msgid "The Rams"
 msgstr "Бараны"
 
-#, fuzzy, fuzzy
 msgctxt "CompanyName_07"
 msgid "The Leopards"
 msgstr "Леопарды"
 
-#, fuzzy, fuzzy
 msgctxt "CompanyName_08"
 msgid "The Spiders"
 msgstr "Пауки"
 
-#, fuzzy, fuzzy
 msgctxt "CompanyName_09"
 msgid "The Cats"
 msgstr "Кошки"
 
-#, fuzzy, fuzzy
 msgctxt "CompanyName_10"
 msgid "The Hyenas"
 msgstr "Гиены"
 
-#, fuzzy, fuzzy
 msgctxt "Egyptians"
 msgid "Egyptians"
 msgstr "Египтяне"
 
-#, fuzzy, fuzzy
 msgctxt "Ferry_001"
 msgid "Nile Master"
 msgstr "Хозяин Нила"
 
-#, fuzzy, fuzzy
 msgctxt "Ferry_002"
 msgid "Pride of Osiris"
 msgstr "Гордость Осириса"
@@ -301,42 +286,34 @@ msgctxt "Ferry_003"
 msgid "Tefnut Cruiser"
 msgstr "Ковчег Тефнут"
 
-#, fuzzy, fuzzy
 msgctxt "Ferry_004"
 msgid "Barge of Plenty"
 msgstr "Баржа изобилия"
 
-#, fuzzy, fuzzy
 msgctxt "Ferry_005"
 msgid "Bounty of Ptah"
 msgstr "Щедрость Птаха"
 
-#, fuzzy, fuzzy
 msgctxt "Ferry_006"
 msgid "Osiris' Blessing"
 msgstr "Благословение Осириса"
 
-#, fuzzy, fuzzy
 msgctxt "Ferry_007"
 msgid "Ra's Fortune"
-msgstr "Сокровище Ра"
+msgstr "Удача Ра"
 
-#, fuzzy, fuzzy
 msgctxt "Ferry_008"
 msgid "Ptah Smiles"
 msgstr "Улыбка Птаха"
 
-#, fuzzy, fuzzy
 msgctxt "Ferry_009"
 msgid "Bast's Glory"
 msgstr "Слава Баст"
 
-#, fuzzy, fuzzy
 msgctxt "Ferry_010"
 msgid "Seth's Mover"
-msgstr "Колесница Сета"
+msgstr "Погонщик Сета"
 
-#, fuzzy, fuzzy
 msgctxt "Ferry_011"
 msgid "Ahmery's Fig"
 msgstr "Инжир Ахмери"
@@ -346,112 +323,91 @@ msgctxt "Ferry_012"
 msgid "Nile Cruiser"
 msgstr "Нильский паром"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Ferry_013"
 msgid "Big Floater"
 msgstr "Большое плавание"
 
-#, fuzzy, fuzzy
 msgctxt "Ferry_014"
 msgid "Luck of Hapi"
 msgstr "Удача Хапи"
 
-#, fuzzy, fuzzy
 msgctxt "GreatPharaoh"
 msgid "Pharaoh"
 msgstr "Фараон"
 
-#, fuzzy, fuzzy
 msgctxt "Hittites"
 msgid "Hittites"
 msgstr "Хетты"
 
-#, fuzzy, fuzzy
 msgctxt "Hyksos"
 msgid "Hyksos"
 msgstr "Гиксосы"
 
-#, fuzzy, fuzzy
 msgctxt "Kushites"
 msgid "Kushites"
 msgstr "Кушиты"
 
-#, fuzzy, fuzzy
 msgctxt "Libyans"
 msgid "Libyans"
 msgstr "Ливийцы"
 
-#, fuzzy, fuzzy
 msgctxt "Mitani"
 msgid "Mitani"
 msgstr "Митанни"
 
-#, fuzzy, fuzzy
 msgctxt "Nomarch"
 msgid "Nomarch"
 msgstr "Номарх"
 
-#, fuzzy, fuzzy
 msgctxt "Nubians"
 msgid "Nubians"
 msgstr "Нубийцы"
 
-#, fuzzy, fuzzy
 msgctxt "Persians"
 msgid "Persians"
 msgstr "Персы"
 
-#, fuzzy, fuzzy
 msgctxt "Phoenicians"
 msgid "Phoenicians"
 msgstr "Финикийцы"
 
-#, fuzzy, fuzzy
 msgctxt "Romans"
 msgid "Romans"
 msgstr "Римляне"
 
-#, fuzzy, fuzzy
 msgctxt "RoyalGovernor"
 msgid "Royal Governor"
-msgstr "Государственный наместник"
+msgstr "Царский наместник"
 
-#, fuzzy, fuzzy
 msgctxt "RoyalJudge"
 msgid "Royal Judge"
-msgstr "Государственный судья"
+msgstr "Царский судья"
 
-#, fuzzy, fuzzy
 msgctxt "RoyalMayor"
 msgid "Royal Mayor"
-msgstr "Государственный градоначальник"
+msgstr "Царский градоначальник"
 
-#, fuzzy, fuzzy
 msgctxt "RoyalScholar"
 msgid "Royal Scholar"
-msgstr "Государственный ученый"
+msgstr "Царский учёный"
 
-#, fuzzy, fuzzy
 msgctxt "RoyalScribe"
 msgid "Royal Scribe"
-msgstr "Государственный писец"
+msgstr "Царский писец"
 
-#, fuzzy, fuzzy
 msgctxt "SeaPeople"
 msgid "Sea People"
 msgstr "Народы моря"
 
-#, fuzzy, fuzzy
 msgctxt "VillageElder"
 msgid "Village Elder"
 msgstr "Старейшина"
 
-#, fuzzy, fuzzy
 msgctxt "VillageNoble"
 msgid "Village Noble"
 msgstr "Вельможа"
 
-#, fuzzy, fuzzy
 msgctxt "Vizier"
 msgid "Vizier"
 msgstr "Визирь"

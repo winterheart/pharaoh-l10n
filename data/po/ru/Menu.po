@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-17 00:37+0300\n"
+"PO-Revision-Date: 2023-02-17 05:05+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -15,7 +15,6 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
-#, fuzzy, fuzzy
 msgctxt "#AD"
 msgid "AD"
 msgstr "н. э."
@@ -44,7 +43,6 @@ msgctxt "#Autosave"
 msgid "autosave"
 msgstr ""
 
-#, fuzzy, fuzzy
 msgctxt "#BC"
 msgid "BC"
 msgstr "до н. э."
@@ -567,7 +565,6 @@ msgctxt "#June_Short"
 msgid "Jun"
 msgstr "июн."
 
-#, fuzzy, fuzzy
 msgctxt "#KeepPlaying"
 msgid "Keep Governing"
 msgstr "Продолжить правление"
@@ -587,7 +584,7 @@ msgstr ""
 
 msgctxt "#Load_Campaign"
 msgid "Resume Campaign"
-msgstr ""
+msgstr "Продолжить кампанию"
 
 #, fuzzy, fuzzy
 msgctxt "#Loading_Saved_Game"
@@ -616,12 +613,11 @@ msgstr "мая"
 
 msgctxt "#MissionCompleted"
 msgid "Mission completed"
-msgstr ""
+msgstr "Миссия завершена"
 
-#, fuzzy, fuzzy
 msgctxt "#NextMission"
 msgid "Next Mission"
-msgstr "Следующее задание"
+msgstr "Следующая миссия"
 
 msgctxt "#Notifications"
 msgid "Notifications"
@@ -908,7 +904,6 @@ msgctxt "#options_graphics"
 msgid "Graphics"
 msgstr "Графика"
 
-#, fuzzy, fuzzy
 msgctxt "#options_keybinding"
 msgid "Keybinding"
 msgstr "Привязка клавиш"

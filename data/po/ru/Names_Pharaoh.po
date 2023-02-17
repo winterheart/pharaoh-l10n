@@ -4,162 +4,133 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-16 20:36+0300\n"
+"PO-Revision-Date: 2023-02-17 05:01+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_1"
 msgid "Amenemhet I"
 msgstr "Аменемхет I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_10"
 msgid "Djet"
 msgstr "Уаджи"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_100"
 msgid "Taharka"
 msgstr "Тахарка"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_101"
 msgid "Tantamani"
 msgstr "Танутамон"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_102"
 msgid "Nepherites I"
 msgstr "Неферит I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_103"
 msgid "Psammuthis"
 msgstr "Псаммут"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_104"
 msgid "Nefaarud I"
 msgstr "Неферит I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_105"
 msgid "Hakor"
 msgstr "Ахорис"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_106"
 msgid "Naktnebef"
 msgstr "Нектанеб"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_107"
 msgid "Alexander the Great"
 msgstr "Александр Великий"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_108"
 msgid "Philip Arrhidaeus"
 msgstr "Филипп III Арридей"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_109"
 msgid "Alexander IV"
 msgstr "Александр IV"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_11"
 msgid "Djoser"
 msgstr "Джосер"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_110"
 msgid "Ptolemy I"
 msgstr "Птолемей I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_111"
 msgid "Ptolemy II"
 msgstr "Птолемей II"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_112"
 msgid "Ptolemy III"
 msgstr "Птолемей III"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_113"
 msgid "Ptolemy IV"
 msgstr "Птолемей IV"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_114"
 msgid "Ptolemy V"
 msgstr "Птолемей V"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_115"
 msgid "Ptolemy VI"
 msgstr "Птолемей VI"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_116"
 msgid "Ptolemy VII"
 msgstr "Птолемей VII"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_117"
 msgid "Ptolemy VIII"
 msgstr "Птолемей VIII"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_118"
 msgid "Ptolemy IX"
 msgstr "Птолемей IX"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_119"
 msgid "Ptolemy X"
 msgstr "Птолемей X"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_12"
 msgid "Hetepsekhemwy"
 msgstr "Хотепсехемуи"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_120"
 msgid "Ptolemy XI"
 msgstr "Птолемей XI"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_121"
 msgid "Ptolemy XII"
 msgstr "Птолемей XII"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_122"
 msgid "Queen Bernice IV"
 msgstr "Царица Береника IV"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_123"
 msgid "Ptolemy XIII"
 msgstr "Птолемей XIII"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_124"
 msgid "Cleopatra VII"
 msgstr "Клеопатра VII"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_125"
 msgid "Ptolemy XV"
 msgstr "Птолемей XV"
@@ -180,7 +151,6 @@ msgctxt "Pharaoh_129"
 msgid "Achoris"
 msgstr "Ахорис"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_13"
 msgid "Hor"
 msgstr "Хор"
@@ -189,472 +159,378 @@ msgctxt "Pharaoh_130"
 msgid "None"
 msgstr "Никого"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_14"
 msgid "Hor-Aha"
 msgstr "Хор Аха"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_15"
 msgid "Huni"
 msgstr "Хуни"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_16"
 msgid "Inyotef I"
 msgstr "Иниотеф I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_17"
 msgid "Inyotef II"
 msgstr "Иниотеф II"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_18"
 msgid "Inyotef III"
 msgstr "Иниотеф III"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_19"
 msgid "Khaba"
 msgstr "Хаба"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_2"
 msgid "Amenemhet II"
 msgstr "Аменемхет II"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_20"
 msgid "Khasekhemwy"
 msgstr "Хасехемуи"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_21"
 msgid "Khendjer"
 msgstr "Хенджер"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_22"
 msgid "Khephren"
 msgstr "Хефрен"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_23"
 msgid "Khety"
 msgstr "Хети"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_24"
 msgid "Khufu"
 msgstr "Хеопс"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_25"
 msgid "Menes"
 msgstr "Менес"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_26"
 msgid "Menkauhor"
 msgstr "Менкаухор"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_27"
 msgid "Menkaura"
 msgstr "Микерин"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_28"
 msgid "Mentuhotep I"
 msgstr "Ментухотеп I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_29"
 msgid "Mentuhotep II"
 msgstr "Ментухотеп II"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_3"
 msgid "Amenemhet III"
 msgstr "Аменемхет III"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_30"
 msgid "Mentuhotep III"
 msgstr "Ментухотеп III"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_31"
 msgid "Mentuhotep IV"
 msgstr "Ментухотеп IV"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_32"
 msgid "Merenra"
 msgstr "Меренра"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_33"
 msgid "Queen Merneith"
 msgstr "Царица Мернейт"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_34"
 msgid "Narmer"
 msgstr "Нармер"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_35"
 msgid "Nebka"
 msgstr "Небка"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_36"
 msgid "Neferhotep I"
 msgstr "Неферхотеп I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_37"
 msgid "Neferirkara"
 msgstr "Нефериркара"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_38"
 msgid "Neuserra"
 msgstr "Ниусерра"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_39"
 msgid "Ninetjer"
 msgstr "Нинечер"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_4"
 msgid "Amenemhet IV"
 msgstr "Аменемхет IV"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_40"
 msgid "Nitiqret"
 msgstr "Нейтикерт"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_41"
 msgid "Pepi I"
 msgstr "Пепи I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_42"
 msgid "Pepi II"
 msgstr "Пепи II"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_43"
 msgid "Peribsen"
 msgstr "Перибсен"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_44"
 msgid "Qa'a"
 msgstr "Каа"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_45"
 msgid "Raneferef"
 msgstr "Неферефра"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_46"
 msgid "Reneb"
 msgstr "Ранеб"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_47"
 msgid "Sahura"
 msgstr "Сахура"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_48"
 msgid "Sekhemkhet"
 msgstr "Сехемхет"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_49"
 msgid "Semerkhet"
 msgstr "Семерхет"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_5"
 msgid "Anedjib"
 msgstr "Аджиб"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_50"
 msgid "Sened"
 msgstr "Сенед"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_51"
 msgid "Senusret I"
 msgstr "Сенусерт I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_52"
 msgid "Senusret II"
 msgstr "Сенусерт II"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_53"
 msgid "Senusret III"
 msgstr "Сенусерт III"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_54"
 msgid "Shepseskaf"
 msgstr "Шепсескаф"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_55"
 msgid "Shepseskara"
 msgstr "Шепсескара"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_56"
 msgid "Snofru"
 msgstr "Снофру"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_57"
 msgid "Sobekhotep III"
 msgstr "Себекхотеп III"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_58"
 msgid "Queen Sobknefru"
 msgstr "Царица Нефрусебек"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_59"
 msgid "Teti"
 msgstr "Тети"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_6"
 msgid "Den"
 msgstr "Ден"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_60"
 msgid "Unas"
 msgstr "Унас"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_61"
 msgid "Userkaf"
 msgstr "Усеркаф"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_62"
 msgid "Userkara"
 msgstr "Усеркара"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_63"
 msgid "Weneg"
 msgstr "Венег"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_64"
 msgid "Ahmose I"
 msgstr "Яхмос I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_65"
 msgid "Amenhotep I"
 msgstr "Аменхотеп I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_66"
 msgid "Thutmose I"
 msgstr "Тутмос I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_67"
 msgid "Thutmose II"
 msgstr "Тутмос II"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_68"
 msgid "Hatshepsut"
 msgstr "Хатшепсут"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_69"
 msgid "Thutmose III"
 msgstr "Тутмос III"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_7"
 msgid "Djedefra"
 msgstr "Джедефра"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_70"
 msgid "Amenhotep II"
 msgstr "Аменхотеп II"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_71"
 msgid "Thutmose IV"
 msgstr "Тутмос IV"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_72"
 msgid "Amenhotep III"
 msgstr "Аменхотеп III"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_73"
 msgid "Akhenaten"
 msgstr "Эхнатон"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_74"
 msgid "Neferneferuaten"
 msgstr "Нефернефруатон"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_75"
 msgid "Smenkhkare"
 msgstr "Сменхкара"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_76"
 msgid "Tutankhamun"
 msgstr "Тутанхамон"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_77"
 msgid "Ay"
 msgstr "Эйе"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_78"
 msgid "Horemheb"
 msgstr "Хоремхеб"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_79"
 msgid "Ramses I"
 msgstr "Рамсес I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_8"
 msgid "Djedkara Izezi"
 msgstr "Джедкара Исеси"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_80"
 msgid "Seti I"
 msgstr "Сети I"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_81"
 msgid "Ramses II"
 msgstr "Рамсес II"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_82"
 msgid "Merneptah"
 msgstr "Мернептах"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_83"
 msgid "Amenmes"
 msgstr "Аменмес"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_84"
 msgid "Seti II"
 msgstr "Сети II"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_85"
 msgid "Siptah"
 msgstr "Сиптах"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_86"
 msgid "Queen Twosret"
 msgstr "Царица Таусерт"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_87"
 msgid "Setnakhte"
 msgstr "Сетнахт"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_88"
 msgid "Ramses III"
 msgstr "Рамсес III"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_89"
 msgid "Ramses IV"
 msgstr "Рамсес IV"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_9"
 msgid "Djer"
 msgstr "Джер"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_90"
 msgid "Ramses V"
 msgstr "Рамсес V"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_91"
 msgid "Ramses VI"
 msgstr "Рамсес VI"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_92"
 msgid "Ramses VII"
 msgstr "Рамсес VII"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_93"
 msgid "Ramses VIII"
 msgstr "Рамсес VIII"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_94"
 msgid "Ramses IX"
 msgstr "Рамсес IX"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_95"
 msgid "Ramses X"
 msgstr "Рамсес X"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_96"
 msgid "Ramses XI"
 msgstr "Рамсес XI"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_97"
 msgid "Piye"
 msgstr "Пианхи"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_98"
 msgid "Shabaka"
 msgstr "Шабака"
 
-#, fuzzy, fuzzy
 msgctxt "Pharaoh_99"
 msgid "Shebitku"
 msgstr "Шабатака"

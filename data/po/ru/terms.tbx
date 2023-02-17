@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
-<martif type="TBX" xml:lang="en_US">
+<martif xml:lang="en_US" type="TBX">
     <text>
         <body>
         <termEntry id="azamat_h._hackimov-0">
@@ -1320,6 +1320,78 @@
         <langSet xml:lang="ru">
           <tig>
             <term>долина царей</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-110">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>rating</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>репутация</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-111">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>tefnut</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>тефнут</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-112">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>middle kingdom</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>среднее царство</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-113">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>quarries</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>карьеры</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-114">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>stonemasons</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>каменотёсы</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-115">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>new kingdom</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>новое царство</term>
           </tig>
         </langSet>
       </termEntry>
