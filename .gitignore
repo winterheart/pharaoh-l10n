@@ -5,3 +5,5 @@ __pycache__
 bin/
 obj/
 external
+pharaoh-l10n.assetbundle
+unity/pharaoh-l10n-assets/Assets/Resources/translation.csv
