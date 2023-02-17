@@ -1263,6 +1263,66 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="azamat_h._hackimov-105">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>nilometer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>нилометр</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-106">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>carpenter</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>плотник</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-107">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>caesareum</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>цезариум</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-108">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>storage yard</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>склад</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-109">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>valley of the kings</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>долина царей</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>

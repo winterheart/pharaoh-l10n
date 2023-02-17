@@ -1,85 +1,73 @@
+#
 # Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-16 19:29+0300\n"
+"PO-Revision-Date: 2023-02-17 03:06+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
-#, fuzzy, fuzzy
 msgctxt "#Abedju"
 msgid "Abedju"
 msgstr "Абджу"
 
-#, fuzzy, fuzzy
 msgctxt "#Abu"
 msgid "Abu"
 msgstr "Абу"
 
-#, fuzzy, fuzzy
 msgctxt "#AbuSimbel"
 msgid "Abu Simbel"
 msgstr "Абу-Симбел"
 
-#, fuzzy, fuzzy
 msgctxt "#Actium"
 msgid "Actium"
 msgstr "Акциум"
 
-#, fuzzy, fuzzy
 msgctxt "#Alexandria"
 msgid "Alexandria"
 msgstr "Александрия"
 
-#, fuzzy, fuzzy
 msgctxt "#Athens"
 msgid "Athens"
 msgstr "Афины"
 
-#, fuzzy, fuzzy
 msgctxt "#BahariyaOasis"
 msgid "Bahariya Oasis"
 msgstr "Бахария"
 
-#, fuzzy, fuzzy
 msgctxt "#Baki"
 msgid "Baki"
 msgstr "Баки"
 
-#, fuzzy, fuzzy
 msgctxt "#Behdet"
 msgid "Behdet"
 msgstr "Бехдет"
 
-#, fuzzy, fuzzy
 msgctxt "#Bubastis"
 msgid "Bubastis"
 msgstr "Бубастис"
 
-#, fuzzy, fuzzy
 msgctxt "#Buhen"
 msgid "Buhen"
 msgstr "Бухен"
 
-#, fuzzy, fuzzy
 msgctxt "#Byblos"
 msgid "Byblos"
 msgstr "Библ"
 
-#, fuzzy, fuzzy
 msgctxt "#Canaan"
 msgid "CANAAN"
 msgstr "ХАНААН"
 
-#, fuzzy, fuzzy
 msgctxt "#CapturedCity"
 msgid "A captured city"
 msgstr "Захваченный город"
@@ -119,42 +107,34 @@ msgctxt "#CostToOpen"
 msgid "Cost to open"
 msgstr "Цена открытия"
 
-#, fuzzy, fuzzy
 msgctxt "#Crete"
 msgid "CRETE"
 msgstr "КРИТ"
 
-#, fuzzy, fuzzy
 msgctxt "#Cyprus"
 msgid "CYPRUS"
 msgstr "КИПР"
 
-#, fuzzy, fuzzy
 msgctxt "#Dahshur"
 msgid "Dahshur"
 msgstr "Дахшур"
 
-#, fuzzy, fuzzy
 msgctxt "#DakhlaOasis"
 msgid "Dakhla Oasis"
 msgstr "Дахла"
 
-#, fuzzy, fuzzy
 msgctxt "#Deir el-Medina"
 msgid "Deir el-Medina"
 msgstr "Дейр-эль-Медина"
 
-#, fuzzy, fuzzy
 msgctxt "#Delta"
 msgid "DELTA"
 msgstr "ДЕЛЬТА"
 
-#, fuzzy, fuzzy
 msgctxt "#DistantCity"
 msgid "A distant city"
 msgstr "Далёкий город"
 
-#, fuzzy, fuzzy
 msgctxt "#Djedu"
 msgid "Djedu"
 msgstr "Джеду"
@@ -164,22 +144,18 @@ msgctxt "#Dunqul Oasis"
 msgid "Dunqul Oasis"
 msgstr "Оазис Дункул"
 
-#, fuzzy, fuzzy
 msgctxt "#EasternAfrica"
 msgid "EASTERN AFRICA"
 msgstr "ВОСТОЧНАЯ АФРИКА"
 
-#, fuzzy, fuzzy
 msgctxt "#EasternDesert"
 msgid "EASTERN DESERT"
 msgstr "ВОСТОЧНАЯ ПУСТЫНЯ"
 
-#, fuzzy, fuzzy
 msgctxt "#EgyptianCity"
 msgid "An Egyptian city"
 msgstr "Египетский город"
 
-#, fuzzy, fuzzy
 msgctxt "#EgyptianCity_Trade"
 msgid "Egyptian Trade City"
 msgstr "Египетский торговый город"
@@ -189,7 +165,6 @@ msgctxt "#Enkomi"
 msgid "Enkomi"
 msgstr "Энгоми"
 
-#, fuzzy, fuzzy
 msgctxt "#Farafra Oasis"
 msgid "Farafra Oasis"
 msgstr "Фарафра"
@@ -199,27 +174,22 @@ msgctxt "#Fayuum"
 msgid "FAYUUM"
 msgstr "ЭЛЬ-ФАЙЮМ"
 
-#, fuzzy, fuzzy
 msgctxt "#ForeignCIty"
 msgid "Foreign City"
 msgstr "Чужеземный город"
 
-#, fuzzy, fuzzy
 msgctxt "#ForeignCIty_Trade"
 msgid "Foreign Trade City"
 msgstr "Чужеземный торговый город"
 
-#, fuzzy, fuzzy
 msgctxt "#Gaza"
 msgid "Gaza"
 msgstr "Газа"
 
-#, fuzzy, fuzzy
 msgctxt "#Greece"
 msgid "GREECE"
 msgstr "ГРЕЦИЯ"
 
-#, fuzzy, fuzzy
 msgctxt "#Heh"
 msgid "Heh"
 msgstr "Хех"
@@ -239,7 +209,6 @@ msgctxt "#Iken"
 msgid "Iken"
 msgstr "Икен"
 
-#, fuzzy, fuzzy
 msgctxt "#Itjtawy"
 msgid "Itjtawy"
 msgstr "Иттауи"
@@ -249,7 +218,6 @@ msgctxt "#Iunet"
 msgid "Iunet"
 msgstr "Иунет"
 
-#, fuzzy, fuzzy
 msgctxt "#Jericho"
 msgid "Jericho"
 msgstr "Иерихон"
@@ -259,42 +227,34 @@ msgctxt "#Kebet"
 msgid "Kebet"
 msgstr "Кебет"
 
-#, fuzzy, fuzzy
 msgctxt "#Kerma"
 msgid "Kerma"
 msgstr "Керма"
 
-#, fuzzy, fuzzy
 msgctxt "#Kharga Oasis"
 msgid "Kharga Oasis"
 msgstr "Харга"
 
-#, fuzzy, fuzzy
 msgctxt "#Khmun"
 msgid "Khmun"
 msgstr "Шмун"
 
-#, fuzzy, fuzzy
 msgctxt "#Knossos"
 msgid "Knossos"
 msgstr "Кносс"
 
-#, fuzzy, fuzzy
 msgctxt "#Kyrene"
 msgid "Kyrene"
 msgstr "Кирена"
 
-#, fuzzy, fuzzy
 msgctxt "#Lebanon"
 msgid "LEBANON"
 msgstr "ЛИВАН"
 
-#, fuzzy, fuzzy
 msgctxt "#Libya"
 msgid "LIBYA"
 msgstr "ЛИВИЯ"
 
-#, fuzzy, fuzzy
 msgctxt "#LowerEgypt"
 msgid "LOWER EGYPT"
 msgstr "НИЖНИЙ ЕГИПЕТ"
@@ -304,12 +264,10 @@ msgctxt "#Maritis"
 msgid "Maritis"
 msgstr "Маритис"
 
-#, fuzzy, fuzzy
 msgctxt "#Meidum"
 msgid "Meidum"
 msgstr "Медум"
 
-#, fuzzy, fuzzy
 msgctxt "#Men-nefer"
 msgid "Men-nefer"
 msgstr "Мен-нефер"
@@ -324,12 +282,10 @@ msgctxt "#Migdol"
 msgid "Migdol"
 msgstr "Мигдол"
 
-#, fuzzy, fuzzy
 msgctxt "#Mycenae"
 msgid "Mycenae"
 msgstr "Микены"
 
-#, fuzzy, fuzzy
 msgctxt "#Nekhen"
 msgid "Nekhen"
 msgstr "Нехен"
@@ -339,12 +295,10 @@ msgctxt "#NorthDashur"
 msgid "North Dashur"
 msgstr "Северный Дашур"
 
-#, fuzzy, fuzzy
 msgctxt "#Nubia"
 msgid "NUBIA"
 msgstr "НУБИЯ"
 
-#, fuzzy, fuzzy
 msgctxt "#Nubt"
 msgid "Nubt"
 msgstr "Нубет"
@@ -354,7 +308,6 @@ msgctxt "#On"
 msgid "On"
 msgstr "Он"
 
-#, fuzzy, fuzzy
 msgctxt "#OpenCommercialRoad"
 msgid "Open trade route"
 msgstr "Открыть торговый путь"
@@ -379,12 +332,10 @@ msgctxt "#OpenWaterRoute"
 msgid "{0}<sprite name=\"Deben\">to open water trade route"
 msgstr "{0} <sprite name=\"Deben\"> за открытие водного торгового маршрута"
 
-#, fuzzy, fuzzy
 msgctxt "#OurCity"
 msgid "Our city!"
 msgstr "Наш город!"
 
-#, fuzzy, fuzzy
 msgctxt "#Palestine"
 msgid "PALESTINE"
 msgstr "ПАЛЕСТИНА"
@@ -409,17 +360,14 @@ msgctxt "#Pi-Yer"
 msgid "Pi-Yer"
 msgstr "Пи-Ер"
 
-#, fuzzy, fuzzy
 msgctxt "#Piramesse"
 msgid "Piramesse"
 msgstr "Пер-Рамсес"
 
-#, fuzzy, fuzzy
 msgctxt "#Pwenet"
 msgid "Pwenet"
 msgstr "Пунт"
 
-#, fuzzy, fuzzy
 msgctxt "#Qadesh"
 msgid "Qadesh"
 msgstr "Кадеш"
@@ -429,7 +377,6 @@ msgctxt "#Quantity"
 msgid "{0} of {1}"
 msgstr "{1}: {0}"
 
-#, fuzzy, fuzzy
 msgctxt "#Rome"
 msgid "Rome"
 msgstr "Рим"
@@ -444,7 +391,6 @@ msgctxt "#Rowarty"
 msgid "Rowarty"
 msgstr "Роварти"
 
-#, fuzzy, fuzzy
 msgctxt "#Saqqara"
 msgid "Saqqara"
 msgstr "Саккара"
@@ -474,12 +420,10 @@ msgctxt "#Shaat"
 msgid "Shaat"
 msgstr "Шаат"
 
-#, fuzzy, fuzzy
 msgctxt "#Sharuhen"
 msgid "Sharuhen"
 msgstr "Шарухен"
 
-#, fuzzy, fuzzy
 msgctxt "#Sinai"
 msgid "SINAI"
 msgstr "СИНАЙ"
@@ -494,37 +438,31 @@ msgctxt "#SouthDashur"
 msgid "South Dashur"
 msgstr "Южный Дашур"
 
-#, fuzzy, fuzzy
 msgctxt "#Sumur"
 msgid "Sumur"
 msgstr "Симира"
 
-#, fuzzy, fuzzy
 msgctxt "#Syria"
 msgid "SYRIA"
 msgstr "СИРИЯ"
 
-#, fuzzy, fuzzy
 msgctxt "#Tanis"
 msgid "Tanis"
 msgstr "Танис"
 
-#, fuzzy, fuzzy
 msgctxt "#Thinis"
 msgid "Thinis"
 msgstr "Тинис"
 
-#, fuzzy, fuzzy
 msgctxt "#Timna"
 msgid "Timna"
 msgstr "Тимна"
 
-#, fuzzy, fuzzy
 msgctxt "#Toshka"
 msgid "Toshka"
 msgstr "Тошка"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#TradeRouteClose"
 msgid "trade route shuts down"
 msgstr "торговый маршрут закрыт"
@@ -547,27 +485,22 @@ msgctxt "#TradeRouteOpen"
 msgid "trade route now available"
 msgstr "доступен торговый маршрут"
 
-#, fuzzy, fuzzy
 msgctxt "#Tyre"
 msgid "Tyre"
 msgstr "Тир"
 
-#, fuzzy, fuzzy
 msgctxt "#Undersiege"
 msgid "trade city under siege"
 msgstr "торговый город в осаде"
 
-#, fuzzy, fuzzy
 msgctxt "#UpperEgypt"
 msgid "UPPER EGYPT"
 msgstr "ВЕРХНИЙ ЕГИПЕТ"
 
-#, fuzzy, fuzzy
 msgctxt "#Waset"
 msgid "Waset"
 msgstr "Уасет"
 
-#, fuzzy, fuzzy
 msgctxt "#WesternDesert"
 msgid "WESTERN DESERT"
 msgstr "ЗАПАДНАЯ ПУСТЫНЯ"
