@@ -46,11 +46,7 @@ namespace Pharaoh_L10n
         {
             LocalizationManager.UpdateSources();
             var translation_csv = m_AssetBundle.LoadAsset<TextAsset>("translation");
-            // Remove garbage
-            // LocalizationManager.Sources[0].mLanguages.RemoveRange(9, 7);
             LocalizationManager.Sources[0].Import_CSV(string.Empty, translation_csv.text, eSpreadsheetUpdateMode.Replace, ';');
-            // Need to manually define code
-            // LocalizationManager.Sources[0].mLanguages[9].Code = "ru";
             LocalizationManager.LocalizeAll(true);
             LoggerInstance.Msg("Updated translation");
         }
@@ -58,12 +54,9 @@ namespace Pharaoh_L10n
         private void PatchHarmony()
         {
             HarmonyInstance.PatchAll(typeof(OptionManager));
-
             LoggerInstance.Msg("Harmony patched");
         }
     }
-
-
 
     [HarmonyPatch(typeof(OptionManager))]
     [HarmonyPatch("OnEnable")]
@@ -71,35 +64,24 @@ namespace Pharaoh_L10n
     {
         static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
         {
-            var innerTypes = typeof(OptionManager).GetNestedTypes(AccessTools.all); //; //.GetNestedTypes(AccessTools.all).Where(innerType => innerType.IsDefined(typeof(CompilerGeneratedAttribute)));
-            foreach (var inner in innerTypes)
-            {
-                foreach (var method in inner.GetFields())
-                {
-                    MelonLogger.Msg($"Found inner: {inner} : {method}");
-                }
-            }
-
-            //                .Where(innerType => innerType.IsDefined(typeof(CompilerGeneratedAttribute)));
             var codes = new List<CodeInstruction>(instructions);
-            // var info = AccessTools.Field(typeof(OptionManager), "m_languageSelector");
-
             foreach (var code in codes)
             {
-                //MelonLogger.Msg($"Found opcode: {code.opcode.Name} : {code.operand}");
+                if (code.opcode == OpCodes.Ldftn && (code.operand as MethodInfo).Name == "<OnEnable>b__79_0")
+                {
+                    MelonLogger.Msg($"Found opcode: {code.opcode.Name} : {(code.operand as MethodInfo).Name}");
+                    code.operand = AccessTools.Method(typeof(Utils), "IsNotNote");
+                }
             }
-
-            //var startIndex = codes.FindIndex(ins => ins.opcode == OpCodes.Ldfld && ins.operand.Equals(info));
-            //codes[startIndex + 2].opcode = OpCodes.Ldc_I4_S;
-            //codes[startIndex + 2].operand = 9;
-
-            // ins.opcode == OpCodes.Ldstr &&
-            //var startIndex = codes.FindIndex(ins => ins.operand.Equals("Russian"));
-            // {codes[startIndex].opcode.Name}
-            //MelonLogger.Msg($"Found opcode: {codes[startIndex].operand}");
-            //codes[startIndex].operand = "(Note)";
-            IEnumerable<string> collection = LocalizationManager.GetAllLanguages().Where<string>((Func<string, bool>)(l => l != "(Note)")).Select<string, string>((Func<string, string>)(l => "Menu/Language/#" + l));
             return codes;
+        }
+    }
+
+    public class Utils
+    {
+        public static bool IsNotNote(string l)
+        {
+            return (l != "(Note)");
         }
     }
 }
