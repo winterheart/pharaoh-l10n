@@ -1395,6 +1395,606 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="azamat_h._hackimov-116">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>dentist</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>дантист</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-117">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>dock</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>пристань</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-118">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>chariot</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>колесница</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-119">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>composite bows</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>составные луки</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-120">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>debens</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>дебены</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-121">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ivory</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>слоновая кость</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-122">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>lamp</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>лампа</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-123">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>leopard skins</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>леопардовые шкуры</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-124">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>plain stone</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>камень</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-125">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>pottery</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>посуда</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-126">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>reeds</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>тростник</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-127">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>shields</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>щиты</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-128">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>weapons</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>оружие</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-129">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>incense</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>благовония</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-130">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>hides</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>шкуры</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-131">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>perwadjyt</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>пер-уаджит</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-132">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>narmer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>нармер</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-133">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>hor-aha</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>хор аха</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-134">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>men-nefer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>мен-нефер</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-135">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>hor-aha</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>хор аха</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-136">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>roadblock</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>заграждение</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-137">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>walker</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>ходок</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-138">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>physicians</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>лекари</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-139">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>predynastic period </term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>додинастический период</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-140">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>bricklayer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>каменщик</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-142">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>stone mason</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>каменотёс</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-143">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>charioteer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>колесничий</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-144">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>kingdom  road</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>Царский тракт</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-145">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>hunting lodge</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>охотничья хижина</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-146">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>hygiene</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>гигиена</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-147">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>meager shanty</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>скромная лачуга</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-148">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>crude hut</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>грубая хижина</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-149">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>sturdy hut</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>крепкая хижина</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-150">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>common shanty</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>обычная лачуга</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-151">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>rough cottage</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>примитивный дом</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-152">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ordinary cottage</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>обычный дом</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-153">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>modest homestead</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>скромная усадьба</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-154">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>spacious homestead</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>просторная усадьба</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-155">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>modest apartment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>скромные апартаменты</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-156">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>spacious apartment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>просторные апартаменты</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-157">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>common residence</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>обычная резиденция</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-158">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>spacious residence</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>просторная резиденция</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-159">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>elegant residence</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>элегантная резиденция</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-160">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>fancy residence</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>богатая резиденция</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-161">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>common manor</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>обычное поместье</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-162">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>spacious manor</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>просторное поместье</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-163">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>elegant manor</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>элегантное поместье</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-164">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>stately manor</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>величественное поместье</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-165">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>modest estate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>скромное имение</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-166">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>palatial estate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>роскошное имение</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>

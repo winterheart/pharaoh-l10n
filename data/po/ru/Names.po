@@ -4,14 +4,15 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-17 11:17+0300\n"
+"PO-Revision-Date: 2023-02-18 17:00+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 msgctxt ""
@@ -26,7 +27,6 @@ msgctxt "#Barley"
 msgid "Barley"
 msgstr "Ячмень"
 
-#, fuzzy
 msgctxt "#Bedouin"
 msgid "Bedouin"
 msgstr "Бедуин"
@@ -53,7 +53,7 @@ msgstr "Глина"
 
 msgctxt "#CompositeBows"
 msgid "Composite Bows"
-msgstr ""
+msgstr "Составные луки"
 
 msgctxt "#Copper"
 msgid "Copper"
@@ -61,7 +61,7 @@ msgstr "Медь"
 
 msgctxt "#Deben"
 msgid "Debens"
-msgstr ""
+msgstr "Дебены"
 
 msgctxt "#Ebony"
 msgid "Ebony"
@@ -110,15 +110,15 @@ msgstr "Хна"
 
 msgctxt "#Hides"
 msgid "Hides"
-msgstr ""
+msgstr "Шкуры"
 
 msgctxt "#Incense"
 msgid "Incense"
-msgstr ""
+msgstr "Благовония"
 
 msgctxt "#Ivory"
 msgid "Ivory"
-msgstr ""
+msgstr "Слоновая кость"
 
 msgctxt "#Jewelry"
 msgid "Jewelry"
@@ -126,11 +126,11 @@ msgstr "Драгоценности"
 
 msgctxt "#Lamp"
 msgid "Lamp"
-msgstr ""
+msgstr "Лампа"
 
 msgctxt "#LeopardSkins"
 msgid "Leopard Skins"
-msgstr ""
+msgstr "Леопардовые шкуры"
 
 msgctxt "#Lettuce"
 msgid "Lettuce"
@@ -158,7 +158,7 @@ msgstr "Оливковое масло"
 
 msgctxt "#Paint"
 msgid "Paint"
-msgstr ""
+msgstr "Краска"
 
 msgctxt "#Papyrus"
 msgid "Papyrus"
@@ -170,7 +170,7 @@ msgstr ""
 
 msgctxt "#Plainstone"
 msgid "Plain Stone"
-msgstr ""
+msgstr "Камень"
 
 msgctxt "#Pomegranate"
 msgid "Pomegranate"
@@ -178,11 +178,11 @@ msgstr "Гранат"
 
 msgctxt "#Pottery"
 msgid "Pottery"
-msgstr ""
+msgstr "Посуда"
 
 msgctxt "#Reeds"
 msgid "Reeds"
-msgstr ""
+msgstr "Тростник"
 
 msgctxt "#Sandstone"
 msgid "Sandstone"
@@ -190,7 +190,7 @@ msgstr "Песчаник"
 
 msgctxt "#Shields"
 msgid "Shields"
-msgstr ""
+msgstr "Щиты"
 
 msgctxt "#Straw"
 msgid "Straw"
@@ -280,10 +280,9 @@ msgctxt "Ferry_002"
 msgid "Pride of Osiris"
 msgstr "Гордость Осириса"
 
-#, fuzzy
 msgctxt "Ferry_003"
 msgid "Tefnut Cruiser"
-msgstr "Ковчег Тефнут"
+msgstr "Ладья Тефнута"
 
 msgctxt "Ferry_004"
 msgid "Barge of Plenty"
@@ -317,15 +316,13 @@ msgctxt "Ferry_011"
 msgid "Ahmery's Fig"
 msgstr "Инжир Ахмери"
 
-#, fuzzy
 msgctxt "Ferry_012"
 msgid "Nile Cruiser"
-msgstr "Нильский паром"
+msgstr "Нильская ладья"
 
-#, fuzzy
 msgctxt "Ferry_013"
 msgid "Big Floater"
-msgstr "Большое плавание"
+msgstr "Большой поплавок"
 
 msgctxt "Ferry_014"
 msgid "Luck of Hapi"
@@ -411,2787 +408,2230 @@ msgctxt "Vizier"
 msgid "Vizier"
 msgstr "Визирь"
 
-#, fuzzy
 msgctxt "Walker_001"
 msgid "Sutymose"
 msgstr "Сутимос"
 
-#, fuzzy
 msgctxt "Walker_002"
 msgid "Pamu"
 msgstr "Паму"
 
-#, fuzzy
 msgctxt "Walker_003"
 msgid "Shabaka"
 msgstr "Шабака"
 
-#, fuzzy
 msgctxt "Walker_004"
 msgid "Wahka"
 msgstr "Вахка"
 
-#, fuzzy
 msgctxt "Walker_005"
 msgid "Jarha"
 msgstr "Джарха"
 
-#, fuzzy
 msgctxt "Walker_006"
 msgid "Bakenmut"
 msgstr "Бакенмут"
 
-#, fuzzy
 msgctxt "Walker_007"
 msgid "Wepwawetmose"
 msgstr "Вепваветмос"
 
-#, fuzzy
 msgctxt "Walker_008"
 msgid "Wahankh"
 msgstr "Ваханх"
 
-#, fuzzy
 msgctxt "Walker_009"
 msgid "Ankhnefer"
 msgstr "Анхнефер"
 
-#, fuzzy
 msgctxt "Walker_010"
 msgid "Horwebbefer"
 msgstr "Хорвеббефер"
 
-#, fuzzy
 msgctxt "Walker_011"
 msgid "Horapollo"
 msgstr "Хораполло"
 
-#, fuzzy
 msgctxt "Walker_012"
 msgid "Kaka"
 msgstr "Кика"
 
-#, fuzzy
 msgctxt "Walker_013"
 msgid "Khensthoth"
 msgstr "Хенстот"
 
-#, fuzzy
 msgctxt "Walker_014"
 msgid "Kha'y"
 msgstr "Хайи"
 
-#, fuzzy
 msgctxt "Walker_015"
 msgid "Herenamenpenaef"
 msgstr "Херенаменпенеф"
 
-#, fuzzy
 msgctxt "Walker_016"
 msgid "Narmer"
 msgstr "Нармер"
 
-#, fuzzy
 msgctxt "Walker_017"
 msgid "Nebitka"
 msgstr "Небитка"
 
-#, fuzzy
 msgctxt "Walker_018"
 msgid "Nebmaatre"
 msgstr "Небмаатр"
 
-#, fuzzy
 msgctxt "Walker_019"
 msgid "Naga-ed-der"
 msgstr "Нага-эд-дер"
 
-#, fuzzy
 msgctxt "Walker_020"
 msgid "Menmire"
 msgstr "Менмир"
 
-#, fuzzy
 msgctxt "Walker_021"
 msgid "Amenmose"
 msgstr "Аменмос"
 
-#, fuzzy
 msgctxt "Walker_022"
 msgid "Addaya"
 msgstr "Аддайя"
 
-#, fuzzy
 msgctxt "Walker_023"
 msgid "Ankhsheshonq"
 msgstr "Анхшешнок"
 
-#, fuzzy
 msgctxt "Walker_024"
 msgid "Djedptahefankh"
 msgstr "Джедфахефанх"
 
-#, fuzzy
 msgctxt "Walker_025"
 msgid "Amenhirkopshef"
 msgstr "Аменхиркопшеф"
 
-#, fuzzy
 msgctxt "Walker_026"
 msgid "Ameneheb"
 msgstr "Аменехеб"
 
-#, fuzzy
 msgctxt "Walker_027"
 msgid "Apophis"
 msgstr "Апофис"
 
-#, fuzzy
 msgctxt "Walker_028"
 msgid "Bakenkhonsu"
 msgstr "Бакенхонсу"
 
-#, fuzzy
 msgctxt "Walker_029"
 msgid "Deniuenkhons"
 msgstr "Дениуэнхонс"
 
-#, fuzzy
 msgctxt "Walker_030"
 msgid "Heqamaatre"
 msgstr "Хекаммаатр"
 
-#, fuzzy
 msgctxt "Walker_031"
 msgid "Horemheb"
 msgstr "Хоремхеб"
 
-#, fuzzy
 msgctxt "Walker_032"
 msgid "Hornedjitef"
 msgstr "Хорнеджитеф"
 
-#, fuzzy
 msgctxt "Walker_033"
 msgid "Hosay"
 msgstr "Хосай"
 
-#, fuzzy
 msgctxt "Walker_034"
 msgid "Harkhuf"
 msgstr "Харкхуф"
 
-#, fuzzy
 msgctxt "Walker_035"
 msgid "Harmhabi"
 msgstr "Хармхаби"
 
-#, fuzzy
 msgctxt "Walker_036"
 msgid "Ibana"
 msgstr "Ибана"
 
-#, fuzzy
 msgctxt "Walker_037"
 msgid "Irhoreru"
 msgstr "Ирхореру"
 
-#, fuzzy
 msgctxt "Walker_038"
 msgid "Ishpi"
 msgstr "Ишпи"
 
-#, fuzzy
 msgctxt "Walker_039"
 msgid "Iufankh"
 msgstr "Иуфанх"
 
-#, fuzzy
 msgctxt "Walker_040"
 msgid "Iufenamun"
 msgstr "Иуфенамун"
 
-#, fuzzy
 msgctxt "Walker_041"
 msgid "Iuseneb"
 msgstr "Иусенеб"
 
-#, fuzzy
 msgctxt "Walker_042"
 msgid "Kadjadja"
 msgstr "Каджаджа"
 
-#, fuzzy
 msgctxt "Walker_043"
 msgid "Khonsirdais"
 msgstr "Хонсирдаис"
 
-#, fuzzy
 msgctxt "Walker_044"
 msgid "Khakheperraseneb"
 msgstr "Хахеперрасенеб"
 
-#, fuzzy
 msgctxt "Walker_045"
 msgid "Manetho"
 msgstr "Манетхо"
 
-#, fuzzy
 msgctxt "Walker_046"
 msgid "Menmet-Ra"
 msgstr "Менмет-Ра"
 
-#, fuzzy
 msgctxt "Walker_047"
 msgid "Merirahasetef"
 msgstr "Мерирахасетеф"
 
-#, fuzzy
 msgctxt "Walker_048"
 msgid "Mernebptah"
 msgstr "Мернебптах"
 
-#, fuzzy
 msgctxt "Walker_049"
 msgid "Meryrahashtef"
 msgstr "Мерирахашетеф"
 
-#, fuzzy
 msgctxt "Walker_050"
 msgid "Neferhotep"
 msgstr "Неферхотеп"
 
-#, fuzzy
 msgctxt "Walker_051"
 msgid "Neshorpakhered"
 msgstr "Нешорпахеред"
 
-#, fuzzy
 msgctxt "Walker_052"
 msgid "Miankkhnum"
 msgstr "Мианкхнум"
 
-#, fuzzy
 msgctxt "Walker_053"
 msgid "Niumateped"
 msgstr "Ниуматепед"
 
-#, fuzzy
 msgctxt "Walker_054"
 msgid "Pedibastet"
 msgstr "Педибастет"
 
-#, fuzzy
 msgctxt "Walker_055"
 msgid "Qenymin"
 msgstr "Кенимин"
 
-#, fuzzy
 msgctxt "Walker_056"
 msgid "Rudiju"
 msgstr "Рудижу"
 
-#, fuzzy
 msgctxt "Walker_057"
 msgid "Sneferu"
 msgstr "Снеферу"
 
-#, fuzzy
 msgctxt "Walker_058"
 msgid "Heptseshet"
 msgstr "Хепцешет"
 
-#, fuzzy
 msgctxt "Walker_059"
 msgid "Amkhaibitu"
 msgstr "Амхаибиту"
 
-#, fuzzy
 msgctxt "Walker_060"
 msgid "Maatafemsesh"
 msgstr "Маатафемсеш"
 
-#, fuzzy
 msgctxt "Walker_061"
 msgid "Setqesu"
 msgstr "Сеткесу"
 
-#, fuzzy
 msgctxt "Walker_062"
 msgid "Taret"
 msgstr "Тарет"
 
-#, fuzzy
 msgctxt "Walker_063"
 msgid "Hetchabehu"
 msgstr "Хетчабеху"
 
-#, fuzzy
 msgctxt "Walker_064"
 msgid "Amsenef"
 msgstr "Амсенеф"
 
-#, fuzzy
 msgctxt "Walker_065"
 msgid "Ambesek"
 msgstr "Амбесек"
 
-#, fuzzy
 msgctxt "Walker_066"
 msgid "Thenemi"
 msgstr "Тенеми"
 
-#, fuzzy
 msgctxt "Walker_067"
 msgid "Sethgregorshef"
 msgstr "Сетгрегоршеф"
 
-#, fuzzy
 msgctxt "Walker_068"
 msgid "Hansptah"
 msgstr "Хансптах"
 
-#, fuzzy
 msgctxt "Walker_069"
 msgid "Ankhenrimhat"
 msgstr "Анхенримхат"
 
-#, fuzzy
 msgctxt "Walker_070"
 msgid "Nenedjasondjed"
 msgstr "Ненеджасонджед"
 
-#, fuzzy
 msgctxt "Walker_071"
 msgid "Jeremshepenwet"
 msgstr "Джеремшепенвет"
 
-#, fuzzy
 msgctxt "Walker_072"
 msgid "Sasolomonmut"
 msgstr "Сасоломонмут"
 
-#, fuzzy
 msgctxt "Walker_073"
 msgid "Rajohnhotep"
 msgstr "Раджонхотеп"
 
-#, fuzzy
 msgctxt "Walker_074"
 msgid "Kethnakte"
 msgstr "Кетнакте"
 
-#, fuzzy
 msgctxt "Walker_075"
 msgid "Akenaba"
 msgstr "Акенаба"
 
-#, fuzzy
 msgctxt "Walker_076"
 msgid "Shmikenakht"
 msgstr "Шмикенахт"
 
-#, fuzzy
 msgctxt "Walker_077"
 msgid "Roneith"
 msgstr "Ронейт"
 
-#, fuzzy
 msgctxt "Walker_078"
 msgid "Ankhscotshonq"
 msgstr "Анхскотсхонк"
 
-#, fuzzy
 msgctxt "Walker_079"
 msgid "Amenwaynsu"
 msgstr "Аменваинсу"
 
-#, fuzzy
 msgctxt "Walker_080"
 msgid "Tanutamun"
 msgstr "Танутамун"
 
-#, fuzzy
 msgctxt "Walker_081"
 msgid "Wadjtonymose"
 msgstr "Ваджтонимос"
 
-#, fuzzy
 msgctxt "Walker_082"
 msgid "Labarjamoukh"
 msgstr "Лабарджамух"
 
-#, fuzzy
 msgctxt "Walker_083"
 msgid "Saltsenkhamen"
 msgstr "Салценхамен"
 
-#, fuzzy
 msgctxt "Walker_084"
 msgid "Zizzamoukh"
 msgstr "Зиззамух"
 
-#, fuzzy
 msgctxt "Walker_085"
 msgid "Pramessu"
 msgstr "Прамессу"
 
-#, fuzzy
 msgctxt "Walker_086"
 msgid "Sipair"
 msgstr "Сипаир"
 
-#, fuzzy
 msgctxt "Walker_087"
 msgid "Shawnbaka"
 msgstr "Шонбака"
 
-#, fuzzy
 msgctxt "Walker_088"
 msgid "Sisekhmet"
 msgstr "Сисехмет"
 
-#, fuzzy
 msgctxt "Walker_089"
 msgid "Panas"
 msgstr "Панас"
 
-#, fuzzy
 msgctxt "Walker_090"
 msgid "Maakha"
 msgstr "Мааха"
 
-#, fuzzy
 msgctxt "Walker_091"
 msgid "Butehamun"
 msgstr "Бутенхамун"
 
-#, fuzzy
 msgctxt "Walker_092"
 msgid "Nekhen"
 msgstr "Нехен"
 
-#, fuzzy
 msgctxt "Walker_093"
 msgid "Ankhu"
 msgstr "Анху"
 
-#, fuzzy
 msgctxt "Walker_094"
 msgid "Craigamun"
 msgstr "Крейгамун"
 
-#, fuzzy
 msgctxt "Walker_095"
 msgid "Remensses"
 msgstr "Ременссес"
 
-#, fuzzy
 msgctxt "Walker_096"
 msgid "Ashaamedes"
 msgstr "Ашаамедес"
 
-#, fuzzy
 msgctxt "Walker_097"
 msgid "Ib'remedes"
 msgstr "Ибремедес"
 
-#, fuzzy
 msgctxt "Walker_098"
 msgid "Bewethaat"
 msgstr "Беветаат"
 
-#, fuzzy
 msgctxt "Walker_099"
 msgid "Inyotef"
 msgstr "Иниотеф"
 
-#, fuzzy
 msgctxt "Walker_100"
 msgid "Niankhkhnum"
 msgstr "Нианххнум"
 
-#, fuzzy
 msgctxt "Walker_101"
 msgid "Khnumhotep"
 msgstr "Хнумхотеп"
 
-#, fuzzy
 msgctxt "Walker_102"
 msgid "Sinuhe"
 msgstr "Синухе"
 
-#, fuzzy
 msgctxt "Walker_103"
 msgid "Senwosret"
 msgstr "Сенвосерт"
 
-#, fuzzy
 msgctxt "Walker_104"
 msgid "Setka"
 msgstr "Сетка"
 
-#, fuzzy
 msgctxt "Walker_105"
 msgid "Ahkenrusses"
 msgstr "Ахкенруссес"
 
-#, fuzzy
 msgctxt "Walker_106"
 msgid "Padalineith"
 msgstr "Падалинейт"
 
-#, fuzzy
 msgctxt "Walker_107"
 msgid "Montuhotep"
 msgstr "Ментухотеп"
 
-#, fuzzy
 msgctxt "Walker_108"
 msgid "Keraghotep"
 msgstr "Керагхотеп"
 
-#, fuzzy
 msgctxt "Walker_109"
 msgid "Montumery"
 msgstr "Ментумери"
 
-#, fuzzy
 msgctxt "Walker_110"
 msgid "Horemchadhotep"
 msgstr "Хоремчадхотеп"
 
-#, fuzzy
 msgctxt "Walker_111"
 msgid "Ipy"
 msgstr "Ипу"
 
-#, fuzzy
 msgctxt "Walker_112"
 msgid "Akencheres"
 msgstr "Акенчерес"
 
-#, fuzzy
 msgctxt "Walker_113"
 msgid "Simontu"
 msgstr "Симонту"
 
-#, fuzzy
 msgctxt "Walker_114"
 msgid "Mekuniwetel"
 msgstr "Мекуниветел"
 
-#, fuzzy
 msgctxt "Walker_115"
 msgid "Nespanetjerenpere"
 msgstr "Неспанетжеренпер"
 
-#, fuzzy
 msgctxt "Walker_116"
 msgid "Shedsunefertum"
 msgstr "Шедсунефетум"
 
-#, fuzzy
 msgctxt "Walker_117"
 msgid "Tutu"
 msgstr "Туту"
 
-#, fuzzy
 msgctxt "Walker_118"
 msgid "Shewet"
 msgstr "Шевет"
 
-#, fuzzy
 msgctxt "Walker_119"
 msgid "Bebaat"
 msgstr "Бебаат"
 
-#, fuzzy
 msgctxt "Walker_120"
 msgid "Neferheret"
 msgstr "Неферхерет"
 
-#, fuzzy
 msgctxt "Walker_121"
 msgid "Naasheba"
 msgstr "Наашеба"
 
-#, fuzzy
 msgctxt "Walker_122"
 msgid "Nebabui"
 msgstr "Небабуй"
 
-#, fuzzy
 msgctxt "Walker_123"
 msgid "Webaoner"
 msgstr "Вебаонер"
 
-#, fuzzy
 msgctxt "Walker_124"
 msgid "Ramesses"
 msgstr "Рамессес"
 
-#, fuzzy
 msgctxt "Walker_125"
 msgid "Hemjunu"
 msgstr "Хемжуну"
 
-#, fuzzy
 msgctxt "Walker_126"
 msgid "Ptahhotep"
 msgstr "Птаххотеп"
 
-#, fuzzy
 msgctxt "Walker_127"
 msgid "Imhotep"
 msgstr "Имхотеп"
 
-#, fuzzy
 msgctxt "Walker_128"
 msgid "Prehotep"
 msgstr "Прехотеп"
 
-#, fuzzy
 msgctxt "Walker_129"
 msgid "Amasis"
 msgstr "Амасис"
 
-#, fuzzy
 msgctxt "Walker_130"
 msgid "Ptahnefer"
 msgstr "Птахнефер"
 
-#, fuzzy
 msgctxt "Walker_131"
 msgid "Impeihotep"
 msgstr "Импейхотеп"
 
-#, fuzzy
 msgctxt "Walker_132"
 msgid "Menkaure"
 msgstr "Менкаури"
 
-#, fuzzy
 msgctxt "Walker_133"
 msgid "Gebu"
 msgstr "Гебу"
 
-#, fuzzy
 msgctxt "Walker_134"
 msgid "Ankh-hori"
 msgstr "Анх-хори"
 
-#, fuzzy
 msgctxt "Walker_135"
 msgid "Khonshotep"
 msgstr "Хоншотеп"
 
-#, fuzzy
 msgctxt "Walker_136"
 msgid "Khonsnefru"
 msgstr "Хонснефру"
 
-#, fuzzy
 msgctxt "Walker_137"
 msgid "Merykhons"
 msgstr "Мерихонс"
 
-#, fuzzy
 msgctxt "Walker_138"
 msgid "Beshotep"
 msgstr "Бесхотеп"
 
-#, fuzzy
 msgctxt "Walker_139"
 msgid "Merybes"
 msgstr "Мерибес"
 
-#, fuzzy
 msgctxt "Walker_140"
 msgid "Ptahhudjankhef"
 msgstr "Птаххуджанхеф"
 
-#, fuzzy
 msgctxt "Walker_141"
 msgid "Meryedjo"
 msgstr "Мериеджо"
 
-#, fuzzy
 msgctxt "Walker_142"
 msgid "Edjohotep"
 msgstr "Эджохотеп"
 
-#, fuzzy
 msgctxt "Walker_143"
 msgid "Heqetmeses"
 msgstr "Некетмесес"
 
-#, fuzzy
 msgctxt "Walker_144"
 msgid "Menheqet"
 msgstr "Менхекет"
 
-#, fuzzy
 msgctxt "Walker_145"
 msgid "Akenheqet"
 msgstr "Акенхекет"
 
-#, fuzzy
 msgctxt "Walker_146"
 msgid "Kheprihotep"
 msgstr "Хеприхотеп"
 
-#, fuzzy
 msgctxt "Walker_147"
 msgid "Akenkhepri"
 msgstr "Акенхепри"
 
-#, fuzzy
 msgctxt "Walker_148"
 msgid "Merykhepri"
 msgstr "Мерихепри"
 
-#, fuzzy
 msgctxt "Walker_149"
 msgid "Itchenkhamen"
 msgstr "Итченхамен"
 
-#, fuzzy
 msgctxt "Walker_150"
 msgid "Techemes"
 msgstr "Течемес"
 
-#, fuzzy
 msgctxt "Walker_151"
 msgid "Djesersukhons"
 msgstr "Джесерсухонс"
 
-#, fuzzy
 msgctxt "Walker_152"
 msgid "Ay"
 msgstr "Эйе"
 
-#, fuzzy
 msgctxt "Walker_153"
 msgid "Aadmeru"
 msgstr "Аадмеру"
 
-#, fuzzy
 msgctxt "Walker_154"
 msgid "Nebumery"
 msgstr "Небумери"
 
-#, fuzzy
 msgctxt "Walker_155"
 msgid "Nebaak"
 msgstr "Небаак"
 
-#, fuzzy
 msgctxt "Walker_156"
 msgid "Burglakhamen"
 msgstr "Бурглакхамен"
 
-#, fuzzy
 msgctxt "Walker_157"
 msgid "Amunloot"
 msgstr "Амунлут"
 
-#, fuzzy
 msgctxt "Walker_158"
 msgid "Pedibandit"
 msgstr "Педибандит"
 
-#, fuzzy
 msgctxt "Walker_159"
 msgid "Nebnodjmet"
 msgstr "Небноджмет"
 
-#, fuzzy
 msgctxt "Walker_160"
 msgid "Ankhefeneb"
 msgstr "Анхефенеб"
 
-#, fuzzy
 msgctxt "Walker_161"
 msgid "Akeneb"
 msgstr "Акенеб"
 
-#, fuzzy
 msgctxt "Walker_162"
 msgid "Nebtet"
 msgstr "Небтет"
 
-#, fuzzy
 msgctxt "Walker_163"
 msgid "Nekhbehotep"
 msgstr "Нехбехотеп"
 
-#, fuzzy
 msgctxt "Walker_164"
 msgid "Herishef"
 msgstr "Херишеф"
 
-#, fuzzy
 msgctxt "Walker_165"
 msgid "Nebwam"
 msgstr "Небвам"
 
-#, fuzzy
 msgctxt "Walker_166"
 msgid "Ankhmery"
 msgstr "Анхмери"
 
-#, fuzzy
 msgctxt "Walker_167"
 msgid "Pasebakhaenniut"
 msgstr "Пасебахаеннуит"
 
-#, fuzzy
 msgctxt "Walker_168"
 msgid "Her-uben"
 msgstr "Хир-убен"
 
-#, fuzzy
 msgctxt "Walker_169"
 msgid "Seshed"
 msgstr "Сешед"
 
-#, fuzzy
 msgctxt "Walker_170"
 msgid "Kingmery"
 msgstr "Кингмери"
 
-#, fuzzy
 msgctxt "Walker_171"
 msgid "Pedidavi"
 msgstr "Педидави"
 
-#, fuzzy
 msgctxt "Walker_172"
 msgid "Akenturner"
 msgstr "Акентурнер"
 
-#, fuzzy
 msgctxt "Walker_173"
 msgid "Carnegmose"
 msgstr "Карнегмос"
 
-#, fuzzy
 msgctxt "Walker_174"
 msgid "Forbesankh"
 msgstr "Форбесанх"
 
-#, fuzzy
 msgctxt "Walker_175"
 msgid "Snotmose"
 msgstr "Снотмос"
 
-#, fuzzy
 msgctxt "Walker_176"
 msgid "Rockesenmut"
 msgstr "Рокесенмут"
 
-#, fuzzy
 msgctxt "Walker_177"
 msgid "Anhetepf"
 msgstr "Анхетепф"
 
-#, fuzzy
 msgctxt "Walker_178"
 msgid "Seshemfenti"
 msgstr "Сешемфенти"
 
-#, fuzzy
 msgctxt "Walker_179"
 msgid "Minkhat"
 msgstr "Минхат"
 
-#, fuzzy
 msgctxt "Walker_180"
 msgid "Nehahra"
 msgstr "Нехахра"
 
-#, fuzzy
 msgctxt "Walker_181"
 msgid "Ankhwa"
 msgstr "Анхва"
 
-#, fuzzy
 msgctxt "Walker_182"
 msgid "Yuya"
 msgstr "Юйя"
 
-#, fuzzy
 msgctxt "Walker_183"
 msgid "Kaha"
 msgstr "Каха"
 
-#, fuzzy
 msgctxt "Walker_184"
 msgid "Poy"
 msgstr "Пойи"
 
-#, fuzzy
 msgctxt "Walker_185"
 msgid "Fraankptah"
 msgstr "Фраанкптах"
 
-#, fuzzy
 msgctxt "Walker_186"
 msgid "Stevemeses"
 msgstr "Стивимесес"
 
-#, fuzzy
 msgctxt "Walker_187"
 msgid "Merymar"
 msgstr "Меримар"
 
-#, fuzzy
 msgctxt "Walker_188"
 msgid "Tjanefer"
 msgstr "Тжанефер"
 
-#, fuzzy
 msgctxt "Walker_189"
 msgid "Takany"
 msgstr "Такани"
 
-#, fuzzy
 msgctxt "Walker_190"
 msgid "Wadjet"
 msgstr "Ваджет"
 
-#, fuzzy
 msgctxt "Walker_191"
 msgid "Paser"
 msgstr "Пасер"
 
-#, fuzzy
 msgctxt "Walker_192"
 msgid "Hrafhaf"
 msgstr "Храфхаф"
 
-#, fuzzy
 msgctxt "Walker_193"
 msgid "Nehawelti"
 msgstr "Нехавелти"
 
-#, fuzzy
 msgctxt "Walker_194"
 msgid "Neret"
 msgstr "Нерет"
 
-#, fuzzy
 msgctxt "Walker_195"
 msgid "Onurishotep"
 msgstr "Онурисхотеп"
 
-#, fuzzy
 msgctxt "Walker_196"
 msgid "Meryonuris"
 msgstr "Мерионурис"
 
-#, fuzzy
 msgctxt "Walker_197"
 msgid "Onurisnodjmet"
 msgstr "Онурисноджмет"
 
-#, fuzzy
 msgctxt "Walker_198"
 msgid "Karem"
 msgstr "Карем"
 
-#, fuzzy
 msgctxt "Walker_199"
 msgid "Khahor"
 msgstr "Хахор"
 
-#, fuzzy
 msgctxt "Walker_200"
 msgid "Wahmery"
 msgstr "Вахмери"
 
-#, fuzzy
 msgctxt "Walker_201"
 msgid "Techemesmery"
 msgstr "Течемесмери"
 
-#, fuzzy
 msgctxt "Walker_202"
 msgid "Nestanebetasheru"
 msgstr "Нестанебеташеру"
 
-#, fuzzy
 msgctxt "Walker_203"
 msgid "Raia"
 msgstr "Райя"
 
-#, fuzzy
 msgctxt "Walker_204"
 msgid "Serapion"
 msgstr "Серапион"
 
-#, fuzzy
 msgctxt "Walker_205"
 msgid "Tymisba"
 msgstr "Тимисба"
 
-#, fuzzy
 msgctxt "Walker_206"
 msgid "Taharqa"
 msgstr "Тахарка"
 
-#, fuzzy
 msgctxt "Walker_207"
 msgid "Panehsy"
 msgstr "Панехси"
 
-#, fuzzy
 msgctxt "Walker_208"
 msgid "Apoutit"
 msgstr "Апутит"
 
-#, fuzzy
 msgctxt "Walker_209"
 msgid "Amanishakheto"
 msgstr "Аманишахето"
 
-#, fuzzy
 msgctxt "Walker_210"
 msgid "Bunefer"
 msgstr "Бунефер"
 
-#, fuzzy
 msgctxt "Walker_211"
 msgid "Hatshepsut"
 msgstr "Хатшепсут"
 
-#, fuzzy
 msgctxt "Walker_212"
 msgid "Hettimenhu"
 msgstr "Хеттименху"
 
-#, fuzzy
 msgctxt "Walker_213"
 msgid "Khamereernebty"
 msgstr "Хамереернебти"
 
-#, fuzzy
 msgctxt "Walker_214"
 msgid "Mehetweshket"
 msgstr "Мехетвешкет"
 
-#, fuzzy
 msgctxt "Walker_215"
 msgid "Kristenefer"
 msgstr "Кристенефер"
 
-#, fuzzy
 msgctxt "Walker_216"
 msgid "Nefertiti"
 msgstr "Нефертити"
 
-#, fuzzy
 msgctxt "Walker_217"
 msgid "Neferkatia"
 msgstr "Неферкатия"
 
-#, fuzzy
 msgctxt "Walker_218"
 msgid "Shananofru"
 msgstr "Шананофру"
 
-#, fuzzy
 msgctxt "Walker_219"
 msgid "Awildamer"
 msgstr "Авилдамер"
 
-#, fuzzy
 msgctxt "Walker_220"
 msgid "Andremose"
 msgstr "Андремос"
 
-#, fuzzy
 msgctxt "Walker_221"
 msgid "Hetemaria"
 msgstr "Хетемария"
 
-#, fuzzy
 msgctxt "Walker_222"
 msgid "Heidinefer"
 msgstr "Хейдинефер"
 
-#, fuzzy
 msgctxt "Walker_223"
 msgid "Lisatiti"
 msgstr "Лизатити"
 
-#, fuzzy
 msgctxt "Walker_224"
 msgid "Duatnefret"
 msgstr "Дуатнефрет"
 
-#, fuzzy
 msgctxt "Walker_225"
 msgid "Nyla"
 msgstr "Нила"
 
-#, fuzzy
 msgctxt "Walker_226"
 msgid "Donamoses"
 msgstr "Донамосес"
 
-#, fuzzy
 msgctxt "Walker_227"
 msgid "Claudipatra"
 msgstr "Клаудипатра"
 
-#, fuzzy
 msgctxt "Walker_228"
 msgid "Tabubu"
 msgstr "Табубу"
 
-#, fuzzy
 msgctxt "Walker_229"
 msgid "Yunet"
 msgstr "Юнет"
 
-#, fuzzy
 msgctxt "Walker_230"
 msgid "Weretimtes"
 msgstr "Веретимтес"
 
-#, fuzzy
 msgctxt "Walker_231"
 msgid "Pebatma"
 msgstr "Пебатма"
 
-#, fuzzy
 msgctxt "Walker_232"
 msgid "Sofiwepet"
 msgstr "Софивепет"
 
-#, fuzzy
 msgctxt "Walker_233"
 msgid "Neferneferuaten"
 msgstr "Нефернефруатон"
 
-#, fuzzy
 msgctxt "Walker_234"
 msgid "Marakhen"
 msgstr "Марахен"
 
-#, fuzzy
 msgctxt "Walker_235"
 msgid "Seshedakhen"
 msgstr "Сешедахен"
 
-#, fuzzy
 msgctxt "Walker_236"
 msgid "Nebuakhen"
 msgstr "Небуахен"
 
-#, fuzzy
 msgctxt "Walker_237"
 msgid "Hedjakhen"
 msgstr "Хеджахен"
 
-#, fuzzy
 msgctxt "Walker_238"
 msgid "Siamun"
 msgstr "Сиамун"
 
-#, fuzzy
 msgctxt "Walker_239"
 msgid "Nodjmet"
 msgstr "Ноджмет"
 
-#, fuzzy
 msgctxt "Walker_240"
 msgid "Amenemopet"
 msgstr "Аменемопет"
 
-#, fuzzy
 msgctxt "Walker_241"
 msgid "Meryptah"
 msgstr "Мериптах"
 
-#, fuzzy
 msgctxt "Walker_242"
 msgid "Naneferkeptah"
 msgstr "Нанеферкептах"
 
-#, fuzzy
 msgctxt "Walker_243"
 msgid "Neshi"
 msgstr "Неши"
 
-#, fuzzy
 msgctxt "Walker_244"
 msgid "Padiamenet"
 msgstr "Падиаменет"
 
-#, fuzzy
 msgctxt "Walker_245"
 msgid "Shepenwepet"
 msgstr "Шепенвепет"
 
-#, fuzzy
 msgctxt "Walker_246"
 msgid "Udjahorresne"
 msgstr "Уджахорресни"
 
-#, fuzzy
 msgctxt "Walker_247"
 msgid "Wenis"
 msgstr "Венис"
 
-#, fuzzy
 msgctxt "Walker_248"
 msgid "Payneferher"
 msgstr "Паинеферхер"
 
-#, fuzzy
 msgctxt "Walker_249"
 msgid "Searseneb"
 msgstr "Сеарсенеб"
 
-#, fuzzy
 msgctxt "Walker_250"
 msgid "Akenwalmart"
 msgstr "Акенвалмарт"
 
-#, fuzzy
 msgctxt "Walker_251"
 msgid "Bakenbradleehotep"
 msgstr "Бакенбрадлихотеп"
 
-#, fuzzy
 msgctxt "Walker_252"
 msgid "Nefermacy"
 msgstr "Нефермаси"
 
-#, fuzzy
 msgctxt "Walker_253"
 msgid "Pennybastet"
 msgstr "Пеннибастет"
 
-#, fuzzy
 msgctxt "Walker_254"
 msgid "Gapahmose"
 msgstr "Гапахмос"
 
-#, fuzzy
 msgctxt "Walker_255"
 msgid "Amunherpanesha"
 msgstr "Амунхерпанеша"
 
-#, fuzzy
 msgctxt "Walker_256"
 msgid "Huya"
 msgstr "Хаия"
 
-#, fuzzy
 msgctxt "Walker_257"
 msgid "Nigmed"
 msgstr "Нигмед"
 
-#, fuzzy
 msgctxt "Walker_258"
 msgid "Paperpa"
 msgstr "Паперпа"
 
-#, fuzzy
 msgctxt "Walker_259"
 msgid "Tefibi"
 msgstr "Тефиби"
 
-#, fuzzy
 msgctxt "Walker_260"
 msgid "Amihotep"
 msgstr "Амихотеп"
 
-#, fuzzy
 msgctxt "Walker_261"
 msgid "Kevinefer"
 msgstr "Кевинефер"
 
-#, fuzzy
 msgctxt "Walker_262"
 msgid "Tobykhamen"
 msgstr "Тобихамен"
 
-#, fuzzy
 msgctxt "Walker_263"
 msgid "Pebes"
 msgstr "Пебес"
 
-#, fuzzy
 msgctxt "Walker_264"
 msgid "Salatis"
 msgstr "Салатис"
 
-#, fuzzy
 msgctxt "Walker_265"
 msgid "Hapimen"
 msgstr "Хапимен"
 
-#, fuzzy
 msgctxt "Walker_266"
 msgid "Tielamun"
 msgstr "Тиеламун"
 
-#, fuzzy
 msgctxt "Walker_267"
 msgid "Nebrianmes"
 msgstr "Небрианмес"
 
-#, fuzzy
 msgctxt "Walker_268"
 msgid "Harsiese"
 msgstr "Харсиес"
 
-#, fuzzy
 msgctxt "Walker_269"
 msgid "Bay"
 msgstr "Байи"
 
-#, fuzzy
 msgctxt "Walker_270"
 msgid "Bek"
 msgstr "Бек"
 
-#, fuzzy
 msgctxt "Walker_271"
 msgid "Serkheru"
 msgstr "Серкхеру"
 
-#, fuzzy
 msgctxt "Walker_272"
 msgid "Dannikhamen"
 msgstr "Даннихамен"
 
-#, fuzzy
 msgctxt "Walker_273"
 msgid "Meryhem"
 msgstr "Мерихем"
 
-#, fuzzy
 msgctxt "Walker_274"
 msgid "Pethotep"
 msgstr "Петхотеп"
 
-#, fuzzy
 msgctxt "Walker_275"
 msgid "Wenefakhen"
 msgstr "Венефахен"
 
-#, fuzzy
 msgctxt "Walker_276"
 msgid "Shetchaat"
 msgstr "Шетчаат"
 
-#, fuzzy
 msgctxt "Walker_277"
 msgid "Heredhotep"
 msgstr "Хередхотеп"
 
-#, fuzzy
 msgctxt "Walker_278"
 msgid "Ahinodjmet"
 msgstr "Ахиноджмет"
 
-#, fuzzy
 msgctxt "Walker_279"
 msgid "Ahitut"
 msgstr "Ахитут"
 
-#, fuzzy
 msgctxt "Walker_280"
 msgid "Nodjmet-ta-sherit"
 msgstr "Ноджмет-та-шерит"
 
-#, fuzzy
 msgctxt "Walker_281"
 msgid "Pepi"
 msgstr "Пепи"
 
-#, fuzzy
 msgctxt "Walker_282"
 msgid "Thothotep"
 msgstr "Тотхотеп"
 
-#, fuzzy
 msgctxt "Walker_283"
 msgid "Smendes"
 msgstr "Смендес"
 
-#, fuzzy
 msgctxt "Walker_284"
 msgid "Sithoth"
 msgstr "Ситхот"
 
-#, fuzzy
 msgctxt "Walker_285"
 msgid "Minmery"
 msgstr "Минмери"
 
-#, fuzzy
 msgctxt "Walker_286"
 msgid "Siunnefer"
 msgstr "Сиуннефер"
 
-#, fuzzy
 msgctxt "Walker_287"
 msgid "Unneferhotep"
 msgstr "Уннеферхотеп"
 
-#, fuzzy
 msgctxt "Walker_288"
 msgid "Minhotep"
 msgstr "Минхотеп"
 
-#, fuzzy
 msgctxt "Walker_289"
 msgid "Merythoth"
 msgstr "Меритот"
 
-#, fuzzy
 msgctxt "Walker_290"
 msgid "Djau"
 msgstr "Джау"
 
-#, fuzzy
 msgctxt "Walker_291"
 msgid "Bakenaten"
 msgstr "Бакенатен"
 
-#, fuzzy
 msgctxt "Walker_292"
 msgid "Ishpi"
 msgstr "Ишпи"
 
-#, fuzzy
 msgctxt "Walker_293"
 msgid "Katep"
 msgstr "Катеп"
 
-#, fuzzy
 msgctxt "Walker_294"
 msgid "Pathemwia"
 msgstr "Патемвиа"
 
-#, fuzzy
 msgctxt "Walker_295"
 msgid "Suty"
 msgstr "Сути"
 
-#, fuzzy
 msgctxt "Walker_296"
 msgid "Yoyomaatre"
 msgstr "Йойомаатри"
 
-#, fuzzy
 msgctxt "Walker_297"
 msgid "Bakenabbamaat"
 msgstr "Бакенаббамаат"
 
-#, fuzzy
 msgctxt "Walker_298"
 msgid "Claudipaatra"
 msgstr "Клаудипаатра"
 
-#, fuzzy
 msgctxt "Walker_299"
 msgid "Wia"
 msgstr "Виа"
 
-#, fuzzy
 msgctxt "Walker_300"
 msgid "Wabkhet"
 msgstr "Вабхет"
 
-#, fuzzy
 msgctxt "Walker_301"
 msgid "Heret"
 msgstr "Херет"
 
-#, fuzzy
 msgctxt "Walker_302"
 msgid "Naunakht"
 msgstr "Наунахт"
 
-#, fuzzy
 msgctxt "Walker_303"
 msgid "Heria"
 msgstr "Хериа"
 
-#, fuzzy
 msgctxt "Walker_304"
 msgid "Hunro"
 msgstr "Хунро"
 
-#, fuzzy
 msgctxt "Walker_305"
 msgid "Haphen-refer"
 msgstr "Хафен-рефер"
 
-#, fuzzy
 msgctxt "Walker_306"
 msgid "Retep"
 msgstr "Ретеп"
 
-#, fuzzy
 msgctxt "Walker_307"
 msgid "Nofertiri"
 msgstr "Нофертири"
 
-#, fuzzy
 msgctxt "Walker_308"
 msgid "Ptennisnet"
 msgstr "Птенниснет"
 
-#, fuzzy
 msgctxt "Walker_309"
 msgid "Ankhesenaten"
 msgstr "Анхесенатен"
 
-#, fuzzy
 msgctxt "Walker_310"
 msgid "Beketaten"
 msgstr "Бекетатен"
 
-#, fuzzy
 msgctxt "Walker_311"
 msgid "Dedi"
 msgstr "Деди"
 
-#, fuzzy
 msgctxt "Walker_312"
 msgid "Esemkhebe "
 msgstr "Эсемхебе"
 
-#, fuzzy
 msgctxt "Walker_313"
 msgid "Hathor"
 msgstr "Хатхор"
 
-#, fuzzy
 msgctxt "Walker_314"
 msgid "Hehenhit"
 msgstr "Нехенхит"
 
-#, fuzzy
 msgctxt "Walker_315"
 msgid "Henutnofret"
 msgstr "Хенутнофрет"
 
-#, fuzzy
 msgctxt "Walker_316"
 msgid "Hetepheres"
 msgstr "Хетепхерес"
 
-#, fuzzy
 msgctxt "Walker_317"
 msgid "Iniihue"
 msgstr "Инихае"
 
-#, fuzzy
 msgctxt "Walker_318"
 msgid "Ipip"
 msgstr "Ипип"
 
-#, fuzzy
 msgctxt "Walker_319"
 msgid "Isetnofret"
 msgstr "Исетнофрет"
 
-#, fuzzy
 msgctxt "Walker_320"
 msgid "Iutenheb"
 msgstr "Иутенхеб"
 
-#, fuzzy
 msgctxt "Walker_321"
 msgid "Khamaat "
 msgstr "Хамаат"
 
-#, fuzzy
 msgctxt "Walker_322"
 msgid "Meketre"
 msgstr "Мекетри"
 
-#, fuzzy
 msgctxt "Walker_323"
 msgid "Mercia"
 msgstr "Мерция"
 
-#, fuzzy
 msgctxt "Walker_324"
 msgid "Ipuky"
 msgstr "Ипуки"
 
-#, fuzzy
 msgctxt "Walker_325"
 msgid "Innovandora"
 msgstr "Инновандора"
 
-#, fuzzy
 msgctxt "Walker_326"
 msgid "Nebefer"
 msgstr "Небефер"
 
-#, fuzzy
 msgctxt "Walker_327"
 msgid "Nenufer"
 msgstr "Ненуфер"
 
-#, fuzzy
 msgctxt "Walker_328"
 msgid "Neskhons"
 msgstr "Несхонс"
 
-#, fuzzy
 msgctxt "Walker_329"
 msgid "Pekersater"
 msgstr "Пекерсатер"
 
-#, fuzzy
 msgctxt "Walker_330"
 msgid "Seshseshet"
 msgstr "Сешсешет"
 
-#, fuzzy
 msgctxt "Walker_331"
 msgid "Taweret"
 msgstr "Таверет"
 
-#, fuzzy
 msgctxt "Walker_332"
 msgid "Tefenet"
 msgstr "Тефенет"
 
-#, fuzzy
 msgctxt "Walker_333"
 msgid "Siosiris"
 msgstr "Сиосирис"
 
-#, fuzzy
 msgctxt "Walker_334"
 msgid "Osirishotep"
 msgstr "Осирисхотеп"
 
-#, fuzzy
 msgctxt "Walker_335"
 msgid "Pedosiris"
 msgstr "Педосирис"
 
-#, fuzzy
 msgctxt "Walker_336"
 msgid "Akenosiris"
 msgstr "Акеносирис"
 
-#, fuzzy
 msgctxt "Walker_337"
 msgid "Wahosiris"
 msgstr "Вахосирис"
 
-#, fuzzy
 msgctxt "Walker_338"
 msgid "Tutankhosiris"
 msgstr "Тутанхосирис"
 
-#, fuzzy
 msgctxt "Walker_339"
 msgid "Merenosiris"
 msgstr "Мереносирис"
 
-#, fuzzy
 msgctxt "Walker_340"
 msgid "Iufosiris"
 msgstr "Иуфосирис"
 
-#, fuzzy
 msgctxt "Walker_341"
 msgid "Sebekhotep"
 msgstr "Себекхотеп"
 
-#, fuzzy
 msgctxt "Walker_342"
 msgid "Sisebek"
 msgstr "Сисебек"
 
-#, fuzzy
 msgctxt "Walker_343"
 msgid "Wasebek"
 msgstr "Васебек"
 
-#, fuzzy
 msgctxt "Walker_344"
 msgid "Akensebek"
 msgstr "Акенсебек"
 
-#, fuzzy
 msgctxt "Walker_345"
 msgid "Pedimin"
 msgstr "Педимин"
 
-#, fuzzy
 msgctxt "Walker_346"
 msgid "Tutankhmin"
 msgstr "Тутанхмин"
 
-#, fuzzy
 msgctxt "Walker_347"
 msgid "Merymin"
 msgstr "Меримин"
 
-#, fuzzy
 msgctxt "Walker_348"
 msgid "Akenmin"
 msgstr "Акенмин"
 
-#, fuzzy
 msgctxt "Walker_349"
 msgid "Menma'atra"
 msgstr "Менма'атра"
 
-#, fuzzy
 msgctxt "Walker_350"
 msgid "Akenra"
 msgstr "Акенра"
 
-#, fuzzy
 msgctxt "Walker_351"
 msgid "Nefera"
 msgstr "Нефера"
 
-#, fuzzy
 msgctxt "Walker_352"
 msgid "Ranofret"
 msgstr "Ранофрет"
 
-#, fuzzy
 msgctxt "Walker_353"
 msgid "Mutnodra"
 msgstr "Мутнодра"
 
-#, fuzzy
 msgctxt "Walker_354"
 msgid "Meryra"
 msgstr "Мерира"
 
-#, fuzzy
 msgctxt "Walker_355"
 msgid "Ramose"
 msgstr "Рамос"
 
-#, fuzzy
 msgctxt "Walker_356"
 msgid "Rashepses"
 msgstr "Рашепсес"
 
-#, fuzzy
 msgctxt "Walker_357"
 msgid "Ma'athotep"
-msgstr "Ма'атхотеп"
+msgstr "Маатхотеп"
 
-#, fuzzy
 msgctxt "Walker_358"
 msgid "Meryma'at"
-msgstr "Мерима'ат"
+msgstr "Меримаат"
 
-#, fuzzy
 msgctxt "Walker_359"
 msgid "Pedima'at"
-msgstr "Педима'ат"
+msgstr "Педимаат"
 
-#, fuzzy
 msgctxt "Walker_360"
 msgid "Neferma'at"
-msgstr "Неферма'ат"
+msgstr "Нефермаат"
 
-#, fuzzy
 msgctxt "Walker_361"
 msgid "Akenhorus"
 msgstr "Акенхорус"
 
-#, fuzzy
 msgctxt "Walker_362"
 msgid "Iunhorus"
 msgstr "Иунхорус"
 
-#, fuzzy
 msgctxt "Walker_363"
 msgid "Bakenhorus"
 msgstr "Бакенхорус"
 
-#, fuzzy
 msgctxt "Walker_364"
 msgid "Wahorus"
 msgstr "Вахорус"
 
-#, fuzzy
 msgctxt "Walker_365"
 msgid "Ptahhudjankef"
 msgstr "Птаххуджанкеф"
 
-#, fuzzy
 msgctxt "Walker_366"
 msgid "Ptahmose"
 msgstr "Птахмос"
 
-#, fuzzy
 msgctxt "Walker_367"
 msgid "Pediptah"
 msgstr "Педиптах"
 
-#, fuzzy
 msgctxt "Walker_368"
 msgid "Ptahhemhat-Ty"
 msgstr "Птаххемхат-ту"
 
-#, fuzzy
 msgctxt "Walker_369"
 msgid "Ptahhemakehet"
 msgstr "Птаххемакехет"
 
-#, fuzzy
 msgctxt "Walker_370"
 msgid "Akenptah"
 msgstr "Акенптах"
 
-#, fuzzy
 msgctxt "Walker_371"
 msgid "Waptah"
 msgstr "Ваптах"
 
-#, fuzzy
 msgctxt "Walker_372"
 msgid "Amonhotep"
 msgstr "Амонхотеп"
 
-#, fuzzy
 msgctxt "Walker_373"
 msgid "Akenamon"
 msgstr "Акенамон"
 
-#, fuzzy
 msgctxt "Walker_374"
 msgid "Siamon"
 msgstr "Сиамон"
 
-#, fuzzy
 msgctxt "Walker_375"
 msgid "Bakenamon"
 msgstr "Бакенамон"
 
-#, fuzzy
 msgctxt "Walker_376"
 msgid "Thothnodjmet"
 msgstr "Тотноджмет"
 
-#, fuzzy
 msgctxt "Walker_377"
 msgid "Akenthoth"
 msgstr "Акентот"
 
-#, fuzzy
 msgctxt "Walker_378"
 msgid "Pedithoth"
 msgstr "Педитот"
 
-#, fuzzy
 msgctxt "Walker_379"
 msgid "Siseth"
 msgstr "Сисет"
 
-#, fuzzy
 msgctxt "Walker_380"
 msgid "Wahseth"
 msgstr "Вахсет"
 
-#, fuzzy
 msgctxt "Walker_381"
 msgid "Sethmesses"
 msgstr "Сетмессес"
 
-#, fuzzy
 msgctxt "Walker_382"
 msgid "Meryseth"
 msgstr "Мерисет"
 
-#, fuzzy
 msgctxt "Walker_383"
 msgid "Sethmose"
 msgstr "Сетмос"
 
-#, fuzzy
 msgctxt "Walker_384"
 msgid "Pediseth"
 msgstr "Педисет"
 
-#, fuzzy
 msgctxt "Walker_385"
 msgid "Akenseth"
 msgstr "Акенсет"
 
-#, fuzzy
 msgctxt "Walker_386"
 msgid "Sethnodjmet"
 msgstr "Сетноджмет"
 
-#, fuzzy
 msgctxt "Walker_387"
 msgid "Anubishotep"
 msgstr "Анубисхотеп"
 
-#, fuzzy
 msgctxt "Walker_388"
 msgid "Anubismose"
 msgstr "Анубисмос"
 
-#, fuzzy
 msgctxt "Walker_389"
 msgid "Bakenanubis"
 msgstr "Бакенанубис"
 
-#, fuzzy
 msgctxt "Walker_390"
 msgid "Sianubis"
 msgstr "Сианубис"
 
-#, fuzzy
 msgctxt "Walker_391"
 msgid "Akensekhmet"
 msgstr "Акенсехмет"
 
-#, fuzzy
 msgctxt "Walker_392"
 msgid "Sekhmetnakht"
 msgstr "Сехметнахт"
 
-#, fuzzy
 msgctxt "Walker_393"
 msgid "Niankhsekhmet"
 msgstr "Нианхсехмет"
 
-#, fuzzy
 msgctxt "Walker_394"
 msgid "Merysekhmet"
 msgstr "Мерисехмет"
 
-#, fuzzy
 msgctxt "Walker_395"
 msgid "Pedibast"
 msgstr "Педибаст"
 
-#, fuzzy
 msgctxt "Walker_396"
 msgid "Sitbast"
 msgstr "Ситбаст"
 
-#, fuzzy
 msgctxt "Walker_397"
 msgid "Basthotep"
 msgstr "Бастхотеп"
 
-#, fuzzy
 msgctxt "Walker_398"
 msgid "Bastnofret"
 msgstr "Бастнофрет"
 
-#, fuzzy
 msgctxt "Walker_399"
 msgid "Bastmire"
 msgstr "Бастмири"
 
-#, fuzzy
 msgctxt "Walker_400"
 msgid "Bastwedjebu"
 msgstr "Бастведжебу"
 
-#, fuzzy
 msgctxt "Walker_401"
 msgid "Bastemshaf"
 msgstr "Бастемшаф"
 
-#, fuzzy
 msgctxt "Walker_402"
 msgid "Akenbast"
 msgstr "Акенбаст"
 
-#, fuzzy
 msgctxt "Walker_403"
 msgid "Sitisis"
 msgstr "Ситисида"
 
-#, fuzzy
 msgctxt "Walker_404"
 msgid "Isismose"
 msgstr "Исидамос"
 
-#, fuzzy
 msgctxt "Walker_405"
 msgid "Isisnodjmet"
 msgstr "Исиданоджмет"
 
-#, fuzzy
 msgctxt "Walker_406"
 msgid "Sithathor"
 msgstr "Ситхатхор"
 
-#, fuzzy
 msgctxt "Walker_407"
 msgid "Pedihathor"
 msgstr "Педихатхор"
 
-#, fuzzy
 msgctxt "Walker_408"
 msgid "Meryhathor"
 msgstr "Мерихатхор"
 
-#, fuzzy
 msgctxt "Walker_409"
 msgid "Hathornofret"
 msgstr "Хатхорнофрет"
 
-#, fuzzy
 msgctxt "Walker_410"
 msgid "Nebnefer"
 msgstr "Небнефер"
 
-#, fuzzy
 msgctxt "Walker_411"
 msgid "Anhirkawi"
 msgstr "Анхиркави"
 
-#, fuzzy
 msgctxt "Walker_412"
 msgid "Kenhirkhopeshef"
 msgstr "Кензирхопешеф"
 
-#, fuzzy
 msgctxt "Walker_413"
 msgid "Anupemheb"
 msgstr "Анупемхеб"
 
-#, fuzzy
 msgctxt "Walker_414"
 msgid "Prahotep"
 msgstr "Прахотеп"
 
-#, fuzzy
 msgctxt "Walker_415"
 msgid "Panhesi"
 msgstr "Панхеси"
 
-#, fuzzy
 msgctxt "Walker_416"
 msgid "Paneb"
 msgstr "Панеб"
 
-#, fuzzy
 msgctxt "Walker_417"
 msgid "Kjaemwase"
 msgstr "Кжаемваси"
 
-#, fuzzy
 msgctxt "Walker_418"
 msgid "Neferabu"
 msgstr "Неферабу"
 
-#, fuzzy
 msgctxt "Walker_419"
 msgid "Amennakht"
 msgstr "Аменнахт"
 
-#, fuzzy
 msgctxt "Walker_420"
 msgid "Kha'nun"
-msgstr "Ха'нун"
+msgstr "Ханун"
 
-#, fuzzy
 msgctxt "Walker_421"
 msgid "Mentmose"
 msgstr "Ментмос"
 
-#, fuzzy
 msgctxt "Walker_422"
 msgid "Patwere"
 msgstr "Патвери"
 
-#, fuzzy
 msgctxt "Walker_423"
 msgid "Pa'anuket"
-msgstr "Па'анукет"
+msgstr "Паанукет"
 
-#, fuzzy
 msgctxt "Walker_424"
 msgid "Harshire"
 msgstr "Харшири"
 
-#, fuzzy
 msgctxt "Walker_425"
 msgid "Keneben"
 msgstr "Кенебен"
 
-#, fuzzy
 msgctxt "Walker_426"
 msgid "Hormin"
 msgstr "Хормин"
 
-#, fuzzy
 msgctxt "Walker_427"
 msgid "Amenwa"
 msgstr "Аменва"
 
-#, fuzzy
 msgctxt "Walker_428"
 msgid "Pentaweret"
 msgstr "Пентаверет"
 
-#, fuzzy
 msgctxt "Walker_429"
 msgid "Pentahetnakht"
 msgstr "Пентахетнахт"
 
-#, fuzzy
 msgctxt "Walker_430"
 msgid "Nesamenopet"
 msgstr "Несаменопет"
 
-#, fuzzy
 msgctxt "Walker_431"
 msgid "Sobeksankh"
 msgstr "Собексанх"
 
-#, fuzzy
 msgctxt "Walker_432"
 msgid "Pinejem"
 msgstr "Пинежем"
 
-#, fuzzy
 msgctxt "Walker_433"
 msgid "Sinnejem"
 msgstr "Синнежем"
 
-#, fuzzy
 msgctxt "Walker_434"
 msgid "Ametju"
 msgstr "Аметжу"
 
-#, fuzzy
 msgctxt "Walker_435"
 msgid "Rensi"
 msgstr "Ренси"
 
-#, fuzzy
 msgctxt "Walker_436"
 msgid "Khunanpu"
 msgstr "Хунанпу"
 
-#, fuzzy
 msgctxt "Walker_437"
 msgid "Thutinakhte"
 msgstr "Тхутинахте"
 
-#, fuzzy
 msgctxt "Walker_438"
 msgid "Khentika"
 msgstr "Хентика"
 
-#, fuzzy
 msgctxt "Walker_439"
 msgid "Ptahshedu"
 msgstr "Птахшеду"
 
-#, fuzzy
 msgctxt "Walker_440"
 msgid "Ankhtifi"
 msgstr "Анхтифи"
 
-#, fuzzy
 msgctxt "Walker_441"
 msgid "Beshirkopshef"
 msgstr "Беширкопшеф"
 
-#, fuzzy
 msgctxt "Walker_442"
 msgid "Bakenbes"
 msgstr "Бакенбес"
 
-#, fuzzy
 msgctxt "Walker_443"
 msgid "Heqethotep"
 msgstr "Хекетхотеп"
 
-#, fuzzy
 msgctxt "Walker_444"
 msgid "Waheqet"
 msgstr "Вахекет"
 
-#, fuzzy
 msgctxt "Walker_445"
 msgid "Nefertumhotep"
 msgstr "Нефертумхотеп"
 
-#, fuzzy
 msgctxt "Walker_446"
 msgid "Merynefertum"
 msgstr "Меринефертум"
 
-#, fuzzy
 msgctxt "Walker_447"
 msgid "Nephthysankh"
 msgstr "Нефтисанх"
 
-#, fuzzy
 msgctxt "Walker_448"
 msgid "Meryneith"
 msgstr "Меринейт"
 
-#, fuzzy
 msgctxt "Walker_449"
 msgid "Siselkis"
 msgstr "Сиселкис"
 
-#, fuzzy
 msgctxt "Walker_450"
 msgid "Merytaweret"
 msgstr "Меритаверет"
 
-#, fuzzy
 msgctxt "Walker_451"
 msgid "Medesian"
 msgstr "Медесиан"
 
-#, fuzzy
 msgctxt "Walker_452"
 msgid "Akenimsety"
 msgstr "Акенимсети"
 
-#, fuzzy
 msgctxt "Walker_453"
 msgid "Akenselket"
 msgstr "Акенселкет"
 
-#, fuzzy
 msgctxt "Walker_454"
 msgid "Si'isis"
-msgstr "Си'исида"
+msgstr "Сиисида"
 
-#, fuzzy
 msgctxt "Walker_455"
 msgid "Akenisis"
 msgstr "Акенисида"
 
-#, fuzzy
 msgctxt "Walker_456"
 msgid "Akenfluoris"
 msgstr "Акенфлуорис"
 
-#, fuzzy
 msgctxt "Walker_457"
 msgid "Novakhamen"
 msgstr "Новахамен"
 
-#, fuzzy
 msgctxt "Walker_458"
 msgid "Merytecheknen"
 msgstr "Меритечекнен"
 
-#, fuzzy
 msgctxt "Walker_459"
 msgid "Mektyabehu"
 msgstr "Мектиабеху"
 
-#, fuzzy
 msgctxt "Walker_460"
 msgid "Khenmrshabehu"
 msgstr "Хенмршабеху"
 
-#, fuzzy
 msgctxt "Walker_461"
 msgid "Hetch-abehu"
 msgstr "Хетч-абеху"
 
-#, fuzzy
 msgctxt "Walker_462"
 msgid "Mesedjerikem"
 msgstr "Меседжерикем"
 
-#, fuzzy
 msgctxt "Walker_463"
 msgid "Saieb"
 msgstr "Сайеб"
 
-#, fuzzy
 msgctxt "Walker_464"
 msgid "Sarekhyt"
 msgstr "Сарехит"
 
-#, fuzzy
 msgctxt "Walker_465"
 msgid "Wahetau"
 msgstr "Вахетау"
 
-#, fuzzy
 msgctxt "Walker_466"
 msgid "Eckerdhotep"
 msgstr "Екердхотеп"
 
-#, fuzzy
 msgctxt "Walker_467"
 msgid "Meryrevco"
 msgstr "Мериревко"
 
-#, fuzzy
 msgctxt "Walker_468"
 msgid "Bakenosco"
 msgstr "Бакеноско"
 
-#, fuzzy
 msgctxt "Walker_469"
 msgid "Akenbayer"
 msgstr "Акенбайер"
 
-#, fuzzy
 msgctxt "Walker_470"
 msgid "Tesersukhons"
 msgstr "Тесерсухонс"
 
-#, fuzzy
 msgctxt "Walker_471"
 msgid "Anubisherkhepshef"
 msgstr "Анубисхерхепшеф"
 
-#, fuzzy
 msgctxt "Walker_472"
 msgid "Naneferkeneith"
 msgstr "Нанеферкенейт"
 
-#, fuzzy
 msgctxt "Walker_473"
 msgid "Sekerhotep"
 msgstr "Секерхотеп"
 
-#, fuzzy
 msgctxt "Walker_474"
 msgid "Merygeb"
 msgstr "Меригеб"
 
-#, fuzzy
 msgctxt "Walker_475"
 msgid "Noferanpu"
 msgstr "Ноферанпу"
 
-#, fuzzy
 msgctxt "Walker_476"
 msgid "Anpunodjmet"
 msgstr "Анпуноджмет"
 
-#, fuzzy
 msgctxt "Walker_477"
 msgid "Tutankhanpu"
 msgstr "Тутанханпу"
 
-#, fuzzy
 msgctxt "Walker_478"
 msgid "Meryhaat"
 msgstr "Мерихаат"
 
-#, fuzzy
 msgctxt "Walker_479"
 msgid "Swaadjhaat"
 msgstr "Свааджаат"
 
-#, fuzzy
 msgctxt "Walker_480"
 msgid "Feqaadjem"
 msgstr "Феквааджем"
 
-#, fuzzy
 msgctxt "Walker_481"
 msgid "Awsenef"
 msgstr "Авсенеф"
 
-#, fuzzy
 msgctxt "Walker_482"
 msgid "Nebseshta"
 msgstr "Небсешта"
 
-#, fuzzy
 msgctxt "Walker_483"
 msgid "Benumery"
 msgstr "Бенумери"
 
-#, fuzzy
 msgctxt "Walker_484"
 msgid "Duamutefhotep"
 msgstr "Дуамутефхотеп"
 
-#, fuzzy
 msgctxt "Walker_485"
 msgid "Abemose"
 msgstr "Абемос"
 
-#, fuzzy
 msgctxt "Walker_486"
 msgid "Meryneba"
 msgstr "Меринеба"
 
-#, fuzzy
 msgctxt "Walker_487"
 msgid "Fenti"
 msgstr "Фенти"
 
-#, fuzzy
 msgctxt "Walker_488"
 msgid "Heptsesh"
 msgstr "Хепцеш"
 
-#, fuzzy
 msgctxt "Walker_489"
 msgid "Uath-nesert"
 msgstr "Уат-несерт"
 
-#, fuzzy
 msgctxt "Walker_490"
 msgid "Wahnet"
 msgstr "Вахнет"
 
-#, fuzzy
 msgctxt "Walker_491"
 msgid "Netti"
 msgstr "Нетти"
 
-#, fuzzy
 msgctxt "Walker_492"
 msgid "Webed"
 msgstr "Вебед"
 
-#, fuzzy
 msgctxt "Walker_493"
 msgid "Kymery"
 msgstr "Кимери"
 
-#, fuzzy
 msgctxt "Walker_494"
 msgid "Nenesert"
 msgstr "Ненесерт"
 
-#, fuzzy
 msgctxt "Walker_495"
 msgid "Shemshu"
 msgstr "Шемшу"
 
-#, fuzzy
 msgctxt "Walker_496"
 msgid "Hepertmenu"
 msgstr "Хепертмену"
 
-#, fuzzy
 msgctxt "Walker_497"
 msgid "Selkishotep"
 msgstr "Селкисхотеп"
 
-#, fuzzy
 msgctxt "Walker_498"
 msgid "Pedijon"
 msgstr "Педижон"
 
-#, fuzzy
 msgctxt "Walker_499"
 msgid "Casijonesahken"
 msgstr "Касижонесахкен"
 
-#, fuzzy
 msgctxt "Walker_500"
 msgid "Ptahshepses"
 msgstr "Птахшепсес"
 
-#, fuzzy
 msgctxt "Walker_501"
 msgid "Pinotmou"
 msgstr "Пинотмоу"
 
-#, fuzzy
 msgctxt "Walker_502"
 msgid "Necho"
 msgstr "Нечо"
 
-#, fuzzy
 msgctxt "Walker_503"
 msgid "Dougeptah"
 msgstr "Дугептах"
 
-#, fuzzy
 msgctxt "Walker_504"
 msgid "Ptahnetjeru"
 msgstr "Птахнетжеру"
 
-#, fuzzy
 msgctxt "Walker_505"
 msgid "Sabef"
 msgstr "Сабеф"
 
-#, fuzzy
 msgctxt "Walker_506"
 msgid "Pamose"
 msgstr "Памос"
 
-#, fuzzy
 msgctxt "Walker_507"
 msgid "Siptah"
 msgstr "Сиптах"
 
-#, fuzzy
 msgctxt "Walker_508"
 msgid "Hori"
 msgstr "Хори"
 
-#, fuzzy
 msgctxt "Walker_509"
 msgid "Montuhirkopshef"
 msgstr "Монтухиркопшеф"
 
-#, fuzzy
 msgctxt "Walker_510"
 msgid "Fiskhamen"
 msgstr "Фисхамен"
 
-#, fuzzy
 msgctxt "Walker_511"
 msgid "Khufu"
 msgstr "Хеопс"
 
-#, fuzzy
 msgctxt "Walker_512"
 msgid "Thutmose"
 msgstr "Тутмос"
 
-#, fuzzy
 msgctxt "Walker_513"
 msgid "Nesmont"
 msgstr "Несмонт"
 
-#, fuzzy
 msgctxt "Walker_514"
 msgid "Merydonut"
 msgstr "Меридонут"
 
-#, fuzzy
 msgctxt "Walker_515"
 msgid "Samspadehotep"
 msgstr "Самспадехотеп"
 
-#, fuzzy
 msgctxt "Walker_516"
 msgid "Mektuankh"
 msgstr "Мектуанх"
 
-#, fuzzy
 msgctxt "Walker_517"
 msgid "Kojahken-ta-sherit"
 msgstr "Кожахкен-та-шерит"
 
-#, fuzzy
 msgctxt "Walker_518"
 msgid "Bluhotep"
 msgstr "Блухотеп"
 
-#, fuzzy
 msgctxt "Walker_519"
 msgid "Ahkenbadgaten"
 msgstr "Ахкенбадгатен"
 
-#, fuzzy
 msgctxt "Walker_520"
 msgid "Cuffnefer"
 msgstr "Куффнефер"
 
-#, fuzzy
 msgctxt "Walker_521"
 msgid "Pedibarnahmose"
 msgstr "Педибарнахмос"
 
-#, fuzzy
 msgctxt "Walker_522"
 msgid "Rasiren"
 msgstr "Расирен"
 
-#, fuzzy
 msgctxt "Walker_523"
 msgid "Magnumhotep"
 msgstr "Магнумхотеп"
 
-#, fuzzy
 msgctxt "Walker_524"
 msgid "Rockfordmaatre"
 msgstr "Рокфордмаатри"
 
-#, fuzzy
 msgctxt "Walker_525"
 msgid "Kojahken"
 msgstr "Кожахкен"
 
-#, fuzzy
 msgctxt "Walker_526"
 msgid "Fridayahmose"
 msgstr "Фрайдейхмос"
 
-#, fuzzy
 msgctxt "Walker_527"
 msgid "Polyseneb"
 msgstr "Полисенеб"
 
-#, fuzzy
 msgctxt "Walker_528"
 msgid "Wiggumwenemef"
 msgstr "Виггумвенемеф"
 
-#, fuzzy
 msgctxt "Walker_529"
 msgid "Hammereperre"
 msgstr "Хаммереперре"
 
-#, fuzzy
 msgctxt "Walker_530"
 msgid "Takelot"
 msgstr "Такелот"
 
-#, fuzzy
 msgctxt "Walker_531"
 msgid "Amineweh"
 msgstr "Аминевех"
 
-#, fuzzy
 msgctxt "Walker_532"
 msgid "Nebuwaat"
 msgstr "Небуваат"
 
-#, fuzzy
 msgctxt "Walker_533"
 msgid "Bewet"
 msgstr "Бевет"
 
-#, fuzzy
 msgctxt "Walker_534"
 msgid "Iaret"
 msgstr "Иарет"
 
-#, fuzzy
 msgctxt "Walker_535"
 msgid "Ankhet"
 msgstr "Анхет"
 
-#, fuzzy
 msgctxt "Walker_536"
 msgid "Hedjemet"
 msgstr "Хеджемет"
 
-#, fuzzy
 msgctxt "Walker_537"
 msgid "Khenmeshemefkaat"
 msgstr "Хенмешемефкаат"
 
-#, fuzzy
 msgctxt "Walker_538"
 msgid "Mekeshkesh"
 msgstr "Мекешкеш"
 
-#, fuzzy
 msgctxt "Walker_539"
 msgid "Amhetepf"
 msgstr "Амхетепф"
 
-#, fuzzy
 msgctxt "Walker_540"
 msgid "Avaris"
 msgstr "Аварис"
 
-#, fuzzy
 msgctxt "Walker_541"
 msgid "Raneb"
 msgstr "Ранеб"
 
-#, fuzzy
 msgctxt "Walker_542"
 msgid "Rahotep"
 msgstr "Рахотеп"
 
-#, fuzzy
 msgctxt "Walker_543"
 msgid "Petety"
 msgstr "Петети"
 
-#, fuzzy
 msgctxt "Walker_544"
 msgid "Bitakhen"
 msgstr "Битахен"
 
-#, fuzzy
 msgctxt "Walker_545"
 msgid "Amoy"
 msgstr "Амой"
 
-#, fuzzy
 msgctxt "Walker_546"
 msgid "Mose"
 msgstr "Мос"
 
-#, fuzzy
 msgctxt "Walker_547"
 msgid "Mektu"
 msgstr "Мекту"
 
-#, fuzzy
 msgctxt "Walker_548"
 msgid "Wamektu"
 msgstr "Вамекту"
 
-#, fuzzy
 msgctxt "Walker_549"
 msgid "Wahikem"
 msgstr "Вахикем"
 
-#, fuzzy
 msgctxt "Walker_550"
 msgid "Tutwa"
 msgstr "Тутва"
 
-#, fuzzy
 msgctxt "Walker_551"
 msgid "Tjepu"
 msgstr "Тжепу"
 
-#, fuzzy
 msgctxt "Walker_552"
 msgid "Peksater"
 msgstr "Пексатер"
 
-#, fuzzy
 msgctxt "Walker_553"
 msgid "Peftjauabastet"
 msgstr "Пефтжауабастет"
 
-#, fuzzy
 msgctxt "Walker_554"
 msgid "Roma-Roy"
 msgstr "Рома-рой"
 
-#, fuzzy
 msgctxt "Walker_555"
 msgid "Sethe"
 msgstr "Сетхи"
 
-#, fuzzy
 msgctxt "Walker_556"
 msgid "Senebtyfy"
 msgstr "Сенебтифи"
 
-#, fuzzy
 msgctxt "Walker_557"
 msgid "Teti-en"
 msgstr "Тети-эн"
