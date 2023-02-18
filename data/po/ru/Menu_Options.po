@@ -11,8 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 msgctxt "#Aging"
@@ -88,25 +87,13 @@ msgctxt "#Difficulty_Easy"
 msgid "Easy"
 msgstr "Лёгкая"
 
-msgctxt "#Difficulty_Easy_Hover"
-msgid "A more relaxed way to play"
-msgstr ""
-
 msgctxt "#Difficulty_Hard"
 msgid "Hard"
 msgstr "Тяжёлая"
 
-msgctxt "#Difficulty_Hard_Hover"
-msgid "For those who seek more of a challenge"
-msgstr ""
-
 msgctxt "#Difficulty_Normal"
 msgid "Normal"
 msgstr "Нормальная"
-
-msgctxt "#Difficulty_Normal_Hover"
-msgid "The standard way of experiencing Pharaoh: A New Era"
-msgstr ""
 
 msgctxt "#Difficulty_Title"
 msgid "Difficulty"
@@ -296,7 +283,8 @@ msgstr ""
 
 msgctxt "#WalkerRanger_1_hover"
 msgid ""
-"Every type of walker has its own range, some can cover more tiles than others"
+"Every type of walker has its own range, some can cover more tiles than "
+"others"
 msgstr ""
 
 msgctxt "#Waterlift"
@@ -305,8 +293,8 @@ msgstr ""
 
 msgctxt "#Waterlift_0_hover"
 msgid ""
-"Waterlifts automatically get access to the workforce even when not connected "
-"to a road"
+"Waterlifts automatically get access to the workforce even when not connected"
+" to a road"
 msgstr ""
 
 msgctxt "#Waterlift_1_hover"
@@ -324,7 +312,8 @@ msgid "Recruiters"
 msgstr ""
 
 msgctxt "#Worforce_0_hover"
-msgid "Buildings send recruiters looking for the workforce in inhabited houses"
+msgid ""
+"Buildings send recruiters looking for the workforce in inhabited houses"
 msgstr ""
 
 msgctxt "#Worforce_1"
@@ -336,3 +325,27 @@ msgid ""
 "Every building has access to the workforce as long as it's connected to a "
 "road"
 msgstr ""
+
+msgctxt "#Difficulty_Title_0_hover"
+msgid "A more relaxed way to play"
+msgstr ""
+
+msgctxt "#Difficulty_Title_1_hover"
+msgid "The standard way of experiencing Pharaoh: A New Era"
+msgstr ""
+
+msgctxt "#Difficulty_Title_2_hover"
+msgid "For those who seek more of a challenge"
+msgstr ""
+
+#~ msgctxt "#Difficulty_Easy_Hover"
+#~ msgid "A more relaxed way to play"
+#~ msgstr ""
+
+#~ msgctxt "#Difficulty_Hard_Hover"
+#~ msgid "For those who seek more of a challenge"
+#~ msgstr ""
+
+#~ msgctxt "#Difficulty_Normal_Hover"
+#~ msgid "The standard way of experiencing Pharaoh: A New Era"
+#~ msgstr ""

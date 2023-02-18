@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_bazaarnofood"
 msgid ""
 "This house will devolve soon. Although it has access to a Bazaar, the Bazaar"
@@ -21,7 +21,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. Хотя у жителей есть доступ к базару, "
 "на базаре продается не так много пищи."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_losteducation"
 msgid ""
 "This house will devolve soon. Its previously excellent access to education "
@@ -30,7 +30,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. Жители потеряли доступ к высшим "
 "учебным заведениям и не могут получить превосходное образование."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_lowentertainment_1"
 msgid ""
 "This house will devolve soon, as there is hardly any entertainment in the "
@@ -38,14 +38,14 @@ msgid ""
 msgstr ""
 "Состояние этого дома скоро ухудшится. В этом районе совсем мало развлечений."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_lowentertainment_20"
 msgid ""
 "This house will devolve soon, as there is too little entertainment in the "
 "location"
 msgstr "Состояние этого дома скоро ухудшится. В этом районе мало развлечений."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_lowentertainment_40"
 msgid ""
 "This house will devolve soon. There is some entertainment to be found in the"
@@ -54,7 +54,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. В этом районе есть какие-то "
 "развлечения, но их недостаточно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_lowentertainment_60"
 msgid ""
 "This house will devolve soon. There is good entertainment to be found in the"
@@ -63,7 +63,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. В этом районе есть немало развлечений,"
 " но они слишком однообразные."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_lowentertainment_80"
 msgid ""
 "This house will devolve soon. There is excellent entertainment to be found "
@@ -74,7 +74,7 @@ msgstr ""
 "развлечения, но в местах для них большие толпы, либо сами развлечения "
 "слишком однообразны для разборчивой образованной публики."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_no2ndfood"
 msgid ""
 "This house will devolve soon, as it currently only has access to a single "
@@ -84,7 +84,7 @@ msgstr ""
 "виду пищи с местного базара, а это делает район непривлекательным для более "
 "обеспеченных граждан."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_no2ndluxurygoods"
 msgid ""
 "This house will devolve soon, as its discerning residents want a second type"
@@ -93,7 +93,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится, так как его разборчивые жители хотят "
 "получать еще один тип предметов роскоши."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_no2ndreligion"
 msgid ""
 "This house will devolve soon. Its access to local religious facilities was "
@@ -102,7 +102,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. Из мест для поклонения у жителей "
 "остался доступ к храму только одного бога."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_no3rdfood"
 msgid ""
 "This house will devolve soon, as it currently gets only two types of food "
@@ -112,7 +112,7 @@ msgstr ""
 "видам пищи с местного базара, а это делает район непривлекательным для "
 "классов образованных людей."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_no3rdreligion"
 msgid ""
 "This house will devolve soon. Its previously excellent religious facilities "
@@ -121,13 +121,13 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. Из мест для поклонения у жителей "
 "остался доступ к храмам только двух богов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nobazaar"
 msgid "This house will devolve soon. It has lost access to a Bazaar."
 msgstr ""
 "Состояние этого дома скоро ухудшится. У жителей больше нет доступа к базару."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nobeer"
 msgid ""
 "This house will devolve soon, as it has run out of beer and its local Bazaar"
@@ -136,7 +136,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. В нем закончилось пиво, а на местном "
 "базаре оно продается нерегулярно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nocourthouse"
 msgid ""
 "This house will devolve soon, as it has no access to magistrates from "
@@ -144,14 +144,14 @@ msgid ""
 msgstr ""
 "Состояние этого дома скоро ухудшится. Жители потеряли доступ к залу суда."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nodentist"
 msgid "This house will devolve soon, as it has lost Dentist access."
 msgstr ""
 "Состояние этого дома скоро ухудшится. Жители потеряли доступ к зубному "
 "врачу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nodesirability"
 msgid ""
 "This house will devolve soon. The falling desirability of living in this "
@@ -160,7 +160,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. Привлекательность района упала слишком"
 " низко."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_noeducation"
 msgid ""
 "This house will devolve soon, as it has lost all basic educational "
@@ -169,14 +169,14 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. Жители потеряли доступ к базовому "
 "образованию, которое дает школа писцов или библиотека."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_noentertainment"
 msgid ""
 "This house will devolve soon, as there is no entertainment to be found in "
 "the location"
 msgstr "Состояние этого дома скоро ухудшится. В этом районе нет развлечений."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nofood"
 msgid ""
 "This house will devolve soon, as it has not received any supplies of food "
@@ -185,7 +185,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. Жители давно не получали пищи с "
 "местного базара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nohealth"
 msgid ""
 "This house will devolve soon, as it now has woeful health provision. Not "
@@ -196,7 +196,7 @@ msgstr ""
 "здравоохранения. У жителей не только нет доступа к бальзамировщику, но и к "
 "лекарю им попасть не так просто."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nolibrary"
 msgid ""
 "This house will devolve soon. Its access to education has been downgraded, "
@@ -205,7 +205,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. Жители потеряли доступ к библиотеке, и"
 " им стало сложнее получить образование."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nolinen"
 msgid ""
 "This house will devolve soon, as it has run out of linen and its local "
@@ -214,7 +214,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. В нем закончилась ткань, а на местном "
 "базаре она продается нерегулярно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_noluxurygoods"
 msgid ""
 "This house will devolve soon. The idle scribes who live here need a Bazaar "
@@ -223,7 +223,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. Живущим здесь скучающим писцам нужен "
 "базар, который будет обеспечивать их предметами роскоши."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nomortuary"
 msgid ""
 "This house will devolve soon, as its health provision has been cut. "
@@ -233,7 +233,7 @@ msgstr ""
 "здравоохранения. Сюда заходит лекарь, но у жителей нет доступа к "
 "бальзамировщику."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nophysician"
 msgid ""
 "This house will devolve soon, as its health provision has been cut. There is"
@@ -243,7 +243,7 @@ msgstr ""
 "здравоохранения. У жителей есть доступ к бальзамировщику, но им сложно найти"
 " лавку лекаря."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nopottery"
 msgid ""
 "This house will devolve soon. It has run out of pottery, and its local "
@@ -252,7 +252,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. В нем закончились керамические "
 "изделия, а на местном базаре они продаются нерегулярно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_noreligion"
 msgid ""
 "This house will devolve soon, as it has lost all access to local religious "
@@ -261,7 +261,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. Жители потеряли доступ к местам для "
 "поклонения богам."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_noscribalschool"
 msgid ""
 "This house will devolve soon. Its access to education has been downgraded, "
@@ -270,7 +270,7 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. Жители потеряли доступ к школе писцов,"
 " и им стало сложнее получить образование."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nowater"
 msgid ""
 "This house will devolve soon, as it lacks access to even the most primitive "
@@ -279,12 +279,12 @@ msgstr ""
 "Состояние этого дома скоро ухудшится. У жителей нет доступа даже к самому "
 "примитивному источнику воды."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#devolve_nowatercarrier"
 msgid "This house will devolve soon, as it is not visited by a water carrier"
 msgstr "Состояние этого дома скоро ухудшится. Сюда не ходит водонос."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_bazaarnofood"
 msgid ""
 "This house cannot evolve. Although it has access to a local Bazaar, the "
@@ -293,7 +293,7 @@ msgstr ""
 "Этот дом не может улучшиться. Хотя у жителей есть доступ к местному базару, "
 "они получают не так много пищи."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_lowentertainment_1"
 msgid ""
 "This house cannot evolve, as there is hardly any entertainment to be found "
@@ -301,14 +301,14 @@ msgid ""
 msgstr ""
 "Этот дом не может улучшиться, так как в этом районе совсем мало развлечений."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_lowentertainment_20"
 msgid ""
 "This house cannot evolve, as there is too little entertainment to be found "
 "in the location."
 msgstr "Этот дом не может улучшиться, так как в этом районе мало развлечений."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_lowentertainment_40"
 msgid ""
 "This house cannot evolve, as there is some entertainment to be found in the "
@@ -317,7 +317,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как в этом районе недостаточно "
 "развлечений."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_lowentertainment_60"
 msgid ""
 "This house cannot evolve, as there is good entertainment to be found in the "
@@ -326,7 +326,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как развлечения в этом районе слишком "
 "однообразные."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_lowentertainment_80"
 msgid ""
 "This house cannot evolve, as there is excellent entertainment to be found in"
@@ -337,7 +337,7 @@ msgstr ""
 "местах для них большие толпы, либо сами развлечения слишком однообразны для "
 "разборчивой образованной публики."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_no2ndfood"
 msgid ""
 "This house cannot evolve, as it needs a second type of food, supplied from a"
@@ -346,7 +346,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как богатым жителям требуются поставки "
 "второго типа пищи с местного базара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_no2ndluxurygood"
 msgid ""
 "In order to evolve, a Bazaar must provide this house with a second type of "
@@ -355,7 +355,7 @@ msgstr ""
 "Чтобы улучшить этот дом, жители должны получать с базара второй тип "
 "предметов роскоши, например:"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_no2ndreligion"
 msgid ""
 "This house has access to Temples of a single god only. It will not improve "
@@ -364,7 +364,7 @@ msgstr ""
 "У жителей этого дома есть доступ к храмам только одного бога. Дом не "
 "улучшится, пока они не смогут воздавать почести другим богам."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_no3rdfood"
 msgid ""
 "This house cannot evolve, as it needs a third type of food, supplied from a "
@@ -373,7 +373,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как богатым жителям требуются поставки "
 "третьего типа пищи с местного базара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_no3rdreligion"
 msgid ""
 "This house has access to Temples of only two gods. It will not improve until"
@@ -382,7 +382,7 @@ msgstr ""
 "У жителей этого дома есть доступ к храмам только двух богов. Дом не "
 "улучшится, пока они не смогут воздавать почести другим богам."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nobazaar"
 msgid ""
 "This house cannot evolve, as it does not have access to a local Bazaar."
@@ -390,7 +390,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как у жителей нет доступа к местному "
 "базару."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nobeer"
 msgid ""
 "This house cannot evolve. It needs supplies of beer provided to it by its "
@@ -399,7 +399,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как более обеспеченным жителям требуются "
 "поставки пива с местного базара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nocourthouse"
 msgid ""
 "This house cannot evolve, as it does not have access to a local magistrate "
@@ -407,20 +407,20 @@ msgid ""
 msgstr ""
 "Этот дом не может улучшиться, так как у жителей нет доступа к залу суда."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nodentist"
 msgid "This house cannot evolve, as it has no local access to a Dentist."
 msgstr ""
 "Этот дом не может улучшиться, так как у жителей нет доступа к местному "
 "зубному врачу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nodesirability"
 msgid ""
 "This dwelling cannot evolve until the desirability of the area improves."
 msgstr "Это жилище не может улучшиться, пока район не станет благополучнее."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_noeducation"
 msgid ""
 "This house cannot evolve, as it has no basic educational facilities provided"
@@ -429,14 +429,14 @@ msgstr ""
 "Этот дом не может улучшиться, так как у жителей нет доступа к базовому "
 "образованию, которое дает школа писцов или библиотека."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_noentertainment"
 msgid ""
 "This house cannot evolve, as there is no entertainment to be found in the "
 "location."
 msgstr "Этот дом не может улучшиться, так как в этом районе нет развлечений."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nofood"
 msgid ""
 "This house cannot evolve, as it needs a supply of food from a local Bazaar."
@@ -444,7 +444,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как жителям требуются поставки пищи с "
 "местного базара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nohealth"
 msgid ""
 "This house cannot evolve, as it effectively has no health provision. It does"
@@ -453,7 +453,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как его отрезали от системы "
 "здравоохранения. У жителей нет доступа к лекарю или бальзамировщику."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nolibrary"
 msgid ""
 "This house cannot evolve, as its access to education needs to be improved by"
@@ -462,7 +462,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как требуется улучшить доступ жителей к "
 "образованию и продолжить дорогу к библиотеке."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nolinen"
 msgid ""
 "This house cannot evolve. It needs supplies of linen provided to it by its "
@@ -471,7 +471,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как более обеспеченным жителям требуются "
 "поставки ткани с местного базара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_noluxurygood"
 msgid ""
 "This house cannot evolve. Before a wealthier class of citizen will move in, "
@@ -482,7 +482,7 @@ msgstr ""
 "жители, местный базар должен обеспечить дом предметами роскоши, такими как "
 "украшения <sprite name=\"Jewelry\">."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nomortuary"
 msgid ""
 "This house cannot evolve, as it wants greater health provision. Physician "
@@ -491,7 +491,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как его жители недовольны системой "
 "здравоохранения. Сюда заходит лекарь, но нет доступа к бальзамировщику."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nophysican"
 msgid ""
 "This house cannot evolve, as it wants greater health provision. There is "
@@ -500,7 +500,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как его жители недовольны системой "
 "здравоохранения. Здесь есть доступ к бальзамировщику, но требуется и лекарь."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nopottery"
 msgid ""
 "This house cannot evolve. It needs supplies of pottery provided to it by its"
@@ -509,7 +509,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как более обеспеченным жителям требуются "
 "поставки керамики с местного базара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_noreligion"
 msgid ""
 "This house cannot evolve, as it has no access to any local religious "
@@ -518,7 +518,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как у жителей нет доступа к местам для "
 "поклонения богам."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_noscribalschool"
 msgid ""
 "This house cannot evolve, as its access to education needs to be improved by"
@@ -527,7 +527,7 @@ msgstr ""
 "Этот дом не может улучшиться, так как требуется улучшить доступ жителей к "
 "образованию и продолжить дорогу к школе писцов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nowater"
 msgid ""
 "This house cannot evolve, as it does not have access to even the most "
@@ -536,14 +536,14 @@ msgstr ""
 "Этот дом не может улучшиться, так как у жителей нет доступа даже к самому "
 "примитивному источнику воды."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_nowatercarrier"
 msgid ""
 "This house cannot evolve, as it does not have access to a water carrier's "
 "services "
 msgstr "Этот дом не может улучшиться, так как сюда не ходит водонос."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_perfect"
 msgid ""
 "The dwellers of this palace are at the pinnacle of Egyptian society. They "
@@ -554,7 +554,7 @@ msgstr ""
 "нуждаются, и одно удовлетворение их текущих потребностей уже немалое "
 "достижение!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#evolve_soon"
 msgid ""
 "Local conditions are improving, and this dwelling's owners are upgrading it "
@@ -562,12 +562,12 @@ msgid ""
 msgstr ""
 "Обстановка налаживается, и жители этого дома занимаются его улучшением."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_00"
 msgid "Unoccupied"
 msgstr "Нет жителей"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_00_desc"
 msgid ""
 "This plot is vacant at the moment. Either the land has not yet been built "
@@ -576,7 +576,7 @@ msgstr ""
 "Этот участок в данный момент свободен. Либо на здесь еще ничего не "
 "построили, либо предыдущие жильцы заболели и умерли."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_00_noroad"
 msgid ""
 "This lot is too far from the nearest road. Unless a new road is soon built "
@@ -585,212 +585,212 @@ msgstr ""
 "Этот участок находится слишком далеко от дороги. Если в ближайшее время "
 "рядом с ним не появится дорога, участок пропадет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_01"
 msgid "Crude Hut"
 msgstr "Грубая лачуга"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_02"
 msgid "Sturdy Hut"
 msgstr "Крепкая лачуга"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_03"
 msgid "Meager Shanty"
 msgstr "Бедная хижина"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_04"
 msgid "Common Shanty"
 msgstr "Обычная хижина"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_05"
 msgid "Rough Cottage"
 msgstr "Примитивный дом"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_06"
 msgid "Ordinary Cottage"
 msgstr "Обычный дом"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_07"
 msgid "Modest Homestead"
 msgstr "Скромная усадьба"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_08"
 msgid "Spacious Homestead"
 msgstr "Просторная усадьба"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_09"
 msgid "Modest Apartment"
 msgstr "Скромные апартаменты"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_10"
 msgid "Spacious Apartment"
 msgstr "Просторные апартаменты"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_11"
 msgid "Common Residence"
 msgstr "Обычная резиденция"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_12"
 msgid "Spacious Residence"
 msgstr "Просторная резиденция"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_13"
 msgid "Elegant Residence"
 msgstr "Элегантная резиденция"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_14"
 msgid "Fancy Residence"
 msgstr "Богатая резиденция"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_15"
 msgid "Common Manor"
 msgstr "Обычное поместье"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_16"
 msgid "Spacious Manor"
 msgstr "Просторное поместье"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_17"
 msgid "Elegant Manor"
 msgstr "Элегантное поместье"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_18"
 msgid "Stately Manor"
 msgstr "Величественное поместье"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_19"
 msgid "Modest Estate"
 msgstr "Скромное имение"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_20"
 msgid "Palatial Estate"
 msgstr "Роскошное имение"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_crimerisk_00"
 msgid "Residents report no crime at all."
 msgstr "Жители не сообщают ни о каких преступлениях."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_crimerisk_15"
 msgid "This is a peaceful neighborhood."
 msgstr "Это мирный район."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_crimerisk_30"
 msgid "There is some crime here, nothing serious."
 msgstr "Случаются мелкие преступления, но ничего серьезного."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_crimerisk_45"
 msgid "Crime is becoming a problem."
 msgstr "Преступность становится проблемой."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_crimerisk_60"
 msgid "High crime levels are scaring the locals."
 msgstr "Уровень преступности пугает жителей."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_crimerisk_75"
 msgid "A lawless area. People fear for their safety."
 msgstr "Место, где царит беззаконие. Люди боятся за свою жизнь."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_crimerisk_90"
 msgid "This is a breeding ground for thieves."
 msgstr "Рассадник воров."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_disease"
 msgid "House infected for another {0} days."
 msgstr "Инфекция будет присутствовать в доме еще {0} д."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_extraroom"
 msgid "Extra room for {0}"
 msgstr "Есть место для {0} чел."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_firerisk_00"
 msgid "No fire risk."
 msgstr "Нет риска пожара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_firerisk_15"
 msgid "Very low fire risk."
 msgstr "Очень низкий риск пожара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_firerisk_30"
 msgid "Low fire risk."
 msgstr "Низкий риск пожара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_firerisk_45"
 msgid "Some fire risk."
 msgstr "Небольшой риск пожара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_firerisk_60"
 msgid "High fire risk."
 msgstr "Высокий риск пожара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_firerisk_75"
 msgid "Very high fire risk."
 msgstr "Очень высокий риск пожара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_firerisk_90"
 msgid "Extreme fire risk."
 msgstr "Крайне высокий риск пожара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_food"
 msgid "Food"
 msgstr "Пища"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_frogs"
 msgid "House infested with frogs for another {0} days."
 msgstr "Нашествие лягушек продлится еще {0} д."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_goods"
 msgid "Goods"
 msgstr "Товары"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_health_00"
 msgid "The inhabitants of this house are in excellent health."
 msgstr "У обитателей этого дома образцовое состояние здоровья."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_health_15"
 msgid "The health of this house's inhabitants is very good."
 msgstr "У обитателей этого дома очень хорошее здоровье."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_health_30"
 msgid ""
 "Plague is still possible, but the health conditions of this house's "
@@ -799,7 +799,7 @@ msgstr ""
 "Здоровье обитателей этого дома хорошее, но есть небольшой риск заражения "
 "чумой."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_health_45"
 msgid ""
 "The health of this house's inhabitants is average at best, and plague could "
@@ -807,7 +807,7 @@ msgid ""
 msgstr ""
 "Здоровье обитателей этого дома довольно среднее, они могут заболеть чумой."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_health_60"
 msgid ""
 "The health of this house's inhabitants is poor, there is serious risk of "
@@ -816,7 +816,7 @@ msgstr ""
 "Здоровье обитателей этого дома в не лучшем состоянии, есть высокий риск "
 "чумы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_health_75"
 msgid ""
 "The health of this house's inhabitants is terrible and plague is very "
@@ -825,19 +825,19 @@ msgstr ""
 "Здоровье обитателей этого дома в плохом состоянии, скорее всего, они скоро "
 "заразятся чумой."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_health_90"
 msgid ""
 "The health of this house's inhabitants has become appalling. Plague is "
 "imminent."
 msgstr "Здоровье обитателей этого дома в ужасном состоянии. Чума неизбежна."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_luxurygoods"
 msgid "Luxury Goods"
 msgstr "Предметы роскоши"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_nodesirability"
 msgid ""
 "A nearby building ({[Building]}) is having a detrimental effect on the "
@@ -846,7 +846,7 @@ msgstr ""
 "Здание поблизости ({[Building]}) плохо влияет на привлекательность этого "
 "места."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_nospace"
 msgid ""
 "This dwelling would soon evolve to one of greater stature if it had more "
@@ -855,17 +855,17 @@ msgstr ""
 "Этот дом улучшится до более престижной резиденции, если у него будет место "
 "для расширения."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_occupants"
 msgid "{0} occupants"
 msgstr "Проживает {0} чел."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_taxes_off"
 msgid "Not visited by a tax collector. Not paying tax"
 msgstr "Сборщик податей не заходил. Подати не платятся."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#house_taxes_on"
 msgid "Generated {0} debens<sprite name=\"Deben\"> so far in tax."
 msgstr "Сборщик податей получил дебены <sprite name=\"Deben\">: {0}."

@@ -11,15 +11,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 msgctxt "#AbuSimbel"
 msgid "Abu Simbel"
 msgstr "Абу-Симбел"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#AbuSimbel_Completed"
 msgid ""
 "The impressive figures of our Ramses II welcome all who approach Egypt from "
@@ -28,21 +27,21 @@ msgstr ""
 "Величественные фигуры Рамзеса II приветствуют всех, кто подходит к Египту с "
 "юга."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#AbuSimbel_Working"
 msgid ""
 "Workers are busy working on Abu Simbel. Make sure that the carpenters have "
 "plenty of wood so that they can build scaffolding in a timely fashion."
 msgstr ""
-"Работа над Абу-Симбелом кипит. Убедитесь, что у плотников достаточно дерева, "
-"чтобы они успели возвести строительные леса."
+"Работа над Абу-Симбелом кипит. Убедитесь, что у плотников достаточно дерева,"
+" чтобы они успели возвести строительные леса."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#AlexandriasLibrary"
 msgid "Alexandria's Library"
 msgstr "Александрийская библиотека"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#BentPyramid_CourseLeft"
 msgid ""
 "The remainder of the Bent Pyramid will require an additional {0} blocks of "
@@ -53,7 +52,7 @@ msgstr ""
 "name=\"Plainstone\"> ({0} шт.) и блоки известняка <sprite "
 "name=\"Limestone\"> ({1} шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#BentPyramid_Done"
 msgid ""
 "The bent pyramid is now complete, and contains a total of {0} blocks of "
@@ -64,7 +63,7 @@ msgstr ""
 "name=\"Plainstone\"> ({0} шт.), блоков известняка <sprite "
 "name=\"Limestone\"> ({1} шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#BrickCorePyramid_Course"
 msgid ""
 "The current course requires {0} bricks<sprite name=\"Bricks\"> and {1} "
@@ -73,7 +72,7 @@ msgstr ""
 "Для текущего слоя требуются: кирпичи <sprite name=\"Bricks\"> ({0} шт.), "
 "блоки известняка <sprite name=\"Limestone\"> ({1} шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#BrickCorePyramid_CourseLeft"
 msgid ""
 "The remainder of the Brick-Core Pyramid will require an additional {0} "
@@ -84,7 +83,7 @@ msgstr ""
 "name=\"Bricks\"> ({0} шт.) и блоки известняка <sprite name=\"Limestone\"> "
 "({1} шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#BrickCorePyramid_Done"
 msgid ""
 "The brick-core pyramid is now complete, and contains a total of {0} "
@@ -95,7 +94,7 @@ msgstr ""
 "name=\"Bricks\"> ({0} шт.), блоков известняка <sprite name=\"Limestone\"> "
 "({1} шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#BurialTomb_Completed"
 msgid ""
 "The hidden Royal Burial Tomb is now ready for the Pharaoh. May Horus guard "
@@ -104,19 +103,19 @@ msgstr ""
 "Потаенная царская гробница уже готова для фараона. Да хранит ее Гор и да "
 "покарает он любого, кто осмелится нарушить покой царской усыпальницы!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#BurialTomb_Lamps"
 msgid "Lamps: {0}"
 msgstr "Лампы: {0}"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#BurialTomb_NoAccess"
 msgid "Workers can't get to the tomb's entrance. See what's blocking the way."
 msgstr ""
 "Рабочие не могут попасть к входу в гробницу. Узнайте, что преграждает им "
 "дорогу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#BurialTomb_NoBurialGoods"
 msgid ""
 "The Royal Burial Tomb is complete. All that is lacking now are the burial "
@@ -125,16 +124,16 @@ msgstr ""
 "Царская гробница готова. Осталось только наполнить ее всем, что понадобится "
 "усопшему на полях Иалу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#BurialTomb_NoLamps"
 msgid ""
-"The artisans and masons refuse to step foot in the Royal Burial Tomb without "
-"lamps. It is awfully dark in there!"
+"The artisans and masons refuse to step foot in the Royal Burial Tomb without"
+" lamps. It is awfully dark in there!"
 msgstr ""
 "Художники и каменщики отказываются даже заходить в царскую гробницу без "
 "ламп. Там темно хоть глаз выколи!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#BurialTomb_NoProblem"
 msgid ""
 "The artisans and masons are busy at their crafts, and work on the Royal "
@@ -149,7 +148,7 @@ msgctxt "#Caesareum"
 msgid "Caesareum"
 msgstr "Цезариум"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Caesareum_Completed"
 msgid ""
 "The Caesareum is complete and celebrates the union between Egypt and Rome."
@@ -167,33 +166,33 @@ msgid ""
 "marble ({1} loads)."
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Caesareum_Step_1"
 msgid "Peasants are hard at work, clearing the land for the Caesareum."
 msgstr "Крестьяне в поте лица расчищают площадку для Цезариума."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Caesareum_Step_2"
 msgid ""
 "Now that the land is ready, the stonemasons are busy laying a solid "
 "foundation."
 msgstr "Площадка готова, и сейчас каменщики закладывают прочный фундамент."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Caesareum_Step_3"
 msgid ""
 "Our tired stonemasons have finished laying the foundation. No rest for the "
 "weary, though: construction of the temple is underway."
 msgstr ""
-"Наши усталые каменщики закончили работу над фундаментом, но нам покой только "
-"снится: уже начато возведение самого храма."
+"Наши усталые каменщики закончили работу над фундаментом, но нам покой только"
+" снится: уже начато возведение самого храма."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Caesareum_Step_4"
 msgid "With the central temple complete, work has begun on the patio!"
 msgstr "Центральный храм готов, и начались работы над двором!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Caesareum_Step_5"
 msgid ""
 "From patios to porticos! Our skillful stonemasons have finished the patio "
@@ -202,22 +201,23 @@ msgstr ""
 "Из двора в галерею! Наши умелые каменщики закончили двор и приступили к "
 "строительству крытой галереи."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Caesareum_Step_6"
-msgid "The stonemasons have started placing the roof on the portico's pillars."
+msgid ""
+"The stonemasons have started placing the roof on the portico's pillars."
 msgstr "Каменщики начали укладывать крышу на колонны галереи."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Caesareum_Step_7"
 msgid "All of the roof sections are in place on the porticos."
 msgstr "Все части крыши галереи уложены."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Caesareum_Step_8"
 msgid "The Caesareum's majestic entranceway is finished."
 msgstr "Величественный вход в Цезариум полностью готов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Caesareum_Step_9"
 msgid ""
 "Stonemasons have finished the Caesareum's interior and have turned their "
@@ -226,27 +226,27 @@ msgstr ""
 "Каменщики закончили работу над внутренними помещениями Цезариума и теперь "
 "перешли к гранитным обелискам, которые украшают внешние стены здания."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#ConstructionForeman"
 msgid "Construction Foreman"
 msgstr "Прораб"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#CoursesCompleted"
 msgid "{0} courses have been completely laid in place."
 msgstr "Полностью уложенных слоев: {0}."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#CoursesCompleted_One"
 msgid "One course has been completely laid in place. "
 msgstr "Полностью уложен 1 слой."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#CoursesCompleted_Zero"
 msgid "No courses have been completely laid in place yet."
 msgstr "Пока не уложено ни одного слоя."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_BrickCorePyramid_ClearSite"
 msgid ""
 "Workers are just clearing and leveling the construction site now. After "
@@ -255,7 +255,7 @@ msgstr ""
 "Рабочие только расчищают и выравнивают строительную площадку. Потом нам "
 "понадобится много кирпичей и известняка для самого строительства."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_Bricks_Stockpiled"
 msgid ""
 "Your Overseer of Commerce dares to blame you for the work stoppage! He "
@@ -264,7 +264,7 @@ msgstr ""
 "Советник по торговле нагло заявляет мне, что это вы виноваты в остановке "
 "работ! Потому что якобы приказали отправлять весь кирпич на склады."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_Copper_Stockpiled"
 msgid ""
 "The Overseer of Commerce told me that you have ordered him to stockpile "
@@ -275,7 +275,7 @@ msgstr ""
 "вас наверняка на это были причины, понимаю, но без меди мы не можем "
 "продолжить строительство этого памятника."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_Copper_Stockpiled_var"
 msgid ""
 "Without a supply of copper how can you expect the roof of this great "
@@ -286,7 +286,7 @@ msgstr ""
 "даже нет меди? К моему удивлению, ваш советник по торговле заявил, что вся "
 "медь сейчас запасается на складах."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_Granite_Stockpiled"
 msgid ""
 "Your Overseer of Commerce says that you commanded him to stockpile granite. "
@@ -296,19 +296,19 @@ msgstr ""
 "полученный гранит. Если не разъясните ему, что к чему, мои рабочие так и не "
 "дождутся поставок."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_Granite_Stockpiled_var"
 msgid ""
 "I've learned from a reliable source that granite is being stockpiled.  Do "
-"you expect me to conjure up what I need from the sands of the Nile?  You had "
-"better see to it that some granite is made available to my stonemasons "
+"you expect me to conjure up what I need from the sands of the Nile?  You had"
+" better see to it that some granite is made available to my stonemasons "
 "immediately."
 msgstr ""
 "Мне тут надежный человек сказал, что весь гранит сейчас идет строго на "
 "склад. А мы тогда как? Мне что, из нильского песка его наколдовать "
 "прикажете? Проследите, чтоб моим каменщикам срочно доставили гранита."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_Limestone_Stockpiled"
 msgid ""
 "Your Overseer of Commerce says that you commanded him to stockpile "
@@ -319,27 +319,27 @@ msgstr ""
 "полученный известняк. Если не разъясните ему, что к чему, мои рабочие так и "
 "не дождутся поставок."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_Marble_Stockpiled"
 msgid ""
-"Could you ask your Overseer of Commerce to stop stockpiling white marble? We "
-"could really use it on the monument."
+"Could you ask your Overseer of Commerce to stop stockpiling white marble? We"
+" could really use it on the monument."
 msgstr ""
 "Попросите советника по торговле прекратить уже отправлять весь белый мрамор "
 "на склады. Он нам нужен для строительства."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_Marble_Stockpiled_var"
 msgid ""
 "It is hard to believe, but the Overseer of Commerce informs me that marble "
 "is being stockpiled in our storage yards.  Without marble, how can you "
 "expect work to continue?"
 msgstr ""
-"Даже слабо верится, но советник по торговле утверждает, что весь мрамор идет "
-"прямо на наши склады, а оттуда уже никуда. А как вы хотите, чтоб мы строили, "
-"если нет мрамора?"
+"Даже слабо верится, но советник по торговле утверждает, что весь мрамор идет"
+" прямо на наши склады, а оттуда уже никуда. А как вы хотите, чтоб мы "
+"строили, если нет мрамора?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoArtisans"
 msgid ""
 "The Pharaoh will not be the least bit amused if his life story is not told "
@@ -350,7 +350,7 @@ msgstr ""
 "здесь самым искусным образом. А кто будет расписывать гробницу, когда у нас "
 "даже нет артели художников?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoBricklayers"
 msgid ""
 "I suppose the bricks for this project will magically assemble themselves. "
@@ -359,7 +359,7 @@ msgstr ""
 "Кирпичи для этого строительства волшебным образом появятся сами, надо "
 "думать? Иначе не пойму, почему артели укладчиков кирпича до сих пор нет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoBricks"
 msgid ""
 "Our bricklayers need a lot more bricks than they're getting. If we can't "
@@ -368,7 +368,7 @@ msgstr ""
 "Укладчикам кирпича нужно куда больше материала, чем есть сейчас. Если мы не "
 "можем делать кирпичи, тогда надо купить их."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoCarpenters"
 msgid ""
 "With no Carpenters' Guild in the city to build ramps or scaffolds, I hope "
@@ -377,27 +377,27 @@ msgstr ""
 "Раз в городе нет артели плотников, которые бы сделали нам леса или пандусы, "
 "надеюсь, памятник у вас планируется очень невысокий!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoCopper"
 msgid ""
-"Our masons are ready to add copper to the roof if only it would arrive. Mine "
-"or import more of it."
+"Our masons are ready to add copper to the roof if only it would arrive. Mine"
+" or import more of it."
 msgstr ""
 "Наши каменщики уже готовы отделать крышу медью, только самой меди нет. Либо "
 "добывайте больше, либо покупайте."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoCopper_var"
 msgid ""
-"The roof on this will leak like a sieve if we don't get some copper.  If you "
-"can't mine it than you had better import some.  The sooner I get it the "
+"The roof on this will leak like a sieve if we don't get some copper.  If you"
+" can't mine it than you had better import some.  The sooner I get it the "
 "sooner this monument will be done!"
 msgstr ""
 "Здесь будет не крыша, а решето, если не покрыть ее медью. Не можете добыть "
 "ее в рудниках? Тогда ввозите из других городов. Раньше получим — раньше "
 "достроим!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoGranite"
 msgid ""
 "It won't be much of a monument, with the paltry supply of granite I'm "
@@ -406,7 +406,7 @@ msgstr ""
 "Из такой жалкой кучки гранита нормального памятника не получится. Завезите "
 "больше из других городов или с карьера."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoLimestone"
 msgid ""
 "You had best quarry or import more limestone, if stonemasons are to build a "
@@ -415,7 +415,7 @@ msgstr ""
 "Вам пора добыть или завести еще известняка, если хотите, чтобы каменщики "
 "закончили этот памятник при нашей жизни."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoMarble"
 msgid ""
 "Unless you import more marble, our stonemasons will never be able to finish "
@@ -424,7 +424,7 @@ msgstr ""
 "Если не завезете больше мрамора, наши каменщики никогда не закончат этот "
 "памятник."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoMarble_var"
 msgid ""
 "Without any marble our talented stonemasons have nothing to do.  That is a "
@@ -435,23 +435,23 @@ msgstr ""
 "мне бы хотелось нагрузить их работой. Вы уж проследите, чтобы нам как можно "
 "скорее доставили мрамор."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoPlainstone"
 msgid ""
-"A stonemason without stone is sad to see. Quarry or import more plain stone, "
-"or this monument will never take form."
+"A stonemason without stone is sad to see. Quarry or import more plain stone,"
+" or this monument will never take form."
 msgstr ""
 "Печально смотреть на каменщика, которому не дали камня. Добудьте в карьере "
 "или завезите откуда-нибудь больше камня, иначе памятника мы никогда не "
 "увидим."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoProblem"
 msgid ""
 "Work is progressing nicely. The laborers have all the supplies they need."
 msgstr "Работа продвигается в хорошем темпе. Всех материалов хватает."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoSandstone"
 msgid ""
 "Unless the city imports or quarries more sandstone, our stonemason is going "
@@ -460,7 +460,7 @@ msgstr ""
 "Если город не завезет или не выработает больше песчаника, наш каменщик "
 "преждевременно уйдет на пенсию."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoStonemasons"
 msgid ""
 "There are no stonemasons available to work on this monument. If you want "
@@ -469,7 +469,7 @@ msgstr ""
 "Для работы над этим памятником нет каменщиков. Если хотите, чтоб "
 "строительство двигалось, срочно организуйте артель каменщиков!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoWood"
 msgid ""
 "My carpenters lament the shortage of wood. Cut more trees, or step up the "
@@ -478,7 +478,7 @@ msgstr ""
 "Плотники каждый день жалуются, как им не хватает дерева. Нарубите побольше "
 "или увеличьте поставки из других городов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NoWorkCamps"
 msgid ""
 "Do you think gods from the sky are going to build this monument? Build some "
@@ -487,7 +487,7 @@ msgstr ""
 "А кто этот памятник будет строить, боги? Организуйте лагеря рабочих, чтобы "
 "пригнать крестьян на площадку, да побыстрее!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NotEnoughArtisans"
 msgid ""
 "A rather drab looking tomb, isn't it? That's how it's going to stay unless "
@@ -498,26 +498,26 @@ msgstr ""
 "появятся хоть какие-то художники! Лентяи они, все до одного. Узнайте, в чем "
 "там дело."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NotEnoughBricklayers"
 msgid ""
-"Between you and me, the Bricklayers' Guild in this city must be some kind of "
-"recreation club. It's not sending me any bricklayers, that's for certain."
+"Between you and me, the Bricklayers' Guild in this city must be some kind of"
+" recreation club. It's not sending me any bricklayers, that's for certain."
 msgstr ""
 "Я вам скажу по секрету: здешняя артель укладчиков кирпича, похоже, только и "
 "делает, что прохлаждается. По крайней мере укладчиков ко мне оттуда еще не "
 "приходило."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NotEnoughCarpenters"
 msgid ""
 "I need a carpenter here, and I need him now! Why don't you apply your "
 "leadership skills at that good-for-nothing Carpenters' Guild?"
 msgstr ""
-"Мне нужен плотник, причем срочно! У вас вроде хорошо получается командовать. "
-"Так давайте, командуйте своей никчемной артелью плотников."
+"Мне нужен плотник, причем срочно! У вас вроде хорошо получается командовать."
+" Так давайте, командуйте своей никчемной артелью плотников."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NotEnoughCarpenters_2"
 msgid ""
 "An awful lot of people are standing around waiting for a carpenter to show "
@@ -526,7 +526,7 @@ msgstr ""
 "Смотрите, сколько людей стоят и ждут, пока сюда не соизволит заглянуть "
 "плотник."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NotEnoughStonemasons"
 msgid ""
 "Impressive heap of stone, isn't it? And that's all it's ever going to be, "
@@ -537,16 +537,16 @@ msgstr ""
 "не явятся каменщики. Местная артель каменщиков точно не получит никаких "
 "наград за усердие..."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_NotEnoughWorkCamps"
 msgid ""
 "No peasants have reported for duty. I'd find out why, if I were you. Maybe "
 "your Work Camps are more like sleep camps."
 msgstr ""
-"Никто из крестьян не явился на площадку. Стоит выяснить почему, а то, может, "
-"у вас не лагеря рабочих, а лагеря отдыха."
+"Никто из крестьян не явился на площадку. Стоит выяснить почему, а то, может,"
+" у вас не лагеря рабочих, а лагеря отдыха."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_Plainstone_Stockpiled"
 msgid ""
 "The Overseer of Commerce refuses to release plain stone to my workers. He "
@@ -555,27 +555,27 @@ msgid ""
 msgstr ""
 "Советник по торговле отказывается выделять камень моим рабочим. Он "
 "утверждает, что по вашему приказу весь добытый камень складируется для "
-"будущих проектов. Я ему не верю, но вам, наверное, стоит разъяснить ему, что "
-"к чему."
+"будущих проектов. Я ему не верю, но вам, наверное, стоит разъяснить ему, что"
+" к чему."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_PyramidAndBentPyramid_ClearSite"
 msgid ""
-"Workers are just clearing and leveling the construction site now. This would "
-"be a fine time to amass some plain stone and limestone. We are going to need "
-"plenty."
+"Workers are just clearing and leveling the construction site now. This would"
+" be a fine time to amass some plain stone and limestone. We are going to "
+"need plenty."
 msgstr ""
 "Рабочие только расчищают и выравнивают строительную площадку. Сейчас самое "
 "время собрать больше камня и известняка. Их нам понадобится много."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_Pyramid_NoProblem"
 msgid ""
 "Everything seems to be going just fine, and the pyramid continues to rise "
 "higher and higher."
 msgstr "Все пока идет хорошо, и пирамида растет с каждым днем."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_Sandstone_Stockpiled"
 msgid ""
 "Did you really direct the Overseer of Commerce to stockpile sandstone? He "
@@ -584,7 +584,7 @@ msgstr ""
 "Вы правда приказали советнику по торговле складировать весь песчаник? Он не "
 "дает разрешение на поставки."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Foreman_SteppedPyramid_ClearSite"
 msgid ""
 "Workers are just clearing and leveling the construction site now. After "
@@ -593,22 +593,22 @@ msgstr ""
 "Рабочие только расчищают и выравнивают строительную площадку. Потом нам "
 "понадобится много камня для самого строительства."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#GrandMudbrickPyramidComplex"
 msgid "Grand Mudbrick Pyramid Complex"
 msgstr "Большой комплекс кирпичных пирамид"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#GrandPyramidComplex"
 msgid "Grand Pyramid Complex"
 msgstr "Большой комплекс пирамид"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#GrandRoyalBurialTomb"
 msgid "Grand Royal Burial Tomb"
 msgstr "Великая царская гробница"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#GrandSteppedPyramidComplex"
 msgid "Grand Stepped Pyramid Complex"
 msgstr "Большой комплекс ступенчатых пирамид"
@@ -621,7 +621,7 @@ msgctxt "#LargeMudbrickPyramid"
 msgid "Large Mudbrick Pyramid"
 msgstr "Большая кирпичная пирамида"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#LargeObelisk"
 msgid "Large Obelisk"
 msgstr "Большой обелиск"
@@ -630,7 +630,7 @@ msgctxt "#LargePyramid"
 msgid "Large Pyramid"
 msgstr "Большая пирамида"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#LargeRoyalBurialTomb"
 msgid "Large Royal Burial Tomb"
 msgstr "Большая царская гробница"
@@ -639,54 +639,55 @@ msgctxt "#LargeSteppedPyramid"
 msgid "Large Stepped Pyramid"
 msgstr "Большая ступенчатая пирамида"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Library_Completed"
 msgid ""
 "Alexandria's Library is finished and is the center of learning in the known "
 "world."
 msgstr ""
-"Александрийская библиотека готова, и она стала центром знаний для всего мира."
+"Александрийская библиотека готова, и она стала центром знаний для всего "
+"мира."
 
 msgctxt "#Library_Copper"
 msgid ""
-"The remainder of the Library will require an additional {0} ingots of copper "
-"({1} loads)."
+"The remainder of the Library will require an additional {0} ingots of copper"
+" ({1} loads)."
 msgstr ""
 
 msgctxt "#Library_Marble"
 msgid ""
-"The remainder of the Library will require an additional {0} blocks of marble "
-"({1} loads)."
+"The remainder of the Library will require an additional {0} blocks of marble"
+" ({1} loads)."
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Library_Step_1"
 msgid "We're waiting for peasants to clear the land."
 msgstr "Мы ждем, когда крестьяне расчистят площадку."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Library_Step_2"
 msgid ""
 "Now that the land is cleared, stonemasons are putting the foundation in "
 "place."
 msgstr "Площадка расчищена, и сейчас каменщики закладывают фундамент."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Library_Step_3"
 msgid "The foundation is complete, so now we can work on the floor."
 msgstr "Фундамент заложен, и теперь мы можем начать работу над полом."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Library_Step_4"
 msgid "We're erecting some columns now that the floor is laid."
 msgstr "Пол готов, и сейчас мы возводим колонны."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Library_Step_5"
 msgid "Building a roof is the next step. The columns are complete."
 msgstr "Следующий шаг — крыша. Колонны уже стоят."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Library_Step_6"
 msgid ""
 "Now we need some copper to finish the roof so that it will glisten like the "
@@ -694,16 +695,16 @@ msgid ""
 msgstr ""
 "Теперь нам надо покрыть крышу медью, чтобы она сверкала, словно солнце."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Library_Step_7"
 msgid "We're just putting the finishing touches on the Library now."
 msgstr "Мы уже наводим последние штрихи на Библиотеку."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mastaba_ClearSite"
 msgid ""
-"First, workers need to clear the mastaba site down to bedrock. More peasants "
-"from Work Camps could speed the leveling process."
+"First, workers need to clear the mastaba site down to bedrock. More peasants"
+" from Work Camps could speed the leveling process."
 msgstr ""
 "Сперва рабочим нужно расчистить площадку под мастабу до залегающей коренной "
 "породы. Этот этап можно ускорить, если прислать больше крестьян из лагеря "
@@ -717,22 +718,21 @@ msgctxt "#Mastaba_Completion"
 msgid "The {[Mastaba]} is {0}% complete."
 msgstr "{[Mastaba]} готова на {0}%."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mastaba_Course"
 msgid "The current course requires {0} bricks<sprite name=\"Bricks\">"
-msgstr ""
-"Для текущего слоя требуются: кирпичи <sprite name=\"Bricks\"> ({0} шт.)."
+msgstr "Для текущего слоя требуются: кирпичи <sprite name=\"Bricks\"> ({0} шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mastaba_CourseLeft"
 msgid ""
 "The remainder of the Mastaba will require an additional {0} bricks<sprite "
 "name=\"Bricks\">"
 msgstr ""
-"Для оставшейся части мастабы требуются кирпичи <sprite name=\"Bricks\"> ({0} "
-"шт.)."
+"Для оставшейся части мастабы требуются кирпичи <sprite name=\"Bricks\"> ({0}"
+" шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mastaba_Done"
 msgid ""
 "The mastaba is now complete, and contains a total of {0} bricks<sprite "
@@ -741,7 +741,7 @@ msgstr ""
 "Мастаба построена. Всего уложено: кирпичей <sprite name=\"Bricks\"> ({0} "
 "шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mastaba_Phase_1"
 msgid ""
 "Workers are just clearing the construction site now. After that, we'll need "
@@ -750,18 +750,19 @@ msgstr ""
 "Сейчас рабочие расчищают площадку. После этого нам потребуется много "
 "кирпичей для мастабы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mastaba_Phase_2"
 msgid ""
-"Everything seems to be going just fine. This mastaba will be done in no time."
+"Everything seems to be going just fine. This mastaba will be done in no "
+"time."
 msgstr "Все идет как надо. Мастаба будет построена в кратчайшие сроки."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum"
 msgid "Mausoleum"
 msgstr "Мавзолей"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum_BlocksNeeded"
 msgid ""
 "{0}<sprite name=\"Sandstone\">blocks of sandstone are needed to finish "
@@ -770,17 +771,17 @@ msgstr ""
 "Требуется блоков песчаника <sprite name=\"Sandstone\"> для завершения "
 "мавзолея: {0}."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum_Carpenter needed"
 msgid "This mausoleum requires a carpenter's services. "
 msgstr "Мавзолею требуется плотник."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum_Complete"
 msgid "The mausoleum is complete."
 msgstr "Мавзолей готов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum_PercentFinish"
 msgid "The mausoleum is {0} percent complete"
 msgstr "Готовность мавзолея: {0}%."
@@ -789,7 +790,7 @@ msgctxt "#Mausoleum_Phase_1"
 msgid "Phase 1"
 msgstr "Первый этап"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum_Phase_1_Desc"
 msgid "The foundation has been placed and workers are clearing the site"
 msgstr "Заложен фундамент, и рабочие очищают площадку."
@@ -798,7 +799,7 @@ msgctxt "#Mausoleum_Phase_2"
 msgid "Phase 2"
 msgstr "Второй этап"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum_Phase_2_Desc"
 msgid "Masons are constructing the lower part of the mausoleum"
 msgstr "Каменщики возводят нижнюю часть мавзолея."
@@ -807,7 +808,7 @@ msgctxt "#Mausoleum_Phase_3"
 msgid "Phase 3"
 msgstr "Третий этап"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum_Phase_3_Desc"
 msgid "Stonemasons are constructing the upper part of the mausoleum"
 msgstr "Каменщики возводят верхнюю часть мавзолея."
@@ -820,7 +821,7 @@ msgctxt "#Mausoleum_Phase_4_Desc"
 msgid "Workers are decorating the mausoleum"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum_Started"
 msgid ""
 "Now that we've got enough sandstone, we can start on this monument. My "
@@ -829,24 +830,24 @@ msgstr ""
 "Теперь, когда у нас достаточно песчаника, можно приступить к возведению "
 "памятника. Мои рабочие уже готовят площадку."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum_Waiting"
 msgid "Stonemasons are waiting for sandstone <sprite name=\"Sandstone\">"
 msgstr "Каменщики ждут партию камня."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum_Waiting1"
 msgid "A lone stonemason is waiting for sandstone <sprite name=\"Sandstone\">"
 msgstr "Каменщик ждет партию камня."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Mausoleum_Working"
 msgid ""
 "Masons are working hard to complete this mausoleum. Everything's on "
 "schedule, and I don't expect any problems."
 msgstr ""
-"Каменщики усердно трудятся, чтобы завершить мавзолей. Все должно быть готово "
-"в срок, и я не ожидаю проблем."
+"Каменщики усердно трудятся, чтобы завершить мавзолей. Все должно быть готово"
+" в срок, и я не ожидаю проблем."
 
 msgctxt "#MediumBentPyramid"
 msgid "Medium Bent Pyramid"
@@ -864,7 +865,7 @@ msgctxt "#MediumPyramid"
 msgid "Medium Pyramid"
 msgstr "Средняя пирамида"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#MediumRoyalBurialTomb"
 msgid "Medium Royal Burial Tomb"
 msgstr "Средняя царская гробница"
@@ -873,12 +874,12 @@ msgctxt "#MediumSteppedPyramid"
 msgid "Medium Stepped Pyramid"
 msgstr "Средняя ступенчатая пирамида"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#MudbrickPyramidComplex"
 msgid "Mudbrick Pyramid Complex"
 msgstr "Комплекс кирпичных пирамид"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#NoAccess"
 msgid ""
 "Workers can't get to the monument's staging area. See what's blocking the "
@@ -887,7 +888,7 @@ msgstr ""
 "Рабочие не могут попасть к входу на площадку для памятника. Узнайте, что "
 "мешает доскам, отмечающим зону."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#NotEnoughWorkCamps"
 msgid ""
 "All of the city's peasants are needed on the floodplain farms, leaving them "
@@ -898,22 +899,22 @@ msgstr ""
 "месяца в году для работы над этим проектом. Разбейте больше лагерей рабочих "
 "возле строительной площадки, чтобы ускорить процесс."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Obelisk_Complete"
 msgid "The obelisk is complete!"
 msgstr "Обелиск готов!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Obelisk_Phase_1"
 msgid "Phase One: Obtain granite to place rough structure"
 msgstr "1-й этап: получите гранит, чтобы возвести необработанную основу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Obelisk_Phase_2"
 msgid "Phase Two: Carpenters use wood to build scaffolding"
 msgstr "2-й этап: плотники строят леса из древесины."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Obelisk_Phase_2_Desc"
 msgid ""
 "Finally we have all the granite we need. Once my carpenters finish building "
@@ -922,27 +923,27 @@ msgstr ""
 "У нас наконец-то есть достаточно гранита. Как только мои плотники закончат "
 "возводить леса, каменщики смогут приступить к вытачиванию обелиска."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Obelisk_Phase_3"
 msgid "Phase Three: Stonemasons carve final shape, working from top to bottom"
 msgstr "3-й этап: каменщики идут сверху вниз и вытесывают итоговую форму."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Obelisk_Phase_3_Desc"
 msgid "My stonemasons are hard at work carving the mighty obelisk."
 msgstr "Мои каменщики трудятся над великим обелиском не покладая рук."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#OverallProgress"
 msgid "Overall Progress:"
 msgstr "Общий прогресс:"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#PharosLighthouse"
 msgid "Pharos Lighthouse"
 msgstr "Фаросский маяк"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pharos_Completed"
 msgid ""
 "The Pharos Lighthouse is finished and shines as a beacon over the Eastern "
@@ -957,39 +958,39 @@ msgid ""
 "marble ({1} loads)."
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pharos_Step_1"
 msgid "Peasants have begun the arduous task of clearing the land."
 msgstr "Крестьяне начали нелегкую работу по расчистке площадки."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pharos_Step_2"
 msgid "The stonemasons are busily laying the foundation for the Lighthouse."
 msgstr "Каменщики в поте лица закладывают фундамент маяка."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pharos_Step_3"
 msgid ""
 "The foundation is almost complete and the parquet floor is being installed."
 msgstr "Фундамент почти готов, и сейчас на пол укладывается паркет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pharos_Step_4"
 msgid ""
-"With the parquet floor complete, the stonemasons have turned their attention "
-"to the first tier of the Lighthouse."
+"With the parquet floor complete, the stonemasons have turned their attention"
+" to the first tier of the Lighthouse."
 msgstr "Паркетный пол готов, и каменщики занялись первым ярусом маяка."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pharos_Step_5"
 msgid ""
-"The stonemasons don't have much time to admire their work on the first tier, "
-"for work on the second octagonal tier will begin soon."
+"The stonemasons don't have much time to admire their work on the first tier,"
+" for work on the second octagonal tier will begin soon."
 msgstr ""
 "У каменщиков нет времени любоваться своей работой над первым ярусом, потому "
 "что они вот-вот приступят ко второму восьмиугольному."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pharos_Step_6"
 msgid ""
 "The Lighthouse is really beginning to take shape. The octagonal tier is "
@@ -998,7 +999,7 @@ msgstr ""
 "Уже намечается общий облик маяка. Восьмиугольный ярус готов, и скоро "
 "каменщики приступят к куполу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pharos_Step_7"
 msgid ""
 "The last piece of the Lighthouse had been laid in place, but the monument "
@@ -1008,14 +1009,14 @@ msgstr ""
 "Последняя часть маяка установлена, но само строение не считается "
 "законченным, пока не убраны леса. Сейчас их разбор уже начался."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pharos_Step_8"
 msgid ""
 "Most of the scaffolding has been removed, and the Lighthouse is nearly "
 "complete."
 msgstr "Большинство строительных лесов уже убрано, и маяк почти готов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#PyramidAndBentPyramid_Course"
 msgid ""
 "The current course requires {0} blocks of plain stone<sprite "
@@ -1024,22 +1025,22 @@ msgstr ""
 "Для текущего слоя требуются: каменные блоки <sprite name=\"Plainstone\"> "
 "({0} шт.), блоки известняка <sprite name=\"Limestone\"> ({1} шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#PyramidComplex"
 msgid "Pyramid Complex"
 msgstr "Комплекс пирамид"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pyramid_ClearSite_1"
 msgid ""
-"First, workers need to clear the pyramid site down to bedrock. More peasants "
-"from Work Camps could speed the leveling process."
+"First, workers need to clear the pyramid site down to bedrock. More peasants"
+" from Work Camps could speed the leveling process."
 msgstr ""
-"Сперва рабочим нужно расчистить площадку под пирамиду до залегающей коренной "
-"породы. Этот этап можно ускорить, если прислать больше крестьян из лагеря "
+"Сперва рабочим нужно расчистить площадку под пирамиду до залегающей коренной"
+" породы. Этот этап можно ускорить, если прислать больше крестьян из лагеря "
 "рабочих."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pyramid_ClearSite_2"
 msgid ""
 "Workers are now cutting grooves into the bedrock to hold water. More "
@@ -1048,7 +1049,7 @@ msgstr ""
 "Рабочие прорубают канавы для воды в коренной породе. Этот этап можно "
 "ускорить, если прислать больше крестьян из лагеря рабочих."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pyramid_ClearSite_3"
 msgid ""
 "Now we're filling the grooves in the bedrock with water. More peasants from "
@@ -1057,41 +1058,41 @@ msgstr ""
 "Теперь мы заполняем водой канавы в коренной породе. Этот этап можно "
 "ускорить, если прислать больше крестьян из лагеря рабочих."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pyramid_ClearSite_4"
 msgid ""
 "Workers are marking the water level, then draining water from the grooves."
 msgstr "Рабочие отмечают уровень воды, а затем осушают канавы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pyramid_ClearSite_5"
 msgid ""
 "We're very carefully cutting the bedrock down to the water-level marks. No "
 "one will ever see this work, but it ensures that the monument will endure "
 "forever."
 msgstr ""
-"Мы осторожно срезаем коренную породу до отметок уровня воды. Никто не увидит "
-"этой работы, но благодаря ей этот памятник простоит вечность."
+"Мы осторожно срезаем коренную породу до отметок уровня воды. Никто не увидит"
+" этой работы, но благодаря ей этот памятник простоит вечность."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pyramid_ClearSite_6"
 msgid ""
 "The water-level grooves are being filled with rubble. It has to be tightly "
 "compacted so that the monument won't settle over time."
 msgstr ""
-"Канавы с отметками уровня воды заполнены щебнем. Его нужно хорошо уплотнить, "
-"чтобы со временем памятник не просел."
+"Канавы с отметками уровня воды заполнены щебнем. Его нужно хорошо уплотнить,"
+" чтобы со временем памятник не просел."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pyramid_ClearSite_7"
 msgid ""
-"Site preparation is finished! We've leveled the land, and now we're ready to "
-"build the tomb."
+"Site preparation is finished! We've leveled the land, and now we're ready to"
+" build the tomb."
 msgstr ""
-"Подготовка площадки закончена! Мы выровняли землю и теперь готовы приступить "
-"к постройке гробницы."
+"Подготовка площадки закончена! Мы выровняли землю и теперь готовы приступить"
+" к постройке гробницы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pyramid_ClearSite_8"
 msgid ""
 "The base has been leveled and a roof is being placed on the tomb. Now, "
@@ -1100,7 +1101,7 @@ msgstr ""
 "Основание было выровнено, и сейчас на гробницу ставится крыша. Вот в таких "
 "усыпальницах и хочется встретить вечность."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pyramid_Complete"
 msgid "At last, the pyramid is complete!"
 msgstr "Пирамида наконец-то готова!"
@@ -1109,7 +1110,7 @@ msgctxt "#Pyramid_Completion"
 msgid "The {[Pyramid]} is {0}% complete."
 msgstr "{[Pyramid]} готова на {0}%."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pyramid_CourseLeft"
 msgid ""
 "The remainder of the Pyramid will require an additional {0} blocks of plain "
@@ -1120,7 +1121,7 @@ msgstr ""
 "name=\"Plainstone\"> ({0} шт.) и блоки известняка <sprite "
 "name=\"Limestone\"> ({1} шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Pyramid_Done"
 msgid ""
 "The pyramid is now complete, and contains a total of {0} blocks of plain "
@@ -1143,7 +1144,7 @@ msgctxt "#SmallMudbrickPyramid"
 msgid "Small Mudbrick Pyramid"
 msgstr "Малая кирпичная пирамида"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SmallObelisk"
 msgid "Small Obelisk"
 msgstr "Малый обелиск"
@@ -1152,7 +1153,7 @@ msgctxt "#SmallPyramid"
 msgid "Small Pyramid"
 msgstr "Малая пирамида"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SmallRoyalBurialTomb"
 msgid "Small Royal Burial Tomb"
 msgstr "Малая царская гробница"
@@ -1161,65 +1162,66 @@ msgctxt "#SmallSteppedPyramid"
 msgid "Small Stepped Pyramid"
 msgstr "Малая ступенчатая пирамида"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Sphinx"
 msgid "Sphinx"
 msgstr "Сфинкс"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Sphinx_Complete"
 msgid "The sphinx is complete!"
 msgstr "Сфинкс готов!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Sphinx_Phase_1"
 msgid "Masons are creating the rough shape of the sphinx."
 msgstr "Каменщики делают основу для Сфинкса."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Sphinx_Phase_2"
 msgid "Masons are doing some fine carving on the sphinx."
 msgstr "Каменщики вырезают мелкие детали на Сфинксе."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Sphinx_Phase_3"
 msgid "Workers are finishing and painting the sphinx."
 msgstr "Рабочие заканчивают Сфинкса и его покраску."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Status_Complete"
 msgid "Complete"
 msgstr "готово"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Status_Incomplete"
 msgid "Incomplete"
 msgstr "строится"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Status_NotStarted"
 msgid "Not started"
 msgstr "не начато"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Status_Title"
 msgid "Status:"
 msgstr "Статус:"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SteppedPyramidComplex"
 msgid "Stepped Pyramid Complex"
 msgstr "Комплекс ступенчатых пирамид"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SteppedPyramid_Course"
 msgid ""
-"Current course requires {0} blocks of plain stone<sprite name=\"Plainstone\">"
+"Current course requires {0} blocks of plain stone<sprite "
+"name=\"Plainstone\">"
 msgstr ""
 "Для текущего слоя требуются: каменные блоки <sprite name=\"Plainstone\"> "
 "({0} шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SteppedPyramid_CourseLeft"
 msgid ""
 "The remainder of the Stepped Pyramid requires an additional {0} blocks of "
@@ -1228,7 +1230,7 @@ msgstr ""
 "Для оставшейся части ступенчатой пирамиды требуются каменные блоки <sprite "
 "name=\"Plainstone\"> ({0} шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SteppedPyramid_Done"
 msgid ""
 "The stepped pyramid is now complete, containing a total of {0} blocks of "
@@ -1237,63 +1239,64 @@ msgstr ""
 "Ступенчатая пирамида построена. Всего уложено: каменных блоков <sprite "
 "name=\"Plainstone\"> ({0} шт.)."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple"
 msgid "Sun Temple"
 msgstr "Храм Солнца"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_BlocksNeeded"
 msgid ""
 "{0} blocks of sandstone are needed to finish construction of the Sun Temple."
 msgstr "Требуется каменных блоков для завершения храма Солнца: {0}."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_Complete"
 msgid "The sun temple is complete! "
 msgstr "Храм Солнца готов!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_PercentFinish"
 msgid "The Sun temple is {0} percent complete"
 msgstr "Готовность храма Солнца: {0}%."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_Phase_1"
 msgid "Phase 1"
 msgstr "1-й этап"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_Phase_1_Desc"
 msgid "The rough obelisk has been placed and workers are clearing the site"
-msgstr "Поставлена необработанная основа обелиска, и рабочие очищают площадку."
+msgstr ""
+"Поставлена необработанная основа обелиска, и рабочие очищают площадку."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_Phase_2"
 msgid "Phase 2"
 msgstr "2-й этап"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_Phase_2_Desc"
 msgid "Carpenters are placing scaffolds around the obelisk"
 msgstr "Плотники возводят леса вокруг обелиска."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_Phase_3"
 msgid "Phase 3"
 msgstr "3-й этап"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_Phase_3_Desc"
 msgid "Stone masons are carving the final shape of the obelisk"
 msgstr "Каменщики вытачивают итоговую форму обелиска."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_Phase_4"
 msgid "Phase 4"
 msgstr "4-й этап"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_Phase_4_Desc"
 msgid "The vestibule, wall, plaza, and fore temple are being constructed"
 msgstr "Строятся внешний двор, стена, площадь и передний храм."
@@ -1304,40 +1307,40 @@ msgid ""
 "sandstone ({1} loads)."
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_TaksPercentFinish"
 msgid "This task is {0} percent complete"
 msgstr "Готовность задачи: {0}%."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_Waiting"
 msgid "stone masons are waiting for sandstone."
 msgstr "чел. каменщиков ждут партию камня."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_Waiting1"
 msgid "A lone stone mason is waiting for sandstone."
 msgstr "Каменщик ждет партию камня."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_WorkingCarpenters"
 msgid ""
-"Once my carpenters finish building the scaffolding, masons can begin carving "
-"the central obelisk for the sun temple."
+"Once my carpenters finish building the scaffolding, masons can begin carving"
+" the central obelisk for the sun temple."
 msgstr ""
-"Как только мои плотники закончат возводить леса, каменщики смогут приступить "
-"к вытачиванию центрального обелиска храма Солнца."
+"Как только мои плотники закончат возводить леса, каменщики смогут приступить"
+" к вытачиванию центрального обелиска храма Солнца."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_WorkingCarving"
 msgid ""
-"My masons are carving the central obelisk now. When they're done, we'll need "
-"more sandstone to finish the rest of the sun temple."
+"My masons are carving the central obelisk now. When they're done, we'll need"
+" more sandstone to finish the rest of the sun temple."
 msgstr ""
 "Мои каменщики уже вытесывают центральный обелиск. Когда они закончат, нам "
 "понадобится песчаник для строительства остального храма Солнца."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_WorkingClearSite"
 msgid ""
 "Now that we have enough sandstone, we can begin work on the sun temple. My "
@@ -1346,16 +1349,16 @@ msgstr ""
 "Теперь, когда у нас достаточно песчаника, можно приступить к возведению "
 "храма Солнца. Мои рабочие уже готовят площадку."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_WorkingPyramid"
 msgid "Workers are now finishing the outside of the pyramid."
 msgstr "Рабочие заканчивают возведение внешних стен пирамиды."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#SunTemple_WorkingWalls"
 msgid ""
-"As soon as we finish the vestibule, wall and fore-temple, this monument will "
-"be complete."
+"As soon as we finish the vestibule, wall and fore-temple, this monument will"
+" be complete."
 msgstr ""
 "Как только мы закончим внешний двор, стену и передний храм, объект будет "
 "готов."

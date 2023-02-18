@@ -139,7 +139,7 @@ msgctxt "#Barley_Title"
 msgid "Barley, Flax and Henna Farms"
 msgstr "Фермы по выращиванию ячменя, льна и хны"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Bazaar_Content"
 msgid ""
 "Without Bazaars, people will never have access to the food and goods stored in the <link=\"#Granary_Title\"><u>Granaries</u></link> and <link=\"#StorageYard_Title\"><u>Storage Yards</u></link>. Only Bazaars distribute needed supplies to the populace. To function properly, Bazaars need road access and a full staff. The Bazaar will still function if it is understaffed, but at a much reduced efficiency. Each Bazaar employs two buyers, one to purchase food from Granaries, the other to purchase items from Storage Yards. Each buyer is specialized: the Granary buyer cannot procure items from a Storage Yard, and vice versa. Each of these buyers, however, can buy more than one item at a time. So, for example, a Bazaar buyer that goes to the Granary can buy grain and pomegranates. She cannot, however, buy grain and pottery, because pottery is never stored in a Granary. Once a Bazaar buyer finds the items she needs, a string of helpers carries the load back to the Bazaar. \n"
@@ -150,7 +150,7 @@ msgstr ""
 "Senza i bazar, la gente non potrebbe avere accesso al cibo e prodotti conservati nei @3granai e @4depositi&merci. Solo i bazar possono distribuire le merci nelle case dei cittadini. Per funzionare al meglio, i bazar richiedono l'accesso a una strada e personale al completo. Operano anche con personale ridotto, ma la sua efficienza è molto inferiore. Ogni bazar impiega due compratori (responsabili degli acquisti), uno per comprare il cibo dai granai, l'altro per acquistare i prodotti dai depositi merci. Ogni compratore è specializzato: il compratore del cibo non può procurare i prodotti dai depositi merci e quello dei prodotti non può accedere ai granai. Entrambi, però, possono comprare più prodotti per volta. Ad esempio, un compratore che si reca al granaio può acquistare grano e melograni. Non può, comunque, comprare grano e vasi, dato che i vasi non sono conservati nei granai. Quando un compratore trova la merce che gli occorre, i suoi sottoposti lo aiutano a trasportarla fino al bazar. I compratori dei bazar sono @42'passanti&con&meta'. Essi passano la giornata girando per la città fra bazar, granai e depositi merci. Per ogni andata è obbligatorio un ritorno e non tratteranno affari con più di tre fornitori entro la loro portata. Se ne scoprite uno fermo da qualche parte, quando invece dovrebbe lavorare, probabilmente il suo tragitto è troppo lungo oppure deve trattare con troppi fornitori. L'altro impiegato del bazar, il venditore del bazar, prende i prodotti incamerati dai compratori e li distribuisce nel quartiere. Quando un venditore passa entro due spazi da un'abitazione, egli la rifornisce dei prodotti richiesti, se ne ha con sé. Inoltre, scopre quali sono i prodotti richiesti dai clienti e riporta gli ordini al compratore in modo che li procuri. La priorità principale è rifornire le case con i prodotti che le impediscano di devolvere (vedi la sezione @56desiderabilità&delle&case). Quando tali bisogni principali sono soddisfatti, le case cercano di ottenere altri prodotti che consentano, invece, lo sviluppo. Il venditore dei bazar è, invece, un 'passante senza meta'. Il suo lavoro è quello di girare nel quartiere e servire i suoi clienti, senza una destinazione specifica. Se una certa parte di zona residenziale non riceve i prodotti, osserva il percorso dei venditori. Essi non seguono un percorso predefinito. Ogni volta che incontrano un incrocio, devono decidere quale direzione prendere e difficilmente sarà sempre la stessa. Pianifica la disposizione delle strade con molta attenzione e usa i @358blocchi&stradali per guidare i venditori di bazar. I bazar più evoluti (contraddistinti da un edificio al posto di una tenda) inviano due addetti alle consegne invece di uno solo. Le richieste di beni basilari, come cibo e vasellame, devono essere soddisfatte prima che possa crescere la domanda di altri prodotti, come birra o tela. I compratori dei bazar ignoreranno i depositi merci stracolmi di tela, se i cittadini hanno un bisogno disperato di vasi. È quindi molto importante mantenere la fornitura di prodotti costante. Ricorda che quando le case si evolvono, normalmente ospitano più persone e quindi hanno bisogno di più prodotti. A volte, dovrai aggiungere altri bazar per mantenere il quartiere ben rifornito. Clicca con il pulsante destro del mouse su una casa per sapere quali sono le richieste dei cittadini in quel dato momento. Per essere certi che i cittadini ottengano il cibo e i prodotti richiesti, costruisci granai e depositi merci vicino ai bazar. Usa gli ordini speciali dei granai e depositi merci per fare in modo che contengano i prodotti e il cibo richiesto dai bazar. Se vuoi avere maggiore controllo su un bazar, clicca sul pulsante Ordini speciali per vedere quali sono i prodotti che può contenere. Clicca su un prodotto per ordinare al bazar di comprarlo o meno. Ai cittadini fa sicuramente piacere vivere nei pressi di un bazar, ma non troppo vicino. Sono luoghi rumorosi, spesso ricettacoli di personaggi non desiderati; inoltre, a volte, emanano cattivo odore. \n"
 "Per avere un'idea dei colori, suoni e odori dei bazar dell'antico Egitto, clicca @199qui."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Bazaar_Title"
 msgid "Bazaar"
 msgstr "Bazar"
@@ -773,7 +773,7 @@ msgctxt "#GrainFarm_Title"
 msgid "Grain Farm"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Granary_Content"
 msgid ""
 "Granaries store the food that citizens eat. <link=\"#Bazaar_Title\"><u>Bazaar buyers</u></link> collect food from the Granary to distribute to the populace. Granaries need road access and labor in order to operate. You can see what the Granary is storing by looking in its fill holes. Right-click on a Granary to see precisely how much of each food it holds. <link=\"#FoodFarming_Title\"><u>Farms</u></link>, <link=\"#FishingWharf_Title\"><u>Fishing Wharves</u></link>, <link=\"#CattleRanch_Title\"><u>Cattle Ranches</u></link> and <link=\"#HuntingLodge_Title\"><u>Hunting Lodges</u></link> employ delivery men to bring their produce to Granaries. It's generally a good idea to have Granaries close to food producers. If a delivery man has to walk so far that his employer finishes producing another load of food before he returns with his empty cart, the production facility will sit idle until he comes to take away the food that has piled up there. If all Granaries are full, delivery men will wait around until some space in a Granary opens up, unless you have instructed a <link=\"#StorageYard_Title\"><u>Storage Yard</u></link> to accept the particular food. To manage the flow of foods in the city, give Granaries Special Orders.  Click on a Granary to get started. All items the Granary can store are listed for you. There you can change the way that the specific Granary handles the food. The choices are: \n"
@@ -792,7 +792,7 @@ msgstr ""
 "I granai sono polverosi, spesso infestati e, comunque, non graditi dai vicini. I cittadini non sopportano di vivere nelle loro vicinanze. \n"
 "Clicca @5qui per ulteriori informazioni sui granai dell'antico Egitto."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Granary_Title"
 msgid "Granary"
 msgstr "Granaio"
@@ -1433,7 +1433,7 @@ msgctxt "#PopulationGrowth_Title"
 msgid "Population Growth and City Sentiment"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Potter_Content"
 msgid ""
 "Potters need a supply of clay to function. Some cities can produce their own clay by constructing <link=\"#_Title\"><u>Clay Pits</u></link>. Other cities may need to import clay from a trade partner (click <link=\"#Trade_Title\"><u>here</u></link> for more on trade). Cartpushers bring supplies of clay to Potters from Clay Pits, if the city has them, or from <link=\"#StorageYard_Title\"><u>Storage Yards</u></link>. The Potter stores some extra clay in its yard to keep him working for awhile if clay deliveries are interrupted for some reason. Potters also need road access and a nearby source of labor. Potters are at their most productive if they are fully staffed, but will still operate (although at reduced efficiency) when understaffed. If the Potter is turning out pottery, you will see him hard at work. Cartpushers employed by the Potter take finished pottery to a Storage Yard or to a <link=\"#LampMaker_Title\"><u>Lamp Maker</u></link> (who needs a supply of pottery and oil to produce lamps). \n"
@@ -1739,7 +1739,7 @@ msgctxt "#StoneQuarries_Title"
 msgid "Stone Quarries"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#StorageYard_Content"
 msgid ""
 "Storage Yards are the repository for all finished goods and excess raw materials.  They also store food if you specifically tell them to do so (see Special Orders, below) and help to trade imported and exported items (see the <link=\"#Trade_Title\"><u>trade</u></link> entry).\n"
@@ -1759,7 +1759,7 @@ msgstr ""
 "I depositi merci sono fondamentali per distribuire i prodotti ai cittadini. I @2bazar prendono i prodotti richiesti dai loro clienti dai depositi merci. Inoltre, sono fondamentali per il commercio. I prodotti importati sono conservati nei depositi, così come quelli da esportare, in attesa che i mercanti di altre città vengano a prenderli. \n"
 "Per avere ulteriori informazioni sui depositi merci dell'antico Egitto, clicca @6qui."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#StorageYard_Title"
 msgid "Storage Yard"
 msgstr "Deposito merci"

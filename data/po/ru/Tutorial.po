@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "AbuSelima_Step_01_Content"
 msgid ""
 "As devotion to their patron gods continues to grow, the Egyptian people demand bigger and bigger places of worship. Most cities will want to erect a Temple Complex to their chosen god, so that they may fully partake of his or her benevolence. Once built, the Temple Complex may be expanded through the addition of an Oracle and an Altar, each dedicated to other, lesser gods. These gods, too, will impart certain benefits to the city.\n"
@@ -25,12 +25,12 @@ msgstr ""
 "Получив в свое распоряжение самоцветы, ювелиры вашего города смогут изготовлять украшения. Это лишь один из видов ценных предметов роскоши, которые требуют высшие слои общества.\n"
 "Кроме местных украшений, египтяне ценят и другие предметы, доступные только через импорт. Если город хочет стать по-настоящему цивилизованным, ему потребуется доступ к нескольким видам предметов роскоши. "
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "AbuSelima_Step_01_Title"
 msgid "Temple Complexes & Luxury Goods"
 msgstr "Храмовые комплексы и предметы роскоши"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "BedhetAbejdu_Step_01_Content"
 msgid ""
 "The Shipwright builds warships and fishing boats. Each boat must be supported by its own Wharf. Whenever there is a Wharf in need of a vessel, the Shipwright will begin constructing one for it. Without a waiting Wharf, the Shipwright will not build any ships. Although a single Shipwright can supply all the vessels your city needs, multiple Shipwrights will allow you to progress much more quickly. The Shipwright doesn't need any materials to create fishing boats, but he will need a supply of wood and even weapons to construct military vessels, such as warships and transport ships.\n"
@@ -44,17 +44,17 @@ msgstr ""
 "быстрее. Верфям не требуются материалы для рыбацких лодок, но им нужно "
 "дерево и даже оружие для постройки военных или транспортных кораблей."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "BedhetAbejdu_Step_01_Title"
 msgid "Building Boats & Ships"
 msgstr "Постройка лодок и кораблей"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Content_End_Message"
 msgid "Right-click to continue"
 msgstr "Щёлкните правой кнопкой мыши, чтобы продолжить"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_01_Content"
 msgid ""
 "Begin by planning for areas of housing and industry. By now you know what the people want, in addition to the basics of food and water. You must provide some houses with pottery, beer, entertainment and access to religious services before you can think about higher education and trade.\n"
@@ -66,7 +66,7 @@ msgstr ""
 "святилищам, а потом уже можно будет подумать о высшем образовании и "
 "торговле."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_01_Title"
 msgid "The Banks of the Nile"
 msgstr "Берега Нила"
@@ -75,7 +75,7 @@ msgctxt "Men-Nefer_Step_02_Title"
 msgid "Reach Spacious Apartment"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_03_Content"
 msgid ""
 "Now that you've built up this city somewhat, it's time to provide education "
@@ -90,7 +90,7 @@ msgstr ""
 "папируса необходимое сырье, а готовый папирус затем напрямую разносится по "
 "образовательным учреждениям города."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_03_Title"
 msgid "Education"
 msgstr "Образование"
@@ -99,7 +99,7 @@ msgctxt "Men-Nefer_Step_04_Title"
 msgid "Have a running Scribal School"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_05_Content"
 msgid ""
 "Now that you have managed to educate some of your people, you might want to "
@@ -116,7 +116,7 @@ msgstr ""
 "посмотреть, какие города есть в изученных землях и начать подготовку к "
 "торговле."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_05_Title"
 msgid "Introducing Trade"
 msgstr "Начало торговли"
@@ -125,7 +125,7 @@ msgctxt "Men-Nefer_Step_06_Title"
 msgid "Get on the world map"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_07_Content"
 msgid ""
 "The World Map shows the location of your own city, as well as other cities in the world. Here you can pay to open up trade routes with any cities willing to trade. \n"
@@ -134,17 +134,17 @@ msgstr ""
 "На карте мира показано, где находится ваш город и другие города. Здесь вы можете за плату открыть торговые маршруты в любой город, который ведет торговлю.\n"
 "Для открытия торгового маршрута щелкните по городу, с которым хотите вести дела."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_07_Title"
 msgid "Trade Route"
 msgstr "Торговый путь"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_08_Title"
 msgid "Open a Trade Route."
 msgstr "Откройте торговый маршрут"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_09_Content"
 msgid ""
 "Once you set up a trade route, you'll still need to instruct the <b>Overseer of Commerce</b> as to which resources and commodities you wish to import or export. You can never import and export the same item at the same time.\n"
@@ -154,12 +154,12 @@ msgstr ""
 "товары вы хотите ввозить или вывозить из города. Вы не сможете одновременно "
 "ввозить и вывозить один и тот же ресурс или товар."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_09_Title"
 msgid "Importing and Exporting "
 msgstr "Импорт и экспорт"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_10_Title"
 msgid ""
 "Import at least 800 bricks from Perwadjyt before beginning work on the "
@@ -167,7 +167,7 @@ msgid ""
 msgstr ""
 "Ввезите кирпич из Перваджита до начала строительства священной мастабы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_11_Content"
 msgid ""
 "Construction Guilds supply the skilled labor needed to erect monuments. The "
@@ -188,12 +188,12 @@ msgstr ""
 " на строительную площадку. Там они будут ждать партию кирпича, которую "
 "доставят рабочие-крестьяне."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_11_Title"
 msgid "Construction Guilds"
 msgstr "Строительные артели"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_12_Content"
 msgid ""
 "Once there are some bricklayers awaiting supplies at the monument site, "
@@ -211,12 +211,12 @@ msgstr ""
 "дополнительные лагеря рабочих, чтобы все крестьяне, которые не нужны на "
 "фермах, смогли круглый год трудиться над памятником."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_12_Title"
 msgid "Peasant Labor"
 msgstr "Рабочие-крестьяне"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Men-Nefer_Step_13_Title"
 msgid "Place a small mastaba on the map"
 msgstr "Разместите на карте малую мастабу."
@@ -234,7 +234,7 @@ msgctxt "Men-Nefer_Step_14_Title"
 msgid "Tutorial’s End"
 msgstr "Конец обучения"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_01_Content"
 msgid ""
 "The patron god of this region is <b>Ra</b>, but <b>Osiris</b> and "
@@ -249,7 +249,7 @@ msgstr ""
 "ваших самых важных граждан, убедитесь, что у них есть доступ к храмам разных"
 " богов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_01_Title"
 msgid "Multiple Gods"
 msgstr "Несколько богов"
@@ -258,7 +258,7 @@ msgctxt "Nekhen_Step_02_Title"
 msgid "Develop your city"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_03_Content"
 msgid ""
 "Sophisticated Egyptians like to listen to music in their leisure time, as "
@@ -276,7 +276,7 @@ msgstr ""
 "музыканты. Доступ к разнообразным развлечениям значительно улучшает жизнь в "
 "любом городе."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_03_Title"
 msgid "More Entertainment"
 msgstr "Больше развлечений"
@@ -285,7 +285,7 @@ msgctxt "Nekhen_Step_04_Title"
 msgid "Keep developing your city"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_05_Content"
 msgid ""
 "Your fellow Egyptians have perfected the art of brewing beer, which has "
@@ -299,7 +299,7 @@ msgstr ""
 "местных ферм для пивоваров, и они сделают пиво и доставят его на склад, "
 "откуда оно будет разноситься работниками базара, как и пища с керамикой."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_05_Title"
 msgid "Beer & Barley farming"
 msgstr "Пиво"
@@ -308,7 +308,7 @@ msgctxt "Nekhen_Step_06_Title"
 msgid "Grow your city"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_07_Content"
 msgid ""
 "A large city needs to bring in additional revenue, beyond its initial funding. One way to accomplish this is through taxation. In order to levy taxes, your city will need a <b>Palace</b> and <b>Tax Collectors</b>. Make sure to build enough <b>Tax Collectors</b> to cover the whole city, especially its more well-to-do neighborhoods. Remember, the better the quality of life enjoyed in a given home, the more taxes its occupants will pay. \n"
@@ -317,7 +317,7 @@ msgstr ""
 "Большому городу нужен дополнительный доход помимо начального капитала. Один из способов пополнения казны — сбор податей. Для его организации городу нужен дворец и сборщики подати. Убедитесь, что отправили достаточно сборщиков, чтобы они могли обходить весь город, особенно более богатые его районы. Помните: чем лучше жизнь конкретного дома, тем больше податей заплатят его обитатели.\n"
 "Судья, обходящий улицы, помогает снизить риск преступности, разбирая споры людей и вынося взвешенные решения."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_07_Title"
 msgid "Taxes & Courthouses"
 msgstr "Подати и суды"
@@ -326,7 +326,7 @@ msgctxt "Nekhen_Step_08_Title"
 msgid "Keep growing your city"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_09_Content"
 msgid ""
 "If you build a <b>Mansion</b> for yourself, you can draw a personal salary "
@@ -343,7 +343,7 @@ msgstr ""
 "превышает положенное вашему рангу, это может плохо сказаться на вашем "
 "статусе в государстве."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_09_Title"
 msgid "Mansion & Personal Salary"
 msgstr "Особняк и личное жалование"
@@ -352,7 +352,7 @@ msgctxt "Nekhen_Step_10_Title"
 msgid "Reach 1000 Population and 10 Modest Apartments to win this mission"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_11_Content"
 msgid ""
 "Ferries can help your city run more smoothly. Carefully placed <b>water "
@@ -366,7 +366,7 @@ msgstr ""
 " на участки, которые были бы для них недоступны. В каких-то случаях "
 "переправы сократят пути для разносчиков и улучшат их время доставки."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nekhen_Step_11_Title"
 msgid "Water Crossings"
 msgstr "Переправы"
@@ -375,7 +375,7 @@ msgctxt "Nekhen_Step_12_Title"
 msgid "Reach 1000 Population and 10 Modest Apartments to win this mission"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_01_Content"
 msgid ""
 "The first things this village will need are <b>housing</b>, to provide "
@@ -389,22 +389,22 @@ msgstr ""
 "передвигаться. Разместите зоны для <b>жилья</b> и вскоре увидите, как в "
 "деревню потянутся люди."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_01_Title"
 msgid "Humble Beginnings"
 msgstr "Скромное начало"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_02_Title"
 msgid "Use the right panel to access construction tools."
 msgstr "Открывайте строительные инструменты на панели справа."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_03_Title"
 msgid "Click & drag to place areas of housing."
 msgstr "Перетащите жилую область, чтобы разместить ее."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_04_Title"
 msgid "Right-click to quit the construction mode."
 msgstr "Щелкните правой кнопкой мыши для выхода из режима постройки."
@@ -413,14 +413,14 @@ msgctxt "Nubt_Step_05_Title"
 msgid "Select the road button on the right panel"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_06_Title"
 msgid "Click and drag the mouse to build long lengths of road at one time."
 msgstr ""
 "Щелкайте и перетаскивайте указатель мыши, чтобы сразу построить длинную "
 "дорогу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_07_Content"
 msgid ""
 "The path by which immigrants reach your city is known as the <b>Kingdom "
@@ -434,19 +434,19 @@ msgstr ""
 "артерии, соединяющей его с внешним миром, дома в таком квартале просто "
 "исчезнут."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_07_Title"
 msgid "The Kingdom Road"
 msgstr "Государственный тракт"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_08_Title"
 msgid "Watch immigrants arrive until your city grows to 200 inhabitants."
 msgstr ""
 "Смотрите, как приходят переселенцы, пока население вашего города не "
 "достигнет 200 человек."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_09_Content"
 msgid ""
 "To evolve their houses, your inhabitants will need basic access to water. "
@@ -460,7 +460,7 @@ msgstr ""
 "земле. Каждый из них обеспечивает водой дома в пределах двух клеток вокруг "
 "себя."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_09_Title"
 msgid "Access to water"
 msgstr "Доступ к воде"
@@ -481,7 +481,7 @@ msgctxt "Nubt_Step_13_Title"
 msgid "Build the required wells"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_14_Title"
 msgid ""
 "Right-click to go back to the category selection, and right-click again to "
@@ -501,14 +501,14 @@ msgctxt "Nubt_Step_15_Title"
 msgid "Quality of life"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_16_Title"
 msgid "Watch your houses evolve until 250 inhabitants live in sturdy huts."
 msgstr ""
 "Смотрите, как улучшаются дома, пока 250 поселенцев не будут жить в крепких "
 "лачугах."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_17_Content"
 msgid ""
 "A growing population needs a reliable source of <b>food</b> and some means "
@@ -522,7 +522,7 @@ msgstr ""
 "земель, можно охотиться. Дичь и другую еду можно хранить в амбарах, а через "
 "базары предлагать ее жителям деревни."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_17_Title"
 msgid "Hunting"
 msgstr "Охота"
@@ -535,12 +535,12 @@ msgctxt "Nubt_Step_19_Title"
 msgid "Select the hunting lodge"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_20_Title"
 msgid "Build 2 hunting lodges."
 msgstr "Постройте 2 хижины охотника."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_21_Content"
 msgid ""
 "As with most working structures, these buildings must be located within "
@@ -556,12 +556,12 @@ msgstr ""
 "домов, где проживают люди, в самом здании закипит работа. Вы можете щелкнуть"
 " по размещенной хижине охотника, чтобы узнать больше."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_21_Title"
 msgid "Workforce Access"
 msgstr "Доступ к рабочей силе"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_23_Content"
 msgid ""
 "Hunters will now set out in search of prey. If successful, they'll bring the"
@@ -577,7 +577,7 @@ msgstr ""
 "приятно жить, но им в то же время требуется доступ к рабочим, поэтому важно "
 "тщательно подбирать место для каждого амбара."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_23_Title"
 msgid "Granaries"
 msgstr "Амбары"
@@ -596,7 +596,7 @@ msgid ""
 "to the workforce"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_27_Content"
 msgid ""
 "While your hunters now deliver game meat to the granary, you still have no "
@@ -610,7 +610,7 @@ msgstr ""
 " рабочего за пищей из амбара, а затем по дорогам будет ходить разносчик, "
 "доставляя еду вашим жителям."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_27_Title"
 msgid "Bazaars & Distribution"
 msgstr "Базары и распределение"
@@ -625,7 +625,7 @@ msgid ""
 "your granary."
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_30_Content"
 msgid ""
 "When trying to place a building near a road, you will see indicators with <b>arrows</b>. The <b>green arrow</b> shows where the building will spawn its walkers and where it will take deliveries of goods. The <b>red arrow</b> shows the point of return for distributors coming out of this building. Sometimes both points are on the same tile.\n"
@@ -634,12 +634,12 @@ msgstr ""
 "При размещении здания возле дороги вы увидите индикаторы со стрелками. Зеленые стрелки показывают, где появятся обходчики из здания и куда будут приноситься товары. Красная стрелка показывает точку, в которую возвращаются разносчики, выходящие из здания. Иногда обе стрелки находятся на одной и той же клетке.\n"
 "Точки могут измениться, когда вы построите новые дороги рядом с уже существующими зданиями. Проверить позицию точек можно в любой момент, просто наведите курсор на нужное строение."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_30_Title"
 msgid "Walkers spawn and return points"
 msgstr "Места появления и возвращения обходчиков"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_32_Content"
 msgid ""
 "Distributors, whether they distribute goods or services to houses, roam the roads of your city for a time, and then come back to their building. \n"
@@ -650,12 +650,12 @@ msgstr ""
 "могут пойти по любой из дорог. Чтобы разносчики не терялись и не забредали "
 "куда не надо, не стройте дорожную сеть с большим количеством перекрестков."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_32_Title"
 msgid "Ambulomancy"
 msgstr "Амбуломантия"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_33_Content"
 msgid ""
 "One of the tools at your disposal to control the walkers is the "
@@ -666,7 +666,7 @@ msgstr ""
 "Один из инструментов, с которым вы можете управлять обходчиками, это заграждение. Заграждения не пропускают разносчиков товаров и других служащих, но позволяют пройти тем, у кого есть пропуск к конкретному пункту назначения. Используйте заграждения мудро, и вы сможете управлять даже огромными городами.\n"
 "Вот здесь пара заграждений по обе стороны государственного тракта не даст обходчикам уйти слишком далеко за пределы вашего растущего города."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_33_Title"
 msgid "Roadblocks"
 msgstr "Заграждения"
@@ -681,7 +681,7 @@ msgid ""
 "burgeoning city."
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_36_Content"
 msgid ""
 "To make sure Nubt sustains the tests of time, you’ll need to make sure that "
@@ -699,7 +699,7 @@ msgstr ""
 "информацией о нем. К примеру, жилые дома могут загореться, но никогда не "
 "обрушатся."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_36_Title"
 msgid "Fire & Collapse risks"
 msgstr "Риски пожара и обрушения"
@@ -708,12 +708,12 @@ msgctxt "Nubt_Step_37_Title"
 msgid "Open the service category"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_38_Title"
 msgid "Open the safety subcategory"
 msgstr "Постройте пост архитектора и пожарный пост рядом с домами."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_39_Title"
 msgid "You can now freely place buildings"
 msgstr "Теперь вы можете размещать здания где хочется."
@@ -722,7 +722,7 @@ msgctxt "Nubt_Step_40_Title"
 msgid "Place a fire house and an architect post to protect your buildings"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_41_Title"
 msgid ""
 "Use the Remove button on the right panel if you misplaced a building or a "
@@ -731,7 +731,7 @@ msgstr ""
 "Если вы разместили здание или построили дорогу не там, где нужно, уберите их"
 " кнопкой уничтожения на панели справа."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_42_Content"
 msgid ""
 "Now that they have food, villagers need access to clean water from a "
@@ -749,7 +749,7 @@ msgstr ""
 "разносить ведра питьевой воды по всем домам в округе. Этим домам больше не "
 "потребуются колодцы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_42_Title"
 msgid "Access to clean water"
 msgstr "Доступ к чистой воде"
@@ -762,19 +762,19 @@ msgctxt "Nubt_Step_44_Title"
 msgid "Open the hygiene subcategory"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_45_Title"
 msgid "Supply enough of your inhabitants with clean water to win the game"
 msgstr ""
 "Наладьте поставки чистой воды достаточному количеству жителей, чтобы "
 "завершить это задание."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Nubt_Step_46_Title"
 msgid "Reach 6 meager shanties to complete this mission"
 msgstr "Постройте 6 бедных хижин и рабочий источник воды."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Perwadjyt_Step_01_Content"
 msgid ""
 "To feed your people in Perwadjyt, you must build <b>farms</b> directly on the <b>flood plain</b>, in order to gain the benefits of its increased fertility. Unlike most working structures, <b>farms</b> on the flood plain do not need direct access to employees, but do need a steady workforce of peasant laborers, supplied by <b>Work Camps</b>, to tend their fields. Build <b>Work Camps</b> fairly close to <b>flood plain farms</b>, so peasants won't have to walk too far to reach them. \n"
@@ -791,7 +791,7 @@ msgstr ""
 "урожай, убедитесь, что у вас есть достаточно амбаров, чтобы запасенной в них"
 " пищи хватило для растущего населения."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Perwadjyt_Step_01_Title"
 msgid "Floodplains & Farming"
 msgstr "Пойменные поля и фермы"
@@ -800,7 +800,7 @@ msgctxt "Perwadjyt_Step_02_Title"
 msgid "Start building your city along with some farms and work camps"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Perwadjyt_Step_03_Content"
 msgid ""
 "Malaria is most prevalent close to water and marshland. The Malaria overlay "
@@ -817,7 +817,7 @@ msgstr ""
 "большинство построек, аптека может работать, только когда у нее есть доступ "
 "к дороге и рабочей силе."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Perwadjyt_Step_03_Title"
 msgid "Malaria"
 msgstr "Малярия"
@@ -830,7 +830,7 @@ msgctxt "Perwadjyt_Step_05_Title"
 msgid "Keep upgrading your housing"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Perwadjyt_Step_06_Content"
 msgid ""
 "Now that you've given your people basic food and water, you can enhance their lifestyle with other goods, such as pottery. Build a <b>Clay Pit</b> close to water, and a <b>Potter</b> nearby. Make sure these have access to labor as usual, and before long a cart will deliver clay to the <b>Potter</b>, who will create pottery for your city. \n"
@@ -848,7 +848,7 @@ msgstr ""
 "Глиняное и другие производства также создают для ваших жителей рабочие "
 "места, которые им очень нужны."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Perwadjyt_Step_06_Title"
 msgid "Industry"
 msgstr "Производство"
@@ -867,12 +867,12 @@ msgctxt "Perwadjyt_Step_08_Title"
 msgid "Workforce & unemployment"
 msgstr "Рабочая сила и безработица"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Perwadjyt_Step_09_Title"
 msgid "Store some Pottery in a Storage Yard"
 msgstr "Создайте запас керамики на складе."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Perwadjyt_Step_10_Content"
 msgid ""
 "Great job! You've gotten some industry up and running, and now you can think about making a few improvements to your city. <b>Beautification</b> can be used to make some neighborhoods more desirable. By making the area surrounding them more attractive, <b>Gardens</b>, <b>Statues</b> and <b>Plazas</b> can help houses to evolve. \n"
@@ -883,19 +883,19 @@ msgstr ""
 "Вы отлично постарались! Заработали производства, и теперь можно подумать об улучшении облика самого города. Элементы благоустройства — сады, статуи и площади — могут сделать районы привлекательнее и помочь домам в них улучшиться. Несколько садов можно размещать друг за другом, чтобы разбить большие парки. Покрывайте мощеные дороги мозаикой, чтобы создать красивые площади. Они повысят привлекательность района поблизости.\n"
 "Статуи, как и большинство зданий, можно вращать с помощью клавиши R."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Perwadjyt_Step_10_Title"
 msgid "Beautification"
 msgstr "Благоустройство"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Perwadjyt_Step_11_Title"
 msgid "Reach 600 population and 10 modest homesteads to win this mission"
 msgstr ""
 "Достигните численности населения в 600 человек и улучшите 10 домов до "
 "скромных усадеб, чтобы завершить это задание!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Saqqara_Step_01_Content"
 msgid ""
 "Some land is fertile enough for farming, even though it's not situated on the flood plain. You can identify such meadow areas by their multicolor plant growth. Some farms planted on meadows can produce more than one harvest per year, though the yield is usually somewhat less than that of a floodplain farm.\n"
@@ -904,12 +904,12 @@ msgstr ""
 "Даже не в пойме Нила встречается земля, которая достаточно плодородна для возделывания. Эти луга можно отличить по высокой желтой траве. Некоторые фермы на лугах могут собирать несколько урожаев в год, хотя их объем обычно меньше, чем у урожаев с пойменных полей.\n"
 "Проложите оросительные каналы, чтобы улучшить плодородность любой пахотной земли. Каналы на пойменных лугах могут впадать прямо в Нил, но для передачи воды на сухую землю вам потребуется подъемник для воды. Подъемники можно строить на краю поймы или на побережье, где вы сможете пустить воду на сухие земли напрямую из реки. Соедините оросительный канал с концом подъемника для воды, чтобы на фермы начала поступать вода для полива."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Saqqara_Step_01_Title"
 msgid "Meadow Farming & Irrigation"
 msgstr "Земледелие на лугах"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_01_Content"
 msgid ""
 "Start to lay down your housing and provide your people with fresh water and food <b>the same way you did it in Nubt</b>. Try to be relatively close to those ore bearing rocks in the north west of the map, you’re going to need to mine them!\n"
@@ -918,12 +918,12 @@ msgstr ""
 "Так же, как и в Нубте, начните строить дома и обеспечивать своих людей чистой водой и пищей. Постарайтесь держаться поближе к богатым минералами скалам на северо-востоке карты. Однажды вам потребуется разрабатывать там рудники!\n"
 "Деревья можно расчистить кнопкой уничтожения, однако на это не только потратятся драгоценные дебены, но и сами деревья здесь уже больше не вырастут. В будущих заданиях тщательно продумывайте свои действия."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_01_Title"
 msgid "New beginnings"
 msgstr "Новые начала"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_02_Title"
 msgid "Build housing and evolve it to reach at least 10 meager shanties"
 msgstr "Постройте жилье и улучшите его до бедных хижин."
@@ -942,7 +942,7 @@ msgctxt "Thinis_Step_04_Title"
 msgid "Build housing and evolve it to reach at least 10 meager shanties"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_05_Content"
 msgid ""
 "Each structure you place costs debens, not counting what you will spend to pay the workers’ salaries. One way to make back that money is to <b>mine gold</b>.\n"
@@ -951,7 +951,7 @@ msgstr ""
 "Каждая постройка, которую вы размещаете, стоит денег, не говоря уже о жаловании рабочих, которое вы будете платить. Один из способов пополнять казну — добывать золото.\n"
 "Разместите хотя бы 2 золотых рудника рядом с жилами, чтобы начать добычу этого драгоценного металла. Убедитесь, что у рабочих есть доступ к руднику, и не забывайте защищать их от рисков."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_05_Title"
 msgid "Managing treasury"
 msgstr "Управление казной"
@@ -960,7 +960,7 @@ msgctxt "Thinis_Step_06_Title"
 msgid "Supply 2 goldmines with workforce"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_07_Content"
 msgid ""
 "Gold is a special resource that is stored in the <b>Palace</b>, a unique "
@@ -975,7 +975,7 @@ msgstr ""
 "золота, который доберется до дворца, вносит в городской бюджет 100 дебенов. "
 "С таким регулярным доходом вам не придется залезать в долги."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_07_Title"
 msgid "Palace"
 msgstr "Дворец"
@@ -984,14 +984,14 @@ msgctxt "Thinis_Step_08_Title"
 msgid "Have your mines deliver gold to your palace"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_10_Title"
 msgid "Build a police station to patrol your housing and your Palace"
 msgstr ""
 "Постройте несколько казарм городской стражи для патрулирования жилых "
 "кварталов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_11_Content"
 msgid ""
 "You can check your houses by clicking on them to see if there is a risk of "
@@ -1005,7 +1005,7 @@ msgstr ""
 "помогут слои на панели слева. Посмотрите слой преступности, а потом "
 "взгляните и на другие."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_11_Title"
 msgid "Overlays"
 msgstr "Слои"
@@ -1018,7 +1018,7 @@ msgctxt "Thinis_Step_13_Title"
 msgid "Select the crime overlay"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_14_Content"
 msgid ""
 "Crime isn’t the only challenge you will face. Health can cause problems, and decimate your citizens. <b>Physicians</b> patrolling a neighborhood will protect its inhabitants from diseases. Providing your population with food and fresh water will also reduce the risk of diseases.\n"
@@ -1027,7 +1027,7 @@ msgstr ""
 "Одной преступностью трудности в управлении городом не заканчиваются. Плохое здравоохранение может подкосить благополучие населения. Лекари, обходящие квартал, вылечат жителей. Вы также снизите риск заболевания, обеспечив людей чистой водой и пищей.\n"
 "В будущем вы сможете строить здания, улучшающие здравоохранение. Например, аптека защитит от малярии жителей городов, которые находятся рядом с болотами."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_14_Title"
 msgid "Health & Diseases"
 msgstr "Здоровье и болезни"
@@ -1036,7 +1036,7 @@ msgctxt "Thinis_Step_15_Title"
 msgid "Place a physician to protect your citizens from diseases"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_16_Content"
 msgid ""
 "An Egyptian city cannot truly flourish without suitable places of worship, in the form of religious <b>Temples</b> and <b>Shrines</b> dedicated to one of five gods.\n"
@@ -1052,17 +1052,17 @@ msgstr ""
 "Баст является покровительницей Тиниса. Чтобы умилостивить богов, постройте достаточно храмов и святилищ в честь каждого, чтобы их хватало для текущего населения. Работающий храм посылает в близлежащие кварталы жреца и дает их жителям доступ к месту поклонения.\n"
 "Кроме религиозного действия, храмы и святилища также значительно улучшают привлекательность домов вокруг себя. Святилища можно строить на расстоянии одной клетки от дороги без потери доступа."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_16_Title"
 msgid "Religion"
 msgstr "Религия"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_17_Title"
 msgid "Build a temple and two shrines dedicated to Bast"
 msgstr "Постройте храм и пару святилищ в честь Баст."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_18_Content"
 msgid ""
 "Both patron gods and local deities can become hostile if not shown the respect due their positions. First, you need to make sure you have enough Temples and Shrines for your current population. Patron gods will require twice the amount.\n"
@@ -1073,17 +1073,17 @@ msgstr ""
 "умилостивить богов. Постройте в городе праздничную площадь, чтобы провести "
 "торжество в честь Баст."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_18_Title"
 msgid "Festivals"
 msgstr "Праздники"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_19_Title"
 msgid "Build a Festival Square on an intersection."
 msgstr "Постройте праздничную площадь на перекрестке."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_20_Content"
 msgid ""
 "Consult the <b>Overseer of the Temples</b> to determine the status of each of the gods in any particular city, and whether the gods are sufficiently appeased. Lightning bolts indicate that the god is feeling hostile toward your city, while a blue mystic symbol indicates that the god is feeling benevolent toward your city. The more you see of either, the more likely your city is to feel the god's presence (for better or worse!).\n"
@@ -1092,7 +1092,7 @@ msgstr ""
 "Поговорите с советником по религии, чтобы определить состояние каждого бога в любом из городов и узнать, не растет ли недовольство у кого-то из богов. Значки молнии показывают, что бог недоволен вашим городом, а значки анха указывают на его благосклонность. Чем больше вы видите тех или иных значков, тем сильнее влияние бога на город (и хорошее, и плохое!).\n"
 "На панели слева доступны разные советники, которые помогут вам управлять городом. Обращайтесь к ним время от времени, они смогут ответить на ваши вопросы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_20_Title"
 msgid "Overseers"
 msgstr "Советники"
@@ -1101,7 +1101,7 @@ msgctxt "Thinis_Step_21_Title"
 msgid "Open the Overseer menu on the left panel"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_22_Title"
 msgid "Open the Temple Overseer and hold a festival for Bast"
 msgstr "Проведите праздник в честь Баст!"
@@ -1111,7 +1111,7 @@ msgid ""
 "While preparations for the festival are on the way, you can speed up time"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_24_Content"
 msgid ""
 "As your city becomes more advanced, some citizens can enjoy leisure-time activities, such as taking in a little entertainment. A wide assortment of entertainment is one of the hallmarks of a truly cultured city, but currently you can only provide entertainment in the form of Jugglers. \n"
@@ -1127,18 +1127,18 @@ msgstr ""
 "Обученные жонглеры будут идти к любому из ближайших помостов и проводить там"
 " выступления, а это подарит району немного развлечений."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_24_Title"
 msgid "Entertainment"
 msgstr "Развлечения"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_25_Title"
 msgid "Reach ordinary cottages to win the mission!"
 msgstr ""
 "Улучшите 10 жилых зданий до обычных домов, чтобы завершить это задание!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_26_Title"
 msgid ""
 "Use Shrines and Temples to make the area more desirable for houses that "
@@ -1147,7 +1147,7 @@ msgstr ""
 "Повысить привлекательность домов, которые не могут улучшиться даже при "
 "наличии развлечений, можно с помощью храмов и святилищ."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_9_Content"
 msgid ""
 "With a supply of cash in reserve, however, comes the risk of theft. "
@@ -1162,12 +1162,12 @@ msgstr ""
 "сократить преступность — это поднять уровень жизни в городе, обеспечив людей"
 " едой и работой и позаботившись об их здоровье."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Thinis_Step_9_Title"
 msgid "Crime"
 msgstr "Преступность"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Timna_Step_01_Content"
 msgid ""
 "To conscript troops, build a Fort and a Recruiter. The Recruiter will send new conscripts, one by one, to the fort until it is fully occupied. There are three types of Fort; infantry, archer and charioteer, and each Fort holds sixteen soldiers, referred to as one 'company'. If soldiers die in combat, the Recruiter will see to it that replacements are conscripted.\n"
@@ -1176,7 +1176,7 @@ msgstr ""
 "Для сбора войска постройте крепость и пост вербовщика. Вербовщик начнет посылать новобранцев по одному в крепость, пока она не будет полностью укомплектована. Существует три типа крепостей: для пехоты, для лучников и для колесничих, и в каждой крепости могут разместиться шестнадцать солдат, которых называют отрядом. Если солдаты гибнут в бою, вербовщик пришлет им на замену новобранцев.\n"
 "Лучники сами делают себе луки и стрелы, но пехоте нужно предоставить копья с медными наконечниками. Поставьте оружейной мастерской партию свежедобытой меди, и мастер в ней выкует нужное оружие. Колесничим потребуются колесницы, которые делаются из дерева и меди. Готовое оружие доставляется вербовщику, чтобы новые солдаты уже выходили полностью вооруженными."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Timna_Step_01_Title"
 msgid "Recruiting Troops & Equipping Soldiers"
 msgstr "Наем войск"

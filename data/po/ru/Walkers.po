@@ -1,4 +1,3 @@
-#
 # Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
 msgid ""
 msgstr ""
@@ -8,12 +7,11 @@ msgstr ""
 "PO-Revision-Date: 2023-02-17 03:05+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 msgctxt "#Barge_Heading"
@@ -60,7 +58,7 @@ msgctxt "#Labor_e01"
 msgid "I'm the most popular person in the city. A lot of people need jobs."
 msgstr "Я самый популярный в городе человек. Много людей ищет работу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Labor_e02"
 msgid ""
 "My list of job openings is huge, and I can't find any workers to fill the "
@@ -69,17 +67,17 @@ msgstr ""
 "У меня огромный список мест, где не хватает рук, но я не могу найти им "
 "работников."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Labor_g01"
 msgid "I see sick people everywhere. A plague could break out!"
 msgstr "Кругом столько больных. Так и до чумы недалеко!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Labor_g02"
 msgid "I'm starving. I'd rather be looking for food than for workers. "
 msgstr "Помираю от голода. Лучше еду бы искать, а не рабочих."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Labor_g03"
 msgid ""
 "City defenses are so weak, I could soon be filling jobs with foreigners "
@@ -88,39 +86,40 @@ msgstr ""
 "Городские укрепления такие слабые. Скоро, может, придется давать работу "
 "чужеземцам, а не египтянам."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Labor_g04"
 msgid "Without workers available, my job is impossible."
 msgstr "Без рабочих и мои обязанности не получится исполнять."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Labor_g05"
 msgid ""
 "I hope the gods don't unleash their fury. We need to pay more attention to "
 "them."
-msgstr "Надеюсь, боги не обрушат на нас свой гнев. Надо больше им поклоняться."
+msgstr ""
+"Надеюсь, боги не обрушат на нас свой гнев. Надо больше им поклоняться."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Labor_g06"
 msgid ""
-"Enemies could attack at any time. Our reputation is low, and no one respects "
-"us."
+"Enemies could attack at any time. Our reputation is low, and no one respects"
+" us."
 msgstr ""
 "Враги могут напасть в любой момент. Нашей репутации уже некуда падать, нас "
 "никто не уважает."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Labor_g07"
 msgid "With so many able people out of work, my job ought to be easy."
 msgstr ""
 "Столько здоровых людей не могут найти работу. Мне, наверное, будет легко."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Labor_g08"
 msgid "It's boring here. I wish I could hire more entertainers."
 msgstr "Здесь так скучно. Вот бы нанять больше артистов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#Labor_g09"
 msgid "I don't mind living here. Things could certainly be worse."
 msgstr "Здесь ничего, уж точно могло быть и хуже."
@@ -137,12 +136,12 @@ msgctxt "#Merchant_Returning"
 msgid "Returning home"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#REED_E01"
 msgid "To the marsh I march for the reeds we need."
 msgstr "Меня ждет тростник на болотах."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#REED_E02"
 msgid "These reeds will make some fine papyrus."
 msgstr "Хороший папирус выйдет из этого тростника."
@@ -163,17 +162,17 @@ msgctxt "#Walker_Sells"
 msgid "Sells"
 msgstr ""
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#antelop_flavor"
 msgid "Catch them before the lions do."
 msgstr "Поймайте их, пока этого не сделали львы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#apothecary_e02"
 msgid "Malaria doesn't seem to be a problem here."
 msgstr "Похоже, тут нет проблем с малярией."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#apothecary_e03"
 msgid "An outbreak of malaria could strike if something isn't done."
 msgstr "Если ничего не предпринять, нас может ждать вспышка малярии."
@@ -186,17 +185,17 @@ msgctxt "#architect"
 msgid "Architect"
 msgstr "Архитектор"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#artisan_e01"
 msgid "My painting and plastering skills are needed at the monument!"
 msgstr "На строительстве памятника не обойтись без моих рисунков и отделки!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#artisan_e02"
 msgid "I capture the stories of Egypt on the walls of the royal tombs."
 msgstr "Я пересказываю истории Египта на стенах царских усыпальниц."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#asp_flavor"
 msgid "No one got close enough to confirm if it's a viper or not."
 msgstr ""
@@ -228,47 +227,49 @@ msgctxt "#barge_e05"
 msgid "What a bountiful journey!"
 msgstr "Что за выгодное плавание!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#bazaarboy"
 msgid "Bazaar Boy"
 msgstr "Мальчик с базара"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#bazaarboy_flavor"
-msgid "Will follow that lady anywhere, carrying food and goods for the people."
-msgstr "Будет всюду следовать за той госпожой и носить еду и товары для людей."
+msgid ""
+"Will follow that lady anywhere, carrying food and goods for the people."
+msgstr ""
+"Будет всюду следовать за той госпожой и носить еду и товары для людей."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#bazaarbuyer"
 msgid "Bazaar buyer"
 msgstr "Закупщица с базара"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#bazaartrader"
 msgid "Bazaar trader"
 msgstr "Торговка с базара"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#birds_flavor"
 msgid "Only the best of hunters will catch these wild birds."
 msgstr "Только лучшие охотники способны поймать этих птиц."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#brick_e01"
 msgid "It's bricklaying time at the monument!"
 msgstr "Для памятника пора класть кирпичи!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#brick_e02"
 msgid "With my bricks, this monument will be strong."
 msgstr "С моими кирпичами этот памятник простоит сто лет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#bricklayer"
 msgid "Bricklayer"
 msgstr "Укладчик кирпича"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#caravan"
 msgid "Caravan of merchants from"
 msgstr "Караван торговцев из города"
@@ -296,27 +297,27 @@ msgctxt "#caravan_e05"
 msgid "You talk a fine bargain, my friend. I'll barely make back my costs."
 msgstr "А ты умеешь торговаться, мой друг. Почти в убыток себе продаю."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#carpenter"
 msgid "Carpenter"
 msgstr "Плотник"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#carpenter_e01"
 msgid "My services are needed at the monument!"
 msgstr "Моя помощь нужна на строительстве памятника!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#carpenter_e02"
 msgid "This monument would be very short without my ramps and scaffolds."
 msgstr "Без моих пандусов и лесов памятник был бы очень низеньким."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#cartpusher"
 msgid "Delivery man"
 msgstr "Доставщик"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#cartpusher_e01"
 msgid ""
 "I'm not taking these supplies any further until someone's available to "
@@ -325,18 +326,18 @@ msgstr ""
 "Я и шага больше эту телегу не протащу, пока не найдется тот, кто ее "
 "разгрузит."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#cartpusher_e02"
 msgid "No one can accept these goods! That's okay, I can use the rest."
 msgstr "Никто не принимает такие товары. Ну ничего, отдохну пока."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#cartpusher_e03"
 msgid ""
 "I have to go clear across the city with these goods. It'll take all day!"
 msgstr "Мне приходится тащиться через весь город. Это занимает целый день!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#charioteer"
 msgid "Charioteer"
 msgstr "Колесничий"
@@ -345,7 +346,7 @@ msgctxt "#citizen"
 msgid "Citizen"
 msgstr "Житель"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#constable"
 msgid "Constable"
 msgstr "Стражник"
@@ -354,7 +355,7 @@ msgctxt "#criminal"
 msgid "Criminal"
 msgstr "Преступник"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#crocodile_flavor"
 msgid "You can't see any tears roll upon their thick armored skin."
 msgstr "Вы не увидите, как по их толстой шкуре текут слезы."
@@ -363,30 +364,30 @@ msgctxt "#dancer"
 msgid "Dancer"
 msgstr "Танцовщица"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dancer_e01"
 msgid ""
 "These festival crowds are so enthusiastic, they make me want to leap higher."
 msgstr "Публика на празднике такая благодарная, что хочется прыгать еще выше."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dancer_g01"
 msgid "Many people have taken ill in the city. I hope I don't catch anything!"
 msgstr "В городе столько заболевших. Надеюсь, меня никакой недуг не свалит."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dancer_g02"
 msgid "I can't prance and leap very well without enough food!"
 msgstr "Откуда мне взять силы летать по сцене на пустой желудок?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dancer_g03"
 msgid ""
 "Invaders would have little trouble taking over our city. Nothing defends it."
 msgstr ""
 "Захватчики взяли бы наш город в два счета. Его вообще ничего не защищает."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dancer_g04"
 msgid ""
 "Another dance partner lost to the worker shortage! I hate dancing alone."
@@ -394,12 +395,12 @@ msgstr ""
 "Еще один партнер потерян из-за того, что во всем городе не хватает рабочих "
 "рук! Ненавижу танцевать в одиночку."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dancer_g05"
 msgid "We should do more to appease the gods - and quickly!"
 msgstr "Нам надо умилостивить богов, и поскорее!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dancer_g06"
 msgid ""
 "This city's reputation is worse than a juggler's! I hope we aren't attacked."
@@ -407,20 +408,21 @@ msgstr ""
 "Даже о жонглерах не ходит настолько дурная слава, как о нашем городе! "
 "Надеюсь, на нас никто не нападет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dancer_g07"
 msgid ""
-"If I weren't so light on my feet, I would trip over all these jobless people!"
+"If I weren't so light on my feet, I would trip over all these jobless "
+"people!"
 msgstr ""
 "Не надели меня боги такой ловкостью, я бы постоянно спотыкалась о "
 "безработных!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dancer_g08"
 msgid "(Yawn) I need to be entertained!"
 msgstr "(Зевает.) Развлекайте же меня!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dancer_g09"
 msgid "This city is just about as good as any other city, I guess."
 msgstr "Ну, этот город не хуже других, наверное."
@@ -429,17 +431,17 @@ msgctxt "#dancer_g10"
 msgid "This city is fantastic!"
 msgstr "Просто невероятный город!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#deliveryboy"
 msgid "Delivery boy"
 msgstr "Мальчик-посыльный"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dentist"
 msgid "Dentist"
 msgstr "Зубной врач"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dentist_g01"
 msgid ""
 "People are so concerned about catching the plague that they're neglecting "
@@ -447,14 +449,14 @@ msgid ""
 msgstr ""
 "Люди так боятся заразиться чумой, что забывают следить за здоровьем зубов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dentist_g02"
 msgid "I've had so little to eat lately...what a sad waste of perfect teeth."
 msgstr ""
 "В последнее время мне так не хватает еды... Как жаль, что такие прекрасные "
 "зубы простаивают."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dentist_g03"
 msgid ""
 "The city's defenses are full of gaps. Our enemies could have their way with "
@@ -462,160 +464,162 @@ msgid ""
 msgstr ""
 "В укреплениях города сплошные дыры. Враги могут захватить нас в два счета."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dentist_g04"
 msgid ""
-"This city's workforce is like an old man's mouth. So many holes to be filled!"
+"This city's workforce is like an old man's mouth. So many holes to be "
+"filled!"
 msgstr "Рынок труда здесь словно рот старика. Сплошные дырки!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dentist_g05"
 msgid ""
 "I'm worried about this city's molars - I mean morals! We need to pay the "
 "gods more respect."
 msgstr ""
-"Меня волнуют резцы города... В смысле резкости, которые мы себе позволяем по "
-"отношению к богам!"
+"Меня волнуют резцы города... В смысле резкости, которые мы себе позволяем по"
+" отношению к богам!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dentist_g06"
 msgid "Our reputation is rotten. We could be attacked."
 msgstr ""
 "О нас ходит такая дурная слава, что на город могут напасть в любую минуту."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dentist_g07"
 msgid "I've never seen so many people out of work before!"
 msgstr "Никогда не доводилось видеть столько людей без работы!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dentist_g08"
 msgid "I'm bored! I guess I'll brush my teeth again."
 msgstr "Мне скучно! Пойду, что ли, зубы еще раз почищу..."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dentist_g09"
 msgid "This city is okay. Only a few cavities!"
 msgstr "Город в неплохом состоянии. Так, всего пара дырочек."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dentist_g10"
 msgid "This city has the brightest smile in all of Egypt."
 msgstr "У нашего города лучшая улыбка во всем Египте."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#disease_e01"
 msgid "Ohhh, my stomach! Oh, my head!"
 msgstr "О-ой, живот! Ох, а голова-то как болит!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dockpusher_e01"
 msgid "We're doing more than our share of work. We need more help."
 msgstr "У нас каждый уже работает за двоих. Нам нужно больше помощников."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dockpusher_e02"
 msgid "I'll wait here until some space for this stuff opens up."
 msgstr "Подожду здесь, пока не освободится место для этого груза."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#dockpusher_e03"
 msgid "Am I there yet? I can't haul these goods much further."
 msgstr "Много там еще? Я уже устал разгружать!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#doctor_e01"
 msgid "Plague could strike us dead at any moment!"
 msgstr "Чума может выкосить нас всех в любой момент!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#doctor_g01"
 msgid "With city health so dismal, I'm a busy man. Still, plague threatens."
 msgstr ""
-"Состояние здоровья жителей такое плачевное, что мне ни сесть, ни присесть. И "
-"нам все равно грозит чума."
+"Состояние здоровья жителей такое плачевное, что мне ни сесть, ни присесть. И"
+" нам все равно грозит чума."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#doctor_g02"
 msgid "Being hungry all the time isn't good for me."
 msgstr "Мне нельзя все время недоедать."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#doctor_g03"
 msgid ""
 "I'd advise this city to bolster its defenses so our enemies do not do us "
 "damage."
 msgstr "Городу бы надо укрепить оборону, чтобы к нам не проникли враги."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#doctor_g04"
 msgid ""
 "I've seen many workers pushed to their limits. This city could use more "
 "employees."
 msgstr ""
-"Мне встречалось немало рабочих, доведенных до истощения большими нагрузками. "
-"Городу нужно больше рабочей силы."
+"Мне встречалось немало рабочих, доведенных до истощения большими нагрузками."
+" Городу нужно больше рабочей силы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#doctor_g05"
 msgid ""
 "I don't think we're paying the gods enough respect. This is terribly risky "
 "behavior."
 msgstr ""
-"Мне кажется, что мы воздаем богам слишком мало почестей. А это очень чревато."
+"Мне кажется, что мы воздаем богам слишком мало почестей. А это очень "
+"чревато."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#doctor_g06"
 msgid "Our base reputation invites others to attack."
 msgstr ""
 "Наша никудышная репутация буквально приглашает врагов напасть на город."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#doctor_g07"
 msgid "Sitting idly by waiting for jobs is bad for our people's health!"
 msgstr "Для здоровья вредно сидеть без дела в ожидании работы!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#doctor_g08"
 msgid ""
-"I've had people come in for checkups just because they've got nothing better "
-"to do!"
+"I've had people come in for checkups just because they've got nothing better"
+" to do!"
 msgstr ""
 "Ко мне люди приходят на прием только потому, что им больше нечем заняться!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#doctor_g09"
 msgid "This city is good enough, I guess."
 msgstr "Неплохой у нас город, пожалуй."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#doctor_g10"
 msgid "I cannot imagine a healthier place to live."
 msgstr "Даже не представляю лучшего места для жизни."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer"
 msgid "Embalmer"
 msgstr "Бальзамировщик"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer_e01"
 msgid "Health seems to be worsening throughout the city."
 msgstr "Похоже, здоровье ухудшается по всему городу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer_g01"
 msgid ""
 "Judging by the number of sick people in this city, I could soon have my "
 "hands full!"
 msgstr "Судя по количеству больных, скоро у меня наверняка прибавится работы!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer_g02"
 msgid "I'm famished. Before long, I'll be skinnier than a mummy!"
 msgstr "Умираю как есть хочу. Скоро меня не отличишь от мумии!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer_g03"
 msgid ""
 "The city is not securely wrapped in defenses. An enemy could easily defeat "
@@ -623,7 +627,7 @@ msgid ""
 msgstr ""
 "Город плохо укреплен. Враги смогут с легкостью размотать всю нашу оборону."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer_g04"
 msgid ""
 "If I ever wanted to leave embalming behind, now is my chance. So many job "
@@ -632,45 +636,46 @@ msgstr ""
 "Если бы я хотел сменить профессию, то с легкостью бы это сделал. Работников "
 "не хватает везде!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer_g05"
-msgid "The gods could soon unravel our city if we don't pay them more respect."
+msgid ""
+"The gods could soon unravel our city if we don't pay them more respect."
 msgstr ""
 "Боги могут скоро принести смерть в наш город, если не будем воздавать им "
 "больше почестей."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer_g06"
 msgid ""
-"The city's bad reputation could be the death of us all. We could be attacked "
-"at any moment."
+"The city's bad reputation could be the death of us all. We could be attacked"
+" at any moment."
 msgstr ""
 "Плохая репутация города еще принесет нам всем погибель. Враги могут напасть "
 "в любой момент."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer_g07"
 msgid ""
 "When I see so many people out of work, it makes me glad that I have a job."
 msgstr ""
-"Когда вижу, сколько людей не могут найти работу, то думаю, как хорошо, что у "
-"меня еще есть моя."
+"Когда вижу, сколько людей не могут найти работу, то думаю, как хорошо, что у"
+" меня еще есть моя."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer_g08"
 msgid ""
-"This city is as dead as the bodies I work with all day. I wish the city were "
-"alive with entertainment."
+"This city is as dead as the bodies I work with all day. I wish the city were"
+" alive with entertainment."
 msgstr ""
 "Город мертвее, чем тела у меня на столе. Хоть бы какими-то развлечениями "
 "оживили нам обстановку."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer_g09"
 msgid "I might as will live here. It's about as good as anywhere else."
 msgstr "Ну, сойдет. Что тут жить, что в другом городе — невелика разница."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#embalmer_g10"
 msgid ""
 "I feel truly sorry for my clients. They aren't around to enjoy this "
@@ -679,55 +684,55 @@ msgstr ""
 "Мне так жаль моих мумий, ведь им уже недоступно счастье жить в таком "
 "невероятном городе!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#emigrant"
 msgid "Emigrant"
 msgstr "Уезжающий"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#emigrant_e01"
 msgid "I can't find a job here. I will look elsewhere."
 msgstr "Не могу найти здесь работы. Придется идти в другие города."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#emigrant_e02"
 msgid "There's not enough food for me to eat. I'm moving out of this desert!"
 msgstr "Здесь мне нечего есть. Все, ноги моей больше не будет в этой пустыне!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#emigrant_e03"
 msgid "Taxes are too high here. I'm surprised I wasn't taxed for leaving."
 msgstr ""
 "Здесь просто грабительские подати. Удивительно, что с меня еще за уход из "
 "города ничего не стребовали."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#emigrant_e04"
 msgid "I can't live on what they pay me here."
 msgstr "Я не могу жить на те гроши, что здесь платят."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#emigrant_e05"
 msgid ""
 "Houses I've seen are overstuffed with people. I can't stay here without a "
 "place to live."
 msgstr ""
-"Все дома, что мне попались, трещат по швам от людей. Я не могу жить там, где "
-"нет даже своего угла."
+"Все дома, что мне попались, трещат по швам от людей. Я не могу жить там, где"
+" нет даже своего угла."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_e01"
 msgid "There are so many places in poor condition, I can barely keep up."
 msgstr "В городе так много мест в плачевном состоянии, что я едва справляюсь."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_e02"
 msgid "I hope I'm credited for the great condition of this city."
 msgstr ""
 "Надеюсь, мои заслуги в создании великолепного облика города оцениваются по "
 "достоинству."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_g01"
 msgid ""
 "A lot of people are in much worse condition than the buildings. I hope "
@@ -735,7 +740,7 @@ msgid ""
 msgstr ""
 "Здоровье в городе рушится. Надеюсь, до полной катастрофы все же не дойдет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_g02"
 msgid ""
 "Starvation might not affect the strength of these buildings, but it sure "
@@ -744,19 +749,20 @@ msgstr ""
 "Голод не повлияет на состояние этих зданий, но вот на мое он влияет очень "
 "даже!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_g03"
 msgid "How are we to defend ourselves? The city's defenses are laughable."
 msgstr "Как нам защититься, когда в городе смех один, а не укрепления."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_g04"
 msgid ""
 "Why does it matter if these buildings collapse? No workers are in them "
 "anyway."
-msgstr "Какая разница, рухнут эти здания или нет? Все равно в них нет рабочих."
+msgstr ""
+"Какая разница, рухнут эти здания или нет? Все равно в них нет рабочих."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_g05"
 msgid ""
 "If the gods are angry, not even the best architect can fix the damage they "
@@ -764,76 +770,76 @@ msgid ""
 msgstr ""
 "Если боги разгневаются, даже лучшему архитектору не восстановить город."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_g06"
 msgid "Our city's reputation is so low, I fear our enemies will attack."
 msgstr ""
 "У нашего города такая плохая репутация, что, боюсь, на нас нападут враги."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_g07"
 msgid "By my estimation, a lot of people are out of work."
 msgstr "По моим расчетам, у многих людей сейчас нет работы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_g08"
 msgid "Ho hum. Even architects like a little fun every now and then."
 msgstr "Скукота. Даже архитекторам время от времени хочется повеселиться."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_g09"
 msgid "Life here could be a lot worse."
 msgstr "Жизнь здесь могла быть куда хуже."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#engineer_g10"
 msgid "This city has everything an architect's heart could desire!"
 msgstr "В этом городе есть все, чего пожелает душа архитектора!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#ferryboat"
 msgid "Ferry boat"
 msgstr "Паром"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#festivalpriest"
 msgid "Festival priest"
 msgstr "Жрец на праздниках"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_e01"
 msgid "I can't talk now. I'm busy dousing this fire."
 msgstr "Сейчас не могу говорить, надо тушить пожар."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_e02"
 msgid "This fire could burn the whole city down if I don't act fast!"
 msgstr "Огонь может сжечь весь город, если я буду копаться!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_e03"
 msgid "Ooh, that's hot!"
 msgstr "Ох, горячо!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_g01"
 msgid "I hope a plague doesn't break out. Plagues can spread like wildfire."
 msgstr ""
 "Надеюсь, нам не грозит чума. Она может разойтись по городу в одночасье."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_g02"
 msgid "Even when fires are burning, all I can think about is how hungry I am."
 msgstr ""
-"Даже когда горит огонь, могу думать только о том, как хорошо бы поджарить на "
-"нем мяса."
+"Даже когда горит огонь, могу думать только о том, как хорошо бы поджарить на"
+" нем мяса."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_g03"
 msgid "If our enemies invade, the whole city could go up in flames."
 msgstr "Если на нас нападут враги, весь город может вспыхнуть, как лучина."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_g04"
 msgid ""
 "I fear that some of these half-empty buildings could catch fire. I wish "
@@ -842,7 +848,7 @@ msgstr ""
 "Боюсь, что какие-то из этих полупустых зданий загорятся. Жаль, что в городе "
 "так мало рабочих."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_g05"
 msgid ""
 "The gods' fiery wrath will come down on us if we don't pay more respect."
@@ -850,7 +856,7 @@ msgstr ""
 "Карательное пламя богов может ударить по нам, если так и будем о них "
 "забывать."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_g06"
 msgid ""
 "I wouldn't dream of letting my reputation sink so low. Our city's bad "
@@ -859,7 +865,7 @@ msgstr ""
 "Как можно допустить, чтобы о тебе пошла такая дурная слава? На нее тут же "
 "сбегутся любители легкой наживы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_g07"
 msgid ""
 "I've had more people volunteer for the fire department. These people need "
@@ -868,7 +874,7 @@ msgstr ""
 "У нас появилось столько добровольцев в пожарной охране. Всем этим людям "
 "нужна работа."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_g08"
 msgid ""
 "Firefighting is hard work, and I'd love to cool off with a good show. "
@@ -877,17 +883,17 @@ msgstr ""
 "Пожары тушить — работенка не из легких. Я могу спускать пар, когда смотрю "
 "представления, но их-то в городе и не хватает."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_g09"
 msgid "I'm satisfied with this city."
 msgstr "Меня этот город устраивает."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fireman_g10"
 msgid "This city is cool."
 msgstr "Не уеду отсюда, даже гори оно все огнем."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#firemarshal"
 msgid "Fire marshal"
 msgstr "Пожарный"
@@ -896,7 +902,7 @@ msgctxt "#fish"
 msgid "Fish"
 msgstr "Рыба"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fish_flavor"
 msgid ""
 "Teach a man to fish and he'll empty the Nile faster than you can imagine."
@@ -904,20 +910,20 @@ msgstr ""
 "Научите человека рыбачить, и он опустошит Нил быстрее, чем вы можете себе "
 "представить."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fishing_e01"
 msgid ""
 "Another perfect day for fishing. I hope the catch is as plentiful as usual."
 msgstr ""
 "Еще один отличный денек для рыбалки. Надеюсь, улов как обычно не подведет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fishing_e02"
 msgid ""
 "Our hold is overflowing, but you should have seen the one that got away!"
 msgstr "Наши садки переполнены, но вы бы видели, какую рыбину мы упустили."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#fishing_e03"
 msgid "Move faster! We can't get back to work until you unload us."
 msgstr "Быстрее! Пока не разгрузите, мы не сможем вернуться к делу."
@@ -926,44 +932,44 @@ msgctxt "#fishingboat"
 msgid "Fishing boat"
 msgstr "Рыбацкая лодка"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#frog"
 msgid "Frog"
 msgstr "Жаба"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#frog_flavor"
 msgid "Their land swarmed with frogs, even in the chambers of their kings."
 msgstr "Закипела жабами земля их, и чертоги царей их."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#guard_e01"
 msgid "No enemies have been sighted, but we're ready nonetheless."
 msgstr "Врагов не замечено, но мы все равно готовы к их появлению."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#guard_e02"
 msgid "We're coiled like an asp, eager to strike at the approaching enemy."
 msgstr "Мы поджидаем врагов, как аспид в засаде."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#guard_e03"
 msgid ""
 "You call that an army?! We'll have no trouble defeating that motley crew."
 msgstr ""
 "И это войско?! Да мы с этой жалкой кучкой слабаков в два счета разделаемся."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#guard_e04"
 msgid "This enemy is a fierce one! I'm doing all that I can to defeat them."
 msgstr "Враг силен! Я делаю все, что в моих силах, чтобы разбить его."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#herbalist"
 msgid "Herbalist"
 msgstr "Аптекарь"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#hippopotamus_flavor"
 msgid "The biggest, baddest, meanest mammal out there."
 msgstr "Самые большие, грозные и злобные млекопитающие."
@@ -972,33 +978,34 @@ msgctxt "#homeless"
 msgid "Homeless"
 msgstr "Бездомный"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#hunt_ant_e01"
 msgid "Antelopes are no match for us!"
 msgstr "Антилопам от нас не скрыться!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#hunt_ant_e02"
 msgid "There will be steaks for everyone tonight."
 msgstr "Сегодня на столах будет мясо."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#hunt_bird_e01"
-msgid "Birds are wily. They'll fly away if you don't approach them just right."
+msgid ""
+"Birds are wily. They'll fly away if you don't approach them just right."
 msgstr ""
 "Птицы такие коварные. Если подобраться к ним неправильно, тут же улетают."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#hunt_bird_e02"
 msgid "Look at those beautiful birds, ready for roasting!"
 msgstr "Какие красивые птички, так и просятся на вертел!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#hunt_ostrich_e01"
 msgid "Ostriches are nearly invisible when they put their heads in the sand."
 msgstr "Страусов и не увидишь, когда они суют головы в песок."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#hunt_ostrich_e02"
 msgid "Now, those are some BIG drumsticks!"
 msgstr "Вот это я понимаю ножки!"
@@ -1007,7 +1014,7 @@ msgctxt "#hunter"
 msgid "Hunter"
 msgstr "Охотник"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#hyena_flavor"
 msgid ""
 "Hyenas don't wander far from their den unless they have a good reason. "
@@ -1016,27 +1023,27 @@ msgstr ""
 "Гиены обычно не отходят далеко от логова, но нельзя же упустить одинокого "
 "прохожего, которого можно съесть."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#immigrant"
 msgid "Immigrant"
 msgstr "Приезжий"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#immigrant_e01"
 msgid "I'm new here. I wonder what the city will offer to a person like me."
 msgstr "Я здесь недавно. Интересно, что в городе есть для таких, как я?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#immigrant_e02"
 msgid "I heard there is a job here for anyone who wants one."
 msgstr "Говорят, что тут найдется работа для всякого."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#immigrant_e03"
 msgid "People say that this city has plenty of food to go around."
 msgstr "Говорят, что в этом городе еды хватает всем."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#infantry"
 msgid "Infantry"
 msgstr "Пехотинец"
@@ -1045,23 +1052,25 @@ msgctxt "#juggler"
 msgid "Juggler"
 msgstr "Жонглёр"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#juggler_e01"
 msgid "I love working these festival crowds. Everyone's so happy!"
 msgstr "Обожаю выступать на праздниках. Все такие счастливые!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#juggler_g01"
-msgid "I've never seen so many sick people. I hope a plague doesn't break out."
-msgstr "Первый раз вижу столько больных людей. Надеюсь, нас не настигнет чума."
+msgid ""
+"I've never seen so many sick people. I hope a plague doesn't break out."
+msgstr ""
+"Первый раз вижу столько больных людей. Надеюсь, нас не настигнет чума."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#juggler_g02"
 msgid ""
 "It's hard to catch these clubs when you're doubled over with hunger pangs."
 msgstr "Сложно ловить предметы, когда живот крутит от голода."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#juggler_g03"
 msgid ""
 "Maybe I can throw these clubs at the enemy should they attack. Little else "
@@ -1070,34 +1079,35 @@ msgstr ""
 "Может, когда враги нападут, мне их своими палками закидать? Больше-то город "
 "защитить некому."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#juggler_g04"
 msgid ""
-"I see job vacancies everywhere! I wonder if I could juggle more than one job."
+"I see job vacancies everywhere! I wonder if I could juggle more than one "
+"job."
 msgstr "Вижу повсюду рабочие места! Может, и мне найти подработку?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#juggler_g05"
 msgid "I'm expecting the worst. The gods must think we've forgotten them."
 msgstr "Я жду худшего. Боги, наверное, считают, что мы совсем о них позабыли."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#juggler_g06"
 msgid "This city has a worse reputation than I do. I hope no one attacks us."
 msgstr ""
 "О городе ходит более дурная слава, чем даже обо мне. Надеюсь, на нас никто "
 "не нападет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#juggler_g07"
 msgid ""
-"I wish there were more jobs in this city. None of the people I entertain can "
-"pay me."
+"I wish there were more jobs in this city. None of the people I entertain can"
+" pay me."
 msgstr ""
 "Жалко, что у нас в городе так плохо с работой. Мне никто из зрителей даже "
 "заплатить не может."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#juggler_g08"
 msgid ""
 "I can only juggle so much. I wish there were other entertainers in the city."
@@ -1107,12 +1117,12 @@ msgctxt "#juggler_g09"
 msgid "This city isn't too bad."
 msgstr "Наш город не так уж плох."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#juggler_g10"
 msgid "There's no place I'd rather juggle."
 msgstr "Всю жизнь бы здесь жонглировать."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#laborer"
 msgid "Laborer"
 msgstr "Наниматель"
@@ -1121,7 +1131,7 @@ msgctxt "#librarian"
 msgid "Librarian"
 msgstr "Библиотекарь"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#library_g01"
 msgid ""
 "People are sick. My medical papyri tell me that the illness could soon "
@@ -1130,28 +1140,30 @@ msgstr ""
 "Люди хворают. Мои лекарские папирусы утверждают, что такие болезни могут "
 "быстро перерасти в чуму."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#library_g02"
 msgid "I'm famished. It's hard to lift my scrolls on an empty stomach."
 msgstr "Меня снедает голод. На пустой желудок трудно таскать свитки."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#library_g03"
 msgid "Even the simplest enemy could manage to get through our defenses!"
 msgstr "Даже самый недалекий враг догадается, как преодолеть нашу оборону!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#library_g04"
 msgid "Unless more workers arrive soon, the city will surely suffer."
-msgstr "Если в скором времени не появится больше рабочих, городу это аукнется."
+msgstr ""
+"Если в скором времени не появится больше рабочих, городу это аукнется."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#library_g05"
 msgid ""
 "The literature is replete with stories of angry gods and their vengeance."
-msgstr "Литература приводит немало примеров, как мстительны оскорбленные боги."
+msgstr ""
+"Литература приводит немало примеров, как мстительны оскорбленные боги."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#library_g06"
 msgid ""
 "History shows that a city like ours will pay serious consequences for its "
@@ -1160,34 +1172,34 @@ msgstr ""
 "История показывает, что такие города, как наш, платят высокую цену за "
 "опороченную репутацию."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#library_g07"
 msgid ""
-"There are a lot of unemployed in the city. At least they have plenty of time "
-"to read."
+"There are a lot of unemployed in the city. At least they have plenty of time"
+" to read."
 msgstr ""
 "В городе слишком много людей не могут найти работу. Но у них хотя бы есть "
 "время на чтение."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#library_g08"
 msgid ""
 "Sometimes my eyes like to rest on something other than hieroglyphs. I want "
 "to see a show!"
 msgstr "Иногда мне хочется созерцать не иероглифы, а выступления."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#library_g09"
 msgid "This city is comparable to others I've read about."
 msgstr ""
 "Город сравним с другими, примеры которых находятся в разных источниках."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#library_g10"
 msgid "This city is the best that history has ever known!"
 msgstr "Это лучший город из всех, что знала история!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#lion_flavor"
 msgid "Just a big cat. Also happens to be the king of beasts."
 msgstr "Просто большая кошка. Он же царь зверей."
@@ -1196,7 +1208,7 @@ msgctxt "#locust"
 msgid "Locust"
 msgstr "Саранча"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#locust_flavor"
 msgid "He spoke, and the locusts came, young locusts without number."
 msgstr "Сказал, и пришла саранча и гусеницы без числа."
@@ -1205,33 +1217,33 @@ msgctxt "#lumberjack"
 msgid "Lumberjack"
 msgstr "Дровосек"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate"
 msgid "Magistrate"
 msgstr "Судья"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_e02"
 msgid "I hope I will earn a funeral procession when the time comes."
 msgstr ""
 "Надеюсь, когда придет мой час, в честь меня устроят похоронную процессию."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_e03"
 msgid "All is quiet in the court. There is no crime here."
 msgstr "В суде все тихо. У нас нет преступности."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_e04"
 msgid "I've been trying only petty cases. Nothing too serious!"
 msgstr "Я работаю только над мелкими делами, ничего серьезного!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_e05"
 msgid "I can barely manage my caseload, yet the streets are still unsafe."
 msgstr "Я едва справляюсь с нагрузкой, а на улицах города все равно опасно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_g01"
 msgid ""
 "Health conditions in this city are criminal. Plague is the punishment that "
@@ -1240,26 +1252,26 @@ msgstr ""
 "Город совсем не заботится о здоровье жителей. За такое преступление "
 "наказывают чумой."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_g02"
 msgid "I'm so hungry, a good meal will buy you any verdict you want."
 msgstr ""
 "Мне так хочется есть, что я могу вынести любой нужный вердикт за миску "
 "хорошей похлебки."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_g03"
 msgid ""
 "What woeful defenses! Our enemies could walk right into the city and take "
 "over."
 msgstr "Какие жалкие укрепления! Просто подходи и бери нас."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_g04"
 msgid "I've never seen so many job openings before!"
 msgstr "Не помню, чтобы у нас хоть раз так не хватало рабочей силы!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_g05"
 msgid ""
 "The gods will find us guilty of neglect if we don't start paying more "
@@ -1267,65 +1279,65 @@ msgid ""
 msgstr ""
 "Боги обвинят нас в непочтительности, если не начнем усерднее им поклоняться."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_g06"
 msgid ""
 "Our city is judged among the worst in the Kingdom. I dread the execution of "
 "our punishment."
 msgstr ""
-"Нашему городу присуждено звание одного из худших в стране. Боюсь даже думать "
-"о том, какое нас ждет наказание."
+"Нашему городу присуждено звание одного из худших в стране. Боюсь даже думать"
+" о том, какое нас ждет наказание."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_g07"
 msgid ""
 "Unemployed people have too much time on their hands, and that's dangerous."
 msgstr "У безработных слишком много свободного времени, а это чревато."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_g08"
 msgid "This city is guilty of poor entertainment options!"
 msgstr "Город виновен в плохой организации развлечений для своих жителей!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_g09"
 msgid "This city is balanced: nothing too good, but nothing too bad."
 msgstr ""
 "Жизнь в городе ровная: ничего очень хорошего, но и ничего слишком плохого."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#magistrate_g10"
 msgid "I judge this city to be the best."
 msgstr "Провозглашаю этот город лучшим."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#marketboy_e01"
 msgid "These baskets are too heavy for a little kid like me!"
 msgstr "Эти корзины слишком тяжелы для ребенка!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#marketboy_e02"
 msgid "That bossy lady makes me carry goods all day!"
 msgstr "Эта тетенька заставляет меня целый день таскать тяжести!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#marketboy_e03"
 msgid "Maybe I just carry baskets now, but one day I'll run the Bazaar."
 msgstr ""
 "Может, сейчас я просто таскаю корзины, но однажды буду управлять всем "
 "базаром."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_e01"
 msgid "The bazaar needs some items, and I'm going to get them."
 msgstr "Базару нужны товары, и я их достану."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_e02"
 msgid "These goods will make welcome additions to the bazaar."
 msgstr "Эти товары точно разлетятся на базаре."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_g01"
 msgid ""
 "So many people have taken ill. I hope they recover soon, or else a plague "
@@ -1334,22 +1346,23 @@ msgstr ""
 "Столько заболевших. Надеюсь, скоро они выздоровеют, иначе не миновать нам "
 "чумы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_g02"
 msgid ""
-"I'm starving. Most of my customers demand food, and I can barely feed myself."
+"I'm starving. Most of my customers demand food, and I can barely feed "
+"myself."
 msgstr ""
-"Я умираю от голода. Почти все покупатели приходят ко мне за едой, а я и себя-"
-"то прокормить не могу."
+"Я умираю от голода. Почти все покупатели приходят ко мне за едой, а я и "
+"себя-то прокормить не могу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_g03"
 msgid "Our defenses are flimsy. We could easily be invaded."
 msgstr ""
 "Наши укрепления развалятся от любого чиха. Нас сейчас может захватить кто "
 "угодно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_g04"
 msgid ""
 "I better be extra nice to my helpers. With this many job openings in the "
@@ -1358,101 +1371,102 @@ msgstr ""
 "Надо моих помощников холить и лелеять. В городе настолько не хватает рук, "
 "что как бы от меня все не разбежались."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_g05"
 msgid ""
 "If we don't soon pay the gods more respect, they are going to dole out a "
 "miserable punishment."
 msgstr "Если не воздадим скорее почести богам, они нас точно покарают."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_g06"
 msgid ""
-"I wouldn't dream of letting my reputation slip as far as this city's has. We "
-"could soon pay the price."
+"I wouldn't dream of letting my reputation slip as far as this city's has. We"
+" could soon pay the price."
 msgstr ""
 "Как можно допустить, чтобы репутация так скатилась? Скоро мы будем за это "
 "расплачиваться."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_g07"
 msgid "I'm lucky to have a job. I know a lot of people who are out of work."
 msgstr ""
 "Мне повезло, что у меня есть работа. Я знаю столько людей, которые вообще "
 "ничего найти не могут."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_g08"
 msgid "Nothing whatsoever happens here. I wish there were more shows to see. "
 msgstr ""
 "Здесь не происходит абсолютно ничего. Хоть бы выступления какие провели."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_g09"
 msgid "I won't complain about this city... but I could."
 msgstr "Я не буду жаловаться на город... Хотя мне есть что сказать."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_buyer_g10"
 msgid "This city is tops!"
 msgstr "Лучше города не бывает!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_seller_e01"
-msgid "My supplies sold like hot cakes! I'm going back to the Bazaar for more."
+msgid ""
+"My supplies sold like hot cakes! I'm going back to the Bazaar for more."
 msgstr "Товары просто разлетаются. Надо вернуться на базар и взять еще."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mkt_seller_e02"
 msgid "I do my best to give the people what they want."
 msgstr "Я стараюсь обеспечить людей тем, что им нужно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mule"
 msgid "Mule"
 msgstr "Мул"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mule_flavor"
 msgid ""
 "They carried blocs of granite through the desert so your city could refuse "
 "to trade, and you don't hear them complain."
 msgstr ""
-"Они тащили гранитные блоки по пустыне, а ваш город отказался торговать. И вы "
-"даже не услышите их возмущений."
+"Они тащили гранитные блоки по пустыне, а ваш город отказался торговать. И вы"
+" даже не услышите их возмущений."
 
 msgctxt "#mummy"
 msgid "Mummy"
 msgstr "Мумия"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#mummy_flavor"
 msgid "Embalmed bodies make for the best nightmares."
 msgstr "Забальзамированные тела дарят лучшие ночные кошмары."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician"
 msgid "Musican"
 msgstr "Музыкант"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician_e01"
 msgid "These festivals are great! Everyone sings along."
 msgstr "Обожаю праздники! Мне все подпевают."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician_g01"
 msgid ""
 "If health doesn't improve in this city, I'll be playing only funeral dirges."
 msgstr ""
 "Если здоровье жителей не улучшится, я только на похоронах и буду играть."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician_g02"
 msgid "I'd sing for my supper, but this city doesn't have enough food."
 msgstr "Спою вам, если покормите, но в городе вообще нет еды."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician_g03"
 msgid ""
 "Maybe I could beat invaders over the head with my sistrum. The city is not "
@@ -1461,24 +1475,24 @@ msgstr ""
 "Может, мне бить врагов систрой? Город так слабо защищен, на нас наверняка "
 "кто-нибудь нападет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician_g04"
 msgid "All my performances are solos. This city doesn't have enough workers."
 msgstr "Я всегда выступаю сольно — в городе слишком мало рабочих рук."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician_g05"
 msgid ""
 "I hope my music soothes the gods. Their anger could soon rain down on us."
 msgstr ""
 "Надеюсь, моя музыка успокоит богов. Иначе скоро обрушится на нас их гнев."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician_g06"
 msgid "Our terrible reputation could provoke an attack!"
 msgstr "На нас могут напасть из-за нашей ужасной репутации!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician_g07"
 msgid ""
 "For the last time, I am not hiring any more roadies! So many people are "
@@ -1487,7 +1501,7 @@ msgstr ""
 "Еще раз повторяю: мне больше не нужно помощников! В городе так мало работы, "
 "что люди готовы хвататься за что угодно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician_g08"
 msgid ""
 "Even an entertainer likes to be entertained! There's not enough to do here."
@@ -1495,89 +1509,90 @@ msgstr ""
 "Даже артист вроде меня иногда хочет, чтобы развлекали его. В городе так "
 "скучно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician_g09"
 msgid "This city could be a lot worse, I suppose."
 msgstr "Ну, наш город мог быть и хуже, конечно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#musician_g10"
 msgid ""
 "I hope we continue to make beautiful music in this city for a long time."
 msgstr "Надеюсь, мы еще долго сможем сочинять тут красивую музыку."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#ostrich_flavor"
 msgid "Invisible to human eyes when they hide their heads in the sand."
 msgstr "Невидимы людскому глазу, когда прячут голову в песок."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#physician"
 msgid "Physician"
 msgstr "Лекарь"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#plaguedcitizen"
 msgid "Plagued citizen"
 msgstr "Больной чумой"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_e01"
 msgid "Everybody's friendly here. No one is reporting any crimes."
 msgstr "Здесь все очень дружелюбные. Никто не сообщает о преступлениях."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_e02"
-msgid "A few crimes here, a few crimes there, but nothing out of the ordinary."
+msgid ""
+"A few crimes here, a few crimes there, but nothing out of the ordinary."
 msgstr "То тут, то там что-то случается, но никаких серьезных преступлений."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_e03"
 msgid "Even I don't like to walk in this part of town!"
 msgstr "Даже мне не нравится ходить по этой части города!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_e04"
 msgid "I'm really too busy to talk right now - ask me again later."
 msgstr "У меня сейчас нет времени. Спросите позже."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_e05"
 msgid "I'll do my part to make sure this city is safe!"
 msgstr "Стараюсь как могу, чтобы сделать наш город безопаснее."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_e06"
 msgid "Fighting invaders wasn't in my job description!"
 msgstr "За сражения с захватчиками мне не платят!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_e07"
 msgid "These rascals aren't taking over the city on my watch!"
 msgstr "Пока я тут, этим шакалам не захватить наш город!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_e08"
 msgid "The enemy could soon win if I don't get some help! "
 msgstr "Враг скоро победит, если мне не придет подмога!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_g01"
 msgid "With so many people so weak and sickly, I fear for the future."
 msgstr "Столько людей болеют, что я боюсь за наше будущее."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_g02"
 msgid "I haven't eaten in so long, even I'm considering stealing food!"
 msgstr "Есть хочется так, что даже я начинаю думать о том, чтобы украсть еды!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_g03"
 msgid ""
 "If invaders do come, it looks like it will be up to me to defend the city."
 msgstr "Если захватчики придут, видимо, защищать город буду я."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_g04"
 msgid ""
 "If I didn't enjoy the danger of police work, I'd quickly take one of the "
@@ -1586,14 +1601,14 @@ msgstr ""
 "Если бы мне не нравилась опасная работа, то проблем с поиском другой не "
 "возникло бы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_g05"
 msgid "If I were running things, I'd pay more attention to the gods."
 msgstr ""
 "Если б управление городом доверили мне, у нас бы возносили больше почестей "
 "богам."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_g06"
 msgid ""
 "I've heard our city is an easy mark for invaders. We have a bad reputation."
@@ -1601,7 +1616,7 @@ msgstr ""
 "Говорят, что наш город — лакомый кусок для захватчиков, потому что о нас "
 "ходит дурная слава."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_g07"
 msgid ""
 "I don't like to see this many jobless loiterers. I can't walk my beat "
@@ -1610,17 +1625,17 @@ msgstr ""
 "Не нравится мне видеть столько безработных, которые ошиваются на улицах. "
 "Идешь на патруль, и они на каждом углу!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_g08"
 msgid "This city is dull. I can't find any good shows to see."
 msgstr "Скучный у нас город. Никаких артистов не выступает."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_g09"
 msgid "This city isn't perfect, but then what city is?"
 msgstr "Да, наш город не идеален, но покажите мне хоть один идеальный."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#police_g10"
 msgid "If only the Bazaar carried donuts, this city would be perfect."
 msgstr ""
@@ -1631,30 +1646,31 @@ msgctxt "#priest"
 msgid "Priest"
 msgstr "Жрец"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_e01"
 msgid "Bast loves a good festival."
 msgstr "Баст любит хорошие праздники."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_e02"
 msgid "People in the city are deeply unhappy. They could soon turn to crime."
 msgstr ""
 "Люди в городе крайне несчастны. Скоро они могут ступить на кривую дорожку."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_e03"
 msgid "What's a priestess to do? There is so little diversion here."
 msgstr "Что же делать жрице, когда даже отвлечься не на что?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_e04"
-msgid "Bast grants me power to heal the sick before they spread their disease."
+msgid ""
+"Bast grants me power to heal the sick before they spread their disease."
 msgstr ""
 "Баст дарует мне силу излечить больных, пока они не передали свой недуг "
 "другим."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_g01"
 msgid ""
 "Bast cries to see so many sickly people. I hope the plague doesn't strike."
@@ -1662,25 +1678,25 @@ msgstr ""
 "Баст рыдает от вида стольких больных людей. Надеюсь, хотя бы чума обойдет "
 "нас стороной."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_g02"
 msgid "It's hard to get enough food in this city. Hunger strikes everyone."
 msgstr "В городе сложно найти еду. Все страдают от голода."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_g03"
 msgid "Our city's woeful defenses invite our foes to attack us."
 msgstr ""
 "Плачевное состояние городских укреплений так и зазывает врагов напасть на "
 "нас."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_g04"
 msgid "Our city cannot possible run well with so many job openings."
 msgstr ""
 "Как город может нормально жить, когда кругом так не хватает работников?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_g05"
 msgid ""
 "The gods are turning their backs on this city. We should pay them more "
@@ -1688,44 +1704,44 @@ msgid ""
 msgstr ""
 "Боги отворачиваются от нашего города. Следует более истово почитать их."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_g06"
 msgid "The city's reputation is terrible. An invasion could come at any time."
 msgstr ""
 "Репутация города пала так низко. В любой момент у наших ворот могут "
 "появиться захватчики."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_g07"
 msgid "Not even Bast can lighten the hearts of so many jobless people."
 msgstr "Даже Баст не в силах облегчить терзания стольких безработных."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_g08"
 msgid "Bast is horrified by the lack of entertainment in this city."
 msgstr "Баст в ужасе от отсутствия развлечений в городе."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_g09"
 msgid "This city isn't a bad place to live."
 msgstr "Наш город не так уж плох."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_bast_g10"
 msgid "This city is the greatest!"
 msgstr "Это лучший город на земле!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_e01"
 msgid "Festivals warm Osiris' heart."
 msgstr "Праздники согревают душу Осириса."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_e02"
 msgid "Osiris could punish the city for its neglect with a low flood."
 msgstr "Осирис может покарать город за плохое поклонение и сократить разлив."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_g01"
 msgid ""
 "The city is flooded with sick people. I hope a plague doesn't break out."
@@ -1733,69 +1749,70 @@ msgstr ""
 "В городе шагу нельзя ступить, чтобы не наткнуться на больного. Надеюсь, нас "
 "не ждет чума."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_g02"
 msgid "No priest of Osiris should have to suffer from hunger!"
 msgstr "Жрецам Осириса не подобает страдать от голода!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_g03"
 msgid "Our city is almost defenseless. I hope no one attacks."
 msgstr "Наш город практически беззащитен. Надеюсь, на нас никто не нападет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_g04"
 msgid ""
 "Without workers, we may not be able to pay Osiris the respect he deserves."
 msgstr ""
 "Без рабочих у нас, возможно, не получится вознести Осирису должные почести."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_g05"
 msgid "Osiris is not the only god made angry by neglect."
 msgstr "Не только Осириса может разозлить неучтивость последователей."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_g06"
 msgid "Our city is the laughingstock of Egypt. We are ripe for attack."
 msgstr ""
-"Над нашим городом смеется весь Египет. Нас сейчас практически любой захватит."
+"Над нашим городом смеется весь Египет. Нас сейчас практически любой "
+"захватит."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_g07"
 msgid ""
 "Unemployment is a serious problem in this city. I hope more jobs open up "
 "soon."
 msgstr ""
-"Безработица — это серьезная проблема. Надеюсь, скоро появится больше рабочих "
-"мест."
+"Безработица — это серьезная проблема. Надеюсь, скоро появится больше рабочих"
+" мест."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_g08"
 msgid "Even a priest needs more than prayers to be entertained."
 msgstr "Даже жрецу одних молитв для развлечения недостаточно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_g09"
 msgid "This city is adequate."
 msgstr "Город не так уж плох."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_osiris_g10"
 msgid "Osiris is proud to be worshiped in such a fine city."
 msgstr "Осирис гордится тем, что его почитают в таком городе."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_09"
 msgid "This city has its problems, but it's a good place to live."
 msgstr "Здесь, конечно, есть проблемы, но это все равно хороший город."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_e01"
 msgid "Ptah knows that holidays make workers happier."
 msgstr "Птах знает, что праздники делают рабочих счастливее."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_e02"
 msgid ""
 "Ptah's guiding hand can do only so much. The industries in this city need "
@@ -1804,7 +1821,7 @@ msgstr ""
 "Направляющая длань Птаха не будет все делать за нас. Производствам в городе "
 "нужны рабочие!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_g01"
 msgid ""
 "Poor health could result in plague if nothing is done about conditions in "
@@ -1813,25 +1830,25 @@ msgstr ""
 "Плохое здоровье людей может привести к чуме, если условия в городе не "
 "улучшатся."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_g02"
 msgid "The rumbling of my empty stomach distracts me from my duties to Ptah."
 msgstr ""
 "Бурчание собственного пустого желудка мешает мне воздавать почести Птаху."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_g03"
 msgid "Our holey defenses will be useless if anyone chooses to attack us."
 msgstr "Наша дырявая оборона долго не продержится, если на город нападут."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_g04"
 msgid "It saddens Ptah to see industries idle because of the worker shortage."
 msgstr ""
 "Птаху печально видеть, как простаивают производства из-за нехватки рабочих "
 "рук."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_g05"
 msgid ""
 "The gods my inflict a just retribution if the city continues to ignore them."
@@ -1839,18 +1856,18 @@ msgstr ""
 "Боги могут заслуженно покарать нас, если город так и продолжит не отдавать "
 "им должного внимания."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_g06"
 msgid "Our ill repute could encourage invaders."
 msgstr "Дурная слава нашего города может привлечь к нему захватчиков."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_g07"
 msgid ""
 "Ptah wishes that all the unemployed in the city could find productive work."
 msgstr "Птах желает, чтобы все безработные города нашли достойное занятие."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_g08"
 msgid ""
 "I like to have a good time, just like anyone else. I wish there were more "
@@ -1859,22 +1876,22 @@ msgstr ""
 "Мне тоже хочется временами отдохнуть и расслабиться, я же человек. Жалко, "
 "что в городе так мало артистов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ptah_g10"
 msgid "This is the best crafted city in all of Egypt!"
 msgstr "Это самый правильно построенный город во всем Египте!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_e01"
 msgid "Ra loves to see his people during the festival."
 msgstr "Ра любит смотреть, как его последователи наслаждаются праздником."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_e02"
 msgid "Our city is an embarrassment to the rest of the Kingdom."
 msgstr "Всей стране стыдно за наш город."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_g01"
 msgid ""
 "The people coming to the Temple don't look healthy. I hope the illness "
@@ -1883,45 +1900,47 @@ msgstr ""
 "Прихожане храма выглядят хворыми. Надеюсь, болезни не разойдутся по всему "
 "городу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_g02"
 msgid "I don't have enough food to feed Ra or myself!"
 msgstr "У меня не хватает еды, даже чтобы прокормить Ра или себя!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_g03"
 msgid ""
 "I wish it were up to Ra to defend our city. I don't think this city does a "
 "good job of it."
 msgstr ""
-"Лучше бы наш город защищал Ра. Мне кажется, что власти с этим не справляются."
+"Лучше бы наш город защищал Ра. Мне кажется, что власти с этим не "
+"справляются."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_g04"
 msgid "I hope this city finds more workers soon. Services could soon suffer."
 msgstr ""
-"Надеюсь, скоро найдется больше рабочих. А то так и вся городская жизнь может "
-"пострадать."
+"Надеюсь, скоро найдется больше рабочих. А то так и вся городская жизнь может"
+" пострадать."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_g05"
 msgid "This city would do well to pay more respect to the gods."
 msgstr "Городу стоит больше почитать богов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_g06"
 msgid ""
 "Reputation is important. Without it, the city is prone to hostile takeover."
 msgstr "Репутация дело важное. Без нее город могут захватить враги."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_g07"
-msgid "I've never heard more people ask Ra whether they'll finally land a job."
+msgid ""
+"I've never heard more people ask Ra whether they'll finally land a job."
 msgstr ""
 "Мне еще никогда раньше не приходилось слышать, чтобы так много людей молили "
 "Ра найти им работу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_g08"
 msgid ""
 "I need more entertainment. Pleasing Ra all day isn't easy, and I need to "
@@ -1930,37 +1949,37 @@ msgstr ""
 "Мне нужно больше развлечений. Целыми днями ублажать Ра — задача не из "
 "легких, и мне тоже надо отдыхать."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_g09"
 msgid "I have no major complaints about this city."
 msgstr "Каких-то серьезных жалоб на город у меня нет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_ra_g10"
 msgid "The only place better than this city is the Field of Reeds."
 msgstr "Лучше нашего города только поля Иалу."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_e01"
 msgid "Even Seth's warriors need the occasional festival."
 msgstr "Даже воинам Сета время от времени нужен праздник."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_e02"
 msgid "Glory is on the horizon! Enemies are fast approaching the city."
 msgstr "На горизонте слава! К городу приближаются враги."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_g01"
 msgid "A plague may wreak havoc on the city if health does not improve."
 msgstr "Если здоровье людей не улучшится, нас всех может выкосить чума."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_g02"
 msgid "All day, I battle my hunger. I need more food."
 msgstr "Весь день я только сражаюсь с голодом. Мне нужно больше еды."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_g03"
 msgid ""
 "We'll have to rely on Seth to protect us in battle. The city isn't prepared "
@@ -1969,17 +1988,17 @@ msgstr ""
 "В бою придется полагаться на защиту Сета, потому что город сам себя не "
 "защитит."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_g04"
 msgid "Services are suffering because no workers can be found!"
 msgstr "Службы в городе страдают от нехватки рабочих!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_g05"
 msgid "This city should stop provoking the gods' anger with its inaction."
 msgstr "Городу пора перестать уже навлекать на себя гнев богов бездействием."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_g06"
 msgid ""
 "We may soon find out how little others think of our city when they sweep in "
@@ -1988,43 +2007,43 @@ msgstr ""
 "Вскоре мы можем точно узнать, как низко выглядим в глазах других городов, "
 "когда их войска ворвутся к нам и сровняют тут все с землей."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_g07"
 msgid "The legions of the unemployed clog the streets."
 msgstr "Легионы безработных наводнили улицы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_g08"
 msgid "It's hard to believe how dull it is here!"
 msgstr "Даже не верится, что в городе может быть настолько скучно."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_g09"
 msgid "This city is suitable enough for me."
 msgstr "Город меня устраивает."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#priest_seth_g10"
 msgid "This city is unrivaled in all Egypt!"
 msgstr "Нашему городу нет равных во всем Египте!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#reedgatherer"
 msgid "Reed gatherer"
 msgstr "Сборщик тростника"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#robber_e01"
 msgid "Gold should be for the living, not the dead!"
 msgstr "Золото должно принадлежать живым, а не мертвецам!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#robber_e02"
 msgid ""
 "Just think of the fortune I'll have when I sell off all those treasures!"
 msgstr "Как я разбогатею, когда продам эти сокровища!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scorpion_flavor"
 msgid "And they said the little beast would not eat the big one."
 msgstr "А еще говорили, что мелкой твари большую не съесть."
@@ -2033,7 +2052,7 @@ msgctxt "#scribe"
 msgid "Scribe"
 msgstr "Писец"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scribe_e01"
 msgid ""
 "These festivals would be so much better if they were by invitation only."
@@ -2041,7 +2060,7 @@ msgstr ""
 "Праздники стали бы куда приятней, если бы на них пускали только по "
 "приглашениям."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scribe_g01"
 msgid ""
 "Plague could break out at any time! I hope it stays in the poor parts of "
@@ -2050,13 +2069,13 @@ msgstr ""
 "Чума может начаться в любой момент! Надеюсь, дальше бедных кварталов она не "
 "уйдет!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scribe_g02"
 msgid "That a person of my quality could know hunger is scandalous!"
 msgstr ""
 "Как возмутительно, что кто-то в моем положении будет страдать от голода!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scribe_g03"
 msgid ""
 "I don't think this city could handle an attack, and I have so very much to "
@@ -2065,20 +2084,21 @@ msgstr ""
 "Не думаю, что город выстоит под нападением, а ведь я рискую столько всего "
 "потерять."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scribe_g04"
 msgid "How can so few workers properly cater to my needs?"
 msgstr ""
 "Разве эта жалкая горстка рабочих может как следует исполнять все, что мне "
 "требуется?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scribe_g05"
 msgid "I'm treated far better than the gods! I hope they don't strike at us."
 msgstr ""
-"Со мной обращаются лучше, чем с богами! Надеюсь, боги на нас не прогневаются."
+"Со мной обращаются лучше, чем с богами! Надеюсь, боги на нас не "
+"прогневаются."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scribe_g06"
 msgid ""
 "I'm ashamed to live here. I hope our enemies don't take advantage of our "
@@ -2087,65 +2107,65 @@ msgstr ""
 "Мне стыдно здесь жить. Надеюсь, враги не воспользуются нашей ужасной "
 "репутацией!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scribe_g07"
 msgid "Look at all these idlers! Why don't they get jobs?"
 msgstr "Сколько бездельников! Что бы им не найти работу?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scribe_g08"
 msgid "How can I lead a posh lifestyle if I'm not properly entertained?"
 msgstr "Как мне жить роскошной жизнью, когда тут и развлечений-то нет?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scribe_g09"
 msgid "This city passes muster, I suppose."
 msgstr "Ну, полагаю, сойдет город."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#scribe_g10"
 msgid "This city couldn't be better!"
 msgstr "Это лучший город в мире!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senet_e01"
 msgid "Get your beer here! Warm, flat, refreshing beer! Low in sediment!"
 msgstr "А вот кому пива! Теплого, освежающего, без пены, без осадка!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senet_g01"
 msgid "People's health is in jeopardy. The risk of plague is great."
 msgstr "Здоровье людей под угрозой. Риск чумы очень велик."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senet_g02"
 msgid "I'm as hungry as a hippo, but there's little food to be found."
 msgstr "Я голодней гиппопотама, но в городе вообще нет еды."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senet_g03"
 msgid ""
 "I ought to learn the crafts of war. With defenses so weak, we're at risk."
 msgstr ""
-"Надо обучиться искусству войны. С такими хлипкими укреплениями на нас вполне "
-"могут напасть."
+"Надо обучиться искусству войны. С такими хлипкими укреплениями на нас вполне"
+" могут напасть."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senet_g04"
 msgid "The worker shortage could cause real trouble in the city."
 msgstr "Нехватка рабочих может обернуться серьезными проблемами для города."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senet_g05"
 msgid "To tell the truth, I would not dare to treat the gods so badly."
 msgstr "По правде говоря, я никогда не рискну так забывать про богов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senet_g06"
 msgid "This city's reputation is checkered at best. We could be attacked."
 msgstr "Репутация города в лучшем случае сомнительная. На нас могут напасть."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senet_g07"
 msgid ""
 "For most, finding work in this city is a trivial pursuit that ends in "
@@ -2154,69 +2174,69 @@ msgstr ""
 "Для большинства людей найти работу в городе — это напрасная затея, которая "
 "не увенчается успехом."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senet_g08"
 msgid "This city should clue in to the lack of entertainment!"
 msgstr ""
 "Властям давно пора раскрыть глаза на то, как городу не хватает развлечений!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senet_g09"
 msgid "I'm not sorry to live here."
 msgstr "Я не против здесь жить."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senet_g10"
 msgid "This city has a monopoly on my heart. I love it here!"
 msgstr "Этот город навеки в моем сердце. Жить здесь — настоящее счастье!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#senetplayer"
 msgid "Senet player"
 msgstr "Игрок в сенет"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#sentry"
 msgid "Sentry"
 msgstr "Дозорный"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#stone_e01"
 msgid "I'm going to the monument to shape the stones."
 msgstr "Я иду к памятнику обтесывать камни."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#stone_e02"
 msgid "My stonework will endure through the ages."
 msgstr "Моя работа прослужит века."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#stonemason"
 msgid "Stone mason"
 msgstr "Каменщик"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxcollector"
 msgid "Tax collector"
 msgstr "Сборщик податей"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_e01"
 msgid ""
 "This city could bring in so much more revenue if they'd just hire some more "
 "tax collectors."
 msgstr ""
-"Город мог бы приносить доходы куда значительней, будь в нем больше сборщиков "
-"податей."
+"Город мог бы приносить доходы куда значительней, будь в нем больше сборщиков"
+" податей."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_e02"
 msgid ""
 "Seems like the nicer their houses, the more people grumble about paying "
 "their share."
 msgstr "Похоже, что чем богаче дом, тем больше люди жалуются на подати."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_e03"
 msgid ""
 "I hate collecting taxes from these run-down houses. It's hardly worth my "
@@ -2224,33 +2244,34 @@ msgid ""
 msgstr ""
 "Терпеть не могу собирать подати в этих лачугах. Только время на них тратишь."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_g01"
 msgid ""
 "It seems an illness is taxing the people's health. I pray a plague doesn't "
 "strike."
-msgstr "Похоже, люди страдают от болезней. Молюсь богам, чтобы не пришла чума."
+msgstr ""
+"Похоже, люди страдают от болезней. Молюсь богам, чтобы не пришла чума."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_g02"
 msgid "I wish people could pay their taxes in food. I'm so hungry!"
 msgstr "Вот бы подати платились едой. Я помираю от голода!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_g03"
 msgid "Our city doesn't seem capable of defending itself!"
 msgstr "Не думаю, что наш город способен защититься при атаке врага!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_g04"
 msgid ""
-"No amount of tax money is going to make this city run smoothly. We need more "
-"workers!"
+"No amount of tax money is going to make this city run smoothly. We need more"
+" workers!"
 msgstr ""
 "Никакие подати не наладят нам городскую жизнь, пока нет людей, которые "
 "смогут делать нужную работу!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_g05"
 msgid ""
 "We owe the gods a great debt, and I don't want to be here when they come to "
@@ -2259,21 +2280,21 @@ msgstr ""
 "Мы в большом долгу перед богами, и я боюсь, что скоро они придут забрать "
 "свое."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_g06"
 msgid "I've heard that invasion is imminent given our standing in Egypt."
 msgstr ""
 "Говорят, что нам вот-вот грозит вторжение, учитывая, что о нас думает весь "
 "Египет."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_g07"
 msgid ""
 "Many of these houses have unemployed workers! How can they be expected to "
 "pay tax?"
 msgstr "Во многих домах сидят безработные! Из чего им тогда платить подати?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_g08"
 msgid ""
 "As much as I like collecting taxes, I'd still like to see some professional "
@@ -2282,12 +2303,12 @@ msgstr ""
 "Как бы мне ни нравилось собирать подати, иногда душа просит развлечений от "
 "профессиональных артистов."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_g09"
 msgid "Life isn't too bad here."
 msgstr "Жизнь тут неплохая."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#taxman_g10"
 msgid "I'd rather live here than anywhere else!"
 msgstr "Другие города нашему в подметки не годятся!"
@@ -2296,139 +2317,140 @@ msgctxt "#teacher"
 msgid "Teacher"
 msgstr "Учитель"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#teacher_e01"
 msgid "One can learn much about human nature at a festival."
 msgstr ""
 "На празднике можно понаблюдать за людьми и многое понять о человеческой "
 "природе."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#teacher_g01"
 msgid "The city may soon learn that bad health can lead to a horrible plague."
 msgstr ""
 "Вскоре власти могут понять, что плохое здоровье может привести к ужасной "
 "чуме."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#teacher_g02"
 msgid "My mind is fed with learning, but my body hungers for food."
 msgstr "Мой разум напитан знаниями, но тело алкает пищи земной."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#teacher_g03"
 msgid "Invaders would have no trouble penetrating our scanty defenses!"
 msgstr "Захватчикам не составит труда снести наши хлипкие укрепления!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#teacher_g04"
 msgid ""
 "The scarcity of workers reverberates throughout the city, limiting its "
 "services."
 msgstr "Недостаток рабочих сказывается на всех сторонах городской жизни."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#teacher_g05"
 msgid "The city's sacrilegious ways could cause the gods to smite us!"
 msgstr "Святотатство городских властей может прогневить богов!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#teacher_g06"
 msgid "Ah, reputation, reputation. Our scandalous reputation invites attack."
 msgstr ""
 "Ах, репутация... Наша настолько скандальна, что может спровоцировать "
 "нападение."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#teacher_g07"
 msgid "Even education won't cure this city's jobless problem."
 msgstr "Даже образованием не решить проблему городской безработицы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#teacher_g08"
 msgid "Boring, dull, tedious, monotonous, ho-hum. This city is all five."
 msgstr ""
 "Скучный, безрадостный, монотонный, дремотный, обрыдлый. Все это можно "
 "сказать о нашем городе."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#teacher_g09"
 msgid "This city is thoroughly average."
 msgstr "В городе нет ровным счетом ничего выдающегося."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#teacher_g10"
 msgid "This city earns top marks!"
 msgstr "Я даю нашему городу высший балл!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#thief_e01"
-msgid "Maybe stealing from his treasury will get that false beard's attention!"
+msgid ""
+"Maybe stealing from his treasury will get that false beard's attention!"
 msgstr ""
 "Может, если украсть что-то из казны, эта накладная борода меня все-таки "
 "заметит!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#thief_e02"
 msgid "I take what I want! Don't try to stop me!"
 msgstr "Я беру что хочу! И не пытайтесь меня остановить!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#thief_e03"
 msgid "Thievery is a lot more profitable than other jobs in this city!"
 msgstr "Воровство куда прибыльнее, чем любая другая работа в этом городе."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#thief_e04"
 msgid "Take, take, take. That's all I ever do."
 msgstr "Мое, мое, мое. Все тут мое!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#tombartisan"
 msgid "Tomb artisan"
 msgstr "Художник"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#tombrobber"
 msgid "Tomb Robber"
 msgstr "Расхититель гробниц"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#tradeship"
 msgid "Trade ship from"
 msgstr "Торговый корабль из города"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#transport_e01"
 msgid "Row harder! We must protect our ship at all costs!"
 msgstr "Налегайте на весла! Наш корабль нужно защитить любой ценой!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#transport_e02"
 msgid "The enemy is here! All hands prepare for maneuvers."
 msgstr "Враги здесь! Всем приготовиться к маневрам."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#transport_e03"
 msgid "Bring on the attack! We're prepared."
 msgstr "Только попробуйте напасть! Мы готовы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#transport_e04"
 msgid "We're ready to serve if the need arises."
 msgstr "Мы готовы служить, если будет нужда."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#transportship"
 msgid "Transport"
 msgstr "Транспортный корабль"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#vagrant_e01"
 msgid "I've been kicked out of my home, and through no fault of my own."
 msgstr "Меня выгнали из собственного дома, причем ни за что."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#vagrant_e02"
 msgid "I can't find a place to live!"
 msgstr "Вообще не могу найти жилье!"
@@ -2437,12 +2459,12 @@ msgctxt "#warship"
 msgid "Warship"
 msgstr "Военный корабль"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#warship_e01"
 msgid "We'll fight to the death to defend our fair city!"
 msgstr "Мы будем защищать наш город до конца!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#warship_e02"
 msgid ""
 "The enemy is too much for us! If we escape them, we'll be ready to fight "
@@ -2451,12 +2473,12 @@ msgstr ""
 "Враг слишком силен! Если нам удастся уйти, то потом мы еще вернемся и "
 "отомстим."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#warship_e03"
 msgid "Enemies are coming this way!"
 msgstr "Враги идут сюда!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#warship_e04"
 msgid ""
 "We're as dangerous as a crocodile, ready to attack our invaders when they "
@@ -2465,12 +2487,12 @@ msgstr ""
 "Мы опасны, как крокодилы, и готовы сразить любого захватчика, пусть только "
 "осмелится появиться."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#warship_e05"
 msgid "If and when our foes come, we'll be ready for them."
 msgstr "Когда враги придут, если вообще придут, мы будем готовы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#water_g01"
 msgid ""
 "I'm afraid to go into some neighborhoods. People are sick, and I don't want "
@@ -2479,14 +2501,14 @@ msgstr ""
 "Боюсь даже ступать в некоторые кварталы. Там столько больных, а мне не "
 "хочется ничем заразиться."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#water_g02"
 msgid ""
 "I'm weak from hunger. I'm nearly collapsing under the weight of all this "
 "water."
 msgstr "Меня так ослабил голод. Скоро упаду под весом своих ведер."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#water_g03"
 msgid ""
 "It seems that it will be up to the citizens to defend this city if it comes "
@@ -2494,45 +2516,47 @@ msgid ""
 msgstr ""
 "Похоже, что если на город нападут, защищать его придется мирным жителям."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#water_g04"
 msgid "Jobs, jobs everywhere, and not a worker to fill them."
 msgstr "Кругом столько работы и так мало рабочих рук."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#water_g05"
 msgid ""
-"If I were a god, I wouldn't be pleased with this city's lack of attention to "
-"me."
+"If I were a god, I wouldn't be pleased with this city's lack of attention to"
+" me."
 msgstr "На месте богов меня бы оскорбила непочтительность нашего города."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#water_g06"
-msgid "I hear that other cities are laughing at us and are planning to invade."
+msgid ""
+"I hear that other cities are laughing at us and are planning to invade."
 msgstr ""
 "Ходят слухи, что в других городах потешаются над нами и хотят нас захватить."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#water_g07"
 msgid "I see plenty of people out of work as I make my deliveries."
 msgstr "Пока разношу воду, мне попадается столько безработных."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#water_g08"
 msgid ""
-"Carrying water is not entertainment. I wish we had some real diversions here."
+"Carrying water is not entertainment. I wish we had some real diversions "
+"here."
 msgstr ""
 "Носить воду занятие не слишком веселое. Хорошо бы у нас тут были какие-то "
 "развлечения."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#water_g09"
 msgid ""
 "I like living here, but if I were running the town I'd do some things "
 "differently."
 msgstr "Мне нравится здесь жить, но хочется и кое-что поменять."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#water_g10"
 msgid "There is no better place upon this earth."
 msgstr "На всей земле нет города лучше нашего."
@@ -2541,12 +2565,12 @@ msgctxt "#watercarrier"
 msgid "Water carrier"
 msgstr "Водонос"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#woodcutter_e01"
 msgid "I am off for a hard day's logging."
 msgstr "Иду рубить бревна от рассвета до заката."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#woodcutter_e02"
 msgid "This timber will be put to good use, I am sure."
 msgstr "Этому дереву точно найдут хорошее применение."
@@ -2559,37 +2583,37 @@ msgctxt "#worker_e02"
 msgid "I'm ready to work!"
 msgstr "Готов к труду!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#worker_e03"
 msgid "With the fields under water, I work now for glory everlasting."
 msgstr "Поля скрылись под водой, и я теперь работаю ради вечной славы."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#worker_g01"
 msgid "So many people are sick. I hope things don't get worse."
 msgstr "Столько людей болеет. Надеюсь, хотя бы не станет хуже."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#worker_g02"
 msgid "I'm famished. It's hard to work on an empty stomach."
 msgstr "Очень хочется есть. Трудно работать на пустой желудок."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#worker_g03"
 msgid "I hope our enemies don't know how easy it would be to invade us."
 msgstr "Надеюсь, враги не подозревают, как легко нас разбить."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#worker_g04"
 msgid "Job openings are everywhere! Maybe I can get a job as a fire marshal!"
 msgstr "Работы кругом полно! Может, получится устроиться в пожарную команду!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#worker_g05"
 msgid "I hope the gods don't unleash their wrath."
 msgstr "Надеюсь, боги не прогневаются на нас."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#worker_g06"
 msgid ""
 "I hear that our city doesn't have a good reputation. We could come under "
@@ -2597,95 +2621,96 @@ msgid ""
 msgstr ""
 "Говорят, у нашего города плохая репутация. На нас ведь тогда могут напасть!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#worker_g07"
 msgid ""
-"I'll hold on to this job as tightly as I can. I know many people who are out "
-"of work."
+"I'll hold on to this job as tightly as I can. I know many people who are out"
+" of work."
 msgstr ""
 "Я буду держаться за эту работу руками и ногами. Слишком много сейчас людей "
 "не могут найти вообще ничего."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#worker_g08"
 msgid "All I ever do is work. There's nothing else to do in this city."
 msgstr ""
 "Вечно только работаю и работаю. А больше в этом городе и делать нечего."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#worker_g09"
 msgid "I like it here, but there is always room for improvement."
 msgstr "Мне здесь нравится, но всегда найдется что улучшить."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#worker_g10"
 msgid "I hope I live here forever!"
 msgstr "Надеюсь, я проживу тут всю жизнь!"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#zookeeper"
 msgid "Zookeeper"
 msgstr "Смотритель зоопарка"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#zookeeper_e01"
 msgid ""
 "This danger of disease is so great that even the laughing hyenas are sad."
 msgstr ""
 "Риск заражения такой высокий, что даже вечно гогочущие гиены погрустнели."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#zookeeper_e02"
 msgid "How will we feed the animals when we can't feed ourselves?"
 msgstr "Как нам кормить животных, когда мы себя-то прокормить не можем?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#zookeeper_e03"
 msgid ""
 "Our defenses are terribly weak. Perhaps I should train the hippo to fight?"
 msgstr ""
-"Наши оборонные укрепления — это одно название. Может, мне выдрессировать для "
-"боя гиппопотама?"
+"Наши оборонные укрепления — это одно название. Может, мне выдрессировать для"
+" боя гиппопотама?"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#zookeeper_e04"
-msgid "Even an elephant cannot recall when the worker shortage has been worse."
+msgid ""
+"Even an elephant cannot recall when the worker shortage has been worse."
 msgstr "Даже слон не помнит времен, когда настолько не хватало рабочих."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#zookeeper_e05"
 msgid ""
 "When a god is angry you don't want your neck sticking out like a giraffe's!"
 msgstr "Когда боги гневаются, не стоит высовываться как жираф."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#zookeeper_e06"
 msgid ""
 "Pharaoh is so unhappy. I hope the zoo animals are not needed for exotic "
 "gifts!"
 msgstr ""
-"Фараон так недоволен. Надеюсь, мои животные не потребуются для какого-нибудь "
-"подарка."
+"Фараон так недоволен. Надеюсь, мои животные не потребуются для какого-нибудь"
+" подарка."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#zookeeper_e07"
 msgid ""
 "Trying to land a job in this city is more difficult than trapping a wild "
 "lion."
 msgstr "Да льва поймать проще, чем найти работу в этом городе."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#zookeeper_e08"
 msgid ""
 "The entertainment situation in this city stinks worse than the monkey cages."
 msgstr "В городе так уныло, что даже на осла приходят подивиться."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#zookeeper_e09"
 msgid "Living here is better than sleeping in the lions' pen."
 msgstr "Ну, тут, конечно, жизнь получше, чем в клетке у льва."
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "#zookeeper_e10"
 msgid "I am happier than a mud-covered hippo to be living in this city."
 msgstr "Я довольнее, чем слон, что живу в таком прекрасном городе."
@@ -2694,7 +2719,7 @@ msgctxt "Antelope"
 msgid "Antelope"
 msgstr "Антилопа"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgctxt "Birds"
 msgid "Birds"
 msgstr "Птицы"
