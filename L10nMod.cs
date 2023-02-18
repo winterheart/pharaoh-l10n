@@ -45,6 +45,8 @@ namespace Pharaoh_L10n
         private void UpdateLocalization()
         {
             LocalizationManager.UpdateSources();
+            // var csv = LocalizationManager.Sources[0].Export_CSV(string.Empty, ';');
+            // File.WriteAllText("out.csv", csv);
             var translation_csv = m_AssetBundle.LoadAsset<TextAsset>("translation");
             LocalizationManager.Sources[0].Import_CSV(string.Empty, translation_csv.text, eSpreadsheetUpdateMode.Replace, ';');
             LocalizationManager.LocalizeAll(true);
