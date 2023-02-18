@@ -137,33 +137,34 @@ class I2LocTranslation:
             po = pofile(po_file)
 
             for entry in po:
-                temp_list = list()
-                if csv_root_key != I2LocCsvKeys.EMPTY_CATEGORY:
-                    temp_list.append(csv_root_key.value)
-                temp_list.append(entry.msgctxt)
-                try:
-                    csv_entry = next(item for item in self.content if item[LANG_KEY] == "/".join(temp_list))
-                    if not entry.obsolete and entry.translated() and "fuzzy" not in entry.flags:
-                        csv_entry[language] = entry.msgstr
-                    else:
-                        csv_entry[language] = entry.msgid
-                except StopIteration:
-                    self.logger.warning("Entry '{}' does not exist in source CSV".format("/".join(temp_list)))
-                    for lang in self.inject_langs:
-                        if "#{}".format(lang.value["key"]) == entry.msgctxt:
-                            self.content.append(
-                                {
-                                    "Key": "/".join(temp_list),
-                                    "Type": "Text",
-                                    "Desc": "",
-                                    I2LocLanguages.LANG_ENGLISH.value["key"]: entry.msgstr,
-                                    I2LocLanguages.LANG_FRENCH.value["key"]: entry.msgstr,
-                                    I2LocLanguages.LANG_SPANISH.value["key"]: entry.msgstr,
-                                    I2LocLanguages.LANG_GERMAN.value["key"]: entry.msgstr,
-                                    I2LocLanguages.LANG_ITALIAN.value["key"]: entry.msgstr,
-                                    I2LocLanguages.LANG_RUSSIAN.value["key"]: entry.msgstr,
-                                }
-                            )
+                if not entry.obsolete:
+                    temp_list = list()
+                    if csv_root_key != I2LocCsvKeys.EMPTY_CATEGORY:
+                        temp_list.append(csv_root_key.value)
+                    temp_list.append(entry.msgctxt)
+                    try:
+                        csv_entry = next(item for item in self.content if item[LANG_KEY] == "/".join(temp_list))
+                        if entry.translated() and "fuzzy" not in entry.flags:
+                            csv_entry[language] = entry.msgstr
+                        else:
+                            csv_entry[language] = entry.msgid
+                    except StopIteration:
+                        self.logger.warning("Entry '{}' does not exist in source CSV".format("/".join(temp_list)))
+                        for lang in self.inject_langs:
+                            if "#{}".format(lang.value["key"]) == entry.msgctxt:
+                                self.content.append(
+                                    {
+                                        "Key": "/".join(temp_list),
+                                        "Type": "Text",
+                                        "Desc": "",
+                                        I2LocLanguages.LANG_ENGLISH.value["key"]: entry.msgstr,
+                                        I2LocLanguages.LANG_FRENCH.value["key"]: entry.msgstr,
+                                        I2LocLanguages.LANG_SPANISH.value["key"]: entry.msgstr,
+                                        I2LocLanguages.LANG_GERMAN.value["key"]: entry.msgstr,
+                                        I2LocLanguages.LANG_ITALIAN.value["key"]: entry.msgstr,
+                                        I2LocLanguages.LANG_RUSSIAN.value["key"]: entry.msgstr,
+                                    }
+                                )
 
         else:
             self.logger.warning("ERROR: '{}' is not exists! Skipping.".format(po_file))
