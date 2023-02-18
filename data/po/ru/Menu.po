@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-17 17:10+0300\n"
+"PO-Revision-Date: 2023-02-18 01:37+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -120,7 +120,6 @@ msgid "Clear"
 msgstr "Очистить"
 
 # Проверить.
-
 msgctxt "#Completed"
 msgid "Completed"
 msgstr "Завершено"
@@ -366,7 +365,7 @@ msgstr "Следующий разлив должен быть отличным."
 
 msgctxt "#Hover_NilometerGood"
 msgid "The next flood should be good"
-msgstr "Следующий разлив должен быть хорошим"
+msgstr "Следующий разлив должен быть хорошим."
 
 msgctxt "#Hover_NilometerMediocre"
 msgid "The next flood is likely to be mediocre"
