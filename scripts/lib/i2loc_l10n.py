@@ -254,7 +254,8 @@ class I2LocTranslation:
                     target_str = self.find_csv_entry(language, "/".join(tmp_list))
                     if target_str != "":
                         entry.msgstr = target_str
-                        entry.flags.append("fuzzy")
+                        if "fuzzy" not in entry.flags:
+                            entry.flags.append("fuzzy")
                 if exists(po_path):
                     self.logger.info("Merging PO-file {}".format(po_path))
                     po = pofile(po_path)
@@ -273,7 +274,6 @@ class I2LocTranslation:
         :return: Translated string or empty string if no such entry
         """
         for row in self.content:
-            if row[LANG_KEY] == input:
+            if row[LANG_KEY] == input and column in row.keys():
                 return row[column]
-        self.logger.warning("Entry {} ({}) not found in CSV".format(input, column))
         return ""
