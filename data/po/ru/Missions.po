@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-19 01:17+0300\n"
+"PO-Revision-Date: 2023-02-19 04:53+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -2005,7 +2005,6 @@ msgstr ""
 "должны быть повержены во славу Египта. Отправляйте войска и боевые корабли, "
 "если понадобится применить силу."
 
-#, fuzzy
 msgctxt "#234_name"
 msgid "Byblos"
 msgstr "Библ"
@@ -2064,7 +2063,6 @@ msgstr ""
 "вас, о фараон. Они послужат свидетельством богатства и величия, которое вы "
 "принесли Египту."
 
-#, fuzzy
 msgctxt "#235_name"
 msgid "Baki"
 msgstr "Баки"
@@ -3449,11 +3447,13 @@ msgstr ""
 
 msgctxt "#CM15_name"
 msgid "NAFTA"
-msgstr ""
+msgstr "НАФТА"
+
+# See https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement (NAFTA)
 
 msgctxt "#CM15_tagline"
 msgid "North African Free Trade"
-msgstr ""
+msgstr "Североафриканская зона свободной торговли"
 
 msgctxt "#CM16_name"
 msgid "Pharaoh's Memphis"
@@ -3484,7 +3484,7 @@ msgstr ""
 
 msgctxt "#CM18_name"
 msgid "Sandbox"
-msgstr ""
+msgstr "Песочница"
 
 msgctxt "#CM18_tagline"
 msgid "Just city-building"
@@ -3701,10 +3701,12 @@ msgid ""
 "The mission is lost if your debt rises up to -5000 Debens. Watch your "
 "treasury carefully!"
 msgstr ""
+"Миссия будет проигранной, если ваш долг превысит 5000 дебенов. Внимательно "
+"следите за своей казной!"
 
 msgctxt "#DefeatConditions_Title"
 msgid "Defeat Conditions"
-msgstr ""
+msgstr "Условия поражения"
 
 msgctxt "#EndDemo"
 msgid ""
@@ -3838,9 +3840,8 @@ msgid ""
 "Ramses II wins Egypt's greatest victory and commemorates his greatness with "
 "stunning monuments."
 msgstr ""
-"Рамсес ii одержал самую великую победу для Рамзес II одержал самую великую "
-"победу для Египта и в честь своих достижений возвел потрясающие воображение "
-"монументы."
+"Расзес II одержал самую великую победу для Египта и в честь своих достижений "
+"возвел потрясающие воображение монументы."
 
 #, fuzzy
 msgctxt "#Valley_ot_Kings_desc"

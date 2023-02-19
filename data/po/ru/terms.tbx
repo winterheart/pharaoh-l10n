@@ -1511,7 +1511,7 @@
         </langSet>
         <langSet xml:lang="ru">
           <tig>
-            <term>посуда</term>
+            <term>керамика</term>
           </tig>
         </langSet>
       </termEntry>
@@ -1992,6 +1992,114 @@
         <langSet xml:lang="ru">
           <tig>
             <term>роскошное имение</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-167">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>beautification</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>благоустройство</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-168">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>industry</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>производство</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-169">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>work camp</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>рабочий лагерь</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-170">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>apothecary</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>аптека</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-171">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>clay pit</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>глиняный карьер</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-172">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>potter</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>гончарная мастерская</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-173">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>scribal school</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>школа писцов</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-174">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>reed gatherers</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>сборщики тростника</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-175">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>water lift</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>водокачка</term>
           </tig>
         </langSet>
       </termEntry>

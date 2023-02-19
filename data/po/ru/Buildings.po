@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:55\n"
-"PO-Revision-Date: 2023-02-19 01:26+0300\n"
+"PO-Revision-Date: 2023-02-19 04:39+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -37,7 +37,6 @@ msgctxt "#AnubisAltar"
 msgid "Altar of Anubis"
 msgstr "Алтарь Анубиса"
 
-#, fuzzy
 msgctxt "#Apothecary"
 msgid "Apothecary"
 msgstr "Аптека"
@@ -1300,7 +1299,6 @@ msgstr ""
 "Огромный дворец, где хранятся главные богатства города. Позволяет собирать "
 "подати. Размещается на покрытой травой земле."
 
-#, fuzzy
 msgctxt "#ClayPit"
 msgid "Clay Pit"
 msgstr "Глиняный карьер"
@@ -2243,17 +2241,16 @@ msgstr ""
 
 msgctxt "#FoodAndFarming"
 msgid "Food & Farming"
-msgstr "Пища и фермы"
+msgstr "Пища и земледелие"
 
 #, fuzzy
 msgctxt "#FoodFarm"
 msgid "Food Farms"
 msgstr "Фермы (пища)"
 
-#, fuzzy
 msgctxt "#FoodWorkCamp"
 msgid "Work Camp"
-msgstr "Лагерь рабочих"
+msgstr "Рабочий лагерь"
 
 #, fuzzy
 msgctxt "#Fort"
@@ -4054,7 +4051,6 @@ msgstr ""
 "экономики. Здесь золото превращается в дебены, а также хранится часть "
 "денежных запасов города."
 
-#, fuzzy
 msgctxt "#PapyrusMaker"
 msgid "Papyrus Maker"
 msgstr "Мастерская папируса"
@@ -4570,7 +4566,6 @@ msgid ""
 msgstr ""
 "Сад работает не в полную силу, поэтому урожай в этом году будет меньше."
 
-#, fuzzy
 msgctxt "#Potter"
 msgid "Potter"
 msgstr "Гончарная мастерская"
@@ -4994,7 +4989,6 @@ msgstr ""
 "Наставников немного не хватает, поэтому обучение ведется медленнее. Однако "
 "есть оружие для всех видов войск."
 
-#, fuzzy
 msgctxt "#ReedGatherer"
 msgid "Reed Gatherer"
 msgstr "Сборщики тростника"
@@ -5195,7 +5189,6 @@ msgctxt "#Schools"
 msgid "Schools"
 msgstr "Школы"
 
-#, fuzzy
 msgctxt "#ScribalSchool"
 msgid "Scribal School"
 msgstr "Школа писцов"
@@ -5991,7 +5984,6 @@ msgstr ""
 "Дворец, достойный процветающего города. Здесь хранятся его главные "
 "богатства. Позволяет собирать подати. Размещается на покрытой травой земле."
 
-#, fuzzy
 msgctxt "#TransportWharf"
 msgid "Transport Wharf"
 msgstr "Транспортный причал"
@@ -6110,10 +6102,9 @@ msgctxt "#WaterCrossing"
 msgid "Water Crossing"
 msgstr "Переправа"
 
-#, fuzzy
 msgctxt "#WaterLift"
 msgid "Water Lift"
-msgstr "Подъемник для воды"
+msgstr "Водокачка"
 
 #, fuzzy
 msgctxt "#WaterLift_flavor"
@@ -6488,10 +6479,9 @@ msgid ""
 "could be."
 msgstr "Мы можем нанять еще лесорубов, тогда рубка пойдет быстрее."
 
-#, fuzzy
 msgctxt "#Work Camp"
 msgid "Work Camp"
-msgstr "Лагерь рабочих"
+msgstr "Рабочий лагерь"
 
 #, fuzzy
 msgctxt "#Work Camp_both"
