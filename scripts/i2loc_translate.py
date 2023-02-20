@@ -101,5 +101,5 @@ if __name__ == "__main__":
                 translated += stats["translated"]
                 untranslated += stats["untranslated"]
                 fuzzy += stats["fuzzy"]
-            logger.info("TOTAL: Translated: {}, Fuzzy: {}, Untranslated: {}, Ratio: {:.2f}%"
-                        .format(translated, fuzzy, untranslated, 100 * translated / (translated + untranslated + fuzzy)))
+            logger.info("Lang {} TOTAL: Translated: {}, Fuzzy: {}, Untranslated: {}, Ratio: {:.2f}%"
+                        .format(lang, translated, fuzzy, untranslated, 100 * translated / (translated + untranslated + fuzzy)))
