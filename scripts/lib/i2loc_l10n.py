@@ -149,9 +149,9 @@ class I2LocTranslation:
                         else:
                             csv_entry[language] = entry.msgid
                     except StopIteration:
-                        self.logger.warning("Entry '{}' does not exist in source CSV".format("/".join(temp_list)))
+                        self.logger.warning(f"Entry '{'/'.join(temp_list)}' does not exist in source CSV")
                         for lang in self.inject_langs:
-                            if "#{}".format(lang.value["key"]) == entry.msgctxt:
+                            if f"#{lang.value['key']}" == entry.msgctxt:
                                 self.content.append(
                                     {
                                         "Key": "/".join(temp_list),
@@ -167,7 +167,7 @@ class I2LocTranslation:
                                 )
 
         else:
-            self.logger.warning("ERROR: '{}' is not exists! Skipping.".format(po_file))
+            self.logger.warning(f"ERROR: '{po_file}' is not exists! Skipping.")
 
         return
 
@@ -193,7 +193,8 @@ class I2LocTranslation:
             makedirs(pot_path)
 
         for i in I2LocCsvKeys:
-            pot_files[i.value] = PotFileEntry(join(pot_path, i.value.replace("/", "_") + ".pot"), POFile(check_for_duplicates=True),
+            pot_files[i.value] = PotFileEntry(join(pot_path, i.value.replace("/", "_") + ".pot"),
+                                              POFile(check_for_duplicates=True),
                                               not exists(join(pot_path, i.value.replace("/", "_") + ".pot")))
             pot_files[i.value].po_file.metadata = METADATA_ENTRY
             pot_files[i.value].po_file.metadata_is_fuzzy = 1
@@ -217,23 +218,23 @@ class I2LocTranslation:
                     try:
                         pot_files[category].po_file.append(po_entry)
                     except ValueError:
-                        self.logger.debug("Entry {} already exists, skipping...".format(row[LANG_KEY]))
+                        self.logger.debug(f"Entry {row[LANG_KEY]} already exists, skipping...")
             else:
-                self.logger.warning("Category '{}' not found".format(category))
+                self.logger.warning(f"Category '{category}' not found")
         # We ready to dump POT files into FS
         for i in I2LocCsvKeys:
-            self.logger.info("Saving POT-file {}".format(pot_files[i.value].path))
+            self.logger.info(f"Saving POT-file {pot_files[i.value].path}")
             if i == I2LocCsvKeys.MENU_LANGUAGE:
                 # Injecting here own languages
                 for lang in self.inject_langs:
                     po_entry = POEntry(
-                        msgctxt="#{}".format(lang.value["key"]),
+                        msgctxt=f"#{lang.value['key']}",
                         msgid=lang.value["loc_name"],
                     )
                     try:
                         pot_files[i.value].po_file.append(po_entry)
                     except ValueError:
-                        self.logger.debug("Entry {} already exists, skipping...".format(po_entry.msgid))
+                        self.logger.debug(f"Entry {po_entry.msgid} already exists, skipping...")
 
             pot_files[i.value].po_file.save(pot_files[i.value].path)
 
@@ -258,12 +259,12 @@ class I2LocTranslation:
                         if "fuzzy" not in entry.flags:
                             entry.flags.append("fuzzy")
                 if exists(po_path):
-                    self.logger.info("Merging PO-file {}".format(po_path))
+                    self.logger.info(f"Merging PO-file {po_path}")
                     po = pofile(po_path)
                     po.merge(po_file)
                     po.save(po_path)
                 else:
-                    self.logger.info("Saving PO-file {}".format(po_path))
+                    self.logger.info(f"Saving PO-file {po_path}")
                     po_file.save(po_path)
         return
 
@@ -281,13 +282,11 @@ class I2LocTranslation:
             stats["translated"] += len(po.translated_entries())
             stats["untranslated"] += len(po.untranslated_entries())
             self.logger.info(
-                "{}: {}/{}/{} ({:.2f}%)"
-                .format(po_file,
-                        stats["translated"],
-                        stats["fuzzy"],
-                        stats["untranslated"],
-                        100 * stats["translated"] / (stats["translated"] + stats["untranslated"] + stats["fuzzy"])
-                        )
+                f"{po_file}: "
+                f"{stats['translated']}/"
+                f"{stats['fuzzy']}/"
+                f"{stats['untranslated']} "
+                f"({100 * stats['translated'] / (stats['translated'] + stats['untranslated'] + stats['fuzzy']):.2f}%)"
             )
         return stats
 

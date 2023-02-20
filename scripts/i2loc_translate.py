@@ -55,7 +55,7 @@ if __name__ == "__main__":
         logger.setLevel(logging.INFO)
 
     if not exists(args["--input"]):
-        logger.error("'{}' does not exist! Please specify correct path.".format(args["--input"]))
+        logger.error(f"'{args['--input']}' does not exist! Please specify correct path.")
         exit(-2)
 
     languages = []
@@ -66,21 +66,21 @@ if __name__ == "__main__":
                 language = next(name.value["iso_code"] for name in I2LocLanguages if name.value["iso_code"] == lang)
                 languages.append(language)
             except StopIteration:
-                logger.warning("{} is not supported, skipping it.".format(lang))
+                logger.warning(f"{lang} is not supported, skipping it.")
 
     if len(languages) == 0:
         for lang in I2LocLanguages:
             languages.append(lang.value["iso_code"])
-    logger.info("Processing languages: {}".format(languages))
+    logger.info(f"Processing languages: {languages}")
 
     if args["extract"]:
-        logger.info("Extracting text data into {}".format(args["--podir"]))
+        logger.info("Extracting text data into {args['--podir']}")
         rcg_translation = I2LocTranslation(args["--input"])
         rcg_translation.save_po(args["--podir"], languages)
         logger.info("Done!")
 
     if args["pack"]:
-        logger.info("Packing text data into {}".format(args["--output"]))
+        logger.info(f"Packing text data into {args['--output']}")
         rcg_translation = I2LocTranslation(args["--input"])
 
         for lang in languages:
@@ -101,5 +101,5 @@ if __name__ == "__main__":
                 translated += stats["translated"]
                 untranslated += stats["untranslated"]
                 fuzzy += stats["fuzzy"]
-            logger.info("Lang {} TOTAL: Translated: {}, Fuzzy: {}, Untranslated: {}, Ratio: {:.2f}%"
-                        .format(lang, translated, fuzzy, untranslated, 100 * translated / (translated + untranslated + fuzzy)))
+            logger.info(f"Lang {lang} TOTAL: Translated: {translated}, Fuzzy: {fuzzy}, Untranslated: {untranslated}, "
+                        f"Ratio: {100 * translated / (translated + untranslated + fuzzy):.2f}%")
