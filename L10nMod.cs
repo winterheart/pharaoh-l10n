@@ -49,6 +49,8 @@ namespace Pharaoh_L10n
             // File.WriteAllText("out.csv", csv);
             var translation_csv = m_AssetBundle.LoadAsset<TextAsset>("translation");
             LocalizationManager.Sources[0].Import_CSV(string.Empty, translation_csv.text, eSpreadsheetUpdateMode.Replace, ';');
+            // Set language code. Just in case.
+            LocalizationManager.Sources[0].mLanguages[5].Code = "ru";
             LocalizationManager.LocalizeAll(true);
             LoggerInstance.Msg("Updated translation");
         }
