@@ -1031,7 +1031,7 @@
         </langSet>
         <langSet xml:lang="ru">
           <tig>
-            <term>холст</term>
+            <term>ткань</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2100,6 +2100,138 @@
         <langSet xml:lang="ru">
           <tig>
             <term>водокачка</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-141">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>police station</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>городская стража</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-176">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>festival</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>праздник</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-177">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>mansion</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>особняк</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-178">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>magistrate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>магистрат</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-179">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>booth</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>помост</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-180">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>bandstand</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>эстрада</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-181">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>fort</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>форт</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-182">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>conservatory</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>музыкальная школа</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-183">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>monuments</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>монументы</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-184">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>tax collector</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>сборщик налогов</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-185">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>company</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>отряд</term>
           </tig>
         </langSet>
       </termEntry>

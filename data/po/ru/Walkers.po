@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-19 00:39+0300\n"
+"PO-Revision-Date: 2023-02-19 05:06+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -1155,16 +1155,16 @@ msgctxt "#library_g10"
 msgid "This city is the best that history has ever known!"
 msgstr "Это лучший город из всех, что знала история!"
 
-#, fuzzy
 msgctxt "#lion_flavor"
 msgid "Just a big cat. Also happens to be the king of beasts."
-msgstr "Просто большая кошка. Он же царь зверей."
+msgstr "Просто большой кот. И по совместительству — царь зверей."
 
 msgctxt "#locust"
 msgid "Locust"
 msgstr "Саранча"
 
-#, fuzzy
+# Psalm 105:34
+
 msgctxt "#locust_flavor"
 msgid "He spoke, and the locusts came, young locusts without number."
 msgstr "Сказал, и пришла саранча и гусеницы без числа."

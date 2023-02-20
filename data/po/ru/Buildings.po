@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:55\n"
-"PO-Revision-Date: 2023-02-19 04:39+0300\n"
+"PO-Revision-Date: 2023-02-20 02:07+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -246,10 +246,9 @@ msgstr ""
 "В артели немного не хватает художников, поэтому украшение гробниц идет "
 "медленнее."
 
-#, fuzzy
 msgctxt "#Bandstand"
 msgid "Bandstand"
-msgstr "Музыкальная площадка"
+msgstr "Эстрада"
 
 #, fuzzy
 msgctxt "#Bandstand_J_M"
@@ -538,12 +537,10 @@ msgctxt "#Bazaar_workers_1"
 msgid "This Bazaar is operational and supplies the needs of local homes."
 msgstr "Базарная жизнь кипит, и товары быстро поступают в соседние дома."
 
-#, fuzzy
 msgctxt "#Beautification"
 msgid "Beautification"
 msgstr "Благоустройство"
 
-#, fuzzy
 msgctxt "#Booth"
 msgid "Booth"
 msgstr "Помост"
@@ -685,7 +682,6 @@ msgstr ""
 "Можно нанять больше рабочих, тогда производство композитных луков пойдет "
 "быстрее."
 
-#, fuzzy
 msgctxt "#Brewery"
 msgid "Brewery"
 msgstr "Пивоварня"
@@ -772,10 +768,9 @@ msgstr ""
 "Пивоварня работает не в полную силу, поэтому производство пива немного "
 "снижено."
 
-#, fuzzy
 msgctxt "#BricklayersGuild"
 msgid "Bricklayers' Guild"
-msgstr "Артель укладчиков кирпича"
+msgstr "Артель каменщиков"
 
 #, fuzzy
 msgctxt "#BricklayersGuild_disabled"
@@ -849,7 +844,6 @@ msgstr ""
 "Артель работает не в полную силу. Из-за этого строительство идет немного "
 "медленнее."
 
-#, fuzzy
 msgctxt "#Brickworks"
 msgid "Brickworks"
 msgstr "Кирпичная мастерская"
@@ -974,7 +968,6 @@ msgstr ""
 "Пожарные не успели спасти здание. Когда пламя догорит, от сооружения "
 "останутся обуглившиеся руины."
 
-#, fuzzy
 msgctxt "#CarpentersGuild"
 msgid "Carpenters' Guild"
 msgstr "Артель плотников"
@@ -1363,7 +1356,6 @@ msgstr ""
 "Карьер работает не в полную силу. Из-за этого добыча глины идет немного "
 "медленнее."
 
-#, fuzzy
 msgctxt "#Conservatory"
 msgid "Conservatory"
 msgstr "Музыкальная школа"
@@ -1435,7 +1427,6 @@ msgctxt "#ConstructionSites"
 msgid "Construction Sites"
 msgstr "Строительные площадки"
 
-#, fuzzy
 msgctxt "#CopperMine"
 msgid "Copper Mine"
 msgstr "Медный рудник"
@@ -1795,12 +1786,10 @@ msgctxt "#Education"
 msgid "Education"
 msgstr "Образование"
 
-#, fuzzy
 msgctxt "#Entertainment"
 msgid "Entertainment"
 msgstr "Развлечения"
 
-#, fuzzy
 msgctxt "#FamilyMansion"
 msgid "Family Mansion"
 msgstr "Семейный особняк"
@@ -1915,38 +1904,33 @@ msgstr ""
 "ВНИМАНИЕ! На переправе на другом берегу не хватает рабочих. Переправляться "
 "могут только переселенцы."
 
-#, fuzzy
 msgctxt "#FestivalSquare"
 msgid "Festival Square"
 msgstr "Праздничная площадь"
 
-#, fuzzy
 msgctxt "#FestivalSquare_flavor"
 msgid ""
 "When you instruct your Overseer of the Temples to throw a festival in honor "
 "of one of the gods, citizens gather here to participate. "
 msgstr ""
-"Вы можете попросить советника по религии устроить праздник в честь одного из "
-"богов. Здесь жители соберутся на торжество."
+"Когда вы прикажете советнику по религии устроить праздник в честь одного из "
+"богов, здесь соберутся жители для торжества."
 
-#, fuzzy
 msgctxt "#FestivalSquare_nofestival"
 msgid "Hold a festival to make the people happy, and to appease the gods"
-msgstr "Проведите праздник. Вы развлечете народ и задобрите богов."
+msgstr "Проведите праздник, чтобы развлечь людей и умилостивить богов."
 
-#, fuzzy
 msgctxt "#FestivalSquare_ongoing_festival"
 msgid "A festival is currently in progress"
-msgstr "Фестиваль начался"
+msgstr "Праздник в самом разгаре."
 
-#, fuzzy
 msgctxt "#FestivalSquare_tooltip"
 msgid ""
 "Must be built on a crossroad. Allows you to hold festivals to the gods of "
 "your city"
 msgstr ""
-"Размещается на перекрестке. Здесь можно проводить праздники в честь богов-"
-"покровителей города."
+"Площадь может размещаться только на пересечении дорог. Здесь можно проводить "
+"праздники в честь богов вашего города."
 
 msgctxt "#FigFarm"
 msgid "Fig Farm"
@@ -2252,15 +2236,13 @@ msgctxt "#FoodWorkCamp"
 msgid "Work Camp"
 msgstr "Рабочий лагерь"
 
-#, fuzzy
 msgctxt "#Fort"
 msgid "Fort"
-msgstr "Крепость"
+msgstr "Форт"
 
-#, fuzzy
 msgctxt "#FortArchers"
 msgid "Fort: Archers"
-msgstr "Крепость: лучники"
+msgstr "Форт: лучники"
 
 #, fuzzy
 msgctxt "#FortArchers_tooltip"
@@ -2326,10 +2308,9 @@ msgstr ""
 "Вы вооружили лучников ({0}) композитными луками <sprite "
 "name=\"CompositeBows\">, так что они лучше защищены в бою."
 
-#, fuzzy
 msgctxt "#FortCharioteers"
 msgid "Fort: Charioteers"
-msgstr "Крепость: колесничие"
+msgstr "Форт: колесничие"
 
 #, fuzzy
 msgctxt "#FortCharioteers_tooltip"
@@ -2351,10 +2332,9 @@ msgctxt "#FortCharioteers_troops_1"
 msgid "Only one charioteer is stationed at this fort."
 msgstr "В крепости размещен всего один колесничий."
 
-#, fuzzy
 msgctxt "#FortInfantery"
 msgid "Fort: Infantry"
-msgstr "Крепость: пехота"
+msgstr "Форт: пехотинцы"
 
 #, fuzzy
 msgctxt "#FortInfantery_tooltip"
@@ -2418,10 +2398,9 @@ msgstr ""
 "Вы выдали солдатам ({0}) щиты <sprite name=\"Shields\">, так что они лучше "
 "защищены в бою."
 
-#, fuzzy
 msgctxt "#FortInfantry"
 msgid "Fort: Infantry"
-msgstr "Крепость: пехота"
+msgstr "Форт: пехотинцы"
 
 #, fuzzy
 msgctxt "#Fort_curse"
@@ -2616,7 +2595,6 @@ msgid ""
 msgstr ""
 "На руднике заняты не все рабочие места, поэтому добыча самоцветов снижена."
 
-#, fuzzy
 msgctxt "#GoldMine"
 msgid "Gold Mine"
 msgstr "Золотой рудник"
@@ -2683,7 +2661,6 @@ msgstr ""
 "Рудник работает не в полную силу. Он будет приносить больше золота, если "
 "добавить рабочих."
 
-#, fuzzy
 msgctxt "#Goods"
 msgid "Goods Production"
 msgstr "Производство товаров"
@@ -2862,22 +2839,18 @@ msgctxt "#GuildArtisans"
 msgid "Artisans' Guild"
 msgstr "Артель художников"
 
-#, fuzzy
 msgctxt "#GuildBricklayers"
 msgid "Bricklayers' Guild"
-msgstr "Артель укладчиков кирпича"
+msgstr "Артель каменщиков"
 
-#, fuzzy
 msgctxt "#GuildCarpenters"
 msgid "Carpenters' Guild"
 msgstr "Артель плотников"
 
-#, fuzzy
 msgctxt "#GuildStonemasons"
 msgid "Stonemasons' Guild"
-msgstr "Артель каменщиков"
+msgstr "Артель каменотёсов"
 
-#, fuzzy
 msgctxt "#Guilds"
 msgid "Guilds"
 msgstr "Артели"
@@ -2966,10 +2939,9 @@ msgctxt "#HorusOracle"
 msgid "Oracle of Horus"
 msgstr "Оракул Гора"
 
-#, fuzzy
 msgctxt "#Housing"
 msgid "Housing"
-msgstr "Жилье"
+msgstr "Жильё"
 
 #, fuzzy
 msgctxt "#Housing_tooltip"
@@ -3080,7 +3052,6 @@ msgctxt "#IndustryShutDown"
 msgid "Industry shut down"
 msgstr ""
 
-#, fuzzy
 msgctxt "#Irrigation"
 msgid "Irrigation"
 msgstr "Орошение"
@@ -3200,10 +3171,9 @@ msgstr ""
 "В мастерской заняты не все рабочие места. Производство пойдет быстрее, если "
 "их заполнить."
 
-#, fuzzy
 msgctxt "#JugglerSchool"
 msgid "Juggler School"
-msgstr "Школа жонглеров"
+msgstr "Школа жонглёров"
 
 #, fuzzy
 msgctxt "#JugglerSchool_flavor"
@@ -3580,22 +3550,18 @@ msgctxt "#MaatAltar"
 msgid "Altar of Ma'at"
 msgstr "Алтарь Маат"
 
-#, fuzzy
 msgctxt "#Mansion"
 msgid "Mansion"
 msgstr "Особняк"
 
-#, fuzzy
 msgctxt "#MansionDynasty"
 msgid "Dynasty Mansion"
 msgstr "Особняк династии"
 
-#, fuzzy
 msgctxt "#MansionFamily"
 msgid "Family Mansion"
 msgstr "Семейный особняк"
 
-#, fuzzy
 msgctxt "#MansionPersonal"
 msgid "Personal Mansion"
 msgstr "Личный особняк"
@@ -3731,7 +3697,6 @@ msgstr ""
 "Здесь зеленые новобранцы получают знания и опыт, которые помогут им блистать "
 "в армии Египта."
 
-#, fuzzy
 msgctxt "#MinOracle"
 msgid "Oracle of Min"
 msgstr "Оракул Мина"
@@ -3752,10 +3717,9 @@ msgctxt "#Mines"
 msgid "Mines"
 msgstr "Рудники"
 
-#, fuzzy
 msgctxt "#Monuments"
 msgid "Monuments"
-msgstr "Памятники"
+msgstr "Монументы"
 
 #, fuzzy
 msgctxt "#Mortuary"
@@ -4035,10 +3999,9 @@ msgctxt "#Palace"
 msgid "Palace"
 msgstr "Дворец"
 
-#, fuzzy
 msgctxt "#PalaceVillage"
 msgid "Village Palace"
-msgstr "Маленький дворец"
+msgstr "Деревенский дворец"
 
 #, fuzzy
 msgctxt "#Palace_flavor"
@@ -4266,7 +4229,6 @@ msgctxt "#PerformanceVenues"
 msgid "Performances Venues"
 msgstr "Места выступлений"
 
-#, fuzzy
 msgctxt "#PersonalMansion"
 msgid "Personal Mansion"
 msgstr "Личный особняк"
@@ -4311,6 +4273,7 @@ msgid ""
 "and fit."
 msgstr "Лекарь работает, поэтому местные жители ни на что не жалуются."
 
+#, fuzzy
 msgctxt "#PlainStoneQuarry"
 msgid "Plain Stone Quarry"
 msgstr "Каменный карьер"
@@ -4383,10 +4346,9 @@ msgid ""
 "workers."
 msgstr "Карьер работает не в полную силу из-за небольшой нехватки рабочих."
 
-#, fuzzy
 msgctxt "#Plaza"
 msgid "Plaza"
-msgstr "Площадь"
+msgstr "Плитки"
 
 #, fuzzy
 msgctxt "#Plaza_flavor"
@@ -4399,7 +4361,6 @@ msgctxt "#Plaza_tooltip"
 msgid "To be placed on paved roads to improve desirability"
 msgstr "Размещается на мощеных дорогах. Повышает уровень привлекательности."
 
-#, fuzzy
 msgctxt "#PoliceStation"
 msgid "Police Station"
 msgstr "Городская стража"
@@ -4652,7 +4613,6 @@ msgstr ""
 "В мастерской заняты не все рабочие места. Из-за этого производство немного "
 "снижено."
 
-#, fuzzy
 msgctxt "#Production"
 msgid "Production"
 msgstr "Производство"
@@ -4826,12 +4786,10 @@ msgctxt "#RaTemple_tooltip"
 msgid "Improves Ra's mood"
 msgstr "Улучшает отношение Ра."
 
-#, fuzzy
 msgctxt "#RawMaterials"
 msgid "Raw Materials"
-msgstr "Сырье"
+msgstr "Сырьё"
 
-#, fuzzy
 msgctxt "#Recruiter"
 msgid "Recruiter"
 msgstr "Вербовщик"
@@ -5238,7 +5196,6 @@ msgctxt "#SebekAltar"
 msgid "Altar of Sebek"
 msgstr "Алтарь Себека"
 
-#, fuzzy
 msgctxt "#SekhmetOracle"
 msgid "Oracle of Sekhmet"
 msgstr "Оракул Сехмет"
@@ -5660,7 +5617,6 @@ msgstr ""
 "Артель работает не в полную силу. Из-за этого строительство идет немного "
 "медленнее."
 
-#, fuzzy
 msgctxt "#StorageYard"
 msgid "Storage Yard"
 msgstr "Склад"
@@ -6012,10 +5968,9 @@ msgctxt "#TransportWharf_tooltip"
 msgid "Transports troops to battlefields far away"
 msgstr "Корабли переправляют войска на далекие поля сражений."
 
-#, fuzzy
 msgctxt "#Troops"
 msgid "Forts"
-msgstr "Крепости"
+msgstr "Форты"
 
 msgctxt "#Undo"
 msgid "Undo your last action and get back"
@@ -6040,7 +5995,6 @@ msgstr ""
 "Здесь хранятся главные богатства города. Позволяет собирать подати. "
 "Размещается на покрытой травой земле."
 
-#, fuzzy
 msgctxt "#Wall"
 msgid "Wall"
 msgstr "Стена"
@@ -6597,39 +6551,39 @@ msgstr "В зоопарке жители дивятся экзотическим
 
 msgctxt "#building_cannot_burn"
 msgid "Cannot burn"
-msgstr ""
+msgstr "Не может сгореть."
 
 msgctxt "#building_cannot_collapse"
 msgid "Cannot collapse"
-msgstr ""
+msgstr "Не может обрушиться."
 
 msgctxt "#building_damagerisk_00"
 msgid "No collapse risk"
-msgstr ""
+msgstr "Нет риска обрушения."
 
 msgctxt "#building_damagerisk_15"
 msgid "Very low collapse risk"
-msgstr ""
+msgstr "Очень низкий риск обрушения."
 
 msgctxt "#building_damagerisk_30"
 msgid "Low collapse risk"
-msgstr ""
+msgstr "Низкий риск обрушения."
 
 msgctxt "#building_damagerisk_45"
 msgid "Some collapse risk"
-msgstr ""
+msgstr "Небольшой риск обрушения."
 
 msgctxt "#building_damagerisk_60"
 msgid "High collapse risk"
-msgstr ""
+msgstr "Высокий риск обрушения."
 
 msgctxt "#building_damagerisk_75"
 msgid "Very high collapse risk"
-msgstr ""
+msgstr "Крайне высокий риск обрушения."
 
 msgctxt "#building_damagerisk_90"
 msgid "Extreme collapse risk"
-msgstr ""
+msgstr "Экстремально большой риск обрушения"
 
 #, fuzzy
 msgctxt "Altar_button"

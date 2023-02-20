@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-18 21:20+0300\n"
+"PO-Revision-Date: 2023-02-20 04:21+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -2682,15 +2682,13 @@ msgstr ""
 "Работа над малой гробницей еще не началась. Вам нужны каменщики, художники, "
 "глина, краска и лампы для начала строительства."
 
-#, fuzzy
 msgctxt "#Monuments_Sphinx_Completed"
 msgid "This sphinx is now complete!"
-msgstr "Сфинкс готов!"
+msgstr "Этот сфинкс готов!"
 
-#, fuzzy
 msgctxt "#Monuments_Sphinx_Completion"
 msgid "This sphinx is at {0}% completion"
-msgstr "Сфинкс готов на {0}%."
+msgstr "Этот сфинкс готов на {0}%."
 
 #, fuzzy
 msgctxt "#Monuments_Sphinx_NotStarted"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-19 04:47+0300\n"
+"PO-Revision-Date: 2023-02-20 02:40+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -278,7 +278,7 @@ msgstr ""
 
 msgctxt "#Booth_Title"
 msgid "Booth"
-msgstr ""
+msgstr "Помост"
 
 msgctxt "#Brewery_Content"
 msgid ""
@@ -303,7 +303,7 @@ msgstr ""
 
 msgctxt "#Brewery_Title"
 msgid "Brewery"
-msgstr ""
+msgstr "Пивоварня"
 
 msgctxt "#BrickPyramid_Content"
 msgid ""
@@ -351,7 +351,7 @@ msgstr ""
 
 msgctxt "#Brickworks_Title"
 msgid "Brickworks"
-msgstr ""
+msgstr "Кирпичная мастерская"
 
 msgctxt "#Burial_Content"
 msgid ""
@@ -800,7 +800,7 @@ msgstr ""
 
 msgctxt "#FestivalSquare_Title"
 msgid "Festival Square"
-msgstr "Фестивальная площадь"
+msgstr "Праздничная площадь"
 
 msgctxt "#Firehouse_Content"
 msgid ""
@@ -2264,7 +2264,7 @@ msgstr ""
 
 msgctxt "#PoliceStation_Title"
 msgid "Police Station"
-msgstr ""
+msgstr "Городская стража"
 
 msgctxt "#PopulationGrowth_Content"
 msgid ""
@@ -2999,7 +2999,7 @@ msgstr ""
 
 msgctxt "#TaxCollector_Title"
 msgid "Tax Collector"
-msgstr ""
+msgstr "Сборщик налогов"
 
 msgctxt "#TempleComplexBast_Content"
 msgid ""
@@ -3473,7 +3473,7 @@ msgstr ""
 
 msgctxt "#WaterCrossings_Title"
 msgid "Water Crossings"
-msgstr "Переправы"
+msgstr "Водные переправы"
 
 msgctxt "#WaterSupply_Content"
 msgid ""

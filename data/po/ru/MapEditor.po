@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-18 22:57+0300\n"
+"PO-Revision-Date: 2023-02-20 01:00+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -22,11 +22,11 @@ msgstr "Сырьё"
 
 msgctxt "#Average"
 msgid "Average landscape"
-msgstr ""
+msgstr "Средний ландшафт"
 
 msgctxt "#Enormous"
 msgid "Enormous land"
-msgstr ""
+msgstr "Огромный ландшафт"
 
 msgctxt "#Game_Good"
 msgid "Resources"
@@ -34,15 +34,15 @@ msgstr "Ресурсы"
 
 msgctxt "#Large"
 msgid "Large landscape"
-msgstr ""
+msgstr "Большой ландшафт"
 
 msgctxt "#Small"
 msgid "Small landscape"
-msgstr ""
+msgstr "Маленький ландшафт"
 
 msgctxt "#Tiny"
 msgid "Tiny landscape"
-msgstr ""
+msgstr "Крохотный ландшафт"
 
 msgctxt "#Title_Win_Conditions"
 msgid "Win conditions"
@@ -50,7 +50,7 @@ msgstr "Условия победы"
 
 msgctxt "#VeryLarge"
 msgid "Very large land"
-msgstr ""
+msgstr "Очень большой ландшафт"
 
 msgctxt "#map_editor_climate"
 msgid "Climate"
@@ -70,7 +70,7 @@ msgstr "Размер карты"
 
 msgctxt "#map_editor_default_map"
 msgid "Default map"
-msgstr ""
+msgstr "Карта по умолчанию"
 
 msgctxt "#map_editor_flood_quality"
 msgid "Flooding quality:"
@@ -82,7 +82,7 @@ msgstr "Показать сетку"
 
 msgctxt "#map_editor_parameters"
 msgid "Parameters"
-msgstr ""
+msgstr "Параметры"
 
 msgctxt "#parameters_additional_funds"
 msgid "Rescue Gift"
@@ -174,7 +174,7 @@ msgstr ""
 
 msgctxt "Enormous"
 msgid "Enormous map"
-msgstr ""
+msgstr "Огромная карта"
 
 msgctxt "Excellent"
 msgid "Excellent"
@@ -206,7 +206,7 @@ msgstr ""
 
 msgctxt "Large"
 msgid "Large map"
-msgstr ""
+msgstr "Большая карта"
 
 msgctxt "Mediocre"
 msgid "Mediocre"
@@ -214,7 +214,7 @@ msgstr ""
 
 msgctxt "Medium"
 msgid "Medium map"
-msgstr ""
+msgstr "Средняя карта"
 
 msgctxt "None"
 msgid "None"
@@ -242,20 +242,20 @@ msgstr ""
 
 msgctxt "RiverEntry"
 msgid "River entry"
-msgstr ""
+msgstr "Начало реки"
 
 msgctxt "RiverExit"
 msgid "River exit"
-msgstr ""
+msgstr "Конец реки"
 
 msgctxt "Small"
 msgid "Small map"
-msgstr ""
+msgstr "Маленькая карта"
 
 msgctxt "Tiny"
 msgid "Tiny map"
-msgstr ""
+msgstr "Крохотная карта"
 
 msgctxt "VeryLarge"
 msgid "Huge map"
-msgstr ""
+msgstr "Очень большая карта"
