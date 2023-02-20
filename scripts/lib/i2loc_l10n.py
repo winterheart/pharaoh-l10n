@@ -267,6 +267,30 @@ class I2LocTranslation:
                     po_file.save(po_path)
         return
 
+    def show_stats(self, path, csv_root_key, lang):
+        po_file = join(path, lang, csv_root_key.value.replace("/", "_") + ".po")
+
+        stats = {
+            "translated": 0,
+            "untranslated": 0,
+            "fuzzy": 0
+        }
+        if exists(po_file):
+            po = pofile(po_file)
+            stats["fuzzy"] += len(po.fuzzy_entries())
+            stats["translated"] += len(po.translated_entries())
+            stats["untranslated"] += len(po.untranslated_entries())
+            self.logger.info(
+                "{}: {}/{}/{} ({:.2f}%)"
+                .format(po_file,
+                        stats["translated"],
+                        stats["fuzzy"],
+                        stats["untranslated"],
+                        100 * stats["translated"] / (stats["translated"] + stats["untranslated"] + stats["fuzzy"])
+                        )
+            )
+        return stats
+
     def find_csv_entry(self, column, input):
         """
         Lookup entry in loaded CSV file
