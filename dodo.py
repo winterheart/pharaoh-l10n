@@ -47,3 +47,11 @@ def task_pack_assetbundle():
         "file_dep": SOURCES["target_csv"],
         "targets": SOURCES["assetbundle"],
     }
+
+
+def task_stats():
+    return {
+        "actions": [
+            f"{i2loc_exec} stats -i {SOURCES['source_csv'][0]} -p {po_file_dir} -l {','.join(langs)} -V"
+        ]
+    }
