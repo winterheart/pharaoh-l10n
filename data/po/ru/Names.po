@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-20 02:24+0300\n"
+"PO-Revision-Date: 2023-02-24 15:33+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -17,11 +17,11 @@ msgstr ""
 
 msgctxt ""
 msgid "jars of olive oil"
-msgstr ""
+msgstr "кувшинов с оливковым маслом"
 
 msgctxt "#ArmyBedouin"
 msgid "a Bedouin army"
-msgstr ""
+msgstr "бедуинская армия"
 
 msgctxt "#Barley"
 msgid "Barley"
@@ -67,7 +67,6 @@ msgctxt "#Ebony"
 msgid "Ebony"
 msgstr "Чёрное дерево"
 
-#, fuzzy
 msgctxt "#Empty_Company"
 msgid "Empty Company"
 msgstr "Пустой отряд"
@@ -122,7 +121,7 @@ msgstr "Слоновая кость"
 
 msgctxt "#Jewelry"
 msgid "Jewelry"
-msgstr "Драгоценности"
+msgstr "Украшения"
 
 msgctxt "#Lamp"
 msgid "Lamp"
@@ -166,7 +165,7 @@ msgstr "Папирус"
 
 msgctxt "#Perfume"
 msgid "Perfume"
-msgstr ""
+msgstr "Духи"
 
 msgctxt "#Plainstone"
 msgid "Plain Stone"
@@ -398,11 +397,11 @@ msgstr "Народы моря"
 
 msgctxt "VillageElder"
 msgid "Village Elder"
-msgstr "Старейшина"
+msgstr "Деревенский старейшина"
 
 msgctxt "VillageNoble"
 msgid "Village Noble"
-msgstr "Вельможа"
+msgstr "Деревенский вельможа"
 
 msgctxt "Vizier"
 msgid "Vizier"

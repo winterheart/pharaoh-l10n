@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-20 01:00+0300\n"
+"PO-Revision-Date: 2023-02-24 15:41+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -58,7 +58,7 @@ msgstr "Климат"
 
 msgctxt "#map_editor_create_new_climate"
 msgid "Terrain set"
-msgstr ""
+msgstr "Набор земли"
 
 msgctxt "#map_editor_create_new_create"
 msgid "Create"
@@ -86,71 +86,71 @@ msgstr "Параметры"
 
 msgctxt "#parameters_additional_funds"
 msgid "Rescue Gift"
-msgstr ""
+msgstr "Спасительный подарок"
 
 msgctxt "#parameters_buildings"
 msgid "Set available buildings"
-msgstr ""
+msgstr "Установить доступные постройки"
 
 msgctxt "#parameters_current_pharaoh"
 msgid "Current Pharaoh:"
-msgstr ""
+msgstr "Текущий фараон:"
 
 msgctxt "#parameters_ennemy"
 msgid "Choose an enemy"
-msgstr ""
+msgstr "Выберите врага"
 
 msgctxt "#parameters_events"
 msgid "Plan events"
-msgstr ""
+msgstr "Запланировать события"
 
 msgctxt "#parameters_flood_duration"
 msgid "Flooding lasts for:"
-msgstr ""
+msgstr "Разливы заканчиваются:"
 
 msgctxt "#parameters_flood_start"
 msgid "Flooding starts on:"
-msgstr ""
+msgstr "Разливы начинаются:"
 
 msgctxt "#parameters_gods"
 msgid "Define gods"
-msgstr ""
+msgstr "Определите богов"
 
 msgctxt "#parameters_interests"
 msgid "Interest rate on debt"
-msgstr ""
+msgstr "Процент при долге"
 
 msgctxt "#parameters_killers"
 msgid "Killer Types"
-msgstr ""
+msgstr "Типы убийц"
 
 msgctxt "#parameters_kingdom_wages"
 msgid "Kingdom wages"
-msgstr ""
+msgstr "Жалование царства"
 
 msgctxt "#parameters_late_flood"
 msgid "Late Flood?"
-msgstr ""
+msgstr "Поздний разлив?"
 
 msgctxt "#parameters_rank"
 msgid "Initial rank"
-msgstr ""
+msgstr "Начальный ранг"
 
 msgctxt "#parameters_start_15th"
 msgid "Starts the 15th"
-msgstr ""
+msgstr "Начинается 15-го"
 
 msgctxt "#parameters_start_1st"
 msgid "Starts the 1st"
-msgstr ""
+msgstr "Начинается 1-го"
 
 msgctxt "#parameters_starting year"
 msgid "Starting Year"
-msgstr ""
+msgstr "Год старта"
 
 msgctxt "#parameters_trade"
 msgid "Adjust prices of imports and exports"
-msgstr ""
+msgstr "Изменить цены импорта и экспорта"
 
 msgctxt "#save"
 msgid "Save"
@@ -170,7 +170,7 @@ msgstr "Четыре месяца"
 
 msgctxt "Arid"
 msgid "Arid climate"
-msgstr ""
+msgstr "Засушливый климат"
 
 msgctxt "Enormous"
 msgid "Enormous map"
@@ -178,31 +178,31 @@ msgstr "Огромная карта"
 
 msgctxt "Excellent"
 msgid "Excellent"
-msgstr ""
+msgstr "Отличный"
 
 msgctxt "Fish"
 msgid "Fishing point"
-msgstr ""
+msgstr "Точка лова рыбы"
 
 msgctxt "Good"
 msgid "Good"
-msgstr ""
+msgstr "Хороший"
 
 msgctxt "GroundEntry"
 msgid "Entry point"
-msgstr ""
+msgstr "Точка входа"
 
 msgctxt "GroundExit"
 msgid "Exit point"
-msgstr ""
+msgstr "Точка выхода"
 
 msgctxt "GroundInvasion"
 msgid "Invasion point"
-msgstr ""
+msgstr "Точка вторжения"
 
 msgctxt "Humid"
 msgid "Humid climate"
-msgstr ""
+msgstr "Влажный климат"
 
 msgctxt "Large"
 msgid "Large map"
@@ -210,7 +210,7 @@ msgstr "Большая карта"
 
 msgctxt "Mediocre"
 msgid "Mediocre"
-msgstr ""
+msgstr "Посредственный"
 
 msgctxt "Medium"
 msgid "Medium map"
@@ -218,27 +218,27 @@ msgstr "Средняя карта"
 
 msgctxt "None"
 msgid "None"
-msgstr ""
+msgstr "Нет"
 
 msgctxt "Normal"
 msgid "Normal climate"
-msgstr ""
+msgstr "Нормальный климат"
 
 msgctxt "Perfect"
 msgid "Perfect"
-msgstr ""
+msgstr "Превосходный"
 
 msgctxt "Poor"
 msgid "Poor"
-msgstr ""
+msgstr "Слабый"
 
 msgctxt "Predator"
 msgid "Killer point"
-msgstr ""
+msgstr "Точка убийц"
 
 msgctxt "Prey"
 msgid "Map prey point"
-msgstr ""
+msgstr "Точка добычи"
 
 msgctxt "RiverEntry"
 msgid "River entry"

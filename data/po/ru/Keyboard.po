@@ -4,14 +4,15 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-15 23:39+0300\n"
+"PO-Revision-Date: 2023-02-22 03:24+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 msgctxt "A"
@@ -60,7 +61,7 @@ msgstr "9"
 
 msgctxt "AltGr"
 msgid "Alt Gr"
-msgstr ""
+msgstr "Alt Gr"
 
 msgctxt "Ampersand"
 msgid "&"
@@ -88,11 +89,11 @@ msgstr "\\"
 
 msgctxt "Backspace"
 msgid "Backspace"
-msgstr ""
+msgstr "Backspace"
 
 msgctxt "Break"
 msgid "Break"
-msgstr ""
+msgstr "Break"
 
 msgctxt "C"
 msgid "C"
@@ -100,7 +101,7 @@ msgstr "C"
 
 msgctxt "CapsLock"
 msgid "Caps Lock"
-msgstr ""
+msgstr "Caps Lock"
 
 msgctxt "Caret"
 msgid "^"
@@ -108,7 +109,7 @@ msgstr "^"
 
 msgctxt "Clear"
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
 
 msgctxt "Colon"
 msgid ":"
@@ -124,7 +125,7 @@ msgstr "D"
 
 msgctxt "Delete"
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 msgctxt "Dollar"
 msgid "$"
@@ -136,7 +137,7 @@ msgstr "\""
 
 msgctxt "DownArrow"
 msgid "Down Arrow"
-msgstr ""
+msgstr "Стрелка вниз"
 
 msgctxt "E"
 msgid "E"
@@ -144,7 +145,7 @@ msgstr "E"
 
 msgctxt "End"
 msgid "End"
-msgstr ""
+msgstr "End"
 
 msgctxt "Equals"
 msgid "="
@@ -152,7 +153,7 @@ msgstr "="
 
 msgctxt "Escape"
 msgid "Escape"
-msgstr ""
+msgstr "Escape"
 
 msgctxt "Exclaim"
 msgid "!"
@@ -240,11 +241,11 @@ msgstr "#"
 
 msgctxt "Help"
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 msgctxt "Home"
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 msgctxt "I"
 msgid "I"
@@ -252,7 +253,7 @@ msgstr "I"
 
 msgctxt "Insert"
 msgid "Insert"
-msgstr ""
+msgstr "Insert"
 
 msgctxt "J"
 msgid "J"
@@ -264,71 +265,71 @@ msgstr "K"
 
 msgctxt "Keypad0"
 msgid "Keypad 0"
-msgstr ""
+msgstr "Keypad 0"
 
 msgctxt "Keypad1"
 msgid "Keypad 1"
-msgstr ""
+msgstr "Keypad 1"
 
 msgctxt "Keypad2"
 msgid "Keypad 2"
-msgstr ""
+msgstr "Keypad 2"
 
 msgctxt "Keypad3"
 msgid "Keypad 3"
-msgstr ""
+msgstr "Keypad 3"
 
 msgctxt "Keypad4"
 msgid "Keypad 4"
-msgstr ""
+msgstr "Keypad 4"
 
 msgctxt "Keypad5"
 msgid "Keypad 5"
-msgstr ""
+msgstr "Keypad 5"
 
 msgctxt "Keypad6"
 msgid "Keypad 6"
-msgstr ""
+msgstr "Keypad 6"
 
 msgctxt "Keypad7"
 msgid "Keypad 7"
-msgstr ""
+msgstr "Keypad 7"
 
 msgctxt "Keypad8"
 msgid "Keypad 8"
-msgstr ""
+msgstr "Keypad 8"
 
 msgctxt "Keypad9"
 msgid "Keypad 9"
-msgstr ""
+msgstr "Keypad 9"
 
 msgctxt "KeypadDivide"
 msgid "Keypad /"
-msgstr ""
+msgstr "Keypad /"
 
 msgctxt "KeypadEnter"
 msgid "Keypad Enter"
-msgstr ""
+msgstr "Keypad Enter"
 
 msgctxt "KeypadEquals"
 msgid "Keypad ="
-msgstr ""
+msgstr "Keypad ="
 
 msgctxt "KeypadMinus"
 msgid "Keypad -"
-msgstr ""
+msgstr "Keypad -"
 
 msgctxt "KeypadMultiply"
 msgid "Keypad *"
-msgstr ""
+msgstr "Keypad *"
 
 msgctxt "KeypadPeriod"
 msgid "Keypad ."
-msgstr ""
+msgstr "Keypad ."
 
 msgctxt "KeypadPlus"
 msgid "Keypad +"
-msgstr ""
+msgstr "Keypad +"
 
 msgctxt "L"
 msgid "L"
@@ -336,15 +337,15 @@ msgstr "L"
 
 msgctxt "LeftAlt"
 msgid "Left Alt"
-msgstr ""
+msgstr "Левый Alt"
 
 msgctxt "LeftApple"
 msgid "Left Apple"
-msgstr ""
+msgstr "Левый Apple"
 
 msgctxt "LeftArrow"
 msgid "Left Arrow"
-msgstr ""
+msgstr "Стрелка влево"
 
 msgctxt "LeftBracket"
 msgid "["
@@ -352,11 +353,11 @@ msgstr "["
 
 msgctxt "LeftCommand"
 msgid "Left Command"
-msgstr ""
+msgstr "Левый Command"
 
 msgctxt "LeftControl"
 msgid "Left Control"
-msgstr ""
+msgstr "Левый Ctrl"
 
 msgctxt "LeftCurlyBracket"
 msgid "{"
@@ -368,11 +369,11 @@ msgstr "("
 
 msgctxt "LeftShift"
 msgid "Left Shift"
-msgstr ""
+msgstr "Левый Shift"
 
 msgctxt "LeftWindows"
 msgid "Left Windows"
-msgstr ""
+msgstr "Левый Windows"
 
 msgctxt "Less"
 msgid "<"
@@ -384,7 +385,7 @@ msgstr "M"
 
 msgctxt "Menu"
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 msgctxt "N"
 msgid "N"
@@ -392,11 +393,11 @@ msgstr "N"
 
 msgctxt "None"
 msgid "None"
-msgstr ""
+msgstr "Нет"
 
 msgctxt "Numlock"
 msgid "Num Lock"
-msgstr ""
+msgstr "Num Lock"
 
 msgctxt "O"
 msgid "O"
@@ -408,15 +409,15 @@ msgstr "P"
 
 msgctxt "PageDown"
 msgid "Page Down"
-msgstr ""
+msgstr "Page Down"
 
 msgctxt "PageUp"
 msgid "Page Up"
-msgstr ""
+msgstr "Page Up"
 
 msgctxt "Pause"
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 msgctxt "Percent"
 msgid "%"
@@ -436,7 +437,7 @@ msgstr "=+"
 
 msgctxt "Print"
 msgid "Print"
-msgstr ""
+msgstr "Print"
 
 msgctxt "Q"
 msgid "Q"
@@ -456,19 +457,19 @@ msgstr "R"
 
 msgctxt "Return"
 msgid "Return"
-msgstr ""
+msgstr "Ввод"
 
 msgctxt "RightAlt"
 msgid "Right Alt"
-msgstr ""
+msgstr "Правый Alt"
 
 msgctxt "RightApple"
 msgid "Right Apple"
-msgstr ""
+msgstr "Правый Apple"
 
 msgctxt "RightArrow"
 msgid "Right Arrow"
-msgstr ""
+msgstr "Стрелка вправо"
 
 msgctxt "RightBracket"
 msgid "]"
@@ -476,11 +477,11 @@ msgstr "]"
 
 msgctxt "RightCommand"
 msgid "Right Command"
-msgstr ""
+msgstr "Правый Command"
 
 msgctxt "RightControl"
 msgid "Right Control"
-msgstr ""
+msgstr "Правый Ctrl"
 
 msgctxt "RightCurlyBracket"
 msgid "}"
@@ -492,11 +493,11 @@ msgstr ")"
 
 msgctxt "RightShift"
 msgid "Right Shift"
-msgstr ""
+msgstr "Правый Shift"
 
 msgctxt "RightWindows"
 msgid "Right Windows"
-msgstr ""
+msgstr "Правый Windows"
 
 msgctxt "S"
 msgid "S"
@@ -504,7 +505,7 @@ msgstr "S"
 
 msgctxt "ScrollLock"
 msgid "Scroll Lock"
-msgstr ""
+msgstr "Scroll Lock"
 
 msgctxt "Semicolon"
 msgid ";"
@@ -516,11 +517,11 @@ msgstr "/"
 
 msgctxt "Space"
 msgid "Space"
-msgstr ""
+msgstr "Пробел"
 
 msgctxt "SysReq"
 msgid "Sys Req"
-msgstr ""
+msgstr "Sys Req"
 
 msgctxt "T"
 msgid "T"
@@ -528,7 +529,7 @@ msgstr "T"
 
 msgctxt "Tab"
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 msgctxt "Tilde"
 msgid "~"
@@ -544,7 +545,7 @@ msgstr "_"
 
 msgctxt "UpArrow"
 msgid "Up Arrow"
-msgstr ""
+msgstr "Стрелка вверх"
 
 msgctxt "V"
 msgid "V"

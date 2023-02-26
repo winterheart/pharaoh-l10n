@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-20 02:38+0300\n"
+"PO-Revision-Date: 2023-02-24 17:53+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -379,23 +379,20 @@ msgid ""
 msgstr ""
 "Это жилище не может улучшиться, пока район не станет более привлекательным."
 
-#, fuzzy
 msgctxt "#evolve_noeducation"
 msgid ""
 "This house cannot evolve, as it has no basic educational facilities provided "
 "by either a Scribal School or a Library."
 msgstr ""
-"Этот дом не может улучшиться, так как у жителей нет доступа к базовому "
-"образованию, которое дает школа писцов или библиотека."
+"Этот дом не может улучшиться, так как у жителей нет доступа к начальному "
+"образованию, которое даёт школа писцов или библиотека."
 
-#, fuzzy
 msgctxt "#evolve_noentertainment"
 msgid ""
 "This house cannot evolve, as there is no entertainment to be found in the "
 "location."
-msgstr "Этот дом не может улучшиться, так как в этом районе нет развлечений."
+msgstr "Этот дом не может улучшиться, так как в округе нет развлечений."
 
-#, fuzzy
 msgctxt "#evolve_nofood"
 msgid ""
 "This house cannot evolve, as it needs a supply of food from a local Bazaar."
@@ -403,25 +400,22 @@ msgstr ""
 "Этот дом не может улучшиться, так как жителям требуются поставки пищи с "
 "местного базара."
 
-#, fuzzy
 msgctxt "#evolve_nohealth"
 msgid ""
 "This house cannot evolve, as it effectively has no health provision. It does "
 "not have access to a Physician or a Mortuary."
 msgstr ""
 "Этот дом не может улучшиться, так как его отрезали от системы "
-"здравоохранения. У жителей нет доступа к лекарю или бальзамировщику."
+"здравоохранения. У жителей нет доступа к лекарю или моргу."
 
-#, fuzzy
 msgctxt "#evolve_nolibrary"
 msgid ""
 "This house cannot evolve, as its access to education needs to be improved by "
 "access to a Library."
 msgstr ""
-"Этот дом не может улучшиться, так как требуется улучшить доступ жителей к "
-"образованию и продолжить дорогу к библиотеке."
+"Этот дом не может улучшиться, так ка для лучшего качества образования "
+"необходим доступ к библиотеке."
 
-#, fuzzy
 msgctxt "#evolve_nolinen"
 msgid ""
 "This house cannot evolve. It needs supplies of linen provided to it by its "
@@ -430,7 +424,6 @@ msgstr ""
 "Этот дом не может улучшиться, так как более обеспеченным жителям требуются "
 "поставки ткани с местного базара."
 
-#, fuzzy
 msgctxt "#evolve_noluxurygood"
 msgid ""
 "This house cannot evolve. Before a wealthier class of citizen will move in, "
@@ -438,28 +431,26 @@ msgid ""
 "jewelry<sprite name=\"Jewelry\">."
 msgstr ""
 "Этот дом не может улучшиться. Чтобы сюда переехали более обеспеченные "
-"жители, местный базар должен обеспечить дом предметами роскоши, такими как "
-"украшения <sprite name=\"Jewelry\">."
+"жители, местный базар должен обеспечить дом предметами роскоши, например, "
+"украшениями<sprite name=\"Jewelry\">."
 
-#, fuzzy
 msgctxt "#evolve_nomortuary"
 msgid ""
 "This house cannot evolve, as it wants greater health provision. Physician "
 "coverage is good, but there is no local access to a Mortuary."
 msgstr ""
-"Этот дом не может улучшиться, так как его жители недовольны системой "
-"здравоохранения. Сюда заходит лекарь, но нет доступа к бальзамировщику."
+"Этот дом не может улучшиться, так как его жителям необходимо лучшее "
+"здравоохранение. Местный лекарь хорошо справляется с работой, но также "
+"требуется доступ к моргу."
 
-#, fuzzy
 msgctxt "#evolve_nophysican"
 msgid ""
 "This house cannot evolve, as it wants greater health provision. There is "
 "local access to a Mortuary, but access to a Physician is needed."
 msgstr ""
-"Этот дом не может улучшиться, так как его жители недовольны системой "
-"здравоохранения. Здесь есть доступ к бальзамировщику, но требуется и лекарь."
+"Этот дом не может улучшиться, так как его жителям необходимо лучшее "
+"здравоохранение. Здесь есть доступ к моргу, но требуется и лекарь."
 
-#, fuzzy
 msgctxt "#evolve_nopottery"
 msgid ""
 "This house cannot evolve. It needs supplies of pottery provided to it by its "
@@ -468,7 +459,6 @@ msgstr ""
 "Этот дом не может улучшиться, так как более обеспеченным жителям требуются "
 "поставки керамики с местного базара."
 
-#, fuzzy
 msgctxt "#evolve_noreligion"
 msgid ""
 "This house cannot evolve, as it has no access to any local religious "
@@ -477,16 +467,14 @@ msgstr ""
 "Этот дом не может улучшиться, так как у жителей нет доступа к местам для "
 "поклонения богам."
 
-#, fuzzy
 msgctxt "#evolve_noscribalschool"
 msgid ""
 "This house cannot evolve, as its access to education needs to be improved by "
 "access to a Scribal School."
 msgstr ""
-"Этот дом не может улучшиться, так как требуется улучшить доступ жителей к "
-"образованию и продолжить дорогу к школе писцов."
+"Этот дом не может улучшиться, так ка для лучшего качества образования "
+"необходим доступ к школе писцов."
 
-#, fuzzy
 msgctxt "#evolve_nowater"
 msgid ""
 "This house cannot evolve, as it does not have access to even the most "
@@ -495,7 +483,6 @@ msgstr ""
 "Этот дом не может улучшиться, так как у жителей нет доступа даже к самому "
 "примитивному источнику воды."
 
-#, fuzzy
 msgctxt "#evolve_nowatercarrier"
 msgid ""
 "This house cannot evolve, as it does not have access to a water carrier's "
@@ -520,28 +507,25 @@ msgstr ""
 "Условия жизни стали лучше, и жители этого дома прямо сейчас занимаются его "
 "улучшением."
 
-#, fuzzy
 msgctxt "#house_00"
 msgid "Unoccupied"
 msgstr "Нет жителей"
 
-#, fuzzy
 msgctxt "#house_00_desc"
 msgid ""
 "This plot is vacant at the moment. Either the land has not yet been built "
 "upon, or the existing home's previous residents fell ill and died."
 msgstr ""
-"Этот участок в данный момент свободен. Либо на здесь еще ничего не "
-"построили, либо предыдущие жильцы заболели и умерли."
+"Этот участок в данный момент свободен. Либо здесь ещё ничего не построили, "
+"либо предыдущие жильцы умерли от болезни."
 
-#, fuzzy
 msgctxt "#house_00_noroad"
 msgid ""
 "This lot is too far from the nearest road. Unless a new road is soon built "
 "nearby, the site will revert to open land."
 msgstr ""
 "Этот участок находится слишком далеко от дороги. Если в ближайшее время "
-"рядом с ним не появится дорога, участок пропадет."
+"рядом с ним не появится дорога, участок пропадёт."
 
 msgctxt "#house_01"
 msgid "Crude Hut"

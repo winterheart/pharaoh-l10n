@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
-<martif xml:lang="en_US" type="TBX">
+<martif type="TBX" xml:lang="en_US">
     <text>
         <body>
         <termEntry id="azamat_h._hackimov-0">
@@ -1162,8 +1162,9 @@
           </tig>
         </langSet>
         <langSet xml:lang="ru">
-          <tig>
-            <term>драгоценности</term>
+          
+        <tig>
+            <term>украшения</term>
           </tig>
         </langSet>
       </termEntry>
@@ -2232,6 +2233,234 @@
         <langSet xml:lang="ru">
           <tig>
             <term>отряд</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-186">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>constable</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>стражник</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-187">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>pavilion</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>сцена</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-188">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>dance school</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>школа танцев</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-189">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>archaic period</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>раннее царство</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-190">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ancient conquerors</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>древние завоеватели</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-191">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>cleopatra's capital</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>столица клеопатры</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-192">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>old kingdom</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>древнее царство</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-193">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>khasekhemwy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>хасехемуи</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-194">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>mortuary</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>морг</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-195">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>overseer of commerce</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>торговый советник</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-196">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>jeweler</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>ювелирная мастерская</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-197">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>weaponsmith</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>оружейная кузница</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-198">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>lavish festival</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>роскошный праздник</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-199">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>common festival</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>обычный праздник</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-200">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>grand festival</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>великий праздник</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-201">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>north dashur</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>северный дахшур</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-202">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>abjedu</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>абджу</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-203">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>selima</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>селима</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-204">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>rostja</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>ростау</term>
           </tig>
         </langSet>
       </termEntry>

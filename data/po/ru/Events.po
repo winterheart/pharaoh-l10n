@@ -4,54 +4,51 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:55\n"
-"PO-Revision-Date: 2023-02-17 04:58+0300\n"
+"PO-Revision-Date: 2023-02-23 03:30+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 msgctxt "#Battle_Launch_Button"
 msgid "Go to battle"
-msgstr ""
+msgstr "К битве"
 
 msgctxt "#Battle_Launch_Subtitle"
 msgid "It's time to fight"
-msgstr ""
+msgstr "Настало время сражения"
 
 msgctxt "#Battle_Launch_Title"
 msgid "Enemy on our territory"
-msgstr ""
+msgstr "Враг на нашей земле"
 
-#, fuzzy
 msgctxt "#BloodRiver_Content"
 msgid ""
 "Woe unto us! The waters, once the source of life and nourishment, are "
 "poisoned with blood. How long will it be until this vulgar blight is lifted?"
 msgstr ""
 "О, горе нам! Вода, главный источник жизни и пищи, отравлена кровью. Сколько "
-"придется нам терпеть эту порчу?"
+"придётся нам терпеть эту порчу?"
 
-#, fuzzy
 msgctxt "#BloodRiver_Title"
 msgid "River of Blood"
 msgstr "Кровавая река"
 
-#, fuzzy
 msgctxt "#ConstructionProject_City_Announcement"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} the city of {[city_name]} "
 "requests that you send {0} {[resource]} within {1} months for a major "
 "construction project in the city."
 msgstr ""
-"{[greeting]} {[player_name]}, в городе {[city_name]} решили возвести крупное"
-" сооружение {[reason_phrase]}. Просят в течение {1} мес. прислать ресурс "
-"({[resource]}, {0} ед.)."
+"{[greeting]} {[player_name]}, в городе {[city_name]} решили возвести крупное "
+"сооружение {[reason_phrase]}. Они просят в течение {1} месяцев прислать "
+"нужные им материалы ({[resource]}, {0} шт.)."
 
-#, fuzzy
 msgctxt "#ConstructionProject_City_Overdue"
 msgid ""
 "{[greeting]} {[player_name]}, {[city_name]} is considering reporting you to "
@@ -61,17 +58,15 @@ msgid ""
 "about your inaction."
 msgstr ""
 "{[greeting]} {[player_name]}, правители города {[city_name]} подумывают "
-"донести на вас фараону. Они, скорее всего, не смогут завершить "
-"строительство, поскольку вы не успели отправить нужные материалы "
-"({[resource]}, {0} ед.). Быть может, если вы отправите их сейчас, "
-"{[city_name]} закончит стройку и не станет сообщать о вашем бездействии."
+"донести на вас фараону. Поскольку вы не отправили в срок нужные им материалы "
+"({[resource]}, {0} шт.), то они не успеют закончить своё строительство. Быть "
+"может, если вы отправите их сейчас, {[city_name]} закончит стройку и будет "
+"молчать о вашем бездействии."
 
-#, fuzzy
 msgctxt "#ConstructionProject_City_ReasonPhrase_1"
 msgid "to honor the glory of Egypt,"
 msgstr "во славу Египта"
 
-#, fuzzy
 msgctxt "#ConstructionProject_City_ReasonPhrase_2"
 msgid "because there is still much to be done"
 msgstr ", и работа предстоит немалая"
@@ -80,32 +75,31 @@ msgctxt "#ConstructionProject_City_ReasonPhrase_3"
 msgid " "
 msgstr " "
 
-#, fuzzy
 msgctxt "#ConstructionProject_City_Reminder"
 msgid ""
 "{[greeting]} {[player_name]}, {[city_name]} needs {0} {[resource]} if it is "
 "to complete its construction project. Send the supplies within 6 months, or "
 "the city's leaders may become disgruntled."
 msgstr ""
-"{[greeting]} {[player_name]}, для строительства в городе {[city_name]} "
-"требуются материалы: {[resource]}, {0} ед. Отправьте их в течение 6 мес., "
-"иначе правитель города рассердится."
+"{[greeting]} {[player_name]}, для завершения строительства город "
+"{[city_name]} нуждается в следующих материалах: {[resource]}, {0} шт. "
+"Отправьте их в течение шести месяцев, иначе правители города будут "
+"недовольны."
 
-#, fuzzy
 msgctxt "#ConstructionProject_City_Title"
 msgid "Construction Project"
 msgstr "Строительство"
 
-#, fuzzy
 msgctxt "#ConstructionProject_City_Warning"
 msgid ""
 "{[greeting]} {[player_name]}, you have only 6 months left to send {0} "
 "{[resource]} to {[city_name]} for their construction project. If you don't "
 "send the goods, there's no telling what the city might do in retaliation."
 msgstr ""
-"{[greeting]} {[player_name]}, у вас есть лишь 6 мес., чтобы отправить на "
-"строительство в город {[city_name]} нужные материалы ({[resource]}, {0} "
-"ед.). Если не справитесь, от города можно ждать ответных мер."
+"{[greeting]} {[player_name]}, у вас осталось 6 месяцев, чтобы отправить на "
+"строительство в город {[city_name]} нужные им материалы ({[resource]}, {0} "
+"шт.). Если вы этого не сделаете, то никто не знает, каково будет их "
+"возмездие."
 
 #, fuzzy
 msgctxt "#ConstructionProject_Pharaoh_Announcement"
@@ -128,8 +122,8 @@ msgid ""
 "his construction project. If you can still manage to send them anyway, you "
 "might be able to save face."
 msgstr ""
-"{[greeting]} {[player_name]}, фараон вне себя от вашей дерзости. Вы так и не"
-" прислали на строительство в город {[city_name]} нужные материалы "
+"{[greeting]} {[player_name]}, фараон вне себя от вашей дерзости. Вы так и не "
+"прислали на строительство в город {[city_name]} нужные материалы "
 "({[resource]}, {0} ед.). Быть может, вы еще спасете репутацию, если "
 "отправите их сейчас."
 
@@ -150,13 +144,13 @@ msgstr ""
 #, fuzzy
 msgctxt "#ConstructionProject_Pharaoh_Reminder"
 msgid ""
-"{[greeting]} {[player_name]}, Pharaoh is about to fly into a rage. You still"
-" have not sent the {0} {[resource]} to {[city_name]} for his construction "
+"{[greeting]} {[player_name]}, Pharaoh is about to fly into a rage. You still "
+"have not sent the {0} {[resource]} to {[city_name]} for his construction "
 "project. You have 6 months to comply with Pharaoh's request."
 msgstr ""
 "{[greeting]} {[player_name]}, терпение фараона на исходе! Вы все еще не "
-"прислали на стройку в городе {[city_name]} запрошенный ресурс ({[resource]},"
-" {0} ед.). У вас есть 6 мес. на исполнение просьбы."
+"прислали на стройку в городе {[city_name]} запрошенный ресурс ({[resource]}, "
+"{0} ед.). У вас осталось 6 месяцев, чтобы выполнить запрос фараона."
 
 #, fuzzy
 msgctxt "#ConstructionProject_Pharaoh_Title"
@@ -176,31 +170,27 @@ msgstr ""
 "нужные материалы ({[resource]}, {0} ед.). Если подведете фараона, он "
 "непременно разделит позор с вами."
 
-#, fuzzy
 msgctxt "#ContaminatedWater_Content"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} some of your citizens have "
-"taken ill, caused by something in the water. Just hope that the problem does"
-" not escalate."
+"taken ill, caused by something in the water. Just hope that the problem does "
+"not escalate."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} Несколько жителей заболели "
+"{[greeting]} {[player_name]}, {[reason_phrase]}. Несколько жителей заболели "
 "из-за плохой воды. Будем уповать, что болезнь не распространится."
 
-#, fuzzy
 msgctxt "#ContaminatedWater_ReasonPhrase_1"
 msgid "bad luck is stalking the city, and"
-msgstr "несчастья преследуют город!"
+msgstr "несчастья преследуют наш город"
 
-#, fuzzy
 msgctxt "#ContaminatedWater_ReasonPhrase_2"
 msgid "this is indeed unfortunate. It seems"
-msgstr "Произошло неприятное событие."
+msgstr "произошло неприятное событие"
 
 msgctxt "#ContaminatedWater_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr " "
 
-#, fuzzy
 msgctxt "#ContaminatedWater_Title"
 msgid "Contaminated Water"
 msgstr "Загрязнение воды"
@@ -208,35 +198,31 @@ msgstr "Загрязнение воды"
 #, fuzzy
 msgctxt "#Defeat_Content"
 msgid ""
-"O bitter day! Your ignoble end should have been unthinkable. You have failed"
-" your people, your ancestors and your descendants. Now Egypt yearns for "
+"O bitter day! Your ignoble end should have been unthinkable. You have failed "
+"your people, your ancestors and your descendants. Now Egypt yearns for "
 "another champion to take your place..."
 msgstr ""
 "О горестен сей день! Никто и помыслить не мог, что вас постигнет столь "
 "бесславный конец. Мы подвели народ и навлекли позор на предков и потомков. "
 "Египет ждет нового правителя, который займет ваше место..."
 
-#, fuzzy
 msgctxt "#Defeat_Title"
 msgid "Defeat!"
 msgstr "Поражение!"
 
-#, fuzzy
 msgctxt "#DemandDown_Content"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} {[city_name]} has decided "
-"that they must reduce the quantity of {[resource]} which they are willing to"
-" trade with you."
+"that they must reduce the quantity of {[resource]} which they are willing to "
+"trade with you."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} город {[city_name]} решил "
-"сократить количество товара {[resource]}, которое готов у вас покупать."
+"сократить количество товара {[resource]}, которым готов с вами торговать."
 
-#, fuzzy
 msgctxt "#DemandDown_ReasonPhrase_1"
 msgid "because its citizens are cutting back,"
 msgstr "жители начали тратить меньше, поэтому"
 
-#, fuzzy
 msgctxt "#DemandDown_ReasonPhrase_2"
 msgid "times change, and"
 msgstr "времена меняются, и теперь"
@@ -245,26 +231,22 @@ msgctxt "#DemandDown_ReasonPhrase_3"
 msgid " "
 msgstr " "
 
-#, fuzzy
 msgctxt "#DemandDown_Title"
 msgid "Decreased Trading"
 msgstr "Торговля сокращается"
 
-#, fuzzy
 msgctxt "#DemandUp_Content"
 msgid ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} {[city_name]} is now willing"
-" to trade even more {[resource]}."
+"{[greeting]} {[player_name]}, {[reason_phrase]} {[city_name]} is now willing "
+"to trade even more {[resource]}."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} {[city_name]} хочет покупать"
-" еще больше товара {[resource]}."
+"{[greeting]} {[player_name]}, {[reason_phrase]} {[city_name]} хочет ещё "
+"больше торговать товаром {[resource]}."
 
-#, fuzzy
 msgctxt "#DemandUp_ReasonPhrase_1"
 msgid "because it is growing,"
-msgstr "город растет, поэтому"
+msgstr "город растёт, поэтому"
 
-#, fuzzy
 msgctxt "#DemandUp_ReasonPhrase_2"
 msgid "times change, and"
 msgstr "времена меняются, и теперь"
@@ -273,7 +255,6 @@ msgctxt "#DemandUp_ReasonPhrase_3"
 msgid " "
 msgstr " "
 
-#, fuzzy
 msgctxt "#DemandUp_Title"
 msgid "Increased Trading"
 msgstr "Торговля развивается"
@@ -284,8 +265,8 @@ msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} the Egyptian army was "
 "defeated at {[city_name]}."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} в бою у города {[city_name]}"
-" армия Египта потерпела поражение."
+"{[greeting]} {[player_name]}, {[reason_phrase]} в бою у города {[city_name]} "
+"армия Египта потерпела поражение."
 
 #, fuzzy
 msgctxt "#DistantBattleLost_ReasonPhrase_1"
@@ -301,7 +282,6 @@ msgctxt "#DistantBattleLost_ReasonPhrase_3"
 msgid " "
 msgstr " "
 
-#, fuzzy
 msgctxt "#DistantBattleLost_Title"
 msgid "Egyptian Army Defeated"
 msgstr "Египетская армия разбита"
@@ -318,8 +298,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#DistantBattleWon_ReasonPhrase_1"
 msgid ""
-"due to the vigor of well-trained troops at the distant city of "
-"{[city_name]},"
+"due to the vigor of well-trained troops at the distant city of {[city_name]},"
 msgstr "благодаря доблести образцовых солдат в далеком городе {[city_name]}"
 
 #, fuzzy
@@ -331,7 +310,6 @@ msgctxt "#DistantBattleWon_ReasonPhrase_3"
 msgid " "
 msgstr " "
 
-#, fuzzy
 msgctxt "#DistantBattleWon_Title"
 msgid "Victory in Battle"
 msgstr "Победа в бою"
@@ -339,9 +317,9 @@ msgstr "Победа в бою"
 #, fuzzy
 msgctxt "#DistantBattle_City_Announcement"
 msgid ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} the Egyptian army is engaged"
-" in combat at the distant city of {[city_name]}, and requires you to "
-"dispatch reinforcements there. Send troops to their aid within {0} months."
+"{[greeting]} {[player_name]}, {[reason_phrase]} the Egyptian army is engaged "
+"in combat at the distant city of {[city_name]}, and requires you to dispatch "
+"reinforcements there. Send troops to their aid within {0} months."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} египетская армия вступила в "
 "бой у далекого города {[city_name]}. Им требуется подкрепление! Отправьте "
@@ -361,13 +339,12 @@ msgstr ""
 #, fuzzy
 msgctxt "#DistantBattle_City_LastReminder"
 msgid ""
-"{[greeting]} {[player_name]}, the battle for {[city_name]} continues. If you"
-" dispatch troops to their aid very soon, Egypt may yet win a glorious "
-"victory."
+"{[greeting]} {[player_name]}, the battle for {[city_name]} continues. If you "
+"dispatch troops to their aid very soon, Egypt may yet win a glorious victory."
 msgstr ""
 "{[greeting]} {[player_name]}, битва за город {[city_name]} продолжается. "
-"Египет еще может завоевать блистательную победу, если вы в скорейшем времени"
-" отправите подмогу."
+"Египет еще может завоевать блистательную победу, если вы в скорейшем времени "
+"отправите подмогу."
 
 #, fuzzy
 msgctxt "#DistantBattle_City_ReasonPhrase_1"
@@ -383,7 +360,6 @@ msgctxt "#DistantBattle_City_ReasonPhrase_3"
 msgid " "
 msgstr " "
 
-#, fuzzy
 msgctxt "#DistantBattle_City_Title"
 msgid "Distant Battle"
 msgstr "Далекая битва"
@@ -391,10 +367,10 @@ msgstr "Далекая битва"
 #, fuzzy
 msgctxt "#DistantBattle_Pharaoh_Announcement"
 msgid ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} the Egyptian army is engaged"
-" in a fierce battle. Imperious Pharaoh demands that you send troops to the "
-"distant city of {[city_name]} to enter into the fray. Dispatch troops within"
-" {0} months."
+"{[greeting]} {[player_name]}, {[reason_phrase]} the Egyptian army is engaged "
+"in a fierce battle. Imperious Pharaoh demands that you send troops to the "
+"distant city of {[city_name]} to enter into the fray. Dispatch troops within "
+"{0} months."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} египетская армия вступила в "
 "свирепую битву. Великий фараон требует, чтобы вы направили войско на бой в "
@@ -418,8 +394,8 @@ msgid ""
 "{[city_name]}, and noble Pharaoh demands that you send reinforcements very "
 "soon. Do not anger Pharaoh while he is in the mood to fight."
 msgstr ""
-"{[greeting]} {[player_name]}, египетская армия все еще ведет борьбу у города"
-" {[city_name]}. Благороднейший фараон требует как можно скорее отправить "
+"{[greeting]} {[player_name]}, египетская армия все еще ведет борьбу у города "
+"{[city_name]}. Благороднейший фараон требует как можно скорее отправить "
 "войска. Лучше не злить властителя, поскольку он настроен воинственно."
 
 #, fuzzy
@@ -436,7 +412,6 @@ msgctxt "#DistantBattle_Pharaoh_ReasonPhrase_3"
 msgid " "
 msgstr " "
 
-#, fuzzy
 msgctxt "#DistantBattle_Pharaoh_Title"
 msgid "Distant Battle"
 msgstr "Далекая битва"
@@ -465,7 +440,6 @@ msgctxt "#DistantCity_To_EgyptianCity_ReasonPhrase_3"
 msgid " "
 msgstr " "
 
-#, fuzzy
 msgctxt "#DistantCity_To_EgyptianCity_Title"
 msgid "Foreign City Conquered"
 msgstr "Чужеземный город захвачен"
@@ -473,13 +447,13 @@ msgstr "Чужеземный город захвачен"
 #, fuzzy
 msgctxt "#Earthquake_Content"
 msgid ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} the sand has shifted beneath"
-" our feet. Our land will never be the same. Do what you can to repair the "
+"{[greeting]} {[player_name]}, {[reason_phrase]} the sand has shifted beneath "
+"our feet. Our land will never be the same. Do what you can to repair the "
 "damage the earthquake did to your city and to your people."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]}! Земля разверзлась под "
-"нашими ногами. Город никогда не будет прежним. Сделайте все возможное, чтобы"
-" устранить последствия землетрясения."
+"нашими ногами. Город никогда не будет прежним. Сделайте все возможное, чтобы "
+"устранить последствия землетрясения."
 
 #, fuzzy
 msgctxt "#Earthquake_ReasonPhrase_1"
@@ -491,7 +465,6 @@ msgctxt "#Earthquake_ReasonPhrase_2"
 msgid "trouble once more stalks the city, for"
 msgstr "беда опять подкралась к городу"
 
-#, fuzzy
 msgctxt "#Earthquake_Title"
 msgid "Earthquake!"
 msgstr "Землетрясение!"
@@ -504,8 +477,8 @@ msgid ""
 "within {0} months."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} египетский город "
-"{[city_name]} подвергся нападению! Ему нужна ваша помощь. Снарядите войско в"
-" течение {0} мес."
+"{[city_name]} подвергся нападению! Ему нужна ваша помощь. Снарядите войско в "
+"течение {0} мес."
 
 #, fuzzy
 msgctxt "#EgyptianCityAttacked_City_FirstReminder"
@@ -514,8 +487,7 @@ msgid ""
 "within the next six months, or the consequences may be dire."
 msgstr ""
 "{[greeting]} {[player_name]}, вы совсем забыли про город {[city_name]}? "
-"Отправьте войско в течение 6 мес., иначе последствия будут самые "
-"трагические."
+"Отправьте войско в течение 6 мес., иначе последствия будут самые трагические."
 
 #, fuzzy
 msgctxt "#EgyptianCityAttacked_City_LastReminder"
@@ -560,13 +532,13 @@ msgstr ""
 #, fuzzy
 msgctxt "#EgyptianCityAttacked_Pharaoh_FirstReminder"
 msgid ""
-"{[greeting]} {[player_name]}, the divine Pharaoh's armies are still battling"
-" aggressors at {[city_name]}. Dispatch reinforcements within the next six "
+"{[greeting]} {[player_name]}, the divine Pharaoh's armies are still battling "
+"aggressors at {[city_name]}. Dispatch reinforcements within the next six "
 "months, or risk incurring Pharaoh's wrath."
 msgstr ""
 "{[greeting]} {[player_name]}, армии божественного фараона продолжают "
-"отбиваться от захватчиков у города {[city_name]}. Отправьте войско в течение"
-" 6 мес., если не хотите разгневать властителя."
+"отбиваться от захватчиков у города {[city_name]}. Отправьте войско в течение "
+"6 мес., если не хотите разгневать властителя."
 
 #, fuzzy
 msgctxt "#EgyptianCityAttacked_Pharaoh_LastReminder"
@@ -599,8 +571,8 @@ msgstr "Египетский город атакован"
 #, fuzzy
 msgctxt "#EgyptianCitySaved_Content"
 msgid ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} {[city_name]} has been saved"
-" from our enemies."
+"{[greeting]} {[player_name]}, {[reason_phrase]} {[city_name]} has been saved "
+"from our enemies."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} город {[city_name]} удалось "
 "защитить от нашествия врагов."
@@ -619,10 +591,9 @@ msgctxt "#EgyptianCitySaved_ReasonPhrase_3"
 msgid " "
 msgstr ""
 
-#, fuzzy
 msgctxt "#EgyptianCitySaved_Title"
 msgid "Egyptian City Saved"
-msgstr "Египетский город спасен"
+msgstr "Египетский город спасён"
 
 #, fuzzy
 msgctxt "#EgyptianCity_To_DistantCity_Content"
@@ -630,8 +601,8 @@ msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} the mighty city of "
 "{[city_name]} has fallen to our enemies."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]}! Великий город {[city_name]}"
-" перешел к нашим врагам."
+"{[greeting]} {[player_name]}, {[reason_phrase]}! Великий город {[city_name]} "
+"перешел к нашим врагам."
 
 #, fuzzy
 msgctxt "#EgyptianCity_To_DistantCity_ReasonPhrase_1"
@@ -647,7 +618,6 @@ msgctxt "#EgyptianCity_To_DistantCity_ReasonPhrase_3"
 msgid " "
 msgstr ""
 
-#, fuzzy
 msgctxt "#EgyptianCity_To_DistantCity_Title"
 msgid "Egyptian City Falls"
 msgstr "Египетский город пал"
@@ -660,8 +630,8 @@ msgstr ""
 msgctxt "#FamineRelief_City_Announcement"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} famine has struck "
-"{[city_name]}, and its people are starving. Send {0} {[resource]} within {1}"
-" months. Lives are at stake!"
+"{[city_name]}, and its people are starving. Send {0} {[resource]} within {1} "
+"months. Lives are at stake!"
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} в городе {[city_name]} "
 "разразился голод. Отправьте в течение {1} мес. припасы ({[resource]}, {0} "
@@ -672,9 +642,8 @@ msgctxt "#FamineRelief_City_Overdue"
 msgid ""
 "{[greeting]} {[player_name]}, the pitiful cries of starvation have "
 "apparently fallen on deaf ears. You did not sent the {0} {[resource]} to "
-"{[city_name]} in time. Better late than never...if you send the food anyway,"
-" you may yet provide some relief, if there is anyone left to benefit from "
-"it."
+"{[city_name]} in time. Better late than never...if you send the food anyway, "
+"you may yet provide some relief, if there is anyone left to benefit from it."
 msgstr ""
 "{[greeting]} {[player_name]}, стенания голодных земляков остались "
 "неуслышанными. Вы не успели в срок отправить в город {[city_name]} припасы "
@@ -703,11 +672,10 @@ msgid ""
 "within 6 months, or wails of hunger will be replaced with laments for the "
 "dead."
 msgstr ""
-"{[greeting]} {[player_name]}, жители города {[city_name]} стенают от голода,"
-" а вы все еще не прислали им припасы ({[resource]}, {0} ед.). Отправьте их в"
-" течение 6 мес., иначе голодные стенания превратятся в плач по усопшим."
+"{[greeting]} {[player_name]}, жители города {[city_name]} стенают от голода, "
+"а вы все еще не прислали им припасы ({[resource]}, {0} ед.). Отправьте их в "
+"течение 6 мес., иначе голодные стенания превратятся в плач по усопшим."
 
-#, fuzzy
 msgctxt "#FamineRelief_City_Title"
 msgid "Famine"
 msgstr "Голод"
@@ -716,8 +684,8 @@ msgstr "Голод"
 msgctxt "#FamineRelief_City_Warning"
 msgid ""
 "{[greeting]} {[player_name]}, the people of {[city_name]} wonder if your "
-"heart is cruel. You have only 6 months left to send {0} {[resource]} to ease"
-" their suffering. Deny them, and their deaths will be on your head."
+"heart is cruel. You have only 6 months left to send {0} {[resource]} to ease "
+"their suffering. Deny them, and their deaths will be on your head."
 msgstr ""
 "{[greeting]} {[player_name]}, жители города {[city_name]} не понимают, "
 "отчего вы так жестоки! У вас всего 6 мес., чтобы спасти их и отправить "
@@ -767,14 +735,13 @@ msgctxt "#FamineRelief_Pharaoh_Reminder"
 msgid ""
 "{[greeting]} {[player_name]}, Pharaoh questions whether or not you have a "
 "heart. You still have not sent the {0} {[resource]} to {[city_name]}, and "
-"its people are in need. You only have 6 months left to comply with Pharaoh's"
-" request."
+"its people are in need. You only have 6 months left to comply with Pharaoh's "
+"request."
 msgstr ""
 "{[greeting]} {[player_name]}, фараон удивлен вашей бессердечности. Вы все "
-"еще не прислали страждущим в городе {[city_name]} припасы ({[resource]}, {0}"
-" ед.). У вас осталось 6 мес. на исполнение просьбы."
+"еще не прислали страждущим в городе {[city_name]} припасы ({[resource]}, {0} "
+"ед.). У вас осталось 6 месяцев, чтобы выполнить запрос фараона."
 
-#, fuzzy
 msgctxt "#FamineRelief_Pharaoh_Title"
 msgid "Famine"
 msgstr "Голод"
@@ -794,8 +761,8 @@ msgstr ""
 msgctxt "#FloodFails_Content"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} priests bring bad "
-"news...they fear the next Inundation will almost certainly fail! Consult the"
-" Nilometer regularly. If the priests' prediction does not improve, the city "
+"news...they fear the next Inundation will almost certainly fail! Consult the "
+"Nilometer regularly. If the priests' prediction does not improve, the city "
 "had better be prepared for the worst."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} жрецы видят недобрые "
@@ -817,78 +784,71 @@ msgctxt "#FloodFails_ReasonPhrase_3"
 msgid " "
 msgstr ""
 
-#, fuzzy
 msgctxt "#FloodFails_Title"
 msgid "Flood Likely to Fail"
-msgstr "Ожидается плохой разлив"
+msgstr "Разлива не будет"
 
-#, fuzzy
 msgctxt "#Flood_Prediction_Title"
 msgid "Nilometer prediction"
-msgstr "Прогноз нилометра"
+msgstr "Прогноз Нилометра"
 
-#, fuzzy
 msgctxt "#Flood_Quality_Excellent"
 msgid ""
 "Farmers are overjoyed by predictions for an excellent Inundation in the "
 "coming year!"
-msgstr "Земледельцы несказанно рады прогнозам: обещают превосходный разлив!"
+msgstr ""
+"Земледельцы несказанно рады прогнозам, обещающим превосходный разлив в этом "
+"году!"
 
-#, fuzzy
 msgctxt "#Flood_Quality_Good"
 msgid "All portents point to a good Inundation in the coming year."
-msgstr "Приметы указывают на то, что нас ждет славный разлив."
+msgstr "Все приметы указывают на то, что в этом году нас ждёт хороший разлив."
 
-#, fuzzy
 msgctxt "#Flood_Quality_Mediocre"
 msgid ""
-"Our seers warn that the coming year's Inundation is likely to be mediocre at"
-" best."
+"Our seers warn that the coming year's Inundation is likely to be mediocre at "
+"best."
 msgstr ""
-"Предсказатели предупредили, что следующий разлив будет в лучшем случае "
-"невелико."
+"Наши мудрецы предупреждают, что разлив в этом году будет, скорее всего, "
+"посредственным."
 
-#, fuzzy
 msgctxt "#Flood_Quality_Mediocre_Osiris"
 msgid ""
 "We expect the next Inundation to be mediocre, at best. Perhaps Osiris will "
 "bestow his benevolence upon is, if we make sure to appease him."
 msgstr ""
-"Ожидается, что следующий разлив будет невелик. Быть может, Осирис проявит "
-"благосклонность, если его умилостивить."
+"Мы ожидаем, что следующий разлив будет в лучшем случае посредственным. Быть "
+"может, Осирис проявит благосклонность, если его умилостивить."
 
-#, fuzzy
 msgctxt "#Flood_Quality_None"
 msgid ""
-"Terrible news! All the omens suggest that there will be no Inundation at all"
-" this year!"
+"Terrible news! All the omens suggest that there will be no Inundation at all "
+"this year!"
 msgstr ""
-"Ужасная весть! Знамения указывают на то, что в этом году нам не стоит ждать "
-"разлива."
+"Ужасная весть! Знамения указывают на то, что в этом году разлива не будет "
+"вообще!"
 
-#, fuzzy
 msgctxt "#Flood_Quality_Perfect"
 msgid ""
 "Priests predict that the city will be blessed with a perfect Inundation in "
 "the coming year!"
-msgstr "Жрецы объявили, что город ждет прекрасный разлив!"
+msgstr ""
+"Жрецы объявили, что в этом году город будет благословлён великолепным "
+"разливом!"
 
-#, fuzzy
 msgctxt "#Flood_Quality_Poor"
 msgid "Priests expect a poor Inundation in the coming year."
-msgstr "Жрецы предсказывают слабый разлив."
+msgstr "Жрецы ожидают в этом году слабый разлив."
 
-#, fuzzy
 msgctxt "#Flood_Quality_Poor_Osiris"
 msgid ""
 "Priests predict a poor Inundation for the coming year. Your people beseech "
 "you to make sure Osiris is appeased, and pray for better floods in coming "
 "years."
 msgstr ""
-"Жрецы предсказывают скудный разлив. Народ умоляет вас умилостивить Осириса и"
-" уповать на хорошие разливы в будущем."
+"Жрецы предсказывают в этом году слабый разлив. Люди умоляют вас умилостивить "
+"Осириса и молятся о лучшем разлив в будущем."
 
-#, fuzzy
 msgctxt "#FloodedClayPit_Content"
 msgid ""
 "One of our Clay Pits suffered a terrible flood. We had to destroy the Clay "
@@ -897,73 +857,64 @@ msgstr ""
 "Страшный потоп обрушился на один из наших глиняных карьеров! Пришлось "
 "уничтожить его, чтобы спасти остальные."
 
-#, fuzzy
 msgctxt "#FloodedClayPit_Title"
 msgid "Flooded Clay Pit"
 msgstr "Глиняный карьер затопило"
 
-#, fuzzy
 msgctxt "#GeneralRequest_City_Announcement"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} the city of {[city_name]} "
-"requests that you send {0} {[resource]} in {1} months. Helping {[city_name]}"
-" could bring us benefits later."
+"requests that you send {0} {[resource]} in {1} months. Helping {[city_name]} "
+"could bring us benefits later."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} город {[city_name]} просит в"
-" течение {1} мес. прислать следующий ресурс ({[resource]}, {0} ед.). "
+"{[greeting]} {[player_name]}, {[reason_phrase]} город {[city_name]} просит в "
+"течение {1} месяцев прислать следующий ресурс ({[resource]}, {0} шт.). "
 "Помогите городу {[city_name]}, и в будущем он поможет нам."
 
-#, fuzzy
 msgctxt "#GeneralRequest_City_Overdue"
 msgid ""
 "{[greeting]} {[player_name]}, your time has run out, and you still have not "
-"sent the {0} {[resource]} to {[city_name]} as they requested. Even a belated"
-" attempt at fulfilling this request may satisfy {[city_name]} somewhat."
+"sent the {0} {[resource]} to {[city_name]} as they requested. Even a belated "
+"attempt at fulfilling this request may satisfy {[city_name]} somewhat."
 msgstr ""
-"{[greeting]} {[player_name]}, срок кончился, а вы так и не отправили в город"
-" {[city_name]} запрошенный ресурс ({[resource]}, {0} ед.). Впрочем, все же "
+"{[greeting]} {[player_name]}, время вышло, а вы так и не отправили в город "
+"{[city_name]} запрошенный ресурс ({[resource]}, {0} шт.). Впрочем, всё же "
 "попробуйте выполнить просьбу, это может удовлетворить город {[city_name]}."
 
-#, fuzzy
 msgctxt "#GeneralRequest_City_ReasonPhrase_1"
 msgid "to satisfy citizens' needs,"
 msgstr "чтобы удовлетворить потребности жителей,"
 
-#, fuzzy
 msgctxt "#GeneralRequest_City_ReasonPhrase_2"
 msgid "there seems to be no end to this, for"
-msgstr "конца запросам не видать, поэтому"
+msgstr "нет конца этому,"
 
 msgctxt "#GeneralRequest_City_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr " "
 
-#, fuzzy
 msgctxt "#GeneralRequest_City_Reminder"
 msgid ""
 "{[greeting]} {[player_name]}, {[city_name]} anxiously awaits the arrival of "
 "{0} {[resource]}. You have 6 months left to comply."
 msgstr ""
 "{[greeting]} {[player_name]}, {[city_name]} с нетерпением ожидает "
-"запрошенного ресурса ({[resource]}, {0} ед.). У вас есть 6 мес., чтобы "
-"выполнить просьбу."
+"запрошенного ресурса ({[resource]}, {0} шт.). У вас осталось 6 месяцев, "
+"чтобы выполнить просьбу."
 
-#, fuzzy
 msgctxt "#GeneralRequest_City_Title"
 msgid "A City Requests Goods"
 msgstr "Другой город запрашивает товары"
 
-#, fuzzy
 msgctxt "#GeneralRequest_City_Warning"
 msgid ""
-"{[greeting]} {[player_name]}, send {[city_name]} {0} {[resource]} within six"
-" months, or risk making enemies out of neighbors."
+"{[greeting]} {[player_name]}, send {[city_name]} {0} {[resource]} within six "
+"months, or risk making enemies out of neighbors."
 msgstr ""
 "{[greeting]} {[player_name]}, отправьте в город {[city_name]} запрошенный "
-"ресурс ({[resource]}, {0} ед.). Сделайте это за 6 мес., иначе наживете "
-"врагов по соседству."
+"ресурс ({[resource]}, {0} шт.). Сделайте это за 6 месяцев, иначе наживёте "
+"себе врагов по соседству."
 
-#, fuzzy
 msgctxt "#GeneralRequest_Pharaoh_Announcement"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} matchless Pharaoh wants you "
@@ -971,36 +922,33 @@ msgid ""
 "the request could earn Pharaoh's esteem."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} несравненный фараон требует "
-"в течение {1} мес. прислать в город {[city_name]} следующий ресурс "
-"({[resource]}, {0} ед.). Выполните его просьбу, и он этого не забудет."
+"в течение {1} месяцев прислать в город {[city_name]} следующий ресурс "
+"({[resource]}, {0} шт.). Выполните его просьбу, и он будет к вам "
+"благосклонен."
 
-#, fuzzy
 msgctxt "#GeneralRequest_Pharaoh_Overdue"
 msgid ""
 "{[greeting]} {[player_name]}, do you want to provoke Pharaoh? You did not "
 "send {0} {[resource]} to {[city_name]} in time. Even a belated attempt at "
 "fulfilling this request may appease Pharaoh somewhat."
 msgstr ""
-"{[greeting]} {[player_name]}, вы пытаетесь разгневать фараона? Вы не успели "
-"вовремя отправить в город {[city_name]} запрошенный ресурс ({[resource]}, "
-"{0} ед.). Впрочем, если все же попробуйте выполнить просьбу, это может "
-"смягчить фараона."
+"{[greeting]} {[player_name]}, вы хотите разгневать фараона? Вы не отправили "
+"вовремя в город {[city_name]} запрошенный ресурс ({[resource]}, {0} шт.). "
+"Даже запоздалая попытка выполнить этот запрос может немного успокоить "
+"фараона."
 
-#, fuzzy
 msgctxt "#GeneralRequest_Pharaoh_ReasonPhrase_1"
 msgid "to supplement his estate's stocks,"
 msgstr "чтобы пополнить запасы в своих владениях,"
 
-#, fuzzy
 msgctxt "#GeneralRequest_Pharaoh_ReasonPhrase_2"
 msgid "there seems to be no end to Pharaoh's greed, for"
-msgstr "его алчность не знает конца, поэтому"
+msgstr "алчность фараона не знает границ, поэтому"
 
 msgctxt "#GeneralRequest_Pharaoh_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr " "
 
-#, fuzzy
 msgctxt "#GeneralRequest_Pharaoh_Reminder"
 msgid ""
 "{[greeting]} {[player_name]}, Pharaoh wonders why {[city_name]} has not "
@@ -1008,24 +956,22 @@ msgid ""
 "request."
 msgstr ""
 "{[greeting]} {[player_name]}, фараон недоумевает, почему в город "
-"{[city_name]} еще не поступил запрошенный ресурс ({[resource]}, {0} ед.). У "
-"вас есть 6 мес., чтобы выполнить просьбу фараона."
+"{[city_name]} ещё не поступил запрошенный ресурс ({[resource]}, {0} ед.)? У "
+"вас осталось 6 месяцев, чтобы выполнить запрос фараона."
 
-#, fuzzy
 msgctxt "#GeneralRequest_Pharaoh_Title"
 msgid "Pharaoh Requests Goods"
 msgstr "Фараон запрашивает товары"
 
-#, fuzzy
 msgctxt "#GeneralRequest_Pharaoh_Warning"
 msgid ""
 "{[greeting]} {[player_name]}, you have only six months left to fulfill "
 "Pharaoh's request that you send {0} {[resource]} to {[city_name]}. Deny him "
 "at your peril."
 msgstr ""
-"{[greeting]} {[player_name]}, у вас лишь 6 мес. на то, чтобы отправить в "
-"город {[city_name]} запрошенный ресурс ({[resource]}, {0} ед.). Выполните "
-"просьбу фараона, иначе кары не избежать."
+"{[greeting]} {[player_name]}, у вас лишь 6 месяцев на то, чтобы отправить в "
+"город {[city_name]} запрошенный ресурс ({[resource]}, {0} шт.). Выполните "
+"запрос фараона, иначе кары не избежать."
 
 #, fuzzy
 msgctxt "#Gift_City_Accepted"
@@ -1036,19 +982,17 @@ msgstr ""
 "Наши склады и амбары приняли столько даров ({[resource]}) от города "
 "{[city_name]}, сколько смогли."
 
-#, fuzzy
 msgctxt "#Gift_City_CashAccepted"
 msgid "Thanks to {[city_name]}, {0} debens have been added to your treasury."
-msgstr "Милостью города {[city_name]} ваша казна пополнилась дебенами ({0})."
+msgstr "Милостью города {[city_name]} ваша казна пополнилась {0} дебенами."
 
-#, fuzzy
 msgctxt "#Gift_City_CashGranted"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} the city of {[city_name]} "
 "wishes to grant you a gift of {0} debens."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} город {[city_name]} решил "
-"преподнести вам в дар дебены ({0})."
+"преподнести вам в дар {0} дебенов."
 
 #, fuzzy
 msgctxt "#Gift_City_Forfeited"
@@ -1087,9 +1031,9 @@ msgctxt "#Gift_City_LastChance"
 msgid ""
 "{[greeting]} {[player_name]}, the city of {[city_name]} has been trying to "
 "grant you a gift of {0} {[resource]}, but you still do not have sufficient "
-"space in your Storage Yards and Granaries to accommodate all of it. You have"
-" kept its emissaries waiting too long, and they have grown impatient. Accept"
-" this partial gift now, for they will not return again."
+"space in your Storage Yards and Granaries to accommodate all of it. You have "
+"kept its emissaries waiting too long, and they have grown impatient. Accept "
+"this partial gift now, for they will not return again."
 msgstr ""
 "{[greeting]} {[player_name]}, город {[city_name]} хочет преподнести вам дар "
 "({[resource]}, {0} ед.). Однако на складах и в амбарах все еще недостаточно "
@@ -1101,8 +1045,8 @@ msgctxt "#Gift_City_PartialSpace"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} the city of {[city_name]} "
 "wishes to grant you a gift of {0} {[resource]}. You do not currently have "
-"enough space in your Storage Yards or Granaries to accommodate the gift, but"
-" you can squeeze in at least half of it."
+"enough space in your Storage Yards or Granaries to accommodate the gift, but "
+"you can squeeze in at least half of it."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} город {[city_name]} решил "
 "преподнести вам дар ({[resource]}, {0} ед.). На складах и в амбарах города "
@@ -1111,8 +1055,8 @@ msgstr ""
 #, fuzzy
 msgctxt "#Gift_City_Postponed"
 msgid ""
-"Emissaries from {[city_name]} will return in one month with your delivery of"
-" {[resource]}."
+"Emissaries from {[city_name]} will return in one month with your delivery of "
+"{[resource]}."
 msgstr ""
 "Послы из города {[city_name]} вернутся с даром ({[resource]}) через месяц."
 
@@ -1136,8 +1080,8 @@ msgid ""
 "Though you have refused this gift of {[resource]} from {[city_name]}, I'm "
 "sure someone else could use our help."
 msgstr ""
-"Пусть вы отказались принять дар ({[resource]}) от города {[city_name]}, "
-"кому-нибудь пригодится наша помощь."
+"Пусть вы отказались принять дар ({[resource]}) от города {[city_name]}, кому-"
+"нибудь пригодится наша помощь."
 
 #, fuzzy
 msgctxt "#Gift_City_Title"
@@ -1155,8 +1099,8 @@ msgid ""
 "filled with as many of the {[resource]} from {[city_name]} as they can "
 "accommodate."
 msgstr ""
-"По велению фараона наши склады и амбары приняли столько даров ({[resource]})"
-" от города {[city_name]}, сколько смогли."
+"По велению фараона наши склады и амбары приняли столько даров ({[resource]}) "
+"от города {[city_name]}, сколько смогли."
 
 #, fuzzy
 msgctxt "#Gift_Pharaoh_CashAccepted"
@@ -1166,8 +1110,8 @@ msgstr "По велению фараона ваша казна пополнил�
 #, fuzzy
 msgctxt "#Gift_Pharaoh_CashGranted"
 msgid ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} the Pharaoh has decreed that"
-" you receive a gift of {0} debens from {[city_name]}."
+"{[greeting]} {[player_name]}, {[reason_phrase]} the Pharaoh has decreed that "
+"you receive a gift of {0} debens from {[city_name]}."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} фараон приказал городу "
 "{[city_name]} отправить вам в подарок дебены ({0})."
@@ -1186,8 +1130,8 @@ msgstr ""
 #, fuzzy
 msgctxt "#Gift_Pharaoh_Granted"
 msgid ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} the Pharaoh has decreed that"
-" you receive a gift of {0} {[resource]} from {[city_name]}."
+"{[greeting]} {[player_name]}, {[reason_phrase]} the Pharaoh has decreed that "
+"you receive a gift of {0} {[resource]} from {[city_name]}."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} фараон приказал городу "
 "{[city_name]} отправить вам подарок ({[resource]}, {0} ед.)."
@@ -1195,14 +1139,14 @@ msgstr ""
 #, fuzzy
 msgctxt "#Gift_Pharaoh_InsufficientSpace"
 msgid ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} Pharaoh has decreed that you"
-" receive a gift of {0} {[resource]} from {[city_name]}, but there isn't "
-"enough space in your Storage Yards and Granaries. Make some room and it will"
-" be delivered again next month."
+"{[greeting]} {[player_name]}, {[reason_phrase]} Pharaoh has decreed that you "
+"receive a gift of {0} {[resource]} from {[city_name]}, but there isn't "
+"enough space in your Storage Yards and Granaries. Make some room and it will "
+"be delivered again next month."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} фараон приказал городу "
-"{[city_name]} отправить вам подарок ({[resource]}, {0} ед.). Однако склады и"
-" амбары заполнены. Освободите место, и подарок доставят в следующем месяце."
+"{[city_name]} отправить вам подарок ({[resource]}, {0} ед.). Однако склады и "
+"амбары заполнены. Освободите место, и подарок доставят в следующем месяце."
 
 #, fuzzy
 msgctxt "#Gift_Pharaoh_LastChance"
@@ -1210,8 +1154,8 @@ msgid ""
 "{[greeting]} {[player_name]}, per order of Pharaoh, the city of "
 "{[city_name]} has been trying to grant you a gift of {0} {[resource]}, but "
 "you still do not have sufficient space in your Storage Yards and Granaries "
-"to accommodate all of it. You have kept its emissaries waiting too long, and"
-" they have grown impatient. Accept this partial gift now, for they will not "
+"to accommodate all of it. You have kept its emissaries waiting too long, and "
+"they have grown impatient. Accept this partial gift now, for they will not "
 "return again."
 msgstr ""
 "{[greeting]} {[player_name]}, по приказу фараона город {[city_name]} "
@@ -1223,21 +1167,21 @@ msgstr ""
 #, fuzzy
 msgctxt "#Gift_Pharaoh_PartialSpace"
 msgid ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} the Pharaoh has decreed that"
-" you receive a gift of {0} {[resource]} from {[city_name]}. You do not "
+"{[greeting]} {[player_name]}, {[reason_phrase]} the Pharaoh has decreed that "
+"you receive a gift of {0} {[resource]} from {[city_name]}. You do not "
 "currently have enough space in your Storage Yards or Granaries to "
 "accommodate the gift, but you can squeeze in at least half of it."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} фараон приказал городу "
 "{[city_name]} отправить вам подарок ({[resource]}, {0} ед.). На складах и в "
-"амбарах города недостаточно места, поэтому вы можете принять только половину"
-" подарка."
+"амбарах города недостаточно места, поэтому вы можете принять только половину "
+"подарка."
 
 #, fuzzy
 msgctxt "#Gift_Pharaoh_Postponed"
 msgid ""
-"Emissaries from {[city_name]} will return in one month with your delivery of"
-" {[resource]}."
+"Emissaries from {[city_name]} will return in one month with your delivery of "
+"{[resource]}."
 msgstr ""
 "Послы из города {[city_name]} вернутся с даром ({[resource]}) через месяц."
 
@@ -1261,8 +1205,8 @@ msgid ""
 "Though you have refused this gift of {[resource]} from {[city_name]}, I'm "
 "sure someone else could use our help."
 msgstr ""
-"Пусть вы отказались принять дар ({[resource]}) от города {[city_name]}, "
-"кому-нибудь пригодится наша помощь."
+"Пусть вы отказались принять дар ({[resource]}) от города {[city_name]}, кому-"
+"нибудь пригодится наша помощь."
 
 #, fuzzy
 msgctxt "#Gift_Pharaoh_Title"
@@ -1303,8 +1247,8 @@ msgstr "Обрушение на золотом руднике"
 msgctxt "#GreatFestival_City_Announcement"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} the city of {[city_name]} "
-"requests that you send {0} {[resource]} for a Great Festival to {[god]}. The"
-" city requires these goods within {1} months."
+"requests that you send {0} {[resource]} for a Great Festival to {[god]}. The "
+"city requires these goods within {1} months."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} город {[city_name]} просит "
 "прислать на великий праздник в честь божества {[god]} ресурс ({[resource]}, "
@@ -1340,8 +1284,8 @@ msgstr ""
 #, fuzzy
 msgctxt "#GreatFestival_City_Reminder"
 msgid ""
-"{[greeting]} {[player_name]}, the Great Festival to {[god]} in {[city_name]}"
-" fast approaches, and you have not sent the {0} {[resource]}. You have 6 "
+"{[greeting]} {[player_name]}, the Great Festival to {[god]} in {[city_name]} "
+"fast approaches, and you have not sent the {0} {[resource]}. You have 6 "
 "months left to send goods."
 msgstr ""
 "{[greeting]} {[player_name]}, великий праздник в честь божества {[god]} "
@@ -1356,13 +1300,13 @@ msgstr "Великий праздник в честь божества: {[god]}"
 #, fuzzy
 msgctxt "#GreatFestival_City_Warning"
 msgid ""
-"{[greeting]} {[player_name]}, {[city_name]} is frustrated with you. Send {0}"
-" {[resource]} in the next 6 months if you are to have any hope of "
-"maintaining good relations."
+"{[greeting]} {[player_name]}, {[city_name]} is frustrated with you. Send {0} "
+"{[resource]} in the next 6 months if you are to have any hope of maintaining "
+"good relations."
 msgstr ""
 "{[greeting]} {[player_name]}, в городе {[city_name]} недовольны вашими "
-"действиями! Отправьте в течение 6 мес. запрошенный ресурс ({[resource]}, {0}"
-" ед.). В противном случае хороших отношений с городом не видать."
+"действиями! Отправьте в течение 6 мес. запрошенный ресурс ({[resource]}, {0} "
+"ед.). В противном случае хороших отношений с городом не видать."
 
 #, fuzzy
 msgctxt "#GreatFestival_Pharaoh_Announcement"
@@ -1384,10 +1328,10 @@ msgid ""
 "{[resource]} to {[city_name]} anyway, and the incensed Pharaoh may yet find "
 "a measure of forgiveness."
 msgstr ""
-"{[greeting]} {[player_name]}, срок истек, и фараон приказал устроить великий"
-" праздник в честь божества {[god]} без вашей помощи. Все же отправьте в "
-"город {[city_name]} запрошенный ресурс ({[resource]}, {0} ед.). Быть может, "
-"фараон сменит гнев на милость."
+"{[greeting]} {[player_name]}, срок истек, и фараон приказал устроить великий "
+"праздник в честь божества {[god]} без вашей помощи. Все же отправьте в город "
+"{[city_name]} запрошенный ресурс ({[resource]}, {0} ед.). Быть может, фараон "
+"сменит гнев на милость."
 
 #, fuzzy
 msgctxt "#GreatFestival_Pharaoh_ReasonPhrase_1"
@@ -1432,62 +1376,50 @@ msgstr ""
 "ресурс ({[resource]}, {0} ед.). Горе тому, на кого обрушится яростный гнев "
 "фараона!"
 
-#, fuzzy
 msgctxt "#Greetings_1"
 msgid "O Village Elder"
-msgstr "О старейшина"
+msgstr "О деревенский старейшина"
 
-#, fuzzy
 msgctxt "#Greetings_10"
 msgid "O Vizier"
 msgstr "О визирь"
 
-#, fuzzy
 msgctxt "#Greetings_11"
 msgid "O Great Pharaoh"
 msgstr "О великий фараон"
 
-#, fuzzy
 msgctxt "#Greetings_12"
 msgid "Greetings"
 msgstr "Приветствую"
 
-#, fuzzy
 msgctxt "#Greetings_2"
 msgid "O Village Noble"
-msgstr "О вельможа"
+msgstr "О деревенский вельможа"
 
-#, fuzzy
 msgctxt "#Greetings_3"
 msgid "O Royal Scholar"
-msgstr "О государственный ученый"
+msgstr "О царский учёный"
 
-#, fuzzy
 msgctxt "#Greetings_4"
 msgid "O Royal Scribe"
-msgstr "О государственный писец"
+msgstr "О царский писец"
 
-#, fuzzy
 msgctxt "#Greetings_5"
 msgid "O Royal Judge"
-msgstr "О государственный судья"
+msgstr "О царский судья"
 
-#, fuzzy
 msgctxt "#Greetings_6"
 msgid "O Royal Mayor"
-msgstr "О государственный градоначальник"
+msgstr "О царский градоначальник"
 
-#, fuzzy
 msgctxt "#Greetings_7"
 msgid "O Royal Governor"
-msgstr "О государственный наместник"
+msgstr "О царский наместник"
 
-#, fuzzy
 msgctxt "#Greetings_8"
 msgid "O Nomarch"
 msgstr "О номарх"
 
-#, fuzzy
 msgctxt "#Greetings_9"
 msgid "O Chancellor"
 msgstr "О казначей"
@@ -1495,8 +1427,8 @@ msgstr "О казначей"
 #, fuzzy
 msgctxt "#Hailstorm_Content"
 msgid ""
-"Death and destruction is on the wind! A savage hailstorm has come to deliver"
-" a deadly rain of ice. May the gods have mercy on anyone not sheltered from "
+"Death and destruction is on the wind! A savage hailstorm has come to deliver "
+"a deadly rain of ice. May the gods have mercy on anyone not sheltered from "
 "this evil curse, for they have little hope of surviving!"
 msgstr ""
 "Ветер несет гибель и разорение! Разразилась чудовищная буря, обрушившая на "
@@ -1578,8 +1510,8 @@ msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} {[a_foreign_army]} is "
 "approaching and will reach your city in {0} months."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} {[a_foreign_army]} вторглись"
-" в наши земли и достигнут города в течение {0} мес."
+"{[greeting]} {[player_name]}, {[reason_phrase]} {[a_foreign_army]} вторглись "
+"в наши земли и достигнут города в течение {0} мес."
 
 #, fuzzy
 msgctxt "#Invasion_ForeignArmy_FirstAlert"
@@ -1734,11 +1666,11 @@ msgstr "Рейтинг государства падает"
 
 msgctxt "#KingdomRatingUp_Content"
 msgid ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} you have become more popular"
-" among your fellow Egyptians, and your Kingdom rating has risen."
+"{[greeting]} {[player_name]}, {[reason_phrase]} you have become more popular "
+"among your fellow Egyptians, and your Kingdom rating has risen."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} вы завоевали уважение среди "
-"египтян, а потому репутация вашего Царства растёт."
+"египтян, а потому ваша репутация в Царстве растёт."
 
 #, fuzzy
 msgctxt "#KingdomRatingUp_ReasonPhrase_1"
@@ -1768,8 +1700,8 @@ msgid ""
 "the winds abate, no merchants will be able to get through."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} дюны засыпали дороги, в "
-"некоторых местах полностью перекрыв движение. Торговцы не хотят отправляться"
-" в путь в таких условиях. Пока ветра не утихнут, торговые пути останутся "
+"некоторых местах полностью перекрыв движение. Торговцы не хотят отправляться "
+"в путь в таких условиях. Пока ветра не утихнут, торговые пути останутся "
 "закрыты."
 
 #, fuzzy
@@ -1786,7 +1718,6 @@ msgctxt "#LandTradeProblem_ReasonPhrase_3"
 msgid " "
 msgstr ""
 
-#, fuzzy
 msgctxt "#LandTradeProblem_Title"
 msgid "Sandstorms"
 msgstr "Песчаная буря"
@@ -1801,7 +1732,6 @@ msgstr ""
 "Люди рассказывают о безумном рое прожорливой саранчи, опустошающем поля по "
 "всему Египту. Берегитесь нашествия в следующем урожайном сезоне!"
 
-#, fuzzy
 msgctxt "#LocustPlague_Title"
 msgid "Plague of Locusts"
 msgstr "Нашествие саранчи"
@@ -1816,7 +1746,6 @@ msgstr ""
 "Поступил новый приказ! Вам удалось вернуть уважение Египта, а потому "
 "неминуемая кара вас миновала. Я прощаюсь с вами... на этот раз."
 
-#, fuzzy
 msgctxt "#Notif_AttackCancelled_Title"
 msgid "Attack called off"
 msgstr "Нападение не состоялось"
@@ -1834,7 +1763,6 @@ msgstr ""
 "сооружения, подверженные разрушению. Рядом следует построить пост "
 "архитектора."
 
-#, fuzzy
 msgctxt "#Notif_CollapsedBuilding_Title"
 msgid "Collapsed building"
 msgstr "Рухнуло здание"
@@ -1865,8 +1793,8 @@ msgstr "Разрешение на траты"
 #, fuzzy
 msgctxt "#Notif_CrimeWave_Content"
 msgid ""
-"May the gods have mercy on us! A band of greedy tomb robbers that thirst for"
-" ill-gotten riches has set themselves loose upon our fair city. Stop them "
+"May the gods have mercy on us! A band of greedy tomb robbers that thirst for "
+"ill-gotten riches has set themselves loose upon our fair city. Stop them "
 "before they steal the magnificent burial provisions interred with our noble "
 "dead!"
 msgstr ""
@@ -1887,8 +1815,8 @@ msgid ""
 "damages your reputation, and thus your Kingdom rating. Perhaps you should "
 "review your knowledge of money."
 msgstr ""
-"В казне так и не прибавилось дебенов. Невыплаченные долги каждый год наносят"
-" удар вашей репутации, а значит и статусу вашего государства. Возможно, вам "
+"В казне так и не прибавилось дебенов. Невыплаченные долги каждый год наносят "
+"удар вашей репутации, а значит и статусу вашего государства. Возможно, вам "
 "стоит почитать трактаты об управлении деньгами."
 
 #, fuzzy
@@ -1900,13 +1828,12 @@ msgstr "Годовщина долга"
 msgctxt "#Notif_Debt_Content"
 msgid ""
 "Your treasury bleeds money. You can spend up to 5,000 debens' worth of "
-"credit, but debt can lead to the downfall of your family unless you repay it"
-" quickly."
+"credit, but debt can lead to the downfall of your family unless you repay it "
+"quickly."
 msgstr ""
 "Город несет огромные убытки. Вы можете взять взаймы 5000 дебенов, однако "
 "если кредит не погасить в кратчайшие сроки, ваш род ждет полное разорение."
 
-#, fuzzy
 msgctxt "#Notif_Debt_Title"
 msgid "Debt!"
 msgstr "Долги!"
@@ -1918,10 +1845,9 @@ msgid ""
 "and you can't help them. Improve unhealthy areas to stave off a recurrence."
 msgstr ""
 "Жители дома, который не навещал лекарь, заболели. Если им не помочь, люди "
-"умрут! Повысьте уровень здоровья в неблагополучных областях, чтобы случай не"
-" повторился."
+"умрут! Повысьте уровень здоровья в неблагополучных областях, чтобы случай не "
+"повторился."
 
-#, fuzzy
 msgctxt "#Notif_Disease_Title"
 msgid "Disease Strikes"
 msgstr "Болезнь"
@@ -1943,7 +1869,8 @@ msgstr "Внимание"
 
 #, fuzzy
 msgctxt "#Notif_Festival_NotEnoughResources_Content"
-msgid "You have {0} Beers<sprite name=\"Beer\"> but need {1} to hold a festival."
+msgid ""
+"You have {0} Beers<sprite name=\"Beer\"> but need {1} to hold a festival."
 msgstr ""
 "У вас есть {0} ед. пива <sprite name=\"Beer\">. Для праздника требуется {1} "
 "ед."
@@ -1963,10 +1890,9 @@ msgstr ""
 "{[greeting]} {[player_name]}, свершилось! Умелые трудяги создали для вас "
 "бессмертный памятник, прославляющий величие фараона и мощь всего Египта."
 
-#, fuzzy
 msgctxt "#Notif_FinishedAbuSimbel_Title"
 msgid "Abu Simbel finished!"
-msgstr "Абу-Симбел построен!"
+msgstr "Абу-Симбел закончен!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedAlexandriaLibrary_Content"
@@ -1979,10 +1905,9 @@ msgstr ""
 "великолепной Александрийской библиотеки готовы распахнуться для ученых со "
 "всего света."
 
-#, fuzzy
 msgctxt "#Notif_FinishedAlexandriaLibrary_Title"
 msgid "Alexandria Library finished!"
-msgstr "Александрийская библиотека построена!"
+msgstr "Александрийская библиотека закончена!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedBentPyramid_Content"
@@ -1993,10 +1918,9 @@ msgstr ""
 "{[greeting]} {[player_name]}, строительство ломаной пирамиды завершилось! "
 "Поистине великое событие в жизни города."
 
-#, fuzzy
 msgctxt "#Notif_FinishedBentPyramid_Title"
 msgid "Bent Pyramid finished!"
-msgstr "Ломаная пирамида построена!"
+msgstr "Ломаная пирамида закончена!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedCaesareum_Content"
@@ -2009,44 +1933,41 @@ msgstr ""
 "разбиты — Цезариум наконец-то завершен! Слава о его небывалой красоте уже "
 "расходится по всей стране."
 
-#, fuzzy
 msgctxt "#Notif_FinishedCaesareum_Title"
 msgid "Caesareum finished!"
-msgstr "Цезариум построен!"
+msgstr "Цезариум закончен!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedGrandTomb_Content"
 msgid ""
 "{[greeting]} {[player_name]}, after much strenuous work the grand Royal "
 "Burial Tomb is complete - and none too soon, as our esteemed pharaoh is, by "
-"some accounts, on his last legs. This magnificent tomb is perfect to further"
-" his approaching journey into the afterlife."
+"some accounts, on his last legs. This magnificent tomb is perfect to further "
+"his approaching journey into the afterlife."
 msgstr ""
 "{[greeting]} {[player_name]}, много трудов было вложено в строительство "
 "великой царской гробницы, и наконец она завершена! И очень кстати, ведь "
 "говорят, что великий фараон скоро нас покинет. Выдающаяся гробница поможет "
 "ему совершить путешествие в загробный мир."
 
-#, fuzzy
 msgctxt "#Notif_FinishedGrandTomb_Title"
 msgid "Grand Burial Tomb finished!"
-msgstr "Великая гробница построена!"
+msgstr "Великая гробница закончена!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedLargeTomb_Content"
 msgid ""
 "{[greeting]} {[player_name]}, after many years of hard labor in the bowels "
-"of the earth your workers have completed work on the most magnificent burial"
-" tomb to date! It is truly a marvelous accomplishment."
+"of the earth your workers have completed work on the most magnificent burial "
+"tomb to date! It is truly a marvelous accomplishment."
 msgstr ""
-"{[greeting]} {[player_name]}, после долгих лет трудов в недрах земли рабочие"
-" наконец завершили строительство самой величественной гробницы! Это поистине"
-" выдающееся достижение."
+"{[greeting]} {[player_name]}, после долгих лет трудов в недрах земли рабочие "
+"наконец завершили строительство самой величественной гробницы! Это поистине "
+"выдающееся достижение."
 
-#, fuzzy
 msgctxt "#Notif_FinishedLargeTomb_Title"
 msgid "Large Burial Tomb finished!"
-msgstr "Большая гробница построена!"
+msgstr "Большая гробница закончена!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedLighthouse_Content"
@@ -2060,7 +1981,6 @@ msgstr ""
 "возведении дивного Фаросского маяка, однако вот уложен последний блок "
 "мрамора! Его яркий свет уже привлекает торговцев со всего света."
 
-#, fuzzy
 msgctxt "#Notif_FinishedLighthouse_Title"
 msgid "Pharos Lighthouse finished!"
 msgstr "Фаросский маяк построен!"
@@ -2074,24 +1994,22 @@ msgstr ""
 "{[greeting]} {[player_name]}, уложен последний кирпич — строительство "
 "мастабы завершилось!"
 
-#, fuzzy
 msgctxt "#Notif_FinishedMastaba_Title"
 msgid "Mastaba finished!"
-msgstr "Мастаба построена!"
+msgstr "Мастаба закончена!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedMausoleum_Content"
 msgid ""
-"{[greeting]} {[player_name]}, the sacred Mausoleum is finally complete! This"
-" is a remarkable achievement for your city."
+"{[greeting]} {[player_name]}, the sacred Mausoleum is finally complete! This "
+"is a remarkable achievement for your city."
 msgstr ""
 "{[greeting]} {[player_name]}, священный мавзолей достроен! Поистине "
 "знаменательное событие в жизни города."
 
-#, fuzzy
 msgctxt "#Notif_FinishedMausoleum_Title"
 msgid "Mausoleum finished!"
-msgstr "Мавзолей построен!"
+msgstr "Мавзолей закончен!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedMedTomb_Content"
@@ -2104,10 +2022,9 @@ msgstr ""
 "наполнили всем необходимым. Она непременно поможет недавно усопшему фараону "
 "отправиться в загробный мир."
 
-#, fuzzy
 msgctxt "#Notif_FinishedMedTomb_Title"
 msgid "Medium Burial Tomb finished!"
-msgstr "Средняя гробница построена!"
+msgstr "Средняя гробница закончена!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedMudbrickPyramid_Content"
@@ -2119,21 +2036,19 @@ msgstr ""
 "{[greeting]} {[player_name]}, каменщики закончили облицовку ослепительно "
 "белым известняком, и теперь кирпичная пирамида готова!"
 
-#, fuzzy
 msgctxt "#Notif_FinishedMudbrickPyramid_Title"
 msgid "Brick Pyramid finished!"
-msgstr "Кирпичная пирамида построена!"
+msgstr "Кирпичная пирамида закончена!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedObelisk_Content"
 msgid ""
-"{[greeting]} {[player_name]}, masons have put their finishing touches on the"
-" Obelisk, and at long last it is complete."
+"{[greeting]} {[player_name]}, masons have put their finishing touches on the "
+"Obelisk, and at long last it is complete."
 msgstr ""
 "{[greeting]} {[player_name]}, каменщики нанесли последние штрихи, и вот "
 "обелиск наконец закончен!"
 
-#, fuzzy
 msgctxt "#Notif_FinishedObelisk_Title"
 msgid "Obelisk finished!"
 msgstr "Обелиск закончен!"
@@ -2144,28 +2059,26 @@ msgid ""
 "{[greeting]} {[player_name]}, this is a spectacular accomplishment! After "
 "countless months of labor the Pyramid is finally complete!"
 msgstr ""
-"{[greeting]} {[player_name]}, свершилось! После долгих месяцев тяжких трудов"
-" пирамида наконец-то готова!"
+"{[greeting]} {[player_name]}, свершилось! После долгих месяцев тяжких трудов "
+"пирамида наконец-то готова!"
 
-#, fuzzy
 msgctxt "#Notif_FinishedPyramid_Title"
 msgid "Pyramid finished!"
-msgstr "Пирамида построена!"
+msgstr "Пирамида закончена!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedSmallTomb_Content"
 msgid ""
-"{[greeting]} {[player_name]}, construction of the small Royal Burial Tomb is"
-" complete. Hopefully it will be many years until your workers will have to "
+"{[greeting]} {[player_name]}, construction of the small Royal Burial Tomb is "
+"complete. Hopefully it will be many years until your workers will have to "
 "prepare another."
 msgstr ""
 "{[greeting]} {[player_name]}, строительство малой царской гробницы "
 "завершено. Уповаем, что еще нескоро строителям придется воздвигнуть новую."
 
-#, fuzzy
 msgctxt "#Notif_FinishedSmallTomb_Title"
 msgid "Small Burial Tomb finished!"
-msgstr "Малая гробница построена!"
+msgstr "Малая гробница закончена!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedSphinx_Content"
@@ -2176,7 +2089,6 @@ msgstr ""
 "{[greeting]} {[player_name]}, наконец каменщики закончили работу над "
 "Сфинксом. Этот памятник будет веки вечные охранять Египет."
 
-#, fuzzy
 msgctxt "#Notif_FinishedSphinx_Title"
 msgid "Sphinx finished!"
 msgstr "Сфинкс закончен!"
@@ -2187,13 +2099,12 @@ msgid ""
 "{[greeting]} {[player_name]}, at long last the Stepped Pyramid is complete! "
 "This monument will forever stand as a testament to your abilities."
 msgstr ""
-"{[greeting]} {[player_name]}, наконец-то ступенчатая пирамида достроена! Сей"
-" памятник навеки сохранит славу о ваших заслугах."
+"{[greeting]} {[player_name]}, наконец-то ступенчатая пирамида достроена! Сей "
+"памятник навеки сохранит славу о ваших заслугах."
 
-#, fuzzy
 msgctxt "#Notif_FinishedSteppedPyramid_Title"
 msgid "Stepped Pyramid finished!"
-msgstr "Ступенчатая пирамида построена!"
+msgstr "Ступенчатая пирамида закончена!"
 
 #, fuzzy
 msgctxt "#Notif_FinishedSunTemple_Content"
@@ -2213,14 +2124,13 @@ msgstr "Храм Солнца построен!"
 #, fuzzy
 msgctxt "#Notif_Fire_Content"
 msgid ""
-"Flames are sweeping through parts of the city. Click on 'Overlays: Risks' to"
-" see where fire could erupt next, and build Firehouses near the structures "
-"at risk."
+"Flames are sweeping through parts of the city. Click on 'Overlays: Risks' to "
+"see where fire could erupt next, and build Firehouses near the structures at "
+"risk."
 msgstr ""
 "Район города охвачен огнем! Нажмите «Слой — Риски», чтобы увидеть области, "
 "подверженные пожарам. Рядом следует построить пожарный пост."
 
-#, fuzzy
 msgctxt "#Notif_Fire_Title"
 msgid "Fire in the city"
 msgstr "В городе пожар"
@@ -2244,10 +2154,9 @@ msgid ""
 "elsewhere in the Kingdom."
 msgstr ""
 "В городе слишком мало рабочих мест. Если не создать новые, безработные "
-"жители могут встать на преступный путь или отправиться искать лучшей жизни в"
-" другие города."
+"жители могут встать на преступный путь или отправиться искать лучшей жизни в "
+"другие города."
 
-#, fuzzy
 msgctxt "#Notif_HighUnemployement_Title"
 msgid "City unemployment"
 msgstr "Безработица"
@@ -2263,7 +2172,6 @@ msgstr ""
 "возраста. Найдите новых рабочих, иначе городские службы и производство "
 "придут в упадок."
 
-#, fuzzy
 msgctxt "#Notif_InsufficientWorkforce_Title"
 msgid "Employees needed"
 msgstr "Требуются рабочие"
@@ -2279,26 +2187,23 @@ msgstr ""
 "Архитекторы сумели возобновить движение... однако им пришлось снести "
 "несколько зданий!"
 
-#, fuzzy
 msgctxt "#Notif_KingdomRoadBlocked_Content_var"
 msgid "Part of the city is isolated from the Kingdom road"
-msgstr "У части города нет доступа к государственному тракту."
+msgstr "У части города нет доступа к Царскому тракту."
 
-#, fuzzy
 msgctxt "#Notif_KingdomRoadBlocked_Title"
 msgid "Kingdom Road blocked"
-msgstr "Государственный тракт недоступен"
+msgstr "Царский тракт недоступен"
 
 #, fuzzy
 msgctxt "#Notif_Malaria_Content"
 msgid ""
-"Some homes have come down with malaria. Better health measures could prevent"
-" this needless waste of human life!"
+"Some homes have come down with malaria. Better health measures could prevent "
+"this needless waste of human life!"
 msgstr ""
 "Жители нескольких домов слегли с малярией. Заботьтесь о здоровье горожан, "
 "чтобы они не умирали понапрасну!"
 
-#, fuzzy
 msgctxt "#Notif_Malaria_Title"
 msgid "Malaria"
 msgstr "Малярия"
@@ -2312,7 +2217,6 @@ msgstr ""
 "Ожившая мумия наводит страх на улицы города. Остановите нежить, пока "
 "проклятие не распространилось на все государство."
 
-#, fuzzy
 msgctxt "#Notif_MummyAttack_Title"
 msgid "Mummy Attacks!"
 msgstr "Нападение мумии!"
@@ -2336,19 +2240,18 @@ msgstr "Нет пути для рыбацких лодок"
 msgctxt "#Notif_NoWorkingDock_Content"
 msgid ""
 "Although you told your Overseer of Commerce to commence trade with a sea "
-"merchant, the merchant cannot land at our city! You need to construct a dock"
-" and supply it with workers. Once you have a dock operating, ships will come"
-" and begin trading."
+"merchant, the merchant cannot land at our city! You need to construct a dock "
+"and supply it with workers. Once you have a dock operating, ships will come "
+"and begin trading."
 msgstr ""
 "Вы повелели советнику по торговле начать торговлю с морским купцом, однако "
 "корабли не могут пристать к нашим берегам! Необходимо построить пристань и "
-"нанять рабочих. Когда пристань заработает, начнут прибывать корабли, тогда и"
-" пойдет торговля."
+"нанять рабочих. Когда пристань заработает, начнут прибывать корабли, тогда и "
+"пойдет торговля."
 
-#, fuzzy
 msgctxt "#Notif_NoWorkingDock_Title"
 msgid "No Working Dock"
-msgstr "Нет пристани"
+msgstr "Нет действующей пристани"
 
 #, fuzzy
 msgctxt "#Notif_OutOfMoney_Content"
@@ -2357,8 +2260,7 @@ msgid ""
 "debens they could spare, but they cannot afford to do so again."
 msgstr ""
 "О великий фараон, городская казна опустела! Верные номархи преподнесли вам "
-"столько дебенов, сколько смогли себе позволить, однако впредь они не "
-"помогут."
+"столько дебенов, сколько смогли себе позволить, однако впредь они не помогут."
 
 #, fuzzy
 msgctxt "#Notif_OutOfMoney_Content_var"
@@ -2371,10 +2273,9 @@ msgstr ""
 "меценаты не будут вас спасать. Используйте этот дар так, чтобы город начал "
 "приносить деньги."
 
-#, fuzzy
 msgctxt "#Notif_OutOfMoney_Title"
 msgid "Out of money!"
-msgstr "Деньги закончились!"
+msgstr "Кончились деньги!"
 
 #, fuzzy
 msgctxt "#Notif_Plague_Content"
@@ -2385,88 +2286,75 @@ msgstr ""
 "В городе свирепствует чума! Учитывая слабое здоровье жителей, это был лишь "
 "вопрос времени. Будем уповать на силы наших лекарей."
 
-#, fuzzy
 msgctxt "#Notif_Plague_Title"
 msgid "A Plague"
 msgstr "Чума"
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_100"
 msgid "100 people have moved into your village."
-msgstr "В деревне живет уже 100 человек."
+msgstr "В вашу деревню пришло уже сто человек."
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_1000"
 msgid "One thousand people now call your city home."
-msgstr "Уже 1000 человек считают этот город своим домом."
+msgstr "Уже тысяча человек считают ваш город своим домом."
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_10000"
 msgid "Its population of ten thousand places your city in Egypt's top tier."
 msgstr ""
-"Город насчитывает уже 10 000 человек и по праву входит в число величайших в "
-"Египте."
+"С населением в десять тысяч человек ваш город по праву входит в число "
+"величайших в Египте."
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_15000"
-msgid ""
-"Few cities can rival yours, which now houses fifteen thousand citizens."
+msgid "Few cities can rival yours, which now houses fifteen thousand citizens."
 msgstr ""
-"Немногие города могут тягаться с вашим! В нем проживает уже 15 000 человек."
+"Немногие города могут сравниться с вашим! В нём проживает уже пятнадцать "
+"тысяч человек."
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_2000"
 msgid "With two thousand residents, your city is growing in importance."
-msgstr "В городе 2000 жителей — его влияние растет."
+msgstr "Насчитывая уже две тысячи жителей, ваш город становится более важным."
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_20000"
 msgid ""
 "Other governors and nomarchs are awed that your city houses twenty thousand "
 "people!"
 msgstr ""
-"Прочие наместники и номархи могут вам только позавидовать! В городе 20 000 "
-"человек."
+"Прочие наместники и номархи могут только завидовать вашему городу "
+"численностью в двадцать тысяч человек!"
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_25000"
 msgid ""
 "The few immigrants who founded your city so many years ago never imagined "
 "that it would swell to twenty-five thousand people!"
 msgstr ""
-"Горстка переселенцев, что положила начало городу много лет назад, и "
-"представить себе не могла, что когда-нибудь в нем будет жить 25 000 человек!"
+"Горстка переселенцев, что когда-то основала ваш город, и представить себе не "
+"могла, что когда-нибудь в нём будет жить двадцать пять тысяч человек!"
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_3000"
 msgid ""
 "Your city's population has reached three thousand for the first time in "
 "history."
-msgstr "Население города впервые достигло отметки в 3000 человек."
+msgstr "Население вашего города впервые достигло отметки трёх тысяч человек."
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_500"
 msgid "Your budding town now houses five hundred residents."
-msgstr "Город растет! Здесь поселилось уже 500 человек."
+msgstr "В вашем растущем городе поселилось уже 500 человек."
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_5000"
 msgid "Your city is getting quite large. Now five thousand people live here."
-msgstr "Город сильно вырос! Здесь живет уже 5000 человек."
+msgstr "Ваш город становится большим. Здесь живёт уже пять тысяч человек."
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_50000"
 msgid ""
-"Your city now houses fifty thousand people! A feat unheard of until you came"
-" along."
+"Your city now houses fifty thousand people! A feat unheard of until you came "
+"along."
 msgstr ""
-"В городе живет уже 50 000 человек! Ни одному правителю до вас такое не "
+"Ваш город насчитывает уже пятьдесят тысяч человек! Никому до вас такое не "
 "удавалось."
 
-#, fuzzy
 msgctxt "#Notif_PopulationMilestone_Title"
 msgid "Population milestone"
-msgstr "Новый рекорд населения"
+msgstr "Новая веха населения"
 
 #, fuzzy
 msgctxt "#Notif_RoadMissing_Content"
@@ -2525,15 +2413,14 @@ msgstr ""
 #, fuzzy
 msgctxt "#Notif_TroopsReturnDefeated_Content"
 msgid ""
-"Under cover of night, surviving members of your disgraced company slink back"
-" to the comfort of the city's Forts, determined to never again suffer "
+"Under cover of night, surviving members of your disgraced company slink back "
+"to the comfort of the city's Forts, determined to never again suffer "
 "humiliation in battle."
 msgstr ""
 "Под покровом ночи остатки посрамленного отряда незаметно вернулись под "
 "надежное укрытие вашей крепости, поклявшись впредь не допустить позорных "
 "поражений."
 
-#, fuzzy
 msgctxt "#Notif_TroopsReturnDefeated_Title"
 msgid "Company returns"
 msgstr "Возвращение отряда"
@@ -2548,48 +2435,42 @@ msgstr ""
 "Бравые герои возвращаются домой с победой. Не всем суждено было уцелеть, "
 "однако Египет будет вечно чтить их жертву!"
 
-#, fuzzy
 msgctxt "#Notif_TroopsReturnVictorious_Title"
 msgid "Heroes return!"
-msgstr "Герои возвращаются!"
+msgstr "Герои вернулись!"
 
 #, fuzzy
 msgctxt "#Notif_Warning"
 msgid "Warning!"
 msgstr "Внимание!"
 
-#, fuzzy
 msgctxt "#PerfectFlood_Content"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} this is indeed a blessing, "
-"for the likelihood of a bountiful flood is quite high! Consult the Nilometer"
-" periodically. If the prediction should worsen, the city could find itself "
+"for the likelihood of a bountiful flood is quite high! Consult the Nilometer "
+"periodically. If the prediction should worsen, the city could find itself "
 "unprepared."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} замечательная весть! В этом "
-"году обещается сильный разлив. Регулярно проверяйте нилометр. Если прогнозы "
-"ухудшатся, город может оказаться к этому не готов..."
+"{[greeting]} {[player_name]}, {[reason_phrase]}! На нас снизошло "
+"благословение! В этом году обещается сильный разлив. Регулярно проверяйте "
+"Нилометр. Если прогнозы ухудшатся, город может оказаться к этому не готов."
 
-#, fuzzy
 msgctxt "#PerfectFlood_ReasonPhrase_1"
 msgid "the monsoons in Africa are expected to come, so"
-msgstr "вскоре на материк придут обильные дожди —"
+msgstr "вас ждёт благая весть — вскоре в Африку придут обильные дожди"
 
-#, fuzzy
 msgctxt "#PerfectFlood_ReasonPhrase_2"
 msgid "we are indeed fortunate, for"
-msgstr "удача на нашей стороне. Поступила"
+msgstr "удача на нашей стороне"
 
 msgctxt "#PerfectFlood_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr "отличная новость"
 
-#, fuzzy
 msgctxt "#PerfectFlood_Title"
 msgid "Perfect Flood Expected"
-msgstr "Ожидается идеальный разлив"
+msgstr "Ожидается превосходный разлив"
 
-#, fuzzy
 msgctxt "#PriceDown_Content"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} the price of {[resource]} "
@@ -2598,60 +2479,51 @@ msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} цена на товар {[resource]} "
 "снизилась. Его продажа будет приносить меньше дохода."
 
-#, fuzzy
 msgctxt "#PriceDown_ReasonPhrase_1"
 msgid "because of an overabundance across the Kingdom,"
-msgstr "в результате возникшего в государстве излишка"
+msgstr "из-за переизбытка по всему Царству"
 
-#, fuzzy
 msgctxt "#PriceDown_ReasonPhrase_2"
 msgid "as the market continues to change"
-msgstr "экономические условия меняются, и"
+msgstr "дела на рынках продолжают меняться, и"
 
 msgctxt "#PriceDown_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr " "
 
-#, fuzzy
 msgctxt "#PriceDown_Title"
 msgid "A Price Cut"
 msgstr "Снижение цен"
 
-#, fuzzy
 msgctxt "#PriceUp_Content"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} the price of {[resource]} "
-"has risen. Importing this good is now more costly, but higher profits can be"
-" made from exporting it."
+"has risen. Importing this good is now more costly, but higher profits can be "
+"made from exporting it."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]}, поэтому цена на товар "
-"{[resource]} выросла. Ввоз будет дороже, зато можно больше заработать на "
-"продаже."
+"{[greeting]} {[player_name]}, {[reason_phrase]}, цена на товар {[resource]} "
+"выросла. Ввоз будет дороже, зато можно больше заработать на продаже."
 
-#, fuzzy
 msgctxt "#PriceUp_ReasonPhrase_1"
 msgid "because of reduced supplies throughout the world,"
-msgstr "запасы снижаются по всему миру"
+msgstr "из-за снижения поставок по всему миру"
 
-#, fuzzy
 msgctxt "#PriceUp_ReasonPhrase_2"
 msgid "as the market continues to change"
-msgstr "экономические условия меняются"
+msgstr "дела на рынках продолжают меняться, и"
 
 msgctxt "#PriceUp_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr " "
 
-#, fuzzy
 msgctxt "#PriceUp_Title"
 msgid "A Price Increase"
 msgstr "Повышение цен"
 
 msgctxt "#Request_DetailsTitle"
 msgid "Request"
-msgstr ""
+msgstr "Запрос"
 
-#, fuzzy
 msgctxt "#SeaTradeProblem_Content"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} rough waters threaten to "
@@ -2660,24 +2532,22 @@ msgid ""
 "water."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]}! Беспокойные волны могут "
-"уничтожить наши торговые корабли. Буря может продержаться еще несколько "
-"месяцев, и пока море не успокоится, торговцы не рискнут выйти в море."
+"разнести торговые корабли на щепки. Буря будет бушевать ещё несколько "
+"месяцев, и пока торговцы не готовы рисковать товаром. Мы не можем вести "
+"торговлю по воде."
 
-#, fuzzy
 msgctxt "#SeaTradeProblem_ReasonPhrase_1"
 msgid "storms are raging and"
-msgstr "море разбушевалось"
+msgstr "бушует шторм"
 
-#, fuzzy
 msgctxt "#SeaTradeProblem_ReasonPhrase_2"
 msgid "our troubles have only begun, for"
 msgstr "нам выпало новое испытание"
 
 msgctxt "#SeaTradeProblem_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr " "
 
-#, fuzzy
 msgctxt "#SeaTradeProblem_Title"
 msgid "Tempests"
 msgstr "Буря"
@@ -2718,19 +2588,19 @@ msgid ""
 "request, {[city_name]} will send its armies against your fair city."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} его правитель требует "
-"прислать в течение {1} мес. ресурс ({[resource]}, {0} ед.). Если откажетесь,"
-" {[city_name]} направит против вас свои войска."
+"прислать в течение {1} мес. ресурс ({[resource]}, {0} ед.). Если откажетесь, "
+"{[city_name]} направит против вас свои войска."
 
 #, fuzzy
 msgctxt "#Threat_City_Overdue"
 msgid ""
 "{[greeting]} {[player_name]}, battle cries can be heard throughout "
-"{[city_name]} as it prepares to destroy your city. Send the {0} {[resource]}"
-" to {[city_name]} as soon as you can, and they may show some mercy."
+"{[city_name]} as it prepares to destroy your city. Send the {0} {[resource]} "
+"to {[city_name]} as soon as you can, and they may show some mercy."
 msgstr ""
-"{[greeting]} {[player_name]}, {[city_name]} оглашается боевым кличем воинов,"
-" которые готовятся смести ваш город с лица земли. Как можно скорее отправьте"
-" в город {[city_name]} запрошенный ресурс ({[resource]}, {0} ед.). Может, "
+"{[greeting]} {[player_name]}, {[city_name]} оглашается боевым кличем воинов, "
+"которые готовятся смести ваш город с лица земли. Как можно скорее отправьте "
+"в город {[city_name]} запрошенный ресурс ({[resource]}, {0} ед.). Может, "
 "тогда они проявят милосердие."
 
 #, fuzzy
@@ -2751,12 +2621,12 @@ msgstr ""
 msgctxt "#Threat_City_Reminder"
 msgid ""
 "{[greeting]} {[player_name]}, the army of {[city_name]} girds for war, "
-"anticipating a good fight. If you send the {0} {[resource]} within 6 months,"
-" the city will cease its aggression. Its soldiers, though, will be quite "
+"anticipating a good fight. If you send the {0} {[resource]} within 6 months, "
+"the city will cease its aggression. Its soldiers, though, will be quite "
 "disappointed."
 msgstr ""
-"{[greeting]} {[player_name]}, армия города {[city_name]} предвкушает славную"
-" битву. Они оставят воинственные планы, если в течение 6 мес. вы отправите "
+"{[greeting]} {[player_name]}, армия города {[city_name]} предвкушает славную "
+"битву. Они оставят воинственные планы, если в течение 6 мес. вы отправите "
 "запрошенный ресурс ({[resource]}, {0} ед.). Хотя солдаты будут разочарованы."
 
 #, fuzzy
@@ -2789,9 +2659,9 @@ msgstr ""
 #, fuzzy
 msgctxt "#Threat_Pharaoh_Overdue"
 msgid ""
-"{[greeting]} {[player_name]}, your time has run out, and Pharaoh thirsts for"
-" blood. You may still have a chance to keep his forces at bay if you send "
-"the {0} {[resource]} to {[city_name]} as soon as you can."
+"{[greeting]} {[player_name]}, your time has run out, and Pharaoh thirsts for "
+"blood. You may still have a chance to keep his forces at bay if you send the "
+"{0} {[resource]} to {[city_name]} as soon as you can."
 msgstr ""
 "{[greeting]} {[player_name]}, время истекло! Фараон жаждет вашей крови. Вы "
 "еще можете удержать его от нападения, если как можно скорее отправите в "
@@ -2831,8 +2701,8 @@ msgstr "Поборы фараона"
 #, fuzzy
 msgctxt "#Threat_Pharaoh_Warning"
 msgid ""
-"{[greeting]} {[player_name]}, vainglorious Pharaoh is eager to take by force"
-" what you would not willingly give him. His army is well-prepared, but you "
+"{[greeting]} {[player_name]}, vainglorious Pharaoh is eager to take by force "
+"what you would not willingly give him. His army is well-prepared, but you "
 "can save your city from carnage if you send him {0} {[resource]} within 6 "
 "months. Otherwise, prepare your people for bloodshed."
 msgstr ""
@@ -2842,7 +2712,6 @@ msgstr ""
 "ему запрошенный ресурс ({[resource]}, {0} ед.). В противном случае "
 "кровопролития не избежать."
 
-#, fuzzy
 msgctxt "#ToadPlague_Content"
 msgid ""
 "An ugly curse has descended over the land! Multitudes of frogs pollute our "
@@ -2851,199 +2720,168 @@ msgstr ""
 "На нашу землю наслали гнусное проклятие! Бесконечные жабы переполняют улицы "
 "и жилища, вынуждая жителей бежать из домов!"
 
-#, fuzzy
 msgctxt "#ToadPlague_Title"
 msgid "Plague of Frogs"
 msgstr "Нашествие жаб"
 
-#, fuzzy
 msgctxt "#TradeRouteAvailable_Content"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} a new trade route, to "
 "{[city_name]} can now be opened."
 msgstr ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} можно проложить новый "
-"торговый маршрут в город {[city_name]}."
+"торговый путь в город {[city_name]}."
 
-#, fuzzy
 msgctxt "#TradeRouteAvailable_ReasonPhrase_1"
 msgid "due to diplomatic activity,"
 msgstr "благодаря плодотворным переговорам"
 
-#, fuzzy
 msgctxt "#TradeRouteAvailable_ReasonPhrase_2"
 msgid "change is in the air, for"
 msgstr "времена меняются! Теперь"
 
 msgctxt "#TradeRouteAvailable_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr " "
 
-#, fuzzy
 msgctxt "#TradeRouteAvailable_Title"
 msgid "New Trade Route Available"
-msgstr "Появился новый торговый маршрут"
+msgstr "Появился новый торговый путь"
 
-#, fuzzy
 msgctxt "#TradeRouteShutsDown_Content"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} the trade route to "
 "{[city_name]} has been shut down."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} торговый маршрут в город "
+"{[greeting]} {[player_name]}, {[reason_phrase]} торговый путь в город "
 "{[city_name]} больше недоступен."
 
-#, fuzzy
 msgctxt "#TradeRouteShutsDown_ReasonPhrase_1"
 msgid "because of political instability,"
-msgstr "в силу политической неопределенности"
+msgstr "из-за политической неопределённости"
 
-#, fuzzy
 msgctxt "#TradeRouteShutsDown_ReasonPhrase_2"
 msgid "this should've been foreseen. It seems"
-msgstr "свершилось то, чего стоило ожидать. Кажется,"
+msgstr "свершилось предначертанное. Кажется,"
 
 msgctxt "#TradeRouteShutsDown_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr " "
 
-#, fuzzy
 msgctxt "#TradeRouteShutsDown_Title"
 msgid "Trade Route Closes"
-msgstr "Торговый маршрут недоступен"
+msgstr "Торговый путь закрыт"
 
-#, fuzzy
 msgctxt "#TroopsCarryOver_Content"
 msgid ""
 "Your best soldiers from the previous mission wish to rejoin you. Build "
 "{[Forts]} for these warriors and they will return."
 msgstr ""
-"Лучшие солдаты из предыдущего задания желают снова присоединиться к вам. Они"
-" вернутся, если вы построите: {[Forts]}."
+"Верные солдаты из предыдущего города желают снова присоединиться к вам. Они "
+"вернутся, если вы построите {[Forts]}."
 
-#, fuzzy
 msgctxt "#TroopsCarryOver_Forts_1"
 msgid "an infantry fort"
-msgstr "крепость для пехоты"
+msgstr "форт для пехотинцев"
 
-#, fuzzy
 msgctxt "#TroopsCarryOver_Forts_2"
 msgid "an archers fort"
-msgstr "крепость для лучников"
+msgstr "форт для лучников"
 
-#, fuzzy
 msgctxt "#TroopsCarryOver_Forts_3"
 msgid "a charioteer fort"
-msgstr "крепость для колесничих"
+msgstr "форт для колесничих"
 
-#, fuzzy
 msgctxt "#TroopsCarryOver_Forts_4"
 msgid "infantry and archer forts"
-msgstr "крепости для пехоты и лучников"
+msgstr "форты для пехотинцев и лучников"
 
-#, fuzzy
 msgctxt "#TroopsCarryOver_Forts_5"
 msgid "infantry and charioteer forts"
-msgstr "крепости для пехоты и колесничих"
+msgstr "форты крепости для пехотинцев и колесничих"
 
-#, fuzzy
 msgctxt "#TroopsCarryOver_Forts_6"
 msgid "archer and charioteer forts"
-msgstr "крепости для лучников и колесничих"
+msgstr "форты для лучников и колесничих"
 
-#, fuzzy
 msgctxt "#TroopsCarryOver_Forts_7"
 msgid "infantry, archer, and charioteer forts"
-msgstr "крепости для пехоты, лучников и колесничих"
+msgstr "форты для пехотинцев, лучников и колесничих"
 
-#, fuzzy
 msgctxt "#TroopsCarryOver_Title"
 msgid "Loyal Soldiers Rejoin You"
-msgstr "Возвращение верных солдат"
+msgstr "Верные солдаты желают присоединиться"
 
-#, fuzzy
 msgctxt "#UnderSiege_Content"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} a debilitating siege now "
 "strikes at {[city_name]}."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} город {[city_name]} взяли в "
-"осаду!"
+"{[greeting]} {[player_name]}, {[reason_phrase]} город {[city_name]} "
+"находится в изнурительной осаде."
 
-#, fuzzy
 msgctxt "#UnderSiege_ReasonPhrase_1"
 msgid "military scouts have terrible news to report. It seems"
-msgstr "разведчики вернулись с печальным известием. Сообщают, что"
+msgstr "разведчики вернулись с ужасным известием. Похоже, что"
 
-#, fuzzy
 msgctxt "#UnderSiege_ReasonPhrase_2"
 msgid "there is no apparent end to their troubles, for"
-msgstr "покой нашим соседям только снится. Ныне"
+msgstr "нет конца нашим страданиям. Отныне"
 
 msgctxt "#UnderSiege_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr " "
 
-#, fuzzy
 msgctxt "#UnderSiege_Title"
 msgid "Trade City Under Siege"
 msgstr "Торговый город в осаде"
 
-#, fuzzy
 msgctxt "#WagesDown_Content"
 msgid ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} wages have fallen throughout"
-" the Kingdom of Egypt. It seems everywhere people will work for less."
+"{[greeting]} {[player_name]}, {[reason_phrase]} wages have fallen throughout "
+"the Kingdom of Egypt. It seems everywhere people will work for less."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} зарплату рабочих по всему "
-"Египетскому государству снизили. Жители готовы будут трудиться за меньшие "
-"деньги."
+"{[greeting]} {[player_name]}, {[reason_phrase]} по всему Египетскому царству "
+"снизили жалование рабочим. Все готовы трудиться за меньшие деньги."
 
-#, fuzzy
 msgctxt "#WagesDown_ReasonPhrase_1"
 msgid "to try to cut costs,"
 msgstr "в попытке сократить траты"
 
-#, fuzzy
 msgctxt "#WagesDown_ReasonPhrase_2"
 msgid "to try to cut costs,"
-msgstr "номархи торжествуют, хотя для некоторых повод грустный:"
+msgstr "в попытке сократить траты"
 
 msgctxt "#WagesDown_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr " "
 
-#, fuzzy
 msgctxt "#WagesDown_Title"
 msgid "Wages Fall"
-msgstr "Доходы падают"
+msgstr "Жалование падает"
 
-#, fuzzy
 msgctxt "#WagesUp_Content"
 msgid ""
 "{[greeting]} {[player_name]}, {[reason_phrase]} wages have increased "
 "throughout the Kingdom. Your own workers may depart for greener pastures if "
 "they're not paid as much as their counterparts in other cities."
 msgstr ""
-"{[greeting]} {[player_name]}, {[reason_phrase]} зарплата жителей по всему "
-"государству растет. Если вы не предоставите рабочим равные условия, они "
-"могут покинуть город в поисках лучшей жизни."
+"{[greeting]} {[player_name]}, {[reason_phrase]} жалование работников выросла "
+"по всему Царству. Рабочие могут покинуть город в поисках лучшей жизни, если "
+"не предоставить им такие же условия, что в других городах."
 
-#, fuzzy
 msgctxt "#WagesUp_ReasonPhrase_1"
 msgid "times change, and now"
-msgstr "времена меняются, и"
+msgstr "времена меняются, и теперь"
 
-#, fuzzy
 msgctxt "#WagesUp_ReasonPhrase_2"
 msgid "some rejoice, others gripe, for"
 msgstr "для одних повод радостный, для других — досадный:"
 
 msgctxt "#WagesUp_ReasonPhrase_3"
 msgid " "
-msgstr ""
+msgstr " "
 
-#, fuzzy
 msgctxt "#WagesUp_Title"
 msgid "Workers Rejoice at Raise"
-msgstr "Рабочие радуются повышению"
+msgstr "Рабочие радуются прибавке"

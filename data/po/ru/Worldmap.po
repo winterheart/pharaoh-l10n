@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-18 21:11+0300\n"
+"PO-Revision-Date: 2023-02-26 02:31+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -41,7 +41,7 @@ msgstr "Афины"
 
 msgctxt "#BahariyaOasis"
 msgid "Bahariya Oasis"
-msgstr "Бахария"
+msgstr "Оазис Бахария"
 
 msgctxt "#Baki"
 msgid "Baki"
@@ -71,40 +71,34 @@ msgctxt "#CapturedCity"
 msgid "A captured city"
 msgstr "Захваченный город"
 
-#, fuzzy
 msgctxt "#CityTradeBought"
 msgid "Bought"
-msgstr "Куплено:"
+msgstr "Куплено"
 
-#, fuzzy
 msgctxt "#CityTradeBuys"
 msgid "Buys"
-msgstr "Покупает:"
+msgstr "Покупает"
 
-#, fuzzy
 msgctxt "#CityTradeSells"
 msgid "Sells"
-msgstr "Продает:"
+msgstr "Продаёт"
 
-#, fuzzy
 msgctxt "#CityTradeSold"
 msgid "Sold"
-msgstr "Продано:"
+msgstr "Продано"
 
 #, fuzzy
 msgctxt "#Cleoantonopolis"
 msgid "Cleoantonopolis"
 msgstr "Клеоантонополис"
 
-#, fuzzy
 msgctxt "#CommerceOverseer"
 msgid "To Overseer of Commerce"
-msgstr "К советнику по торговле"
+msgstr "К торговому советнику"
 
-#, fuzzy
 msgctxt "#CostToOpen"
 msgid "Cost to open"
-msgstr "Цена открытия"
+msgstr "Стоимость открытия"
 
 msgctxt "#Crete"
 msgid "CRETE"
@@ -120,7 +114,7 @@ msgstr "Дахшур"
 
 msgctxt "#DakhlaOasis"
 msgid "Dakhla Oasis"
-msgstr "Дахла"
+msgstr "Оазис Дахла"
 
 msgctxt "#Deir el-Medina"
 msgid "Deir el-Medina"
@@ -159,14 +153,13 @@ msgctxt "#EgyptianCity_Trade"
 msgid "Egyptian Trade City"
 msgstr "Египетский торговый город"
 
-#, fuzzy
 msgctxt "#Enkomi"
 msgid "Enkomi"
 msgstr "Энгоми"
 
 msgctxt "#Farafra Oasis"
 msgid "Farafra Oasis"
-msgstr "Фарафра"
+msgstr "Оазис Фарафра"
 
 #, fuzzy
 msgctxt "#Fayuum"
@@ -232,7 +225,7 @@ msgstr "Керма"
 
 msgctxt "#Kharga Oasis"
 msgid "Kharga Oasis"
-msgstr "Харга"
+msgstr "Оазис Харга"
 
 msgctxt "#Khmun"
 msgid "Khmun"
@@ -289,10 +282,9 @@ msgctxt "#Nekhen"
 msgid "Nekhen"
 msgstr "Нехен"
 
-#, fuzzy
 msgctxt "#NorthDashur"
 msgid "North Dashur"
-msgstr "Северный Дашур"
+msgstr "Северный Дахшур"
 
 msgctxt "#Nubia"
 msgid "NUBIA"
@@ -311,25 +303,21 @@ msgctxt "#OpenCommercialRoad"
 msgid "Open trade route"
 msgstr "Открыть торговый путь"
 
-#, fuzzy
 msgctxt "#OpenCommericalLandRoadContent"
 msgid "Pay to open this land trade route?"
-msgstr "Заплатить, чтобы открыть этот наземный торговый маршрут?"
+msgstr "Заплатить, чтобы открыть этот наземный торговый путь?"
 
-#, fuzzy
 msgctxt "#OpenCommericalWaterRoadContent"
 msgid "Pay to open this water trade route?"
-msgstr "Заплатить, чтобы открыть этот водный торговый маршрут?"
+msgstr "Заплатить, чтобы открыть этот водный торговый путь?"
 
-#, fuzzy
 msgctxt "#OpenLandRoute"
 msgid "{0}<sprite name=\"Deben\">to open land trade route"
-msgstr "{0} <sprite name=\"Deben\"> за открытие наземного торгового маршрута"
+msgstr "{0} <sprite name=\"Deben\"> за открытие наземного торгового пути"
 
-#, fuzzy
 msgctxt "#OpenWaterRoute"
 msgid "{0}<sprite name=\"Deben\">to open water trade route"
-msgstr "{0} <sprite name=\"Deben\"> за открытие водного торгового маршрута"
+msgstr "{0} <sprite name=\"Deben\"> за открытие водного торгового пути"
 
 msgctxt "#OurCity"
 msgid "Our city!"
@@ -368,7 +356,6 @@ msgctxt "#Qadesh"
 msgid "Qadesh"
 msgstr "Кадеш"
 
-#, fuzzy
 msgctxt "#Quantity"
 msgid "{0} of {1}"
 msgstr "{1}: {0}"
@@ -377,7 +364,6 @@ msgctxt "#Rome"
 msgid "Rome"
 msgstr "Рим"
 
-#, fuzzy
 msgctxt "#Rostja"
 msgid "Rostja"
 msgstr "Ростау"
@@ -401,7 +387,6 @@ msgctxt "#Sawu"
 msgid "Sawu"
 msgstr "Саву"
 
-#, fuzzy
 msgctxt "#SelimaOasis"
 msgid "Selima Oasis"
 msgstr "Оазис Селима"
@@ -423,15 +408,13 @@ msgctxt "#Sinai"
 msgid "SINAI"
 msgstr "СИНАЙ"
 
-#, fuzzy
 msgctxt "#Siwi Oasis"
 msgid "Siwi Oasis"
-msgstr "Оазис Сиви"
+msgstr "Оазис Сива"
 
-#, fuzzy
 msgctxt "#SouthDashur"
 msgid "South Dashur"
-msgstr "Южный Дашур"
+msgstr "Южный Дахшур"
 
 msgctxt "#Sumur"
 msgid "Sumur"
