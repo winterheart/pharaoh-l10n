@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:55\n"
-"PO-Revision-Date: 2023-02-26 02:40+0300\n"
+"PO-Revision-Date: 2023-02-28 01:04+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -1357,13 +1357,6 @@ msgid ""
 msgstr ""
 "Медь — прочный и легкий в обработке материал, из которого получается "
 "отличное оружие. Также ее можно выгодно продавать."
-
-#, fuzzy
-msgctxt "#CopperMine_tooltip"
-msgid ""
-"Needs to be placed near rocks to produce copper <sprite name=\"Copper\">"
-msgstr ""
-"Производит медь <sprite name=\"Copper\">. Размещается рядом со скалами."
 
 #, fuzzy
 msgctxt "#CopperMine_workers_0"
@@ -2857,12 +2850,6 @@ msgstr "Запасы шкур<sprite name=\"Hides\">: {0} мер."
 msgctxt "#HuntingLodge_storage_Meat"
 msgid "Stored meat<sprite name=\"GameMeat\">: {0} units."
 msgstr "Запасы дичи<sprite name=\"GameMeat\">: {0} мер."
-
-msgctxt "#HuntingLodge_tooltip"
-msgid ""
-"Dispatches 3 hunters to gather game meat <sprite name=\"GameMeat\"> from prey"
-msgstr ""
-"Отправляет трёх охотников для добычи мяса дичи<sprite name=\"GameMeat\">."
 
 #, fuzzy
 msgctxt "#HuntingLodge_workers_0"
@@ -5655,31 +5642,9 @@ msgstr ""
 "name=\"Plainstone\">."
 
 #, fuzzy
-msgctxt "#Tower_flavor"
-msgid ""
-"Build Towers into Walls at regular intervals, or at least in vulnerable "
-"areas. When connected to roads, Towers receive guards from the city's "
-"Recruiter. Tower guards rain javelins on nearby invaders, and patrol thick "
-"enough walls."
-msgstr ""
-"Башни следует возводить на стенах через равные промежутки или хотя бы на "
-"уязвимых участках. Если башня соединена с дорогой, вербовщик пришлет "
-"караульных. Они патрулируют широкие стены, осыпая копьями всякого, кто "
-"посягнет на город."
-
-#, fuzzy
 msgctxt "#Tower_tooltip"
 msgid "Must be built on a thick wall. Occupied by a sentry"
 msgstr "Размещается на широкой стене. Здесь несет службу дозорный."
-
-#, fuzzy
-msgctxt "#Tower_workers_0"
-msgid ""
-"With no workers, we cannot station Tower guards or hire anyone to patrol the "
-"Walls."
-msgstr ""
-"Рабочих нет, поэтому нельзя разместить караульных или отправить их "
-"патрулировать стены."
 
 #, fuzzy
 msgctxt "#Tower_workers_1"
@@ -6333,3 +6298,57 @@ msgstr "Построить алтарь за {0}<sprite name=\"Debens\">"
 msgctxt "Oracle_button"
 msgid "Build the Oracle for {0}<sprite name=\"Deben\">"
 msgstr "Построить оракул за {0}<sprite name=\"Debens\">"
+
+msgctxt "#CopperMine_tooltip"
+msgid ""
+"Needs to be placed near ore veins to produce copper <sprite name=\"Copper\">"
+msgstr ""
+
+msgctxt "#HuntingLodge_tooltip"
+msgid ""
+"Dispatches 3 hunters to gather game meat <sprite name=\"GameMeat\"> from "
+"prey. Also produces hides<sprite name=\"Hides\"> from antelopes."
+msgstr ""
+
+msgctxt "#Tower_flavor"
+msgid ""
+"Build Towers into Walls. When connected to roads, Towers receive guards from "
+"the city's Recruiter."
+msgstr ""
+
+msgctxt "#Tower_workers_0"
+msgid "With no workers, we cannot station Tower guards."
+msgstr ""
+
+#, fuzzy
+#~ msgctxt "#CopperMine_tooltip"
+#~ msgid "Needs to be placed near rocks to produce copper <sprite name=\"Copper\">"
+#~ msgstr "Производит медь <sprite name=\"Copper\">. Размещается рядом со скалами."
+
+#~ msgctxt "#HuntingLodge_tooltip"
+#~ msgid ""
+#~ "Dispatches 3 hunters to gather game meat <sprite name=\"GameMeat\"> from "
+#~ "prey"
+#~ msgstr "Отправляет трёх охотников для добычи мяса дичи<sprite name=\"GameMeat\">."
+
+#, fuzzy
+#~ msgctxt "#Tower_flavor"
+#~ msgid ""
+#~ "Build Towers into Walls at regular intervals, or at least in vulnerable "
+#~ "areas. When connected to roads, Towers receive guards from the city's "
+#~ "Recruiter. Tower guards rain javelins on nearby invaders, and patrol thick "
+#~ "enough walls."
+#~ msgstr ""
+#~ "Башни следует возводить на стенах через равные промежутки или хотя бы на "
+#~ "уязвимых участках. Если башня соединена с дорогой, вербовщик пришлет "
+#~ "караульных. Они патрулируют широкие стены, осыпая копьями всякого, кто "
+#~ "посягнет на город."
+
+#, fuzzy
+#~ msgctxt "#Tower_workers_0"
+#~ msgid ""
+#~ "With no workers, we cannot station Tower guards or hire anyone to patrol the"
+#~ " Walls."
+#~ msgstr ""
+#~ "Рабочих нет, поэтому нельзя разместить караульных или отправить их "
+#~ "патрулировать стены."

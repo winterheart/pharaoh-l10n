@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-27 21:31+0300\n"
+"PO-Revision-Date: 2023-02-28 01:06+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -3355,7 +3355,8 @@ msgctxt "#CM15_name"
 msgid "NAFTA"
 msgstr "НАФТА"
 
-# See https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement (NAFTA)
+# See https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement
+# (NAFTA)
 msgctxt "#CM15_tagline"
 msgid "North African Free Trade"
 msgstr "Североафриканская зона свободной торговли"
