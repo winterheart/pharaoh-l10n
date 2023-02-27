@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-26 02:31+0300\n"
+"PO-Revision-Date: 2023-02-27 21:31+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -685,14 +685,13 @@ msgctxt "#213_tagline"
 msgid "Expansion to Nubia"
 msgstr "Завоевание Нубии"
 
-#, fuzzy
 msgctxt "#213_victory"
 msgid ""
 "Thanks to your skill, Egypt now claims part of Nubia as its own.  Through "
 "the city you have established, you have demonstrated Egypt's strength, "
 "wealth and grandeur to the conquered Nubians."
 msgstr ""
-"Благодаря вашим умениям Египет приобрёл часть Нубии. Основанный вами город "
+"Благодаря вашим умениям Египет захватил часть Нубии. Основанный вами город "
 "демонстрирует покоренным нубийцам силу, богатство и величие Египта."
 
 #, fuzzy
@@ -745,14 +744,13 @@ msgctxt "#214_tagline"
 msgid "Snofru's Bent Pyramid"
 msgstr "Ломаная пирамида Снофру"
 
-#, fuzzy
 msgctxt "#214_victory"
 msgid ""
 "Pharaoh commends you.  The bent pyramid you constructed in his honor is "
 "magnificent and outshines any monument built in the past."
 msgstr ""
-"Фараон высоко оценивает вашу работу. Ломаная пирамида, которую вы возвели в "
-"его честь, затмевает своим великолепием любой памятник прошлого."
+"Фараон возносит вам похвалу. Ломаная пирамида, которую вы возвели в его "
+"честь, затмевает своим великолепием любой монумент прошлого."
 
 #, fuzzy
 msgctxt "#215_mission"
@@ -796,7 +794,6 @@ msgctxt "#215_tagline"
 msgid "The True Pyramid"
 msgstr "Правильная пирамида"
 
-#, fuzzy
 msgctxt "#215_victory"
 msgid ""
 "Outstanding.  You have played an integral role in a landmark moment: the "
@@ -804,10 +801,9 @@ msgid ""
 "pyramid, you have set the standard of pyramid building that all others will "
 "follow."
 msgstr ""
-"Блестяще. Вы сыграли одну из ключевых ролей в знаковом событии для истории "
-"Египта: постройке первой истинной пирамиды. Возведенная вами пирамида Снофру "
-"станет эталоном, на который будут ориентироваться все архитекторы, что "
-"придут за вами."
+"Блестяще. Вы сыграли ключевую роль в знаковом событии в истории Египта: "
+"постройке первой истинной пирамиды. Возведённая вами пирамида Снофру станет "
+"эталоном, на который будут равняться все архитекторы после вас."
 
 #, fuzzy
 msgctxt "#216_mission"
@@ -871,16 +867,15 @@ msgctxt "#216_tagline"
 msgid "The defense of Egypt"
 msgstr "Защита Египта"
 
-#, fuzzy
 msgctxt "#216_victory"
 msgid ""
 "Extraordinary.  In spite of poor conditions and continuous attack from "
 "fierce Kushites, you have built a fine city and shored up Egypt's southern "
 "border."
 msgstr ""
-"Бесподобно. Несмотря на плохие условия и постоянные нападения свирепых "
-"кушитов, вы построили превосходный город и открыли выход к морю на южной "
-"границе Египта."
+"Бесподобно. Несмотря на плохие условия и постоянные набеги свирепых кушитов, "
+"вы построили превосходный город и открыли выход к морю на южной границе "
+"Египта."
 
 #, fuzzy
 msgctxt "#217_mission"
@@ -939,7 +934,6 @@ msgctxt "#217_tagline"
 msgid "Ivory from the East"
 msgstr "Слоновая кость с востока"
 
-#, fuzzy
 msgctxt "#217_victory"
 msgid ""
 "Splendid.  The mines you established at Tura have furnished all the "
@@ -947,9 +941,9 @@ msgid ""
 "based on the productive Tura mines, your city has reached new cultural and "
 "social heights."
 msgstr ""
-"Несравненно. Новые карьеры в Туре дали весь известняк, что требовался "
-"Хеопсу... на данный момент. Благодаря сильной экономике, основанной на "
-"доходах с богатых рудников и карьеров Туры, ваш город достиг новых "
+"Несравненно. Заложенные вами карьеры в Туре дали весь известняк, что "
+"требовался Хеопсу... на данный момент. Благодаря сильной экономике, "
+"основанной на доходах с богатых карьеров Туры, ваш город достиг новых "
 "культурных и общественных высот."
 
 #, fuzzy
@@ -999,12 +993,10 @@ msgctxt "#218_name"
 msgid "Rostja"
 msgstr "Ростау"
 
-#, fuzzy
 msgctxt "#218_tagline"
 msgid "The Great Pyramid and Sphinx"
 msgstr "Великая пирамида и Сфинкс"
 
-#, fuzzy
 msgctxt "#218_victory"
 msgid ""
 "All in Egypt bow to your accomplishments.  You have built Khufu's massive "
@@ -1012,10 +1004,10 @@ msgid ""
 "great honor to Khafra, constructing his final resting place and his "
 "formidable sphinx."
 msgstr ""
-"Все в Египте преклоняются перед вашими достижениями. Вы построили огромную "
-"пирамиду Хеопса и наполнили ее всеми предметами роскоши, что понадобятся "
-"фараону в загробном мире. Вы также воздали почести Хефрену, воздвигнув его "
-"усыпальницу и грозного сфинкса."
+"Весь Египет преклоняются перед вашими достижениями. Вы построили огромную "
+"пирамиду Хеопса и наполнили её роскошными погребальными принадлежностями. Вы "
+"также воздали великие почести Хефрену, воздвигнув его усыпальницу и грозного "
+"сфинкса."
 
 #, fuzzy
 msgctxt "#219_mission"
@@ -1067,13 +1059,12 @@ msgctxt "#219_tagline"
 msgid "The Western Desert"
 msgstr "Западная пустыня"
 
-#, fuzzy
 msgctxt "#219_victory"
 msgid ""
 "Well done.  You have made the most of limited resources and brought Ra's "
 "power to this isolated spot."
 msgstr ""
-"Превосходно. Вы выжали все возможное из доступных вам скромных ресурсов и "
+"Превосходно. Вы выжали всё возможное из доступных вам скромных ресурсов и "
 "принесли силу Ра в эту глушь."
 
 #, fuzzy
@@ -1190,16 +1181,15 @@ msgctxt "#221_tagline"
 msgid "The Kushite Threat"
 msgstr "Кушитская угроза"
 
-#, fuzzy
 msgctxt "#221_victory"
 msgid ""
 "You have managed to provide for your people while Egypt crumbles around "
 "you.  Your family's skill will serve Egypt well in the difficult times to "
 "come."
 msgstr ""
-"Вам удалось обеспечить своих людей всем необходимым, пока вокруг вас рушится "
-"вся страна. Умения вашего рода хорошо послужат Египту в наступающие тяжелые "
-"времена."
+"В условиях, когда Египет разваливается на части, вам удалось обеспечить "
+"своих людей всем необходимым. Умения вашего рода хорошо послужат Египту в "
+"наступающие тяжёлые времена."
 
 #, fuzzy
 msgctxt "#222_mission"
@@ -1248,14 +1238,13 @@ msgctxt "#222_tagline"
 msgid "The Caravan Trail"
 msgstr "Путь караванов"
 
-#, fuzzy
 msgctxt "#222_victory"
 msgid ""
 "While Egypt falls apart around you, you have managed to hold your city "
 "together.  These skills will serve Egypt well in the difficult time to come."
 msgstr ""
-"Пока вокруг вас рушится вся страна, вам удалось удержать свой город на "
-"плаву. Эти умения хорошо послужат Египту в наступающее тяжелое время."
+"Пока вокруг вас рушится весь Египет, вам удалось удержать свой город на "
+"плаву. Эти умения хорошо послужат Египту в наступающие тяжёлые времена."
 
 #, fuzzy
 msgctxt "#223_mission"
@@ -1316,7 +1305,6 @@ msgctxt "#223_tagline"
 msgid "Civil War"
 msgstr "Гражданская война"
 
-#, fuzzy
 msgctxt "#223_victory"
 msgid ""
 "Even in times of great unrest, your family's considerable leadership skills "
@@ -1325,8 +1313,8 @@ msgid ""
 "forgotten."
 msgstr ""
 "Даже во времена великих потрясений под чутким руководством вашего рода Тинис "
-"вернулся к прежней славе. Ваши храбрые воины помогли сторонникам Иниотефа "
-"победить, и этот подвиг не будет забыт."
+"вернул свою прежнюю славу. Ваши храбрые воины помогли Иниотефу одержать "
+"победу, и этот подвиг не будет забыт."
 
 #, fuzzy
 msgctxt "#224_mission"
@@ -1384,16 +1372,15 @@ msgctxt "#224_tagline"
 msgid "Civil War"
 msgstr "Гражданская война"
 
-#, fuzzy
 msgctxt "#224_victory"
 msgid ""
 "Through your diligence, you have fed a hungry people during a time of war "
 "and supplied the necessary reinforcements to defeat this enemy once and for "
 "all.  Your accomplishments will not soon be forgotten."
 msgstr ""
-"Вы усердно трудились и смогли накормить голодных и обеспечить приток "
+"Благодаря вашим стараниям, вы смогли накормить голодных и обеспечить приток "
 "подкреплений во время войны, чтобы раз и навсегда разбить врага. Ваши деяния "
-"останутся в памяти следующих поколений."
+"не будут забыты."
 
 #, fuzzy
 msgctxt "#225_mission"
@@ -1440,7 +1427,6 @@ msgctxt "#225_tagline"
 msgid "Reunification"
 msgstr "Воссоединение"
 
-#, fuzzy
 msgctxt "#225_victory"
 msgid ""
 "Your tireless efforts have given the Kingdom a beautiful and stately new "
@@ -1448,8 +1434,8 @@ msgid ""
 "their time of need.  Your considerable efforts shall not go unrewarded."
 msgstr ""
 "Ваш неустанный труд подарил царству новый красивый и величественный город. "
-"Вы многое сделали и для остального Египта, накормив голодных людей в "
-"непростые времена. Ваше усердие будет вознаграждено."
+"Вы многое сделали и для остального Египта, накормив голодных людей в час "
+"большой нужды. Ваше усердие не останется без награды."
 
 #, fuzzy
 msgctxt "#226_mission"
@@ -1497,16 +1483,14 @@ msgctxt "#226_tagline"
 msgid "Reunification"
 msgstr "Воссоединение"
 
-#, fuzzy
 msgctxt "#226_victory"
 msgid ""
 "The fine pyramids and obelisks you have built for me stand as testament to "
 "my reign, and for that I am deeply grateful.  Your dedication shall be "
 "rewarded."
 msgstr ""
-"Великие пирамиды и обелиски, возведенные вами, станут символами моего "
-"правления. Я благодарю вас, и будьте уверены, что ваша верность будет "
-"вознаграждена."
+"Великие пирамиды и обелиски, возведённые вами, станут символами моего "
+"правления. Я очень благодарен вам. Ваше усердие будет вознаграждено."
 
 #, fuzzy
 msgctxt "#227_mission"
@@ -1606,7 +1590,6 @@ msgctxt "#228_tagline"
 msgid "Into Nubia"
 msgstr "В Нубию"
 
-#, fuzzy
 msgctxt "#228_victory"
 msgid ""
 "All bow to your glory, mighty Pharaoh.  You have successfully conquered "
@@ -1614,10 +1597,10 @@ msgid ""
 "resources it needed to thrive, assuring that our military forces will have a "
 "reliable source of copper."
 msgstr ""
-"Народ преклоняется пред вашим величием, могучий фараон. Вы успешно покорили "
-"северную Нубию, одновременно поставляя в наш порт на Красном море все "
-"необходимое для его развития. Благодаря вам у нашей армии есть надежный "
-"источник меди."
+"Все склоняются пред вашим величием, о великий фараон. Вы успешно завоевали "
+"северную Нубию и одновременно основали порт у Красного моря, поставляющий "
+"важные для процветания товары и медь, необходимую для изготовления оружия "
+"нашим войскам."
 
 #, fuzzy
 msgctxt "#229_mission"
@@ -1671,16 +1654,15 @@ msgctxt "#229_tagline"
 msgid "On the Shores of the Red Sea"
 msgstr "На берегах Красного моря"
 
-#, fuzzy
 msgctxt "#229_victory"
 msgid ""
 "All hail the wise and resourceful Pharaoh.  The new Red Sea trade port is "
 "booming, and your support helped establish an equally strong trading post in "
 "Nubia."
 msgstr ""
-"Славься, мудрый и всезнающий фараон. Новый торговый порт в Красном море "
-"процветает, а с вашей поддержкой удалось основать и еще один не менее "
-"сильный торговый пост в Нубии."
+"Слава мудрому и изобретательному фараону! Новый торговый порт у Красного "
+"моря процветает, а с вашей поддержкой удалось основать равный по силе "
+"торговый форпост в Нубии."
 
 #, fuzzy
 msgctxt "#230_mission"
@@ -1735,13 +1717,12 @@ msgctxt "#230_tagline"
 msgid "The Gauntlet"
 msgstr "Великое испытание"
 
-#, fuzzy
 msgctxt "#230_victory"
 msgid ""
 "Seth must truly smile upon you, Most Martial Pharaoh.  You have successfully "
 "driven out the Nubians, sealing your southern border."
 msgstr ""
-"Сет и правда улыбается вам, доблестнейший фараон. Вы успешно прогнали "
+"Сет приветствует вас своей улыбкой, доблестнейший фараон. Вы успешно выгнали "
 "нубийцев и укрепили южные рубежи."
 
 #, fuzzy
@@ -1784,7 +1765,6 @@ msgctxt "#231_tagline"
 msgid "The City of Bast"
 msgstr "Город Баст"
 
-#, fuzzy
 msgctxt "#231_victory"
 msgid ""
 "The gleaming city of Bubastis does credit to you, Most Capable Pharaoh, and "
@@ -1849,13 +1829,12 @@ msgctxt "#232_tagline"
 msgid "Egypt Reclaimed"
 msgstr "Возвращение Египта"
 
-#, fuzzy
 msgctxt "#232_victory"
 msgid ""
 "Egypt rejoices!  The Hyksos have been expelled from our land, and, under "
 "your leadership, Egypt is reclaimed. "
 msgstr ""
-"Египет ликует! Мы прогнали гиксосов с наших земель, и под вашим чутким "
+"Египет ликует! Мы изгнали гиксосов с наших земель, и под вашим чутким "
 "правлением Египет снова вернулся к законным хозяевам."
 
 #, fuzzy
@@ -1915,7 +1894,6 @@ msgctxt "#233_tagline"
 msgid "Egypt Reclaimed"
 msgstr "Возвращение Египта"
 
-#, fuzzy
 msgctxt "#233_victory"
 msgid ""
 "You successfully inspired your generals to great victories on the field with "
@@ -1923,7 +1901,7 @@ msgid ""
 "been driven out of Egypt."
 msgstr ""
 "Обещанием вечной жизни вы сумели вдохновить своих военачальников на великие "
-"победы. Гиксосы и их наводящие страх колесницы изгнаны с земли египетской."
+"победы. Гиксосы и их грозные колесницы были изгнаны с земли египетской."
 
 #, fuzzy
 msgctxt "#234_mission"
@@ -1973,15 +1951,14 @@ msgctxt "#234_tagline"
 msgid "The Cedars of Lebanon"
 msgstr "Кедры Ливана"
 
-#, fuzzy
 msgctxt "#234_victory"
 msgid ""
 "All-powerful Pharaoh, by turning back the Hittites, Egypt has grown into a "
 "mighty empire!  Your sword has given the gift of Egyptian civilization to "
 "the world."
 msgstr ""
-"О всемогущий фараон, Египет изгнал хеттов со своей земли и сим превратился в "
-"грозную империю! Ваш меч подарил миру египетскую цивилизацию."
+"О всемогущий фараон, с изгнанием хеттов со своих земель Египет стал грозной "
+"империей! Своим мечом вы даровали миру египетскую цивилизацию."
 
 #, fuzzy
 msgctxt "#235_mission"
@@ -2031,14 +2008,13 @@ msgctxt "#235_tagline"
 msgid "The Glory of Egypt"
 msgstr "Величие Египта"
 
-#, fuzzy
 msgctxt "#235_victory"
 msgid ""
 "Most peaceful Pharaoh, your calming influence has brought Egypt to the brink "
 "of new greatness!"
 msgstr ""
-"О миролюбивейший фараон, ваше успокаивающее влияние привело Египет на порог "
-"нового величия!"
+"О миролюбивейший фараон, ваше успокаивающее влияние поставило Египет на "
+"новую ступень величия!"
 
 #, fuzzy
 msgctxt "#236_mission"
@@ -2090,14 +2066,13 @@ msgctxt "#236_tagline"
 msgid "The Sea People"
 msgstr "Народы моря"
 
-#, fuzzy
 msgctxt "#236_victory"
 msgid ""
 "All hail the mighty Pharaoh!  Your dynasty has no peer, and Egyptians from "
 "now until the end of time will speak your name with the greatest reverence."
 msgstr ""
 "Славься, могущественный фараон! Ни одна династия не сравнится величием с "
-"вашей, и до скончания времен египтяне будут произносить ваше имя с "
+"вашей, и до скончания времён египтяне будут произносить ваше имя с "
 "величайшим почтением."
 
 #, fuzzy
@@ -2139,18 +2114,16 @@ msgctxt "#237_tagline"
 msgid "The Glory of Pharaoh"
 msgstr "Слава фараона"
 
-#, fuzzy
 msgctxt "#237_victory"
 msgid ""
 "All hail the mighty Pharaoh! Your dynasty is without equal, and Egyptians "
 "from now until the end of time will speak your name with the greatest "
 "reverence."
 msgstr ""
-"Да здравствует могущественный фараон! Нет равных по силе и мудрости вашей "
-"династии, и до скончания времен египтяне будут произносить ваше имя с "
+"Славься, могущественный фараон! Ни одна династия не сравнится величием с "
+"вашей, и до скончания времён египтяне будут произносить ваше имя с "
 "величайшим почтением."
 
-#, fuzzy
 msgctxt "#Ancient_Conquerors_desc"
 msgid ""
 "Egypt has many envious neighbors, and they look upon our rich empire the way "
@@ -2159,11 +2132,11 @@ msgid ""
 "against successive invasions by the Sea People, Assyrians and Persians?  "
 "Egypt looks to you for protection!"
 msgstr ""
-"У Египта немало завистливых соседей, и они смотрят на нашу богатую империю, "
-"как стая гиен на добычу льва. Сможете ли вы построить и возглавить армию и "
-"флот, которые сумеют устранить эти серьезные угрозы и защитить дельту Нила "
-"от череды набегов народов моря, ассирийцев и персов? Египет надеется на вашу "
-"защиту!"
+"У Египта немало завистливых соседей, жадно взирающих на нашу богатую "
+"империю, как стая гиен — на льва, едва поймавшего добычу. Сможете ли вы "
+"построить и возглавить армию и флот, что сокрушат наших врагов и защитят "
+"дельту Нила от набегов народов моря, ассирийцев и персов? Египет надеется на "
+"вашу защиту!"
 
 msgctxt "#Ancient_Conquerors_name"
 msgid "Ancient Conquerors"
@@ -2249,7 +2222,6 @@ msgctxt "#C38_tagline"
 msgid "The First Tomb"
 msgstr "Первая гробница"
 
-#, fuzzy
 msgctxt "#C38_victory"
 msgid ""
 "Well done.  The tomb for Thutmose I is complete, an extraordinary "
@@ -2289,7 +2261,6 @@ msgctxt "#C39_tagline"
 msgid "Death of Tutankhamun"
 msgstr "Смерть Тутанхамона"
 
-#, fuzzy
 msgctxt "#C39_victory"
 msgid ""
 "An impressive feat!  It is rare indeed when workers under such pressure can "
@@ -2297,9 +2268,9 @@ msgid ""
 "all eternity.  Let us hope heretic robbers never discover his resting place!"
 msgstr ""
 "Выдающееся свершение! Редко можно увидеть, чтобы рабочие в такие сжатые "
-"сроки создали нечто подобной красоты. Гробница Тутанхамона теперь надежно "
-"запечатана до скончания времен. Будем надеяться, что еретики-расхитители "
-"никогда не обнаружат его усыпальницу."
+"сроки создали нечто подобной красоты. Гробница Тутанхамона теперь надёжно "
+"запечатана до скончания времён. Будем надеяться, что безбожные расхитители "
+"никогда не обнаружат его усыпальницу!"
 
 #, fuzzy
 msgctxt "#C40_mission"
@@ -2339,7 +2310,6 @@ msgctxt "#C40_tagline"
 msgid "Tomb for a Pharaoh"
 msgstr "Гробница для фараона"
 
-#, fuzzy
 msgctxt "#C40_victory"
 msgid ""
 "An excellent job!  You managed to adequately guard the royal tombs in the "
@@ -2408,7 +2378,6 @@ msgctxt "#C41_tagline"
 msgid "Lands of the Levant"
 msgstr "Земли Леванта"
 
-#, fuzzy
 msgctxt "#C41_victory"
 msgid ""
 "A job well done!  Our great pharaoh, Ramses II, did not err when he chose "
@@ -2416,10 +2385,10 @@ msgid ""
 "danger rides the wind!  Hittite armies have again arisen to contest our "
 "rightful control of this most valuable region. "
 msgstr ""
-"Превосходный результат! Наш великий фараон Рамзес II не ошибался, когда "
+"Превосходный результат! Наш великий фараон Рамсес II не ошибался, когда "
 "решил, что именно вы возглавите торговое и военное развитие этого края. Но "
-"ветер несет с собой запах опасности! Армии хеттов вновь собираются оспорить "
-"наше законное право на эти ценнейшие земли."
+"ветер разносит чувство тревоги! Армии хеттов вновь собираются оспорить наше "
+"законное право на эти богатые земли."
 
 #, fuzzy
 msgctxt "#C42_mission"
@@ -2472,7 +2441,6 @@ msgctxt "#C42_tagline"
 msgid "The Battle of Qadesh"
 msgstr "Битва при Кадеше"
 
-#, fuzzy
 msgctxt "#C42_victory"
 msgid ""
 "The hand of Pharaoh has once again beaten the loathsome Hittites.  Great is "
@@ -2480,9 +2448,9 @@ msgid ""
 "victory in this hard-fought battle will surely be recorded forever in the "
 "annals of history."
 msgstr ""
-"Рука фараона вновь разбила гнусных хеттов. Велика радость нашего мудрейшего "
-"и храбрейшего повелителя Рамзеса II! Ваша блестящая победа в такой тяжелой "
-"битве точно будет увековечена в анналах истории."
+"Рука фараона вновь разбила ненавистных хеттов. Велика радость нашего "
+"мудрейшего и храбрейшего повелителя Рамсеса II! Ваша блестящая победа в "
+"такой тяжёлой битве точно будет увековечена в анналах истории."
 
 #, fuzzy
 msgctxt "#C43_mission"
@@ -2533,14 +2501,13 @@ msgctxt "#C43_tagline"
 msgid "Colossi of Abu Simbel"
 msgstr "Колоссы Абу-Симбела"
 
-#, fuzzy
 msgctxt "#C43_victory"
 msgid ""
 "A job well done!  Ramses II is quite pleased with the colossal monument that "
 "you created in his honor at Abu Simbel."
 msgstr ""
-"Превосходный результат! Рамзес II доволен колоссом, что вы возвели в его "
-"честь в Абу-Симбеле."
+"Превосходный результат! Рамсес II величественным монументом, что вы возвели "
+"в его честь в Абу-Симбеле."
 
 #, fuzzy
 msgctxt "#C44_mission"
@@ -2585,7 +2552,6 @@ msgctxt "#C44_tagline"
 msgid "An Unsurpassed Resting Place"
 msgstr "Непревзойденная усыпальница"
 
-#, fuzzy
 msgctxt "#C44_victory"
 msgid ""
 "Well done!  Despite a seemingly unending series of vile plagues and "
@@ -2593,10 +2559,9 @@ msgid ""
 "grandeur speaks well for our appreciation of Ramses II, surely one of "
 "Egypt's greatest leaders."
 msgstr ""
-"Прекрасно! Несмотря на, казалось бы, бесконечную череду вспышек чумы и "
-"несчастий великая гробница для нашего стареющего фараона полностью готова. "
-"Ее великолепие само по себе говорит, как мы ценим Рамзеса II. Он точно "
-"войдет в историю как один из величайших повелителей Египта."
+"Прекрасно! Несмотря на непрекращающиеся чуму и несчастья, великая гробница "
+"для нашего стареющего фараона полностью готова. Её великолепие само по себе "
+"говорит, как мы ценим Рамсеса II, величайшего повелителя Египта."
 
 #, fuzzy
 msgctxt "#C45_mission"
@@ -2643,7 +2608,6 @@ msgctxt "#C45_tagline"
 msgid "The Sea People Land"
 msgstr "Земля народов моря"
 
-#, fuzzy
 msgctxt "#C45_victory"
 msgid ""
 "The sun has lifted the storm cloud that had been over Egypt.  Great is the "
@@ -2652,10 +2616,10 @@ msgid ""
 "been smashed. It is indeed fortunate for us that so many of their women and "
 "children are now our shameful captives."
 msgstr ""
-"Солнце раздвинуло тучи над Египтом. Ликует народ! Проклятый предводитель "
-"либу и его союзники с моря сбежали под покровом ночи. Их непродуманный план "
-"поселиться у наших берегов был растоптан. И как удачно для нас, что столько "
-"их женщин и детей теперь оказались в плену у нас."
+"Солнце потеснило ненастные тучи над Египтом. Ликует народ! Вероломный "
+"предводитель либу и его союзники с моря бежали под покровом ночи. Их "
+"непродуманный план поселиться у наших берегов провалился. И как удачно для "
+"нас, что столько их женщин и детей теперь оказались в плену у нас."
 
 #, fuzzy
 msgctxt "#C46_mission"
@@ -2700,7 +2664,6 @@ msgctxt "#C46_tagline"
 msgid "Repel the Assyrians"
 msgstr "Борьба с ассирийцами"
 
-#, fuzzy
 msgctxt "#C46_victory"
 msgid ""
 "Well done!  Your personal courage and steadfastness in battle inspired your "
@@ -2708,10 +2671,10 @@ msgid ""
 "ingraciously expelled from Egypt's soil.  Word of your deed has reached the "
 "Pharaoh and he is indeed pleased."
 msgstr ""
-"Превосходно! Ваша храбрость и стойкость в бою вдохновила воинов под вашим "
-"началом сражаться до последней капли крови. Проклятые ассирийцы были с "
-"позором изгнаны с земли египетской. Известия о вашей победе достигли ушей "
-"фараона, и он очень доволен."
+"Превосходно! Ваша личная храбрость и стойкость в бою вдохновила воинов на "
+"самоотверженный подвиг. Проклятые ассирийцы были с позором изгнаны с "
+"египетской земли. Известия о ваших деяниях достигли фараона, и он ими очень "
+"доволен."
 
 #, fuzzy
 msgctxt "#C47_mission"
@@ -2762,16 +2725,15 @@ msgctxt "#C47_tagline"
 msgid "Rebirth of a Navy"
 msgstr "Возрождение флота"
 
-#, fuzzy
 msgctxt "#C47_victory"
 msgid ""
 "Hail to the hero of Tanis, protector of Egypt!  Your glorious victories on "
 "land and on water have secured Egypt's continued independence.  The once-"
 "powerful Persians now quake before they speak the name of Pharaoh Achoris."
 msgstr ""
-"Славьтесь, герой Таниса, защитник Египта! Ваши блестящие победы на воде и на "
-"суше сохранили независимость Египта. Некогда сильные персы теперь с дрожью "
-"произносят имя фараона Ахориса."
+"Славьтесь, герой Таниса, защитник Египта! Ваши блестящие победы на земле и "
+"на воде сохранили независимость Египта. Некогда могущественные персы теперь "
+"дрожат от страха при имени фараона Ахориса."
 
 #, fuzzy
 msgctxt "#C48_mission"
@@ -2826,7 +2788,6 @@ msgctxt "#C48_tagline"
 msgid "Alexander the Great"
 msgstr "Александр Великий"
 
-#, fuzzy
 msgctxt "#C48_victory"
 msgid ""
 "You have done well.  Your wise leadership and careful planning have "
@@ -2838,7 +2799,7 @@ msgstr ""
 "Вы справились достойно. Ваша мудрость и тщательное планирование сделали "
 "Александрию центром торговли в Средиземноморье. Какое несчастье, что сам "
 "Александр Великий так и не увидел столицы своей империи. Но мы хотя бы "
-"знаем, что он надежно погребен в ее сердце."
+"знаем, что он надёжно погребён в её сердце."
 
 #, fuzzy
 msgctxt "#C49_mission"
@@ -2897,7 +2858,6 @@ msgctxt "#C49_tagline"
 msgid "A Beacon of Light"
 msgstr "Светоч Египта"
 
-#, fuzzy
 msgctxt "#C49_victory"
 msgid ""
 "The metropolis of Alexandria now shines as a beacon to the world!  Its Great "
@@ -2980,7 +2940,6 @@ msgctxt "#C50_tagline"
 msgid "Caesar and Cleopatra"
 msgstr "Цезарь и Клеопатра"
 
-#, fuzzy
 msgctxt "#C50_victory"
 msgid ""
 "Your mighty legions have crushed Ptolemy XIII's rabble.  His drowned body "
@@ -2989,11 +2948,11 @@ msgid ""
 "further cement their relationship, Caesar and Cleopatra are now embarked on "
 "a journey up the Nile aboard the luxurious royal barge."
 msgstr ""
-"Ваши могучие легионы сокрушили отребье Птолемея XIII. Тело его самого "
-"выловили из Нила в доказательство, что он действительно мертв. Осада была "
-"снята, и Клеопатра прочно заняла престол. Чтобы отпраздновать победу и еще "
-"больше укрепить их отношения, Цезарь и Клеопатра отправились в путешествие "
-"вверх по Нилу на роскошной царской барже."
+"Ваши могучие легионы сокрушили отребье Птолемея XIII. Его тело выловили из "
+"Нила в доказательство того, что он действительно мёртв. Осада была снята, и "
+"притязания Клеопатры на престол теперь вне сомнений. Чтобы отпраздновать "
+"победу и ещё больше укрепить отношения, Цезарь и Клеопатра отправились в "
+"путешествие вверх по Нилу на роскошной царской барже."
 
 #, fuzzy
 msgctxt "#C51_mission"
@@ -3078,7 +3037,6 @@ msgctxt "#C51_tagline"
 msgid "The Legacy of a Queen"
 msgstr "Наследие царицы"
 
-#, fuzzy
 msgctxt "#C51_victory"
 msgid ""
 "The splendors of Alexandria and the fate of Egypt are in good hands under "
@@ -3087,12 +3045,11 @@ msgid ""
 "furthering his goals.  In fact, he became so enamored of you that he has "
 "come to Alexandria to be your companion and lover."
 msgstr ""
-"Великолепная Александрия и судьба всего Египта находятся в надежных руках, "
-"пока вы возглавляете страну. Как и ожидалось, когда вы все-таки "
-"соблаговолили встретиться с Марком Антонием, он обращался с вами со всеми "
-"почестями и запрашивал у вас денежной помощи для достижения своих целей. Под "
-"конец он настолько вами увлекся, что прибыл в Александрию, чтобы стать вашим "
-"спутником и возлюбленным."
+"Великолепная Александрия и судьба всего Египта находятся в ваших надёжных "
+"руках. Как и ожидалось, когда вы все-таки соблаговолили озарить Марка "
+"Антония своим присутствием, он обращался к вам со всеми почестями, надеясь "
+"получить деньги для своих целей. Он настолько вами увлёкся, что прибыл в "
+"Александрию, чтобы стать вашим спутником и возлюбленным."
 
 #, fuzzy
 msgctxt "#C52_mission"
@@ -3144,7 +3101,6 @@ msgctxt "#C52_tagline"
 msgid "Antony and Cleopatra"
 msgstr "Антоний и Клеопатра"
 
-#, fuzzy
 msgctxt "#C52_victory"
 msgid ""
 "With Cleopatra's deep treasury and Antony's genius for tactics, Octavian's "
@@ -3156,7 +3112,7 @@ msgstr ""
 "Благодаря богатой казне Клеопатры и тактическому гению Антония флот "
 "Октавиана и его легионы опытных воинов были разбиты. Римляне с нетерпением "
 "ждут триумфального возвращения Антония и Клеопатры, а Рим и Александрия "
-"будут рука об руку править всем Средиземноморьем еще много поколений."
+"будут рука об руку править всем Средиземноморьем ещё много поколений."
 
 msgctxt "#CM01_name"
 msgid "Alexandria"

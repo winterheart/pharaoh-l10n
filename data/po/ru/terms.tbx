@@ -2464,6 +2464,30 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="azamat_h._hackimov-205">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>burial provisions</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>погребальные принадлежности</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-206">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>inyotef</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>иниотеф</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>

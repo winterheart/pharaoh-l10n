@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-24 15:59+0300\n"
+"PO-Revision-Date: 2023-02-26 19:27+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -232,14 +232,13 @@ msgctxt "#CoursesCompleted_Zero"
 msgid "No courses have been completely laid in place yet."
 msgstr "Пока не уложено ни одного слоя."
 
-#, fuzzy
 msgctxt "#Foreman_BrickCorePyramid_ClearSite"
 msgid ""
 "Workers are just clearing and leveling the construction site now. After "
 "that, we'll need plenty of bricks and limestone to complete this monument."
 msgstr ""
-"Рабочие только расчищают и выравнивают строительную площадку. Потом нам "
-"понадобится много кирпичей и известняка для самого строительства."
+"Рабочие заканчивают расчищать и выравнивать площадку. После этого нам "
+"понадобится много кирпичей и известняка для строительства этого монумента."
 
 #, fuzzy
 msgctxt "#Foreman_Bricks_Stockpiled"
@@ -544,15 +543,14 @@ msgstr ""
 "будущих проектов. Я ему не верю, но вам, наверное, стоит разъяснить ему, что "
 "к чему."
 
-#, fuzzy
 msgctxt "#Foreman_PyramidAndBentPyramid_ClearSite"
 msgid ""
 "Workers are just clearing and leveling the construction site now. This would "
 "be a fine time to amass some plain stone and limestone. We are going to need "
 "plenty."
 msgstr ""
-"Рабочие только расчищают и выравнивают строительную площадку. Сейчас самое "
-"время собрать больше камня и известняка. Их нам понадобится много."
+"Рабочие заканчивают расчищать и выравнивать площадку. Сейчас самое время "
+"собрать больше камня и известняка. Их нам понадобится очень много."
 
 #, fuzzy
 msgctxt "#Foreman_Pyramid_NoProblem"

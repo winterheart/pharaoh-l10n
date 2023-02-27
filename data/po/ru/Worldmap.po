@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-26 02:31+0300\n"
+"PO-Revision-Date: 2023-02-27 19:38+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -161,10 +161,9 @@ msgctxt "#Farafra Oasis"
 msgid "Farafra Oasis"
 msgstr "Оазис Фарафра"
 
-#, fuzzy
 msgctxt "#Fayuum"
 msgid "FAYUUM"
-msgstr "ЭЛЬ-ФАЙЮМ"
+msgstr "ФАЙЮМ"
 
 msgctxt "#ForeignCIty"
 msgid "Foreign City"
@@ -313,11 +312,11 @@ msgstr "Заплатить, чтобы открыть этот водный то
 
 msgctxt "#OpenLandRoute"
 msgid "{0}<sprite name=\"Deben\">to open land trade route"
-msgstr "{0} <sprite name=\"Deben\"> за открытие наземного торгового пути"
+msgstr "{0}<sprite name=\"Deben\"> за открытие наземного торгового пути"
 
 msgctxt "#OpenWaterRoute"
 msgid "{0}<sprite name=\"Deben\">to open water trade route"
-msgstr "{0} <sprite name=\"Deben\"> за открытие водного торгового пути"
+msgstr "{0}<sprite name=\"Deben\"> за открытие водного торгового пути"
 
 msgctxt "#OurCity"
 msgid "Our city!"
