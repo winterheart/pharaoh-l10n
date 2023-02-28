@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:55\n"
-"PO-Revision-Date: 2023-02-28 01:04+0300\n"
+"PO-Revision-Date: 2023-02-28 01:44+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -569,12 +569,10 @@ msgctxt "#BowMaker"
 msgid "Bowyer"
 msgstr "Изготовитель луков"
 
-#, fuzzy
 msgctxt "#BowMaker_disabled"
 msgid ""
 "Your Overseer of Commerce decreed that composite bow production should cease."
-msgstr ""
-"Советник по торговле приказал прекратить производство композитных луков."
+msgstr "Торговый советник приказал прекратить производство композитных луков."
 
 #, fuzzy
 msgctxt "#BowMaker_flavor"
@@ -731,10 +729,9 @@ msgctxt "#BricklayersGuild"
 msgid "Bricklayers' Guild"
 msgstr "Артель каменщиков"
 
-#, fuzzy
 msgctxt "#BricklayersGuild_disabled"
 msgid "This guild has been shut down by your Overseer of Commerce"
-msgstr "Советник по торговле остановил работу артели."
+msgstr "Работа этой артели остановлена вашим торговым советником."
 
 #, fuzzy
 msgctxt "#BricklayersGuild_flavor"
@@ -987,10 +984,9 @@ msgctxt "#CattleRanch"
 msgid "Cattle Ranch"
 msgstr "Скотоводческая ферма"
 
-#, fuzzy
 msgctxt "#CattleRanch_disabled"
 msgid "By decree of the Overseer of Commerce, cattle ranching has ceased."
-msgstr "По приказу советника по торговле производство мяса остановлено."
+msgstr "По приказу торгового советника производство мяса остановлено."
 
 #, fuzzy
 msgctxt "#CattleRanch_flavor"
@@ -1046,10 +1042,9 @@ msgctxt "#ChariotMaker"
 msgid "Chariot Workshop"
 msgstr "Мастерская колесниц"
 
-#, fuzzy
 msgctxt "#ChariotMaker_disabled"
 msgid "Your Overseer of Commerce decreed that chariot production should cease."
-msgstr "Советник по торговле приказал прекратить производство колесниц."
+msgstr "Торговый советник приказал прекратить производство колесниц."
 
 #, fuzzy
 msgctxt "#ChariotMaker_flavor"
@@ -1345,10 +1340,9 @@ msgctxt "#CopperMine"
 msgid "Copper Mine"
 msgstr "Медный рудник"
 
-#, fuzzy
 msgctxt "#CopperMine_disabled"
 msgid "Your Overseer of Commerce ordered a halt to copper mining."
-msgstr "Советник по торговле приказал остановить добычу меди."
+msgstr "Торговый советник приказал остановить добычу меди."
 
 #, fuzzy
 msgctxt "#CopperMine_flavor"
@@ -1828,10 +1822,9 @@ msgctxt "#FigFarm"
 msgid "Fig Farm"
 msgstr "Ферма инжира"
 
-#, fuzzy
 msgctxt "#FigFarm_disabled"
 msgid "Your Overseer of Commerce ordered a halt to fig farming."
-msgstr "Советник по торговле приказал остановить выращивание инжира."
+msgstr "Торговый советник приказал остановить выращивание инжира."
 
 #, fuzzy
 msgctxt "#FigFarm_flavor"
@@ -1973,10 +1966,9 @@ msgctxt "#FishingWharf"
 msgid "Fishing Wharf"
 msgstr "Рыбацкий причал"
 
-#, fuzzy
 msgctxt "#FishingWharf_disabled"
 msgid "Your Overseer of Commerce ordered a halt to fishing."
-msgstr "Советник по торговле приказал остановить рыбную ловлю."
+msgstr "Торговый советник приказал остановить рыбную ловлю."
 
 #, fuzzy
 msgctxt "#FishingWharf_dockedboat"
@@ -2045,10 +2037,9 @@ msgctxt "#FlaxFarm"
 msgid "Flax Farm"
 msgstr "Ферма льна"
 
-#, fuzzy
 msgctxt "#FlaxFarm_disabled"
 msgid "Your Overseer of Commerce ordered a halt to flax growing."
-msgstr "Советник по торговле приказал остановить выращивание льна."
+msgstr "Торговый советник приказал остановить выращивание льна."
 
 #, fuzzy
 msgctxt "#FlaxFarm_flavor"
@@ -2469,10 +2460,9 @@ msgctxt "#GoldMine"
 msgid "Gold Mine"
 msgstr "Золотой рудник"
 
-#, fuzzy
 msgctxt "#GoldMine_disabled"
 msgid "The Overseer of Commerce commanded an end to gold mining."
-msgstr "Советник по торговле приказал прекратить добычу золота."
+msgstr "Торговый советник приказал остановить добычу золота."
 
 #, fuzzy
 msgctxt "#GoldMine_flavor"
@@ -2539,10 +2529,9 @@ msgctxt "#GrainFarm"
 msgid "Grain Farm"
 msgstr "Ферма зерна"
 
-#, fuzzy
 msgctxt "#GrainFarm_disabled"
 msgid "Your Overseer of Commerce ordered a halt to grain farming."
-msgstr "Советник по торговле приказал остановить выращивание зерна."
+msgstr "Торговый советник приказал остановить выращивание зерна."
 
 #, fuzzy
 msgctxt "#GrainFarm_flavor"
@@ -2636,10 +2625,9 @@ msgctxt "#GraniteQuarry"
 msgid "Granite Quarry"
 msgstr "Гранитный карьер"
 
-#, fuzzy
 msgctxt "#GraniteQuarry_disabled"
 msgid "Your Overseer of Commerce ordered that no more granite be quarried."
-msgstr "Советник по торговле приказал остановить добычу гранита."
+msgstr "Торговый советник приказал остановить добычу гранита."
 
 #, fuzzy
 msgctxt "#GraniteQuarry_flavor"
@@ -2733,11 +2721,10 @@ msgctxt "#HennaFarm"
 msgid "Henna Farm"
 msgstr "Ферма хны"
 
-#, fuzzy
 msgctxt "#HennaFarm_disabled"
 msgid ""
 "Your Overseer of Commerce has decreed that henna production should stop."
-msgstr "Советник по торговле приказал прекратить производство хны."
+msgstr "Торговый советник приказал остановить производство хны."
 
 #, fuzzy
 msgctxt "#HennaFarm_flavor"
@@ -2829,10 +2816,9 @@ msgctxt "#HuntingLodge_HuntersOut"
 msgid "This lodge's hunters are out seeking prey."
 msgstr "Охотники отправились на поиски животных."
 
-#, fuzzy
 msgctxt "#HuntingLodge_disabled"
 msgid "The Overseer of Commerce decreed that hunting should cease."
-msgstr "Советник по торговле приказал прекратить охоту."
+msgstr "Торговый советник распорядился прекратить охоту."
 
 #, fuzzy
 msgctxt "#HuntingLodge_flavor"
@@ -4075,10 +4061,9 @@ msgctxt "#PlainStoneQuarry"
 msgid "Plain Stone Quarry"
 msgstr "Каменный карьер"
 
-#, fuzzy
 msgctxt "#PlainStoneQuarry_disabled"
 msgid "The Overseer of Commerce commanded a halt to quarrying."
-msgstr "Советник по торговле приказал остановить добычу камня."
+msgstr "Торговый советник приказал прекратить добычу камня."
 
 #, fuzzy
 msgctxt "#PlainStoneQuarry_flavor"
@@ -4323,10 +4308,9 @@ msgctxt "#Potter"
 msgid "Potter"
 msgstr "Гончарная мастерская"
 
-#, fuzzy
 msgctxt "#Potter_disabled"
 msgid "Pottery production has ceased, by order of the Overseer of Commerce."
-msgstr "Производство керамики остановлено по приказу советника по торговле."
+msgstr "Производство керамики прекращено по приказу торгового советника."
 
 #, fuzzy
 msgctxt "#Potter_flavor"
@@ -4731,10 +4715,9 @@ msgctxt "#ReedGatherer"
 msgid "Reed Gatherer"
 msgstr "Сборщики тростника"
 
-#, fuzzy
 msgctxt "#ReedGatherer_disabled"
 msgid "Reed harvesting has ceased, by command of the Overseer of Commerce."
-msgstr "Сбор тростника остановлен по приказу советника по торговле."
+msgstr "Сбор тростника прекращён по приказу торгового советника."
 
 #, fuzzy
 msgctxt "#ReedGatherer_flavor"

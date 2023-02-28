@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-28 01:06+0300\n"
+"PO-Revision-Date: 2023-02-28 04:34+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -605,7 +605,6 @@ msgstr ""
 "переживает не лучшие времена и больше не экспортирует товары, которым ранее "
 "славился."
 
-#, fuzzy
 msgctxt "#212_name"
 msgid "Meidum"
 msgstr "Медум"
@@ -857,7 +856,6 @@ msgstr ""
 "плато Ростау, дабы затмить славу отца, мудрого и доброго Снофру, воздвигшего "
 "две прекрасные пирамиды."
 
-#, fuzzy
 msgctxt "#216_name"
 msgid "Iunet"
 msgstr "Иунет"
@@ -925,7 +923,6 @@ msgstr ""
 "увеселительные заведения могут помочь жителям Она отдохнуть от тирании "
 "Хеопса."
 
-#, fuzzy
 msgctxt "#217_name"
 msgid "On"
 msgstr "Он"
@@ -1172,7 +1169,6 @@ msgstr ""
 "оазисе Селима много ценной древесины, однако часть леса предстоит вырубить, "
 "чтобы получить доступ к источнику воды."
 
-#, fuzzy
 msgctxt "#221_name"
 msgid "Dunqul"
 msgstr "Дункул"
@@ -1418,7 +1414,6 @@ msgstr ""
 "многого требую от вас, однако никто другой не справится с этой сложной "
 "задачей."
 
-#, fuzzy
 msgctxt "#225_name"
 msgid "Kebet"
 msgstr "Кебет"
@@ -1474,7 +1469,6 @@ msgstr ""
 "прославят мои подвиги. Я знаю, что многого требую от вас, однако никто "
 "другой с этим не справится."
 
-#, fuzzy
 msgctxt "#226_name"
 msgid "Menat Khufu"
 msgstr "Менат-Хуфу"
@@ -1581,7 +1575,6 @@ msgstr ""
 "потребуется ваша помощь, не сомневайтесь. Если Саву будет процветать, Икен "
 "получит доступ к драгоценной меди, из которой мы куем оружие."
 
-#, fuzzy
 msgctxt "#228_name"
 msgid "Iken"
 msgstr "Икен"
@@ -1645,7 +1638,6 @@ msgstr ""
 "Мавзолей и небольшая кирпичная пирамида обеспечат вам и вашей семье пышные "
 "покои, когда вы отправитесь на поля Иалу."
 
-#, fuzzy
 msgctxt "#229_name"
 msgid "Sawu"
 msgstr "Саву"
@@ -1884,10 +1876,9 @@ msgstr ""
 "вам придется продолжить город на другом берегу Нила, чтобы найти необходимые "
 "ресурсы."
 
-#, fuzzy
 msgctxt "#233_name"
 msgid "Sauty"
-msgstr "Саути"
+msgstr "Асьют"
 
 #, fuzzy
 msgctxt "#233_tagline"
@@ -2057,7 +2048,6 @@ msgstr ""
 "внушительные кирпичные пирамиды. Эти монументы будут напоминать следующим "
 "поколениям о ваших подвигах в военное и мирное время."
 
-#, fuzzy
 msgctxt "#236_name"
 msgid "Rowarty "
 msgstr "Роварти"
@@ -2104,10 +2094,9 @@ msgstr ""
 "подойдет Хетеп-Сенусерт в богатом Фаюме. Здесь, следя за строительством, вы "
 "сможете руководить всеми делами государства и отвечать на просьбы городов."
 
-#, fuzzy
 msgctxt "#237_name"
 msgid "Hetepsenusret"
-msgstr "Хетеп-Сенусерт"
+msgstr "Хотеп-Сенусерт"
 
 #, fuzzy
 msgctxt "#237_tagline"
@@ -2599,7 +2588,6 @@ msgstr ""
 "Кадеша, которую одержал Рамзес II, предшественник любезного Мернептаха. "
 "Укрепите свой город и подготовьте верное войско к смертельному бою."
 
-#, fuzzy
 msgctxt "#C45_name"
 msgid "Pi-Yer"
 msgstr "Пи-Ер"
@@ -2654,7 +2642,6 @@ msgstr ""
 "каких-то семь лет, и победа обеспечена. Великий фараон Тахарка, внук Шабаки, "
 "будет следить за вашими успехами!"
 
-#, fuzzy
 msgctxt "#C46_name"
 msgid "Migdol"
 msgstr "Мигдол"
@@ -2931,7 +2918,6 @@ msgstr ""
 "Митридата, победить мятежную армию Птолемея и прорваться к Цезарю и "
 "Клеопатре в Александрии? Их судьба в ваших руках."
 
-#, fuzzy
 msgctxt "#C50_name"
 msgid "Maritis"
 msgstr "Маритис"
@@ -3263,7 +3249,7 @@ msgstr ""
 
 msgctxt "#CM09_name"
 msgid "Henen-nesw"
-msgstr ""
+msgstr "Хенен-Несут"
 
 msgctxt "#CM09_tagline"
 msgid "So You Wanna Be Pharaoh"
@@ -3464,11 +3450,11 @@ msgstr ""
 
 msgctxt "#CM25_name"
 msgid "Shaat"
-msgstr ""
+msgstr "Шаат"
 
 msgctxt "#CM25_tagline"
 msgid "Egyptian Outpost"
-msgstr ""
+msgstr "Египетский форпост"
 
 msgctxt "#CM26_mission"
 msgid ""
@@ -3484,19 +3470,19 @@ msgstr ""
 
 msgctxt "#CM26_name"
 msgid "Small Oasis"
-msgstr ""
+msgstr "Небольшой оазис"
 
 msgctxt "#CM26_tagline"
 msgid "Water is Life"
-msgstr ""
+msgstr "Вода — это жизнь"
 
 msgctxt "#CM27_name"
 msgid "Steps"
-msgstr ""
+msgstr "Ступени"
 
 msgctxt "#CM27_tagline"
 msgid "City of Stepped Pyramids"
-msgstr ""
+msgstr "Город ступенчатых пирамид"
 
 msgctxt "#CM28_name"
 msgid "The Good Life"

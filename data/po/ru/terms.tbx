@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
-<martif type="TBX" xml:lang="en_US">
+<martif xml:lang="en_US" type="TBX">
     <text>
         <body>
         <termEntry id="azamat_h._hackimov-0">
@@ -2485,6 +2485,102 @@
         <langSet xml:lang="ru">
           <tig>
             <term>иниотеф</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-207">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>migdol</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>мигдол</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-208">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>cleoantonopolis</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>клеоантонополис</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-209">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>shaat</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>шаат</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-210">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>sauty</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>асьют</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-211">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>henen-nesw</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>хенен-несут</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-212">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>hetepsenusret</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>хотеп-сенусерт</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-213">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>iken</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>икен</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-214">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>iunet</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>иунет</term>
           </tig>
         </langSet>
       </termEntry>
