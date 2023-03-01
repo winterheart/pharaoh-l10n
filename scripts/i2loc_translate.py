@@ -72,7 +72,7 @@ if __name__ == "__main__":
         logger.info(f"Processing languages: {languages}")
 
     if args["extract"]:
-        logger.info("Extracting text data into {args['--podir']}")
+        logger.info(f"Extracting text data into {args['--podir']}")
         rcg_translation = I2LocTranslation(args["--input"])
         rcg_translation.save_po(args["--podir"], languages)
         logger.info("Done!")
