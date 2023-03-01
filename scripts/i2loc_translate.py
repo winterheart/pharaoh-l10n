@@ -68,10 +68,8 @@ if __name__ == "__main__":
             except StopIteration:
                 logger.warning(f"{lang} is not supported, skipping it.")
 
-    if len(languages) == 0:
-        for lang in I2LocLanguages:
-            languages.append(lang.value["iso_code"])
-    logger.info(f"Processing languages: {languages}")
+    if len(languages) > 0:
+        logger.info(f"Processing languages: {languages}")
 
     if args["extract"]:
         logger.info("Extracting text data into {args['--podir']}")
