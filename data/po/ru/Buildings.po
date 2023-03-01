@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:55\n"
-"PO-Revision-Date: 2023-02-28 01:44+0300\n"
+"PO-Revision-Date: 2023-03-01 02:26+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -168,15 +168,13 @@ msgstr ""
 "Без краски художники работать не могут. Доставьте ее от изготовителя красок "
 "или со склада."
 
-#, fuzzy
 msgctxt "#ArtisansGuild_storage_clay"
 msgid "Clay<sprite name=\"Clay\">: {0} units."
-msgstr "Запасы глины <sprite name=\"Clay\">: {0} ед."
+msgstr "Глина<sprite name=\"Clay\">: {0} мер."
 
-#, fuzzy
 msgctxt "#ArtisansGuild_storage_paint"
 msgid "Paint<sprite name=\"Paint\">: {0} units."
-msgstr "Запасы краски <sprite name=\"Paint\">: {0} ед."
+msgstr "Краска<sprite name=\"Paint\">: {0} мер."
 
 #, fuzzy
 msgctxt "#ArtisansGuild_tooltip"
@@ -733,72 +731,62 @@ msgctxt "#BricklayersGuild_disabled"
 msgid "This guild has been shut down by your Overseer of Commerce"
 msgstr "Работа этой артели остановлена вашим торговым советником."
 
-#, fuzzy
 msgctxt "#BricklayersGuild_flavor"
 msgid ""
 "Bricklayers gather here to swap stories and tips about their profession, "
 "find work assignments and lay plans for the future. "
 msgstr ""
-"Здесь укладчики кирпича беседуют о ремесле, делятся советами, находят "
-"задания и строят планы на будущее."
+"Здесь каменщики общаются между собой, делятся секретами профессии, находят "
+"задания и закладывают планы на будущее."
 
-#, fuzzy
 msgctxt "#BricklayersGuild_info"
 msgid ""
 "This guild provides skilled workers for monument construction. It does not "
 "need its own supply of bricks."
 msgstr ""
-"Артель обеспечивает город умелыми мастерами, которые возводят памятники. "
-"Запас кирпича не требуется."
+"Эта артель обеспечивает город умелыми мастерами для возведения монументов. "
+"Запасов кирпичей не требуется."
 
-#, fuzzy
 msgctxt "#BricklayersGuild_tooltip"
 msgid "Sends bricklayers to work on monuments"
-msgstr "Укладчики кирпича работают над памятниками."
+msgstr "Каменщики отправляются на работу над монументом"
 
-#, fuzzy
 msgctxt "#BricklayersGuild_workers_0"
 msgid "This guild has no employees. No bricks can be laid."
-msgstr "В артели никого нет. Некому класть кирпич."
+msgstr "В этой артели нет мастеров. Некому класть кирпич."
 
-#, fuzzy
 msgctxt "#BricklayersGuild_workers_1"
 msgid ""
 "With hardly any employees at this guild, it seems to take forever for a "
 "bricklayer to show up."
 msgstr ""
-"В артели почти никто не работает. Укладчика кирпича приходится дожидаться "
-"целую вечность."
+"В этой артели почти нет работников, каменщика приходится дожидаться целую "
+"вечность."
 
-#, fuzzy
 msgctxt "#BricklayersGuild_workers_100"
 msgid ""
 "This guild has all the employees it needs. Bricklayers can work with maximal "
 "efficiency."
-msgstr "В артели хватает укладчиков кирпича, поэтому работа идет быстро."
+msgstr ""
+"В этой артели достаточно рабочих. Каменщики работают с максимальной "
+"эффективностью."
 
-#, fuzzy
 msgctxt "#BricklayersGuild_workers_25"
 msgid ""
 "Very few people work here. There is a substantial wait for bricklaying "
 "services."
-msgstr ""
-"Мастеров очень мало. Заказчикам подолгу приходится ожидать начала работ."
+msgstr "Здесь работает мало людей. Приходится подолгу ожидать начала работ."
 
-#, fuzzy
 msgctxt "#BricklayersGuild_workers_50"
 msgid ""
 "This guild is understaffed, and supplies fewer bricklayers than it could."
-msgstr "В артели не хватает рук, поэтому работает меньше укладчиков кирпича."
+msgstr "В этой артели не хватает рук, поэтому работает меньше каменщиков."
 
-#, fuzzy
 msgctxt "#BricklayersGuild_workers_75"
 msgid ""
 "This guild is working below maximum capacity. Work will be slightly slower "
 "as a result."
-msgstr ""
-"Артель работает не в полную силу. Из-за этого строительство идет немного "
-"медленнее."
+msgstr "Эта артель работает не в полную силу. Работа идёт немного медленнее."
 
 msgctxt "#Brickworks"
 msgid "Brickworks"
@@ -2062,17 +2050,15 @@ msgstr ""
 "Производит лён<sprite name=\"Flax\">. Урожай в декабре, если разместить на "
 "лугу."
 
-#, fuzzy
 msgctxt "#FlaxFarm_workers_0"
 msgid "This farm has no workers. No flax can grow here."
-msgstr "На ферме нет рабочих. Лен здесь не растет."
+msgstr "На ферме нет рабочих. Лен здесь не растёт."
 
 #, fuzzy
 msgctxt "#FlaxFarm_workers_1"
 msgid "With hardly any workers in this farm, the ground is mostly barren."
 msgstr "На ферме почти нет рабочих. Землю не успевают обрабатывать."
 
-#, fuzzy
 msgctxt "#FlaxFarm_workers_100"
 msgid ""
 "This farm has all the workers it needs. The fields are carpeted with blue "
@@ -2566,7 +2552,6 @@ msgid ""
 "season."
 msgstr "На ферме почти нет рабочих. В этом сезоне зерна будет совсем мало."
 
-#, fuzzy
 msgctxt "#GrainFarm_workers_100"
 msgid ""
 "This farm has all the workers it needs. It gets maximum yield, given its "
@@ -2760,12 +2745,12 @@ msgid ""
 msgstr ""
 "Поля практически не засеяны. Чтобы выращивать хну, нужно больше рабочих."
 
-#, fuzzy
 msgctxt "#HennaFarm_workers_100"
 msgid ""
 "This farm has all the workers it needs. They are in the fields, tending to "
 "the plants."
-msgstr "На ферме достаточно рабочих. Они вовсю трудятся в поле."
+msgstr ""
+"На ферме достаточно рабочих. Они вовсю трудятся в поле, взращивая урожай."
 
 #, fuzzy
 msgctxt "#HennaFarm_workers_25"
@@ -3222,7 +3207,6 @@ msgstr ""
 "Уходом за полями заниматься почти некому, так что в этом году рекордного "
 "урожая ждать не стоит."
 
-#, fuzzy
 msgctxt "#LettuceFarm_workers_100"
 msgid ""
 "This farm has all the workers it needs. It grows as much lettuce as its "
@@ -3588,7 +3572,6 @@ msgctxt "#NonFoodFarm"
 msgid "Non-Food Farms"
 msgstr "Фермы (другое)"
 
-#, fuzzy
 msgctxt "#Oracle_built"
 msgid "The Oracle of this Temple Complex is already built"
 msgstr "В храмовом комплексе уже есть оракул."
@@ -3598,22 +3581,18 @@ msgctxt "#Order_Quota_Empty"
 msgid "empty"
 msgstr "ничего"
 
-#, fuzzy
 msgctxt "#Order_Quota_Full"
 msgid "all"
-msgstr "все"
+msgstr "всё"
 
-#, fuzzy
 msgctxt "#Order_Quota_Half"
 msgid "up to 1/2 of"
 msgstr "до 1/2"
 
-#, fuzzy
 msgctxt "#Order_Quota_Quarter"
 msgid "up to 1/4 of"
 msgstr "до 1/4"
 
-#, fuzzy
 msgctxt "#Order_Quota_ThreeQuarter"
 msgid "up to 3/4 of"
 msgstr "до 3/4"
@@ -5311,47 +5290,42 @@ msgstr ""
 
 msgctxt "#StonemasonsGuild_tooltip"
 msgid "Sends stonemasons to work on monuments"
-msgstr "Каменщики отправляются на работу над монументом"
+msgstr "Каменотёсы отправляются на работу над монументом"
 
 msgctxt "#StonemasonsGuild_workers_0"
 msgid "This guild has no employees. Stonecarving is not possible."
 msgstr "В этой артели нет мастеров. Некому обрабатывать камень."
 
-#, fuzzy
 msgctxt "#StonemasonsGuild_workers_1"
 msgid ""
 "With hardly any employees at this guild, it seems to take forever for a "
 "stonemason to report for duty."
 msgstr ""
-"В артели почти никто не работает. Каменщика приходится дожидаться целую "
+"В этой артели почти нет работников, каменотёса приходится дожидаться целую "
 "вечность."
 
-#, fuzzy
 msgctxt "#StonemasonsGuild_workers_100"
 msgid ""
 "This guild has all the employees it needs. Stonemasons can work with maximal "
 "efficiency."
-msgstr "В артели хватает каменщиков, поэтому работа идет быстро."
+msgstr ""
+"В этой артели достаточно рабочих. Каменотёсы работают с максимальной "
+"эффективностью."
 
-#, fuzzy
 msgctxt "#StonemasonsGuild_workers_25"
 msgid "Very few people work here. There is a lengthy wait for stonemasonry."
-msgstr "Каменщиков очень мало. Приходится подолгу ожидать начала работ."
+msgstr "Здесь работает мало людей. Приходится подолгу ожидать начала работ."
 
-#, fuzzy
 msgctxt "#StonemasonsGuild_workers_50"
 msgid ""
 "This guild is understaffed, and provides fewer stonemasons than it could."
-msgstr "В артели не хватает рук, поэтому работает меньше каменщиков."
+msgstr "В этой артели не хватает рук, поэтому работает меньше каменотёсов."
 
-#, fuzzy
 msgctxt "#StonemasonsGuild_workers_75"
 msgid ""
 "This guild is working below maximum capacity. Work will be slightly slower "
 "as a result."
-msgstr ""
-"Артель работает не в полную силу. Из-за этого строительство идет немного "
-"медленнее."
+msgstr "Эта артель работает не в полную силу. Работа идёт немного медленнее."
 
 msgctxt "#StorageYard"
 msgid "Storage Yard"
@@ -5415,7 +5389,6 @@ msgctxt "#Storage_DeliveryManOut"
 msgid "Our delivery man is taking goods elsewhere."
 msgstr "Доставщик развозит товары."
 
-#, fuzzy
 msgctxt "#Storage_Order"
 msgid "Special orders"
 msgstr "Особые указания"
@@ -5425,7 +5398,6 @@ msgctxt "#Storage_Quantity"
 msgid "Storing"
 msgstr "Хранится"
 
-#, fuzzy
 msgctxt "#Storage_SpaceFor"
 msgid "Space for"
 msgstr "Можно разместить"
@@ -6177,9 +6149,8 @@ msgstr "Мы готовим столько разнорабочих, сколь�
 
 msgctxt "#WorkersCount"
 msgid "{0} / {1} workers"
-msgstr ""
+msgstr "{0} / {1} рабочих"
 
-#, fuzzy
 msgctxt "#WorkforceCount"
 msgid "{0} Employees ({1} needed)"
 msgstr "Рабочих: {0} (нужно {1})"

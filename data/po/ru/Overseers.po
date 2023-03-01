@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-02-28 01:09+0300\n"
+"PO-Revision-Date: 2023-02-28 20:51+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -180,7 +180,7 @@ msgstr ""
 
 msgctxt "#Chief_CitySentiment_Reason_Better"
 msgid "but the situation is improving."
-msgstr "но ситуация улучшается."
+msgstr ", но ситуация улучшается."
 
 msgctxt "#Chief_CitySentiment_Reason_Food"
 msgid "because of food shortages."
@@ -206,7 +206,6 @@ msgctxt "#Chief_Crime"
 msgid "Crime"
 msgstr "Преступность"
 
-#, fuzzy
 msgctxt "#Chief_Crime_0"
 msgid "No thefts reported."
 msgstr "Нет сообщений о кражах"
@@ -1784,7 +1783,6 @@ msgstr ""
 "Некоторым жителям хочется больше мест для отдыха и времяпрепровождения. "
 "Более широкий выбор развлечений подтолкнет их улучшить свои дома."
 
-#, fuzzy
 msgctxt "#Diversions_Title"
 msgid "Overseer of Diversions"
 msgstr "Советник по развлечениям"
@@ -3010,7 +3008,7 @@ msgstr "Отправить подарок"
 
 msgctxt "#Politics_Send_Company_Button"
 msgid "Send troops"
-msgstr ""
+msgstr "Отправить войска"
 
 #, fuzzy
 msgctxt "#Politics_Title"
@@ -3415,7 +3413,7 @@ msgstr "Царство"
 
 msgctxt "#Ratings_Kingdom_100"
 msgid "Your Kingdom is the best-rated in all Egypt!"
-msgstr "У самый лучший рейтинг Царства!"
+msgstr "У вашего города самый лучший рейтинг Царства!"
 
 #, fuzzy
 msgctxt "#Ratings_Kingdom_CanceledRequest"
