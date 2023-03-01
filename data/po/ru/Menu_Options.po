@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-02-15 20:56\n"
+"POT-Creation-Date: 2023-02-28 00:28\n"
 "PO-Revision-Date: 2023-02-28 00:49+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
@@ -47,6 +47,14 @@ msgstr "{0} лет"
 msgctxt "#AutoSaveDelayLabel_Disabled"
 msgid "Disabled"
 msgstr "Отключено"
+
+msgctxt "#AutoSaveQuantity"
+msgid "Autosaves max count"
+msgstr "Количество автосохранений"
+
+msgctxt "#AutoSaveToggle"
+msgid "Autosaves"
+msgstr "Автосохранения"
 
 msgctxt "#BazaarDefault"
 msgid "Bazaar Default Accept"
@@ -99,6 +107,18 @@ msgstr "Нормальный"
 msgctxt "#Difficulty_Title"
 msgid "Difficulty"
 msgstr "Уровень сложности"
+
+msgctxt "#Difficulty_Title_0_hover"
+msgid "A more relaxed way to play"
+msgstr "Более расслабленный способ игры."
+
+msgctxt "#Difficulty_Title_1_hover"
+msgid "The standard way of experiencing Pharaoh: A New Era"
+msgstr "Обычная сложность игры в Pharaoh: A New Era."
+
+msgctxt "#Difficulty_Title_2_hover"
+msgid "For those who seek more of a challenge"
+msgstr "Для тех, кто ищет настоящих сложностей."
 
 msgctxt "#Difficulty_Title_Hover"
 msgid "Set the difficulty level to how you feel most comfortable with."
@@ -181,6 +201,10 @@ msgstr ""
 msgctxt "#Monitor"
 msgid "Display"
 msgstr "Экран"
+
+msgctxt "#OverseerPause"
+msgid "Overseer Pause"
+msgstr "Советник включает паузу"
 
 msgctxt "#OverseerPause_0_hover"
 msgid "Opening any Overseer pauses the game"
@@ -339,42 +363,6 @@ msgstr ""
 "Все подключённые к дорожной сети постройки имеют доступ к общему фонду "
 "рабочей силы."
 
-msgctxt "#Difficulty_Title_0_hover"
-msgid "A more relaxed way to play"
-msgstr "Более расслабленный способ игры."
-
-msgctxt "#Difficulty_Title_1_hover"
-msgid "The standard way of experiencing Pharaoh: A New Era"
-msgstr "Обычная сложность игры в Pharaoh: A New Era."
-
-msgctxt "#Difficulty_Title_2_hover"
-msgid "For those who seek more of a challenge"
-msgstr "Для тех, кто ищет настоящих сложностей."
-
-msgctxt "#AutoSaveQuantity"
-msgid "Autosaves max count"
-msgstr "Количество автосохранений"
-
-msgctxt "#AutoSaveToggle"
-msgid "Autosaves"
-msgstr "Автосохранения"
-
-msgctxt "#OverseerPause"
-msgid "Overseer Pause"
-msgstr "Советник включает паузу"
-
 #~ msgctxt "#OverseerPause"
 #~ msgid "Overseer Pause Off"
 #~ msgstr "Советник включает паузу"
-
-#~ msgctxt "#Difficulty_Easy_Hover"
-#~ msgid "A more relaxed way to play"
-#~ msgstr ""
-
-#~ msgctxt "#Difficulty_Hard_Hover"
-#~ msgid "For those who seek more of a challenge"
-#~ msgstr ""
-
-#~ msgctxt "#Difficulty_Normal_Hover"
-#~ msgid "The standard way of experiencing Pharaoh: A New Era"
-#~ msgstr ""
