@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-28 00:28\n"
-"PO-Revision-Date: 2023-03-01 21:26+0300\n"
+"PO-Revision-Date: 2023-03-02 02:41+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -587,10 +587,9 @@ msgstr ""
 "Производство композитных луков остановилось из-за нехватки дерева. Доставьте "
 "его со склада или от лесорубов."
 
-#, fuzzy
 msgctxt "#BowMaker_storage"
 msgid "Stored wood<sprite name=\"Wood\">: {0} units."
-msgstr "Запасы дерева <sprite name=\"Wood\">: {0} ед."
+msgstr "Запасы древесины<sprite name=\"Wood\">: {0} мер."
 
 msgctxt "#BowMaker_tooltip"
 msgid ""
@@ -748,7 +747,7 @@ msgstr ""
 
 msgctxt "#BricklayersGuild_tooltip"
 msgid "Sends bricklayers to work on monuments"
-msgstr "Каменщики отправляются на работу над монументом"
+msgstr "Отправляет каменщиков на работу над монументом."
 
 msgctxt "#BricklayersGuild_workers_0"
 msgid "This guild has no employees. No bricks can be laid."
@@ -1056,10 +1055,9 @@ msgctxt "#ChariotMaker_storage_copper"
 msgid "Stored copper<sprite name=\"Copper\">: {0} units."
 msgstr "Запасы меди <sprite name=\"Copper\">: {0} ед."
 
-#, fuzzy
 msgctxt "#ChariotMaker_storage_wood"
 msgid "Stored wood<sprite name=\"Wood\">: {0} units."
-msgstr "Запасы дерева <sprite name=\"Wood\">: {0} ед."
+msgstr "Запасы древесины<sprite name=\"Wood\">: {0} мер."
 
 msgctxt "#ChariotMaker_tooltip"
 msgid ""
@@ -4710,10 +4708,9 @@ msgstr ""
 "Местные работники срезают на болотах тростник для производства папируса, без "
 "которого невозможно развивать образование."
 
-#, fuzzy
 msgctxt "#ReedGatherer_storage"
 msgid "Stored reeds<sprite name=\"Reeds\">: {0} units."
-msgstr "Запасы тростника <sprite name=\"Reeds\">: {0} ед."
+msgstr "Запасы тростника<sprite name=\"Reeds\">: {0} мер."
 
 #, fuzzy
 msgctxt "#ReedGatherer_tooltip"
@@ -4792,10 +4789,9 @@ msgstr ""
 "следующие к определенной цели (например, доставщики и базарные торговцы), "
 "могут сквозь них проходить."
 
-#, fuzzy
 msgctxt "#Roadblock_tooltip"
 msgid "Restricts walkers' patrol routes. Must be built on a road"
-msgstr "Ограничивает движение обходчиков. Размещается на дороге."
+msgstr "Ограничивает движение ходоков. Размещается на дороге."
 
 msgctxt "#Rubble"
 msgid "Rubble"
@@ -4956,10 +4952,9 @@ msgid ""
 "the games."
 msgstr "В доме сенета хватает гостей, но постоянный приток пива оживит игру."
 
-#, fuzzy
 msgctxt "#SenetHouse_storage"
 msgid "Stored beer <sprite name=\"Beer\">: {0} units"
-msgstr "Запасы пива <sprite name=\"Beer\">: {0} ед."
+msgstr "Запасы пива<sprite name=\"Beer\">: {0} мер."
 
 #, fuzzy
 msgctxt "#SenetHouse_tooltip"
@@ -5180,7 +5175,7 @@ msgstr ""
 
 msgctxt "#Shipwright_storage"
 msgid "Stored wood <sprite name=\"Wood\">: {0} units."
-msgstr "Запасы дерева<sprite name=\"Wood\">: {0} мер."
+msgstr "Запасы древесины<sprite name=\"Wood\">: {0} мер."
 
 #, fuzzy
 msgctxt "#Shipwright_tooltip"
@@ -5292,7 +5287,7 @@ msgstr ""
 
 msgctxt "#StonemasonsGuild_tooltip"
 msgid "Sends stonemasons to work on monuments"
-msgstr "Каменотёсы отправляются на работу над монументом"
+msgstr "Отправляет каменотёсов на работу над монументом."
 
 msgctxt "#StonemasonsGuild_workers_0"
 msgid "This guild has no employees. Stonecarving is not possible."
@@ -6063,12 +6058,11 @@ msgctxt "#WoodCutter_storage"
 msgid "Holds {0} raw wood<sprite name=\"Wood\">."
 msgstr "Запасы бревен <sprite name=\"Wood\">: {0} ед."
 
-#, fuzzy
 msgctxt "#WoodCutter_tooltip"
 msgid ""
 "Dispatches 3 tree-cutters to gather as much wood <sprite name=\"Wood\"> as "
 "possible"
-msgstr "Три лесоруба отправляются добывать дерево <sprite name=\"Wood\">."
+msgstr "Отравляет трёх лесорубов добывать дерево <sprite name=\"Wood\">."
 
 #, fuzzy
 msgctxt "#WoodCutter_workers_0"
