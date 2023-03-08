@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-03-02 01:12+0300\n"
+"PO-Revision-Date: 2023-03-08 19:44+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -208,7 +208,7 @@ msgstr "Преступность"
 
 msgctxt "#Chief_Crime_0"
 msgid "No thefts reported."
-msgstr "Нет сообщений о кражах"
+msgstr "Нет сообщений о кражах."
 
 #, fuzzy
 msgctxt "#Chief_Crime_0_hover"
@@ -289,17 +289,14 @@ msgctxt "#Chief_Crime_StolenDebens"
 msgid "{0} db stolen."
 msgstr "украдено {0} <sprite name=\"Deben\">."
 
-#, fuzzy
 msgctxt "#Chief_Employment"
 msgid "Employment"
-msgstr "Трудоустройство"
+msgstr "Работа"
 
-#, fuzzy
 msgctxt "#Chief_Employment_Perfect"
 msgid "The city has no employment problems."
-msgstr "В городе нет проблем с трудоустройством"
+msgstr "В городе нет проблем с работой."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Perfect_hover"
 msgid ""
 "High unemployment can cause your otherwise happy citizens to depart the city "
@@ -307,18 +304,16 @@ msgid ""
 "and services throughout the city."
 msgstr ""
 "Высокий уровень безработицы может заставить даже счастливых жителей покинуть "
-"город в поисках работы, тогда как недостаток рабочей силы приведет к "
-"сокращению количества предлагаемых товаров и услуг во всем городе."
+"город в поисках работы, тогда как недостаток рабочей силы приведёт к "
+"сокращению производства товаров и предлагаемых услуг по всему городу."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Shortage_1"
 msgid "The city is short by {0} worker."
-msgstr "Городу не хватает рабочих ({0})"
+msgstr "Городу не хватает {0} рабочих."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Shortage_150"
 msgid "SERIOUS: The city is short by {0} workers."
-msgstr "СЕРЬЕЗНО: городу не хватает рабочих ({0})"
+msgstr "СЕРЬЁЗНО: городу не хватает {0} рабочих."
 
 #, fuzzy
 msgctxt "#Chief_Employment_Shortage_150_hover"
@@ -433,10 +428,9 @@ msgctxt "#Chief_Finances_EquivalentLastYear"
 msgid "We are doing about as well as last year."
 msgstr "Результаты такие же, как в прошлом году"
 
-#, fuzzy
 msgctxt "#Chief_Finances_LostMoney"
 msgid "This year assets have fallen by {0} Db."
-msgstr "Запасы казны в этом году упали на {0} <sprite name=\"Deben\">"
+msgstr "Запасы казны в этом году упали на {0} дебенов."
 
 #, fuzzy
 msgctxt "#Chief_Finances_LostMoney_hover"
@@ -469,10 +463,9 @@ msgstr ""
 "жильем высокого уровня, и проверяйте по слою податей, что сборщики "
 "охватывают все районы."
 
-#, fuzzy
 msgctxt "#Chief_Finances_MadeMoney"
 msgid "This year assets have risen by {0} Db."
-msgstr "Запасы казны в этом году выросли на {0} <sprite name=\"Deben\">"
+msgstr "Запасы казны в этом году выросли на {0} дебенов."
 
 #, fuzzy
 msgctxt "#Chief_Finances_MadeMoney_hover"
@@ -490,15 +483,13 @@ msgctxt "#Chief_FoodProduction"
 msgid "Food Production"
 msgstr "Производство пищи"
 
-#, fuzzy
 msgctxt "#Chief_FoodProduction_Eat_time_1"
 msgid "IMPORTANT: We eat a little more than we produce."
-msgstr "ВАЖНО: мы съедаем чуть больше, чем производим"
+msgstr "ВАЖНО: Мы съедаем чуть больше, чем производим."
 
-#, fuzzy
 msgctxt "#Chief_FoodProduction_Eat_time_1_5"
 msgid "SERIOUS: We eat more than we produce."
-msgstr "СЕРЬЕЗНО: мы съедаем больше, чем производим"
+msgstr "СЕРЬЁЗНО: Мы съедаем больше, чем производим."
 
 #, fuzzy
 msgctxt "#Chief_FoodProduction_Eat_time_1_5_hover"
@@ -526,10 +517,9 @@ msgstr ""
 "стройте больше ферм, хижин охотника или скотоводческих ферм, либо увеличьте "
 "импорт продуктов питания."
 
-#, fuzzy
 msgctxt "#Chief_FoodProduction_Eat_time_2"
 msgid "URGENT: We eat much more than we produce."
-msgstr "СРОЧНО: мы съедаем куда больше, чем производим"
+msgstr "СРОЧНО: Мы съедаем куда больше, чем производим."
 
 #, fuzzy
 msgctxt "#Chief_FoodProduction_Eat_time_2_hover"
@@ -546,15 +536,13 @@ msgstr ""
 "причалов или скотоводческих ферм. Вы также можете импортировать пищу из "
 "других городов. Урожайность на полях можно улучшить с помощью орошения."
 
-#, fuzzy
 msgctxt "#Chief_FoodProduction_Production_time_1"
 msgid "We produce just enough to feed everyone."
-msgstr "Мы производим ровно столько, чтобы накормить всех"
+msgstr "Мы производим ровно столько, чтобы накормить всех."
 
-#, fuzzy
 msgctxt "#Chief_FoodProduction_Production_time_1_5"
 msgid "We produce a little more than we eat."
-msgstr "Мы производим чуть больше, чем съедаем"
+msgstr "Мы производим чуть больше, чем съедаем."
 
 #, fuzzy
 msgctxt "#Chief_FoodProduction_Production_time_1_5_hover"
@@ -582,10 +570,9 @@ msgstr ""
 "охотника, скотоводческих ферм и завезенных продуктов питания, чтобы "
 "прокормить население."
 
-#, fuzzy
 msgctxt "#Chief_FoodProduction_Production_time_2"
 msgid "We produce much more than we eat."
-msgstr "Мы производим куда больше, чем съедаем"
+msgstr "Мы производим куда больше, чем съедаем."
 
 #, fuzzy
 msgctxt "#Chief_FoodProduction_Production_time_2_hover"
@@ -803,25 +790,21 @@ msgctxt "#Chief_Kingdom"
 msgid "Kingdom"
 msgstr "Царство"
 
-#, fuzzy
 msgctxt "#Chief_Kingdom_Request_0"
 msgid "There are no outstanding requests upon our city."
-msgstr "Запросов от других городов нет"
+msgstr "Нет невыполненных запросов к нашему городу."
 
-#, fuzzy
 msgctxt "#Chief_Kingdom_Request_1"
 msgid "There are some outstanding requests upon our city."
-msgstr "У нас есть пара запросов от других городов"
+msgstr "Есть пара невыполненных запросов к нашему городу."
 
-#, fuzzy
 msgctxt "#Chief_Kingdom_Request_2"
 msgid "There are several outstanding requests upon our city."
-msgstr "У нас есть несколько запросов от других городов"
+msgstr "У нас есть несколько невыполненных запросов к нашему городу."
 
-#, fuzzy
 msgctxt "#Chief_Kingdom_Request_3"
 msgid "There are many outstanding requests upon our city."
-msgstr "У нас есть много запросов от других городов"
+msgstr "Есть много невыполненных запросов к нашему городу."
 
 #, fuzzy
 msgctxt "#Chief_Kingdom_hover_1"
@@ -949,10 +932,9 @@ msgstr ""
 "переезжать люди (а ваши подданные не покинут его в поисках лучшей доли!). "
 "Стройте больше жилья, чтобы город рос и развивался."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Leave_PoorCitySentiment"
 msgid "People are leaving because of poor City Sentiment."
-msgstr "Люди уезжают из-за плохих настроений в городе"
+msgstr "Люди уезжают из-за плохих настроений в городе."
 
 #, fuzzy
 msgctxt "#Chief_Migration_Leave_PoorCitySentiment_hover"
@@ -1062,10 +1044,9 @@ msgstr ""
 "переезжать люди. Создайте больше рабочих мест, построив новые производства, "
 "если хотите увеличить приток поселенцев."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Normal"
 msgid "People are immigrating to the city."
-msgstr "В город переезжают новые люди"
+msgstr "Люди приезжают в город."
 
 #, fuzzy
 msgctxt "#Chief_Migration_Normal_hover"
@@ -1167,10 +1148,9 @@ msgctxt "#Chief_Military_AttackSoon"
 msgid "Enemy troops at our gates."
 msgstr "Вражеское войско у наших ворот."
 
-#, fuzzy
 msgctxt "#Chief_Military_NoAttack"
 msgid "We have no reported threats."
-msgstr "Нет сообщений об угрозах городу"
+msgstr "Нет сообщений об угрозах."
 
 #, fuzzy
 msgctxt "#Chief_Military_NoAttack_hover"
@@ -1509,9 +1489,8 @@ msgstr "Уровень экспорта будет устанавливать с
 #, fuzzy
 msgctxt "#Commerce_ExportWhenOver"
 msgid "Export when over"
-msgstr "Экспортировать после"
+msgstr "Экспорт, если выше"
 
-#, fuzzy
 msgctxt "#Commerce_ExportingAsNeeded"
 msgid "Exporting surpluses"
 msgstr "Экспорт излишков"
@@ -1526,7 +1505,6 @@ msgctxt "#Commerce_ImportAsNeeded"
 msgid "Let Overseer set import level"
 msgstr "Уровень импорта будет устанавливать советник"
 
-#, fuzzy
 msgctxt "#Commerce_ImportToMaintain"
 msgid "Import to maintain"
 msgstr "Импортировать до"
@@ -1543,7 +1521,7 @@ msgstr "Импорт до"
 
 msgctxt "#Commerce_NoTrade"
 msgid "Do not trade"
-msgstr ""
+msgstr "Не торговать"
 
 #, fuzzy
 msgctxt "#Commerce_NotTradable"
@@ -1596,7 +1574,7 @@ msgstr ""
 
 msgctxt "#Company_Send_Confirm_Text"
 msgid "{[company_name]} has been sent to {[city_name]}"
-msgstr ""
+msgstr "Отряд {[company_name]} отправлен в город {[city_name]}"
 
 msgctxt "#Company_Send_Confirm_Title"
 msgid "Send Company"
@@ -1808,10 +1786,9 @@ msgctxt "#FestivalLavish"
 msgid "Lavish festival"
 msgstr "Роскошный праздник"
 
-#, fuzzy
 msgctxt "#Festival_Preparing"
 msgid "Preparing festival for {[god]}"
-msgstr "На этом празднике будет восхваляться {[god]}"
+msgstr "Началась подготовка праздника. На нём будет чествоваться {[god]}"
 
 msgctxt "#Fort_Not_Built"
 msgid "Fort not built"
@@ -1843,7 +1820,6 @@ msgctxt "#Granaries_Census_desc"
 msgid "Population composition by age (in years)"
 msgstr "Возрастной состав населения (в годах)"
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_EX1"
 msgid "Right now we eat a little more than we produce. "
 msgstr "Сейчас мы съедаем чуть больше, чем производим."
@@ -1858,104 +1834,82 @@ msgstr ""
 "Мы производим слишком мало еды. Нашему растущему городу потребуется ещё "
 "больше."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_EX1-5_shrink"
 msgid "We eat more than we produce, but our shrinking city will eat less."
 msgstr ""
-"Мы съедаем больше, чем производим, но население уменьшается, и скоро нам "
-"потребуется меньше еды."
+"Мы съедаем больше, чем производим, но уменьшающийся город будет есть меньше."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_EX1_growth"
 msgid "We eat a bit more than we produce. Our growing city will need more."
 msgstr ""
-"Мы съедаем чуть больше, чем производим. Нашему растущему городу нужна еще "
-"пища."
+"Мы съедаем чуть больше, чем производим. Нашему растущему городу понадобится "
+"ещё."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_EX1_shrink"
 msgid "We eat a bit more than we produce, so expect our city to shrink."
-msgstr ""
-"Мы съедаем чуть больше, чем производим, поэтому население скоро уменьшится."
+msgstr "Мы съедаем чуть больше, чем производим, скоро город может уменьшиться."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_EX2"
 msgid "We eat much more than we produce!"
 msgstr "Мы съедаем куда больше, чем производим!"
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_EX2_growth"
 msgid "We produce far too little food. Our growing city will need even more."
 msgstr ""
-"Мы производим слишком мало еды. Нашему растущему городу потребуется еще "
+"Мы производим крайне мало еды. Нашему растущему городу потребуется ещё "
 "больше."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_EX2_shrink"
 msgid "We eat much more than we produce, so expect our city to shrink."
-msgstr ""
-"Мы съедаем куда больше, чем производим, поэтому население скоро уменьшится."
+msgstr "Мы съедаем куда больше, чем производим, скоро город может уменьшиться."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_Number"
 msgid "We produce or import enough food for about {0} people."
-msgstr "Мы производим или покупаем пищи на {0} чел."
+msgstr "Мы производим или покупаем пищи на {0} человек."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_PX1"
 msgid "Right now we produce just enough to feed everyone."
 msgstr "Сейчас мы производим ровно столько, чтобы накормить всех."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_PX1-5"
 msgid "Right now we produce a little more than we eat."
 msgstr "Сейчас мы производим чуть больше, чем съедаем."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_PX1-5_growth"
 msgid "We produce a little surplus food, and our growing city will need it."
 msgstr ""
 "У нас есть излишки пищи, и скоро они понадобятся нашему растущему городу."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_PX1-5_shrink"
 msgid "We produce a little extra food. Our shrinking city will eat even less."
 msgstr ""
-"Мы производим чуть больше пищи, чем надо, но население уменьшается, и скоро "
-"нам потребуется меньше еды."
+"Мы производим чуть больше пищи. Уменьшающийся город будет есть ещё меньше."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_PX1_growth"
 msgid "Now we produce just enough food, but our growing city will need more."
 msgstr ""
-"Пищи как раз хватает на всех, но нашему растущему городу вскоре потребуется "
-"больше."
+"Мы производим достаточное количество пищи, но нашему растущему городу "
+"потребуется ещё больше."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_PX1_shrink"
 msgid "We produce no extra food, and our shrinking city will eat even less. "
 msgstr ""
-"Мы не производим лишней пищи, но население уменьшается, и скоро нам "
-"потребуется меньше еды."
+"Мы не производим больше пищи, а уменьшающийся город будет есть ещё меньше."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_PX2"
 msgid "Right now we produce much more than we eat."
 msgstr "Сейчас мы производим куда больше, чем съедаем."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_PX2_growth"
 msgid "We produce a lot of extra food, but our growing city will need more."
 msgstr ""
-"Мы производим много излишков пищи, но нашему растущему городу вскоре "
-"потребуется больше."
+"Мы производим очень много пищи, но нашему растущему городу потребуется ещё "
+"больше."
 
-#, fuzzy
 msgctxt "#Granaries_FoodProduction_PX2_shrink"
 msgid "We produce a lot of extra food. Our shrinking city will need even less."
 msgstr ""
-"Мы производим слишком много пищи. Население уменьшается, и скоро нам "
-"потребуется меньше еды."
+"Мы производим очень много пищи. Уменьшающийся город будет есть ещё меньше."
 
 msgctxt "#Granaries_ForXMonths"
 msgid "{[number]} Months[I2p_One]1 Month"
@@ -1995,15 +1949,13 @@ msgctxt "#Granaries_Migration_NoSpace"
 msgid "Lack of housing vacancies limits immigration."
 msgstr "Нехватка жилья снижает приток людей в город."
 
-#, fuzzy
 msgctxt "#Granaries_Migration_None"
 msgid "Nobody wants to live in our city."
-msgstr "В нашем городе не хочет жить никто."
+msgstr "Никто не хочет жить в нашем городе."
 
-#, fuzzy
 msgctxt "#Granaries_Migration_Normal"
 msgid "Overall, people are coming, or wish to come, to our city."
-msgstr "В целом люди перебираются или хотят перебраться к нам в город."
+msgstr "В целом люди прибывают или хотят прибыть в наш город."
 
 #, fuzzy
 msgctxt "#Granaries_Migration_Slums"
@@ -2030,7 +1982,6 @@ msgstr ""
 "{[number]} поселенцев прибыло в этом месяце.[I2p_One]{[number]} поселенец "
 "прибыл в этом месяце.[I2p_Few]{[number]} поселенца прибыло в этом месяцев."
 
-#, fuzzy
 msgctxt "#Granaries_NoFood"
 msgid "No food in stock for the coming month"
 msgstr "Нет запасов пищи на будущий месяц."
@@ -2044,20 +1995,17 @@ msgctxt "#Granaries_Society_desc"
 msgid "Population composition by income"
 msgstr "Состав населения по доходу"
 
-#, fuzzy
 msgctxt "#Granaries_Society_end"
 msgid "Estate dwellers"
-msgstr "Проживающих в имениях"
+msgstr "Жители имений"
 
-#, fuzzy
 msgctxt "#Granaries_Society_start"
 msgid "Hut dwellers"
-msgstr "Проживающих в лачугах"
+msgstr "Жители лачуг"
 
-#, fuzzy
 msgctxt "#Granaries_SpaceLeft"
 msgid "Current housing can hold {0} more people"
-msgstr "В имеющемся жилье можно разместить еще {0} чел."
+msgstr "В имеющемся жилье можно разместить ещё {0} человек."
 
 msgctxt "#Granaries_Title"
 msgid "Overseer of the Granaries"
@@ -2568,23 +2516,20 @@ msgstr ""
 "Работа над этой ступенчатой пирамидой ещё не началась. Вам нужны "
 "чернорабочие для подготовки и запасы камня для завершения строительства."
 
-#, fuzzy
 msgctxt "#Monuments_SunTemple_Completed"
 msgid "This sun temple is now complete!"
-msgstr "Храм Солнца готов!"
+msgstr "Этот храм Солнца готов!"
 
-#, fuzzy
 msgctxt "#Monuments_SunTemple_Completion"
 msgid "This sun temple is at {0}% completion"
-msgstr "Готовность храма Солнца: {0}%."
+msgstr "Этот храм Солнца готов на {0}%."
 
-#, fuzzy
 msgctxt "#Monuments_SunTemple_NotStarted"
 msgid ""
 "Work on this sun temple has not yet begun. You will need blocks of sandstone "
 "to begin this project."
 msgstr ""
-"Работа над этим храмом Солнца еще не началась. Вам нужны блоки песчаника для "
+"Работа над этим храмом Солнца ещё не началась. Вам нужны блоки песчаника для "
 "начала строительства."
 
 msgctxt "#Monuments_Title"
@@ -2766,131 +2711,108 @@ msgctxt "#Politics_KingdomRating"
 msgid "Kingdom Rating"
 msgstr "Рейтинг Царства"
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_0"
 msgid "Popular opinion would consign your remains to the jackals."
-msgstr "В народе мечтают кинуть ваши останки на съедение шакалам."
+msgstr "Люди считают, что ваши останки следует бросить на растерзание шакалам."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_10"
 msgid "It is widely believed that your very presence causes malaria."
-msgstr ""
-"В народе ходит поверье, что одним своим присутствием вы вызываете малярию."
+msgstr "Люди считают, что от вашего вида возникает малярия."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_100"
 msgid "All people of Egypt wish to serve you eternally in the Field of Reeds."
 msgstr "Народ Египта мечтает вечно служить вам на полях Иалу."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_15"
 msgid "Apothecaries agree that your name is more bitter than any known herb."
 msgstr ""
-"Аптекари считают, что звук вашего имени горше любых лекарственных трав."
+"Аптекари сходятся во мнении, что ваше имя горше любых лекарственных трав."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_20"
 msgid "Mothers use your name to frighten their small children."
-msgstr "Матери пугают вашим именем детей."
+msgstr "Вашим именем матери пугают своих малышей."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_25"
 msgid "Your name is never mentioned in polite company."
-msgstr "Ваше имя никогда не упоминается в приличном обществе."
+msgstr "Ваше имя не упоминается в приличном обществе."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_30"
 msgid "Your reputation is base and your own family shuns you."
-msgstr "Вашей репутации некуда падать, и от вас отвернулся собственный род."
+msgstr "От вас отвернулся ваш собственный род, вашей репутации некуда падать."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_35"
 msgid "Your name is recognized but ridiculed throughout the Two Lands."
-msgstr "Ваше имя знают, но высмеивают по всем Двум землям."
+msgstr "Ваше имя вызывает смех в Двух землях."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_40"
 msgid ""
 "People who matter know your name and history although they tend to belittle "
 "you."
 msgstr ""
-"Люди, мнение которых имеет значение, знают ваше имя и вашу историю, хотя и "
-"частенько вас унижают."
+"Важным людям известны ваше имя и история, хотя они склонны вас принижать."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_45"
 msgid ""
 "Few people in the Kingdom know your record and those who do are unimpressed."
 msgstr ""
-"Мало кто в стране знает о ваших деяниях, а те, кто слышали о них, остались "
-"не впечатлены."
+"Немногие в Царстве знают о ваших деяниях, а те, кто знают, не особо "
+"впечатлены."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_5"
 msgid "You are popular among jugglers who use you in their comedies."
-msgstr "Жонглеры высмеивают вас в своих номерах."
+msgstr "Ваше имя часто используется жонглёрами в своих комедийных номерах."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_50"
 msgid "Those few people who recognize your name have no opinion of you."
 msgstr ""
-"Те немногие люди, кто знает ваше имя, не имеют о вас никакого особенного "
-"мнения."
+"Люди из числа тех, кому известно ваше имя, не имеют о вас особого мнения."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_55"
 msgid ""
 "Your meager achievements aren't famous but those who know you generally like "
 "you."
 msgstr ""
-"Ваши скудные достижения не снискали вам большой славы, но знающие вас люди, "
-"как правило, хорошего о вас мнения."
+"Ваши скудные достижения не снискали вам большой славы, но знающие о вас "
+"люди, как правило, хорошего о вас мнения."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_60"
 msgid ""
 "People who matter know of your history and generally approve of what you've "
 "done."
 msgstr ""
 "Люди, мнение которых имеет значение, знают вашу историю и в целом одобряют "
-"сделанное вами."
+"то, что вы сделали."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_65"
 msgid "Your name is widely recognized and applauded throughout the Two Lands."
-msgstr "Ваше имя знают и вас уважают по всем Двум землям."
+msgstr "Ваше имя знают и уважают в Двух землях."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_70"
 msgid ""
 "Your reputation is good and you are often approached by long-lost relatives."
 msgstr ""
-"У вас хорошая репутация, и к вам часто обращаются дальние родственники."
+"У вас хорошая репутация, и к вам часто обращаются давно потерянные "
+"родственники."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_75"
 msgid "The mention of your name lightens the hearts of those who hear it."
-msgstr "Одно упоминание вашего имени снимает груз с людских сердец."
+msgstr "Одно упоминание вашего имени облегчает сердца тех, кто его слышит."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_80"
 msgid "Mothers throughout the Kingdom name their children after you."
-msgstr "Матери по всей стране называют вашим именем детей."
+msgstr "Матери по всему Царству называют вашим именем своих детей."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_85"
 msgid "Many Egyptian cities contemplate holding festivals in your honor."
-msgstr "Многие города Египта думают о проведении праздников в вашу честь."
+msgstr "Многие города Египта планируют провести праздники в вашу честь."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_90"
 msgid ""
 "The most popular dance sweeping Egypt interprets the story of your life."
 msgstr ""
-"Самый популярный танец во всем Египте пересказывает в движениях историю "
+"Самый популярный танец во всём Египте пересказывает в движениях историю "
 "вашей жизни."
 
-#, fuzzy
 msgctxt "#Politics_KingdomRating_95"
 msgid ""
 "Musicians compose songs to you and your name is carved on every public space."
@@ -3256,10 +3178,9 @@ msgctxt "#Ratings_Culture"
 msgid "Culture"
 msgstr "Культура"
 
-#, fuzzy
 msgctxt "#Ratings_Culture_100"
 msgid "This city is more Cultured than any in Egypt!"
-msgstr "Это самый культурный город во всем Египте!"
+msgstr "Это самый культурный город во всём Египте!"
 
 #, fuzzy
 msgctxt "#Ratings_Culture_DancersNeeded"
@@ -3367,7 +3288,7 @@ msgstr "Нажмите здесь, чтобы получить совет о р�
 
 msgctxt "#Ratings_HouseNeededTooltip"
 msgid "Houses needed"
-msgstr ""
+msgstr "Требуется домов"
 
 msgctxt "#Ratings_Kingdom"
 msgid "Kingdom"
@@ -3652,7 +3573,6 @@ msgctxt "#Temples_Appeasement"
 msgid "Appeasement"
 msgstr "Умилостивление"
 
-#, fuzzy
 msgctxt "#Temples_Displeased_Bast"
 msgid ""
 "When kind Bast becomes upset, people are not safe in their own homes. "
@@ -3662,26 +3582,23 @@ msgstr ""
 "собственных домах. Скорее задобрите богиню или готовьтесь к чуме и "
 "разрушениям!"
 
-#, fuzzy
 msgctxt "#Temples_Displeased_Osiris"
 msgid ""
 "Osiris' displeasure is dangerous. He can destroy your crops and empty your "
 "Granaries, or even withhold the Inundation."
 msgstr ""
 "Недовольство Осириса очень опасно. Он может уничтожить посевы и опустошить "
-"ваши амбары или даже не даст случиться разливу."
+"ваши амбары или даже отменить разлив."
 
-#, fuzzy
 msgctxt "#Temples_Displeased_Ptah"
 msgid ""
 "Ptah, whose beneficence your manufacturers require, grows unhappy. Regain "
 "his favor, or brace your workers for the loss of whole industries and "
 "products."
 msgstr ""
-"Птах, от чьей милости зависит все производство, недоволен. Верните его "
-"расположение или готовьтесь к падению промышленности и пропаже товаров."
+"Птах, от чьей милости зависит всё производство, недоволен. Верните его "
+"расположение или готовьтесь к падению промышленности и потере товаров."
 
-#, fuzzy
 msgctxt "#Temples_Displeased_Ra"
 msgid ""
 "When mighty Ra, father to Pharaoh, grows displeased, he will make your "
@@ -3690,17 +3607,16 @@ msgid ""
 msgstr ""
 "Если вы рассердите отца фараона, могущественного Ра, его недовольство "
 "передастся соседним городам. Ярость Ра способна разрушить гармонию внутри "
-"государства."
+"Царства."
 
-#, fuzzy
 msgctxt "#Temples_Displeased_Seth"
 msgid ""
 "The bravest soldiers tremble before the wrath of Seth. Repair the god's "
 "opinion of your city quickly, or watch your battalion be swept away!"
 msgstr ""
 "Самые храбрейшие воины дрожат от гнева Сета. Скорее восстановите доброе имя "
-"своего города в его глазах или смотрите, как разозленный бог сметает ваши "
-"легионы."
+"своего города в его глазах или увидите, как разозлённый бог сметает ваши "
+"отряды!"
 
 #, fuzzy
 msgctxt "#Temples_FestivalButton"
@@ -3719,42 +3635,36 @@ msgstr ""
 "{[number]} месяцев с последнего праздника.[I2p_One]{[number]} месяц с "
 "последнего праздника.[I2p_Few]{[number]} месяца с последнего праздника."
 
-#, fuzzy
 msgctxt "#Temples_LastFestival_0"
 msgid "The hardiest revelers have not slept off the last festival yet."
-msgstr "Самые отъявленные гуляки еще не выспались после последнего праздника."
+msgstr "Самые отъявленные гуляки ещё не выспались после последнего праздника."
 
-#, fuzzy
 msgctxt "#Temples_LastFestival_12"
 msgid "People cannot remember the last festival to be held in the city."
-msgstr "Люди плохо помнят, когда в городе последний раз проводился праздник."
+msgstr ""
+"Люди не могут вспомнить, когда в городе последний раз проводился праздник."
 
-#, fuzzy
 msgctxt "#Temples_LastFestival_24"
 msgid "Citizens grumble at the lack of festivals held in your city."
-msgstr "Жители недовольны, что в городе практически не проводятся праздники."
+msgstr "Жители ворчат, что в городе практически не проводятся праздники."
 
-#, fuzzy
 msgctxt "#Temples_LastFestival_3"
 msgid "People still smile when they remember your last festival."
-msgstr "Люди до сих пор с улыбками вспоминают ваш последний праздник."
+msgstr "Люди до сих пор с улыбками вспоминают последний праздник."
 
-#, fuzzy
 msgctxt "#Temples_LastFestival_48"
 msgid ""
 "Your people cannot bear the prospect of another year without a festival."
 msgstr ""
-"Ваши люди не могут вынести мысли, что еще один год пройдет без праздников."
+"Ваши люди не могут вынести мысли, что ещё один год пройдёт без праздников."
 
-#, fuzzy
 msgctxt "#Temples_LastFestival_6"
 msgid "The memory of the earlier festival is fading from people's minds."
-msgstr "Воспоминания о прошедшем празднике уже стираются в памяти людей."
+msgstr "Люди уже забывают, когда в последний раз прошёл праздник."
 
-#, fuzzy
 msgctxt "#Temples_LastFestival_96"
 msgid "Depressed residents doubt that they will live to see another festival."
-msgstr "Подавленные жители сомневаются, что доживут до ближайшего праздника."
+msgstr "Подавленные жители сомневаются, что доживут до следующего праздника."
 
 msgctxt "#Temples_MonthsSinceFestival"
 msgid "Months since Festival"
@@ -3871,13 +3781,12 @@ msgctxt "#Temples_Temples"
 msgid "Temple"
 msgstr "Храмы"
 
-#, fuzzy
 msgctxt "#Temples_ThirdTempleNeeded"
 msgid ""
 "Discerning citizens say that their neighborhoods would attract a better "
 "class of scribe if they had easy access to a third religion."
 msgstr ""
-"Разборчивые жители утверждают, что в их кварталах начнут селиться писцы, "
+"Взыскательные жители утверждают, что в их кварталах начнут селиться писцы, "
 "если у них будет доступ к святилищам третьего бога."
 
 msgctxt "#Temples_Title"
@@ -3892,15 +3801,13 @@ msgctxt "#Treasury_Balance"
 msgid "Balance"
 msgstr "Баланс"
 
-#, fuzzy
 msgctxt "#Treasury_CityDebt"
 msgid "City has a debt of {0}<sprite name=\"Deben\">"
-msgstr "Внешний долг города: {0} <sprite name=\"Deben\">"
+msgstr "Долг города: {0}<sprite name=\"Deben\">"
 
-#, fuzzy
 msgctxt "#Treasury_CityTreasure"
 msgid "City treasury has assets of {0}<sprite name=\"Deben\">"
-msgstr "Запасы городской казны: {0} <sprite name=\"Deben\">"
+msgstr "Запасы городской казны: {0}<sprite name=\"Deben\">"
 
 msgctxt "#Treasury_Construction"
 msgid "Construction"
@@ -3908,11 +3815,11 @@ msgstr "Строительство"
 
 msgctxt "#Treasury_CoverageTitle"
 msgid "Coverage"
-msgstr ""
+msgstr "Покрытие"
 
 msgctxt "#Treasury_CurrentTitle"
 msgid "Current treasury"
-msgstr ""
+msgstr "Текущая казна"
 
 msgctxt "#Treasury_ExportsEarn"
 msgid "Exports earn"
@@ -3966,10 +3873,9 @@ msgctxt "#Treasury_TaxUncollected"
 msgid "{0}<sprite name=\"Deben\"> uncollected this year"
 msgstr "{0}<sprite name=\"Deben\"> не собрано в этом году"
 
-#, fuzzy
 msgctxt "#Treasury_TaxYield"
 msgid "yields an estimated {0}<sprite name=\"Deben\">"
-msgstr "по расчетам приносят {0} <sprite name=\"Deben\">"
+msgstr "по расчётам приносят {0}<sprite name=\"Deben\">"
 
 msgctxt "#Treasury_TaxedPopulation"
 msgid "{0}% of population registered for tax"
@@ -4043,7 +3949,6 @@ msgctxt "#Workers_Education"
 msgid "Education"
 msgstr "Образование"
 
-#, fuzzy
 msgctxt "#Workers_EmployedWorkforce"
 msgid "{0} Employed workforce"
 msgstr "Трудоустроенные: {0}"
@@ -4092,12 +3997,10 @@ msgctxt "#Workers_Title"
 msgid "Overseer of the Workers"
 msgstr "Советник по рабочей силе"
 
-#, fuzzy
 msgctxt "#Workers_UnemployedWorkforce"
 msgid "{0} Unemployed workforce ({1}%)"
 msgstr "Безработные: {0} ({1}%)"
 
-#, fuzzy
 msgctxt "#Workers_WorkersNeeded"
 msgid "Need"
 msgstr "Требуется"

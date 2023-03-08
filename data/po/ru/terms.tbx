@@ -2584,6 +2584,162 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="azamat_h._hackimov-215">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>papyrus maker</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>мастерская папируса</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-216">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>military academy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>военная школа</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-217">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>cattle ranch</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>скотоводческая ферма</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-218">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>chief overseer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>главный советник</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-219">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>plaster</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>штукатурка</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-220">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>delivery man</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>разносчик</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-221">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>overseer of diversions</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>советник по развлечениям</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-222">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>overseer of the granaries</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>советник по продовольствию</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-223">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>overseer of public health</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>советник по здравоохранению</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-224">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>overseer of learning</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>советник по образованию</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-225">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>overseer of monuments</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>советник по монументам</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-226">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>city sentiment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>настроения в городе</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-227">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>political overseer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>советник по политике</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>

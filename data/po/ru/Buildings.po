@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-28 00:28\n"
-"PO-Revision-Date: 2023-03-02 02:41+0300\n"
+"PO-Revision-Date: 2023-03-06 02:46+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -15,10 +15,9 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
-#, fuzzy
 msgctxt "#Academy"
 msgid "Military Academy"
-msgstr "Школа военного дела"
+msgstr "Военная школа"
 
 msgctxt "#Administration"
 msgid "Administration"
@@ -76,14 +75,13 @@ msgctxt "#ArchitectPost_Architect_Out"
 msgid "Our architect is hard at work."
 msgstr "Наш архитектор работает в поте лица."
 
-#, fuzzy
 msgctxt "#ArchitectPost_flavor"
 msgid ""
 "Egyptian architects are the most advanced the world has ever known. Their "
 "vigilance prevents buildings from collapsing."
 msgstr ""
-"Никто не способен превзойти мастерство египетских зодчих. К тому же они "
-"следят за безопасностью зданий."
+"Никто не способен превзойти мастерство египетских архитекторов. Их "
+"бдительность оберегает здания от обрушения."
 
 msgctxt "#ArchitectPost_tooltip"
 msgid ""
@@ -237,14 +235,13 @@ msgctxt "#Bandstand"
 msgid "Bandstand"
 msgstr "Эстрада"
 
-#, fuzzy
 msgctxt "#Bandstand_J_M"
 msgid ""
 "This square offers its community both exciting juggling and music from local "
 "musicians."
 msgstr ""
-"Здесь жители могут посмотреть увлекательные выступления жонглеров и "
-"послушать местных музыкантов."
+"На этой площади жители могут посмотреть увлекательные выступления жонглёров "
+"и послушать местных музыкантов."
 
 #, fuzzy
 msgctxt "#Bandstand_J_NoM"
@@ -513,13 +510,13 @@ msgctxt "#Booth"
 msgid "Booth"
 msgstr "Помост"
 
-#, fuzzy
 msgctxt "#Booth_J"
 msgid ""
 "This square is currently staging shows from local jugglers, who usually draw "
 "a good audience."
 msgstr ""
-"На этой площадке выступают местные жонглеры. Они собирают большую толпу."
+"На этой площади выступают местные жонглёры, которые обычно собирают много "
+"зрителей."
 
 #, fuzzy
 msgctxt "#Booth_JugglingShow"
@@ -965,7 +962,6 @@ msgid ""
 "as a result."
 msgstr "Эта артель работает не в полную силу. Работа идёт немного медленнее."
 
-#, fuzzy
 msgctxt "#CattleRanch"
 msgid "Cattle Ranch"
 msgstr "Скотоводческая ферма"
@@ -1448,7 +1444,6 @@ msgctxt "#DanceSchool"
 msgid "Dance School"
 msgstr "Школа танцев"
 
-#, fuzzy
 msgctxt "#DanceSchool_flavor"
 msgid "Dancers delight audiences with graceful and tantalizing new moves."
 msgstr "Танцовщицы услаждают взор публики изящными и волнующими движениями."
@@ -1713,12 +1708,10 @@ msgctxt "#FarmPomegranate"
 msgid "Pomegranate Farm"
 msgstr "Ферма гранатов"
 
-#, fuzzy
 msgctxt "#Farm_Irrigated_No"
 msgid "This farmland is not irrigated."
 msgstr "Ферма не орошается."
 
-#, fuzzy
 msgctxt "#Farm_Irrigated_Yes"
 msgid "This farmland is irrigated."
 msgstr "Ферма орошается."
@@ -2385,13 +2378,12 @@ msgstr ""
 "Торговый советник посчитал, что в городе достаточно самоцветов, и прекратил "
 "добычу."
 
-#, fuzzy
 msgctxt "#GemstoneMine_flavor"
 msgid ""
 "Mine gems for export, or to produce jewelry, your city's basic luxury good."
 msgstr ""
-"Добывайте самоцветы на продажу и создавайте из них украшения — базовый "
-"предмет роскоши для ваших жителей."
+"Добывает самоцветы на продажу или для изготовления украшений — основного "
+"предмета роскоши для ваших жителей."
 
 #, fuzzy
 msgctxt "#GemstoneMine_tooltip"
@@ -2827,6 +2819,8 @@ msgid ""
 "Dispatches 3 hunters to gather game meat <sprite name=\"GameMeat\"> from "
 "prey. Also produces hides<sprite name=\"Hides\"> from antelopes."
 msgstr ""
+"Отправляет трёх охотников для добычи мяса дичи<sprite name=\"GameMeat\">. "
+"Также выделывает шкуры<sprite name=\"Hides\"> из антилоп."
 
 #, fuzzy
 msgctxt "#HuntingLodge_workers_0"
@@ -5237,15 +5231,14 @@ msgctxt "#Statue"
 msgid "Statue"
 msgstr "Статуя"
 
-#, fuzzy
 msgctxt "#Statue_flavor"
 msgid ""
 "Monuments to gods and bygone pharaohs enhance a neighborhood's prestige. "
 "People are proud to have statues nearby...and the bigger, the better."
 msgstr ""
-"Монументы, возведенные в честь богов и прошлых правителей, повышают "
-"привлекательность района. Людям нравится жить неподалеку от статуй... и чем "
-"они больше, тем лучше!"
+"Монументы, возведённые в честь богов и ушедших фараонов, повышают "
+"привлекательность района. Людям нравится жить неподалёку от статуй... и чем "
+"они больше, тем лучше."
 
 msgctxt "#Statue_tooltip"
 msgid ""
@@ -6053,10 +6046,9 @@ msgstr ""
 "Дерево применяется во многих областях — от возведения памятников до "
 "кораблестроения. Оно очень востребовано по всему государству."
 
-#, fuzzy
 msgctxt "#WoodCutter_storage"
 msgid "Holds {0} raw wood<sprite name=\"Wood\">."
-msgstr "Запасы бревен <sprite name=\"Wood\">: {0} ед."
+msgstr "Запасы брёвен<sprite name=\"Wood\">: {0} штук."
 
 msgctxt "#WoodCutter_tooltip"
 msgid ""
