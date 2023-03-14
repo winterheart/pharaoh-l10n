@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-03-08 19:44+0300\n"
+"PO-Revision-Date: 2023-03-15 02:48+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -13,19 +13,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 22.08.3\n"
+"X-Generator: Lokalize 23.07.70\n"
 
-#, fuzzy
 msgctxt "#AboveAverage"
 msgid "Above average"
 msgstr "Выше среднего"
 
-#, fuzzy
 msgctxt "#Average"
 msgid "Average"
 msgstr "Средне"
 
-#, fuzzy
 msgctxt "#BelowAverage"
 msgid "Below average"
 msgstr "Ниже среднего"
@@ -90,7 +87,6 @@ msgctxt "#Chief_CitySentiment_99"
 msgid "People idolize you as a god."
 msgstr "Люди вас боготворят."
 
-#, fuzzy
 msgctxt "#Chief_CitySentiment_Hover_Food"
 msgid ""
 "Low City Sentiment contributes to higher crime rates, prevents settlers from "
@@ -99,13 +95,12 @@ msgid ""
 "high taxes, low wages, social inequality and lack of jobs may also be "
 "lowering City Sentiment."
 msgstr ""
-"Плохие настроения в городе ведут к росту преступности, не дают поселенцам "
-"прибывать в ваш город и даже могут заставить жителей покинуть его. Главной "
-"причиной недовольств является нехватка пищи, но высокие подати, неравенство "
-"и недостаток рабочих мест также могут послужить причинами ухудшения "
-"настроений в городе."
+"Плохие настроения в городе ведут к росту преступности, препятствуют прибытию "
+"новых поселенцев в город и даже могут заставить жителей покинуть его. "
+"Нехватка пищи может вызвать серьёзное недовольство, но на настроения в "
+"городе также отрицательно влияют высокие налоги, низкие выплаты рабочим, "
+"социальное неравенство и недостаток рабочих мест."
 
-#, fuzzy
 msgctxt "#Chief_CitySentiment_Hover_Jobs"
 msgid ""
 "Low City Sentiment contributes to higher crime rates, prevents settlers from "
@@ -114,13 +109,12 @@ msgid ""
 "taxes, low wages, social inequality and lack of food may also be lowering "
 "City Sentiment."
 msgstr ""
-"Плохие настроения в городе ведут к росту преступности, не дают поселенцам "
-"прибывать в ваш город и даже могут заставить жителей покинуть его. Больше "
-"всего людей расстраивает недостаток рабочих мест, но высокие подати, "
-"неравенство и нехватка пищи также могут послужить причинами ухудшения "
-"настроений в городе."
+"Плохие настроения в городе ведут к росту преступности, препятствуют прибытию "
+"новых поселенцев в город и даже могут заставить жителей покинуть его. "
+"Недостаток рабочих мест вызывает крайнее недовольство среди людей, но на "
+"настроения в городе также отрицательно влияют высокие налоги, низкие выплаты "
+"рабочим, социальное неравенство и нехватка пищи."
 
-#, fuzzy
 msgctxt "#Chief_CitySentiment_Hover_Normal"
 msgid ""
 "Low City Sentiment contributes to higher crime rates, prevents settlers from "
@@ -128,12 +122,11 @@ msgid ""
 "leave. Low wages, high taxes, social inequality and lack of food and jobs "
 "all contribute to low City Sentiment."
 msgstr ""
-"Плохие настроения в городе ведут к росту преступности, не дают поселенцам "
-"прибывать в ваш город и даже могут заставить жителей покинуть его. Низкие "
-"доходы, высокие подати, социальное неравенство и нехватка пищи и рабочих "
-"мест совместно являются причинами недовольства в городе."
+"Плохие настроения в городе ведут к росту преступности, препятствуют прибытию "
+"новых поселенцев в город и даже могут заставить жителей покинуть его. На "
+"настроения в городе отрицательно влияют высокие налоги, низкие выплаты "
+"рабочим, социальное неравенство, нехватка рабочих мест и пищи."
 
-#, fuzzy
 msgctxt "#Chief_CitySentiment_Hover_Slums"
 msgid ""
 "Low City Sentiment contributes to higher crime rates, prevents settlers from "
@@ -141,13 +134,12 @@ msgid ""
 "leave. Widespread social inequality angers people the most, but high taxes, "
 "low wages and lack of food and jobs may also be depressing City Sentiment."
 msgstr ""
-"Плохие настроения в городе ведут к росту преступности, не дают поселенцам "
-"прибывать в ваш город и даже могут заставить жителей покинуть его. Больше "
-"всего людей злит повсеместное социальное неравенство, но высокие подати, "
-"низкие доходы и нехватка пищи и рабочих мест также могут послужить причинами "
-"стремительного ухудшения настроений в городе."
+"Плохие настроения в городе ведут к росту преступности, препятствуют прибытию "
+"новых поселенцев в город и даже могут заставить жителей покинуть его. Больше "
+"всего людей злит социальное неравенство, но на настроения в городе также "
+"отрицательно влияют высокие налоги, низкие выплаты рабочим, нехватка рабочих "
+"мест и пищи."
 
-#, fuzzy
 msgctxt "#Chief_CitySentiment_Hover_Taxes"
 msgid ""
 "Low City Sentiment contributes to higher crime rates, prevents settlers from "
@@ -156,13 +148,12 @@ msgid ""
 "social inequality and lack of food and jobs may also be dragging down City "
 "Sentiment."
 msgstr ""
-"Плохие настроения в городе ведут к росту преступности, не дают поселенцам "
-"прибывать в ваш город и даже могут заставить жителей покинуть его. Больше "
-"всего ваших подданных беспокоят высокие подати, но низкие доходы, "
-"неравенство и нехватка пищи и рабочих мест также могут ухудшать настроения в "
-"городе."
+"Плохие настроения в городе ведут к росту преступности, препятствуют прибытию "
+"новых поселенцев в город и даже могут заставить жителей покинуть его. "
+"Высокие налоги очень беспокоят ваших людей, но на настроения в городе также "
+"отрицательно влияют низкие выплаты рабочим, социальное неравенство, нехватка "
+"рабочих мест и пищи."
 
-#, fuzzy
 msgctxt "#Chief_CitySentiment_Hover_Wages"
 msgid ""
 "Low City Sentiment contributes to higher crime rates, prevents settlers from "
@@ -171,12 +162,11 @@ msgid ""
 "are their main complaint, but high taxes, social inequality and lack of food "
 "and jobs may also be lowering City Sentiment."
 msgstr ""
-"Плохие настроения в городе ведут к росту преступности, не дают поселенцам "
-"прибывать в ваш город и даже могут заставить текущих жителей покинуть его. "
-"Больше всего жалоб идет на низкие доходы (по сравнению с тем, что получают "
-"рабочие в других областях Египта), но высокие подати, неравенство и нехватка "
-"пищи и рабочих мест также могут послужить причинами ухудшения настроений в "
-"городе."
+"Плохие настроения в городе ведут к росту преступности, препятствуют прибытию "
+"новых поселенцев в город и даже могут заставить жителей покинуть его. Низкие "
+"выплаты рабочим (по сравнению с остальным Египтом) могу вызывать жалобы "
+"среди жителей, но на настроения в городе также отрицательно влияют высокие "
+"налоги, социальное неравенство, нехватка рабочих мест и пищи."
 
 msgctxt "#Chief_CitySentiment_Reason_Better"
 msgid "but the situation is improving."
@@ -224,15 +214,13 @@ msgstr ""
 "количество судов и казарм городской стражи, а уже существующих воров помогут "
 "схватить стражники. И конечно, счастливые люди не пойдут на преступления."
 
-#, fuzzy
 msgctxt "#Chief_Crime_20"
 msgid "Very few thefts."
-msgstr "Очень мало краж"
+msgstr "Очень мало краж."
 
-#, fuzzy
 msgctxt "#Chief_Crime_40"
 msgid "IMPORTANT: Some recent thefts,"
-msgstr "ВАЖНО: несколько краж за последнее время,"
+msgstr "ВАЖНО: Несколько краж за последнее время,"
 
 #, fuzzy
 msgctxt "#Chief_Crime_40_hover"
@@ -247,10 +235,9 @@ msgstr ""
 "количество судов и казарм городской стражи, а уже существующих воров помогут "
 "схватить стражники. И конечно, счастливые люди не пойдут на преступления."
 
-#, fuzzy
 msgctxt "#Chief_Crime_60"
 msgid "SERIOUS: Several recent thefts,"
-msgstr "СЕРЬЕЗНО: череда краж в последнее время,"
+msgstr "СЕРЬЁЗНО: Череда краж в последнее время,"
 
 #, fuzzy
 msgctxt "#Chief_Crime_60_hover"
@@ -265,10 +252,9 @@ msgstr ""
 "количество судов и казарм городской стражи, а уже существующих воров помогут "
 "схватить стражники. И конечно, счастливые люди не пойдут на преступления."
 
-#, fuzzy
 msgctxt "#Chief_Crime_80"
 msgid "URGENT: Many recent thefts,"
-msgstr "СРОЧНО: много краж за последнее время,"
+msgstr "СРОЧНО: Много краж за последнее время,"
 
 #, fuzzy
 msgctxt "#Chief_Crime_80_hover"
@@ -284,10 +270,9 @@ msgstr ""
 "воров помогут схватить стражники. И помните, что счастливые люди не пойдут "
 "на преступления."
 
-#, fuzzy
 msgctxt "#Chief_Crime_StolenDebens"
 msgid "{0} db stolen."
-msgstr "украдено {0} <sprite name=\"Deben\">."
+msgstr "украдено {0} дебенов."
 
 msgctxt "#Chief_Employment"
 msgid "Employment"
@@ -313,20 +298,18 @@ msgstr "Городу не хватает {0} рабочих."
 
 msgctxt "#Chief_Employment_Shortage_150"
 msgid "SERIOUS: The city is short by {0} workers."
-msgstr "СЕРЬЁЗНО: городу не хватает {0} рабочих."
+msgstr "СЕРЬЁЗНО: Городу не хватает {0} рабочих."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Shortage_150_hover"
 msgid ""
 "A severe labor shortage will prevent your citizens from carrying out their "
 "daily functions. Shut down any unneeded industries, or attract more workers "
 "with vacant housing and a happy population."
 msgstr ""
-"Такая серьезная нехватка рабочей силы не даст жителям города выполнять свои "
-"повседневные обязанности. Закройте ненужные производства или привлеките "
-"больше рабочих свободным жильем и высоким уровнем жизни."
+"Из-за такой серьёзной нехватки рабочей силы жителям города с трудом "
+"исполняют свои обязанности. Остановите ненужные производства или привлеките "
+"больше рабочих свободным жильём и высоким уровнем жизни."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Shortage_1_hover"
 msgid ""
 "Labor shortages can result in a reduction of goods and services throughout "
@@ -334,105 +317,92 @@ msgid ""
 "industries, or attracting more workers with vacant housing and a happy "
 "population."
 msgstr ""
-"Нехватка рабочей силы приведет к сокращению предлагаемых товаров и услуг во "
-"всем городе. Сделайте город более эффективным, закрыв ненужные производства, "
-"или привлеките больше рабочих свободным жильем и высоким уровнем жизни."
+"Нехватка рабочей силы приведёт к сокращению предлагаемых товаров и услуг во "
+"всём городе. Повысьте эффективность города, остановите ненужные производства "
+"или привлеките больше рабочих свободным жильём и высоким уровнем жизни."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Shortage_2"
 msgid "IMPORTANT: The city is short by {0} workers."
-msgstr "ВАЖНО: городу не хватает рабочих ({0})"
+msgstr "ВАЖНО: Городу не хватает {0} рабочих."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Shortage_2_hover"
 msgid ""
 "Without enough workers to go around, your citizens have a difficult time "
 "performing their daily tasks."
 msgstr ""
-"Рабочих на местах недостаточно, и жителям сложно выполнять свои повседневные "
-"обязанности."
+"Из-за повсеместной нехватки рабочей силы жителям города с трудом исполняют "
+"свои обязанности."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Shortage_300"
 msgid "URGENT: The city is short by {0} workers."
-msgstr "СРОЧНО: городу не хватает рабочих ({0})"
+msgstr "СРОЧНО: Городу не хватает {0} рабочих."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Shortage_300_hover"
 msgid ""
 "A severe labor shortage like this will bring your city to a grinding halt. "
 "Shut down any unneeded industries, or attract more workers with vacant "
 "housing and a happy population."
 msgstr ""
-"Из-за такой серьезной нехватки рабочей силы затормозится вся деятельность в "
-"городе. Закройте ненужные производства или привлеките больше рабочих "
-"свободным жильем и высоким уровнем жизни."
+"Из-за такой серьёзной нехватки рабочей силы деятельность в городе сильно "
+"застопорится. Остановите ненужные производства или привлеките больше рабочих "
+"свободным жильём и высоким уровнем жизни."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Unemployment_1"
 msgid "The city has unemployment of {0}%."
-msgstr "Уровень безработицы в городе {0}%"
+msgstr "Уровень безработицы в городе {0}%."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Unemployment_10"
 msgid "IMPORTANT: The city has unemployment of {0}%."
-msgstr "ВАЖНО: уровень безработицы в городе {0}%"
+msgstr "ВАЖНО: уровень безработицы в городе {0}%."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Unemployment_10_hover1"
 msgid ""
 "High unemployment will make your people seek jobs elsewhere. Build more "
 "industry to create some jobs."
 msgstr ""
 "Высокий уровень безработицы вынудит ваших жителей отправиться на поиски "
-"работы в другие города. Постройте больше производственных зданий, чтобы "
-"создать рабочие места."
+"работы в другие города. Стройте больше производств, чтобы создать рабочие "
+"места."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Unemployment_10_hover2"
 msgid ""
 "High unemployment can make your people seek jobs elsewhere. You can create "
 "more jobs by building additional industries."
 msgstr ""
-"Высокий уровень безработицы вынудит ваших жителей отправиться на поиски "
-"работы в другие города. Вы можете создать больше рабочих мест, построив "
-"дополнительные производственные здания."
+"Высокий уровень безработицы может вынудить ваших жителей отправиться на "
+"поиски работы в другие города. Новые рабочие места можно создать с помощью "
+"дополнительных производств."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Unemployment_1_hover"
 msgid ""
 "This level of unemployment is tolerable, but if it gets too high your people "
 "may seek jobs elsewhere. You can create additional jobs by building more "
 "industries."
 msgstr ""
-"Это терпимый уровень безработицы, но если он слишком вырастет, ваши жители "
-"отправятся на поиски работы в другие города. Вы можете создать больше "
-"рабочих мест, построив дополнительные производственные здания."
+"Это терпимый уровень безработицы, но если он вырастет, ваши жители "
+"отправятся на поиски работы в другие города. Новые рабочие места можно "
+"создать с помощью дополнительных производств."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Unemployment_20"
 msgid "SERIOUS: The city has unemployment of {0}%."
-msgstr "СЕРЬЕЗНО: уровень безработицы в городе {0}%"
+msgstr "СЕРЬЁЗНО: уровень безработицы в городе {0}%."
 
-#, fuzzy
 msgctxt "#Chief_Employment_Unemployment_30"
 msgid "URGENT: The city has unemployment of {0}%."
-msgstr "СРОЧНО: уровень безработицы в городе {0}%"
+msgstr "СРОЧНО: уровень безработицы в городе {0}%."
 
 msgctxt "#Chief_Finances"
 msgid "Finances"
 msgstr "Финансы"
 
-#, fuzzy
 msgctxt "#Chief_Finances_EquivalentLastYear"
 msgid "We are doing about as well as last year."
-msgstr "Результаты такие же, как в прошлом году"
+msgstr "Как и в прошлом году, дела у нас идут хорошо."
 
 msgctxt "#Chief_Finances_LostMoney"
 msgid "This year assets have fallen by {0} Db."
 msgstr "Запасы казны в этом году упали на {0} дебенов."
 
-#, fuzzy
 msgctxt "#Chief_Finances_LostMoney_hover"
 msgid ""
 "If you keep losing money, you'll have to tap your line of credit. The city's "
@@ -440,17 +410,15 @@ msgid ""
 "has serious consequences. Taxes, exports and mining gold are the best ways "
 "to bring revenue to the city."
 msgstr ""
-"Если вы продолжите терять деньги, придется брать займы. Городская казна "
-"может занять до {0} <sprite name=\"Deben\">, но если вы слишком долго не "
-"гасите долги, это влечет серьезные последствия. Лучшие способы повысить "
-"доходы города — это сбор податей, экспорт товаров и добыча золота."
+"Если вы продолжите терять деньги, придётся брать займы. Городская казна "
+"может занять до {0} дебенов, но непогашенный долг может повлечь серьёзные "
+"последствия. Лучшие способы повысить доходы города — это сбор налогов, "
+"экспорт товаров и добыча золота."
 
-#, fuzzy
 msgctxt "#Chief_Finances_LowTaxesCoverage"
 msgid "SERIOUS: We don't collect most of the taxes owed!"
-msgstr "СЕРЬЕЗНО: мы не собираем большую часть положенных податей!"
+msgstr "СЕРЬЁЗНО: Мы не собираем большую часть налогов!"
 
-#, fuzzy
 msgctxt "#Chief_Finances_LowTaxesCoverage_hover"
 msgid ""
 "You are passing up a substantial amount of money because your city does not "
@@ -458,26 +426,24 @@ msgid ""
 "especially in areas of higher-level housing, and use the tax overlay to make "
 "sure that everyone is visited by a tax collector."
 msgstr ""
-"Вы теряете значительную сумму денег, потому что городу не хватает сборщиков "
-"податей. Постройте больше контор сборщиков податей, особенно в кварталах с "
-"жильем высокого уровня, и проверяйте по слою податей, что сборщики "
-"охватывают все районы."
+"Вы теряете значительную сумму денег, потому что вашему городу не хватает "
+"сборщиков налогов, обходящих улицы. Постройте больше контор сборщиков "
+"налогов, особенно в кварталах с респектабельными домами, и проверьте через "
+"слой налогов, что сборщики посетили все дома."
 
 msgctxt "#Chief_Finances_MadeMoney"
 msgid "This year assets have risen by {0} Db."
 msgstr "Запасы казны в этом году выросли на {0} дебенов."
 
-#, fuzzy
 msgctxt "#Chief_Finances_MadeMoney_hover"
 msgid ""
 "If you run out of money, your treasury will borrow up to {0} debens. "
 "However, remaining in debt for long has very serious consequences. Taxes, "
 "exports and mining gold are the best ways to bring revenue to the city."
 msgstr ""
-"Если у вас кончатся деньги, ваша казна займет до {0} <sprite "
-"name=\"Deben\">. Но если вы долго не гасите долги, это влечет серьезные "
-"последствия. Лучшие способы повысить доходы города — это сбор податей, "
-"экспорт товаров и добыча золота."
+"Если у вас кончатся деньги, городская казна может занять до {0} дебенов. "
+"Однако непогашенный долг может повлечь серьёзные последствия. Лучшие способы "
+"повысить доходы города — это сбор налогов, экспорт товаров и добыча золота."
 
 msgctxt "#Chief_FoodProduction"
 msgid "Food Production"
@@ -624,11 +590,9 @@ msgctxt "#Chief_Health"
 msgid "Health"
 msgstr "Здоровье"
 
-#, fuzzy
 msgctxt "#Chief_Health_0"
 msgid "URGENT: City health is appalling - plague is imminent."
-msgstr ""
-"СРОЧНО: здравоохранение в городе на ужасном уровне! Вспышка чумы неизбежна"
+msgstr "СРОЧНО: В городе ужасное здравоохранение — вспышка чумы неизбежна."
 
 #, fuzzy
 msgctxt "#Chief_Health_0_hover"
@@ -644,17 +608,14 @@ msgstr ""
 "бальзамировщиков для тех, у кого сейчас нет к ним доступа, а также "
 "убедитесь, что в городе достаточно пищи."
 
-#, fuzzy
 msgctxt "#Chief_Health_10"
 msgid "URGENT: City health is terrible - plague is likely."
 msgstr ""
-"СРОЧНО: здравоохранение в городе на очень плохом уровне! Вспышка чумы очень "
-"вероятна"
+"СРОЧНО: В городе очень плохое здравоохранение — вспышка чумы очень вероятна."
 
-#, fuzzy
 msgctxt "#Chief_Health_100"
 msgid "City health is perfect."
-msgstr "В городе идеальный уровень здравоохранения"
+msgstr "В городе идеальный уровень здравоохранения."
 
 #, fuzzy
 msgctxt "#Chief_Health_10_hover"
@@ -670,10 +631,10 @@ msgstr ""
 "лекарей и бальзамировщиков для людей, у которых сейчас нет к ним доступа, а "
 "также убедитесь, что в городе достаточно пищи."
 
-#, fuzzy
 msgctxt "#Chief_Health_20"
 msgid "SERIOUS: City health is bad - there is risk of plague."
-msgstr "СЕРЬЕЗНО: здравоохранение в городе на плохом уровне! Есть риск чумы"
+msgstr ""
+"СЕРЬЁЗНО: В городе плохой уровень здравоохранения — вероятная вспышка чумы."
 
 #, fuzzy
 msgctxt "#Chief_Health_20_hover"
@@ -691,12 +652,10 @@ msgstr ""
 "людей, у которых сейчас нет к ним доступа, а также убедитесь, что в городе "
 "достаточно пищи."
 
-#, fuzzy
 msgctxt "#Chief_Health_30"
 msgid "IMPORTANT: City health is poor - some plague risk."
 msgstr ""
-"ВАЖНО: здравоохранение в городе на неважном уровне. Нельзя исключать риск "
-"чумы"
+"ВАЖНО: В городе низкий уровень здравоохранения — возможна вспышка чумы."
 
 #, fuzzy
 msgctxt "#Chief_Health_30_hover"
@@ -714,10 +673,9 @@ msgstr ""
 "бальзамировщиков для людей, у которых сейчас нет к ним доступа, а также "
 "убедитесь, что в городе достаточно пищи."
 
-#, fuzzy
 msgctxt "#Chief_Health_40"
 msgid "City health is below average."
-msgstr "Уровень здравоохранения в городе ниже среднего"
+msgstr "В городе неважный уровень здравоохранения."
 
 #, fuzzy
 msgctxt "#Chief_Health_40_hover"
@@ -733,10 +691,9 @@ msgstr ""
 "бальзамировщиков для людей, у которых сейчас нет к ним доступа, а также "
 "убедитесь, что в городе достаточно пищи."
 
-#, fuzzy
 msgctxt "#Chief_Health_50"
 msgid "City health is average."
-msgstr "В городе средний уровень здравоохранения"
+msgstr "В городе средний уровень здравоохранения."
 
 #, fuzzy
 msgctxt "#Chief_Health_50_hover"
@@ -752,10 +709,9 @@ msgstr ""
 "для тех, у кого еще нет к ним доступа, а также убедитесь, что в городе "
 "достаточно пищи."
 
-#, fuzzy
 msgctxt "#Chief_Health_60"
 msgid "City health is good."
-msgstr "В городе хороший уровень здравоохранения"
+msgstr "В городе хороший уровень здравоохранения."
 
 #, fuzzy
 msgctxt "#Chief_Health_60_100_hover"
@@ -771,20 +727,17 @@ msgstr ""
 "которая уничтожит население. Лекари и бальзамировщики, а также хороший запас "
 "разнообразной пищи, помогают поддерживать здоровье населения."
 
-#, fuzzy
 msgctxt "#Chief_Health_70"
 msgid "City health is very good."
-msgstr "В городе очень хороший уровень здравоохранения"
+msgstr "В городе очень хороший уровень здравоохранения."
 
-#, fuzzy
 msgctxt "#Chief_Health_80"
 msgid "City health is excellent."
-msgstr "В городе прекрасный уровень здравоохранения"
+msgstr "В городе прекрасный уровень здравоохранения."
 
-#, fuzzy
 msgctxt "#Chief_Health_90"
 msgid "City health is almost perfect."
-msgstr "В городе практически идеальный уровень здравоохранения"
+msgstr "В городе практически идеальный уровень здравоохранения."
 
 msgctxt "#Chief_Kingdom"
 msgid "Kingdom"
@@ -856,9 +809,8 @@ msgstr "Миграция"
 
 msgctxt "#Chief_Migration_HighTaxes"
 msgid "High taxes prevent immigration."
-msgstr "Высокие налоги препятствуют иммиграции."
+msgstr "Высокие налоги препятствуют притоку новых жителей."
 
-#, fuzzy
 msgctxt "#Chief_Migration_HighTaxes_hover"
 msgid ""
 "As long as the residents of your city are happy with you, and sufficient "
@@ -866,44 +818,38 @@ msgid ""
 "taxes would attract more people to the city."
 msgstr ""
 "Пока в городе есть достаточно жилья, а население счастливо, сюда будут "
-"переезжать люди. Низкие подати увеличат приток поселенцев."
+"переезжать люди. Снижение налогов привлечёт в город больше поселенцев."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Leave_HighTaxes"
 msgid "Unfair or excessive taxation drives people away."
-msgstr "Несправедливые или завышенные подати заставляют людей уехать"
+msgstr "Несправедливые или завышенные налоги отпугивают новых поселенцев."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Leave_HighTaxes_hover"
 msgid ""
 "As long as the residents of your city are happy with you, and sufficient "
 "housing is available, they'll remain in your city. Lower taxes will "
 "encourage people to stay."
 msgstr ""
-"Пока в городе достаточно жилья и вы устраиваете местных жителей, они не "
-"уедут отсюда. Снизьте размер податей, если хотите не допустить оттока "
-"поселенцев."
+"Пока в городе есть достаточно жилья, а люди довольны вами, они останутся в "
+"городе. Снижение налогов убедит жителей остаться."
 
 msgctxt "#Chief_Migration_Leave_LowWages"
 msgid "Low wages are making people leave the city."
 msgstr "Низкое жалование заставляет людей покидать город."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Leave_LowWages_hover"
 msgid ""
 "As long as the residents of your city are happy with you, and sufficient "
 "housing is available, they'll remain in your city. Raise wages if you want "
 "to encourage people to stay."
 msgstr ""
-"Пока в городе достаточно жилья и вы устраиваете местных жителей, они не "
-"уедут отсюда. Поднимите доходы людей, если хотите не допустить оттока "
-"поселенцев."
+"Пока в городе есть достаточно жилья, а люди довольны вами, они останутся в "
+"городе. Увеличение жалования убедит жителей остаться."
 
 msgctxt "#Chief_Migration_Leave_NoFood"
 msgid "People who are leaving cite hunger as the reason."
 msgstr "Люди уезжают из-за голода."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Leave_NoFood_hover"
 msgid ""
 "As long as the residents of your city are happy with you, and sufficient "
@@ -911,16 +857,14 @@ msgid ""
 "current population, you need to produce more food than you currently are, if "
 "you want to encourage people to stay."
 msgstr ""
-"Пока в городе достаточно жилья и вы устраиваете местных жителей, они не "
-"уедут отсюда. При текущей численности населения вы должны производить больше "
-"еды, чем сейчас, если хотите не допустить оттока поселенцев."
+"Пока в городе есть достаточно жилья, а люди довольны вами, они останутся в "
+"городе. При текущей численности населения вы должны производить больше еды, "
+"чем сейчас, если хотите убедить жителей остаться."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Leave_Nospace"
 msgid "Lack of vacant housing drives people away."
-msgstr "Нехватка свободного жилья вынуждает людей уезжать из города"
+msgstr "Нехватка свободного жилья отпугивают новых поселенцев."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Leave_Nospace_hover"
 msgid ""
 "As long as sufficient housing is available, and the residents of your city "
@@ -936,7 +880,6 @@ msgctxt "#Chief_Migration_Leave_PoorCitySentiment"
 msgid "People are leaving because of poor City Sentiment."
 msgstr "Люди уезжают из-за плохих настроений в городе."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Leave_PoorCitySentiment_hover"
 msgid ""
 "As long as the residents of your city are happy with you, and sufficient "
@@ -946,13 +889,11 @@ msgid ""
 msgstr ""
 "Пока вы устраиваете обитателей города и в нем есть достаточно жилья, сюда "
 "будут переезжать люди (а ваши подданные не покинут его в поисках лучшей "
-"доли!). Улучшайте настроения в городе, чтобы людям хотелось жить тут и "
-"дальше."
+"доли!). Улучшите настроения в городе, чтобы людям хотелось жить тут и дальше."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Leave_Slums"
 msgid "Having some slums is encouraging people to leave."
-msgstr "Городские трущобы заставляют людей задуматься о переезде"
+msgstr "Городские трущобы побуждают людей покинуть город."
 
 #, fuzzy
 msgctxt "#Chief_Migration_Leave_Slums_hover"
@@ -967,27 +908,24 @@ msgstr ""
 "необходимым, чтобы между богатыми и людьми более скромного достатка не было "
 "настолько значительной разницы."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Leave_Unemployment"
 msgid "Unemployment makes people abandon the city."
-msgstr "Безработица заставляет людей уезжать из города"
+msgstr "Безработица заставляет людей покинуть город."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Leave_Unemployment_hover"
 msgid ""
 "As long as the residents of your city are happy with you, and sufficient "
 "housing is available, they'll remain in your city. Create more jobs by "
 "building some more industries if you want to encourage people to stay."
 msgstr ""
-"Пока в городе достаточно жилья и вы устраиваете местных жителей, они не "
-"уедут отсюда. Создайте больше рабочих мест, построив новые производства, "
-"если хотите не допустить оттока поселенцев."
+"Пока в городе есть достаточно жилья, а люди довольны вами, они останутся в "
+"городе. Строительство производств и создание новых рабочих мест убедят "
+"жителей остаться."
 
 msgctxt "#Chief_Migration_LowWages"
 msgid "Low wages prevent immigration."
-msgstr "Низкое жалование препятствует иммиграции."
+msgstr "Низкое жалование препятствует притоку новых жителей."
 
-#, fuzzy
 msgctxt "#Chief_Migration_LowWages_hover"
 msgid ""
 "As long as the residents of your city are happy with you, and sufficient "
@@ -995,8 +933,7 @@ msgid ""
 "wages if you want to lure more people to the city."
 msgstr ""
 "Пока в городе есть достаточно жилья, а население счастливо, сюда будут "
-"переезжать люди. Поднимите доходы людей, если хотите увеличить приток "
-"поселенцев."
+"переезжать люди. Поднятие жалования может привлечь в город больше поселенцев."
 
 msgctxt "#Chief_Migration_NoChange"
 msgid "Little change expected."
@@ -1014,9 +951,8 @@ msgstr ""
 
 msgctxt "#Chief_Migration_NoFood"
 msgid "Lack of food prevents immigration."
-msgstr "Отсутствие пищи препятствует иммиграции."
+msgstr "Отсутствие пищи препятствует притоку новых жителей."
 
-#, fuzzy
 msgctxt "#Chief_Migration_NoFood_hover"
 msgid ""
 "As long as the residents of your city are happy with you, and sufficient "
@@ -1025,14 +961,13 @@ msgid ""
 "city."
 msgstr ""
 "Пока в городе есть достаточно жилья, а население счастливо, сюда будут "
-"переезжать люди. Производите больше еды, если хотите увеличить приток "
-"поселенцев."
+"переезжать люди. Обеспечение большим количеством пищи привлечёт в город "
+"больше поселенцев."
 
 msgctxt "#Chief_Migration_NoJobs"
 msgid "Lack of jobs prevents immigration."
-msgstr "Отсутствие рабочих мест препятствует иммиграции."
+msgstr "Отсутствие рабочих мест препятствует притоку новых жителей."
 
-#, fuzzy
 msgctxt "#Chief_Migration_NoJobs_hover"
 msgid ""
 "As long as the residents of your city are happy with you, and sufficient "
@@ -1041,8 +976,8 @@ msgid ""
 "the city."
 msgstr ""
 "Пока в городе есть достаточно жилья, а население счастливо, сюда будут "
-"переезжать люди. Создайте больше рабочих мест, построив новые производства, "
-"если хотите увеличить приток поселенцев."
+"переезжать люди. Строительство производств и создание новых рабочих мест "
+"привлекут в город больше поселенцев."
 
 msgctxt "#Chief_Migration_Normal"
 msgid "People are immigrating to the city."
@@ -1060,7 +995,7 @@ msgstr ""
 
 msgctxt "#Chief_Migration_Nospace"
 msgid "Lack of housing prevents immigration."
-msgstr "Отсутствие жилья препятствует иммиграции."
+msgstr "Отсутствие жилья препятствует притоку новых жителей."
 
 #, fuzzy
 msgctxt "#Chief_Migration_Nospace_hover"
@@ -1073,10 +1008,9 @@ msgstr ""
 "переезжать люди. Создайте больше площадей под жилье, чтобы город рос и "
 "развивался."
 
-#, fuzzy
 msgctxt "#Chief_Migration_PoorCitySentiment"
 msgid "Poor City Sentiment prevents immigration."
-msgstr "Плохие настроения в городе мешают притоку новых людей"
+msgstr "Плохие настроения в городе препятствуют притоку новых жителей."
 
 #, fuzzy
 msgctxt "#Chief_Migration_PoorCitySentiment_hover"
@@ -1088,7 +1022,6 @@ msgstr ""
 "Пока в городе есть достаточно жилья, а местные счастливы, сюда будут "
 "переезжать люди. Улучшайте настроения в городе, чтобы привлечь больше людей."
 
-#, fuzzy
 msgctxt "#Chief_Migration_Slums"
 msgid "The city's slum areas discourage immigration."
 msgstr "Городские трущобы отбивают у людей желание переезжать к нам"
@@ -1377,13 +1310,11 @@ msgctxt "#Chief_Religion_Appeased"
 msgid "All gods are adequately appeased."
 msgstr "Все боги довольны."
 
-#, fuzzy
 msgctxt "#Chief_Religion_Appeased_hover"
 msgid ""
 "If any gods become hostile, they may use their powers to devastate your city."
 msgstr ""
-"Если вы вызовете недовольство какого-то бога, он может обречь ваш город на "
-"разорение."
+"Если кто-то из богов разозлится, он может обречь ваш город на разорение."
 
 msgctxt "#Chief_Religion_Furious_1_1"
 msgid "IMPORTANT: One god is not appeased."
@@ -1417,23 +1348,21 @@ msgctxt "#Chief_Religion_Furious_4_5_2"
 msgid "SERIOUS: Several gods may strike us down."
 msgstr "СЕРЬЁЗНО: несколько богов могут покарать нас."
 
-#, fuzzy
 msgctxt "#Chief_Religion_Furious_hover"
 msgid ""
 "Hostile gods can use their powers to devastate your city. To appease them, "
 "build Temples to them and hold festivals in their honor."
 msgstr ""
-"Недовольные боги могут в гневе обречь ваш город на разорение. Чтобы "
-"умилостивить их, стройте храмы и проводите славящие их праздники."
+"Недовольные боги могут обречь ваш город на разорение. Чтобы умилостивить их, "
+"стройте храмы и проводите праздники в их честь."
 
-#, fuzzy
 msgctxt "#Chief_Religion_Furious_hover_2"
 msgid ""
 "An angry god can use his powers to devastate your city. To appease them, "
 "build Temples to them and hold festivals in their honor."
 msgstr ""
-"Разозленный бог может обречь ваш город на разорение. Чтобы умилостивить "
-"богов, стройте храмы и проводите славящие их праздники."
+"Разозлённый бог может обречь ваш город на разорение. Чтобы умилостивить его, "
+"стройте храмы и проводите праздники в его честь."
 
 msgctxt "#Chief_Religion_Happy_1"
 msgid "All gods are appeased. One is especially happy."
@@ -1451,14 +1380,13 @@ msgctxt "#Chief_Religion_Happy_4_5"
 msgid "All gods are appeased. Several are especially happy."
 msgstr "Все боги довольны, несколько особенно счастливы."
 
-#, fuzzy
 msgctxt "#Chief_Religion_Happy_hover"
 msgid ""
 "Benevolent gods can use their powers to bless your city in various ways. As "
 "your city grows, keep the gods appeased by dedicating Temples to them, and "
 "continue to hold festivals in their honor."
 msgstr ""
-"Довольные боги могут подарить городу различные благословения. По мере роста "
+"Довольные боги могут даровать городу различные благословения. По мере роста "
 "города заручитесь милостью богов, строя в их честь храмы и проводя праздники."
 
 msgctxt "#Chief_Title"
@@ -1481,40 +1409,34 @@ msgctxt "#Commerce_AvailableForImport"
 msgid "Available for import"
 msgstr "Доступно для импорта"
 
-#, fuzzy
 msgctxt "#Commerce_ExportAsNeeded"
 msgid "Let Overseer set export level"
-msgstr "Уровень экспорта будет устанавливать советник"
+msgstr "Позволить советнику управлять экспортом"
 
-#, fuzzy
 msgctxt "#Commerce_ExportWhenOver"
 msgid "Export when over"
-msgstr "Экспорт, если выше"
+msgstr "Экспорт сверх"
 
 msgctxt "#Commerce_ExportingAsNeeded"
 msgid "Exporting surpluses"
 msgstr "Экспорт излишков"
 
-#, fuzzy
 msgctxt "#Commerce_ExportingWhenOver"
 msgid "Exporting when over"
 msgstr "Экспорт после"
 
-#, fuzzy
 msgctxt "#Commerce_ImportAsNeeded"
 msgid "Let Overseer set import level"
-msgstr "Уровень импорта будет устанавливать советник"
+msgstr "Позволить советнику управлять импортом"
 
 msgctxt "#Commerce_ImportToMaintain"
 msgid "Import to maintain"
 msgstr "Импортировать до"
 
-#, fuzzy
 msgctxt "#Commerce_ImportingAsNeeded"
 msgid "Importing as needed"
 msgstr "Импорт при необходимости"
 
-#, fuzzy
 msgctxt "#Commerce_ImportingToMaintain"
 msgid "Importing to maintain"
 msgstr "Импорт до"
@@ -1523,10 +1445,9 @@ msgctxt "#Commerce_NoTrade"
 msgid "Do not trade"
 msgstr "Не торговать"
 
-#, fuzzy
 msgctxt "#Commerce_NotTradable"
 msgid "There are no trade routes open for these goods"
-msgstr "Для этих товаров нет открытых торговых маршрутов"
+msgstr "Для этих товаров нет открытых торговых путей"
 
 msgctxt "#Commerce_OpenBoth"
 msgid "Open trade routes to import/export"
@@ -1570,7 +1491,7 @@ msgstr "Торговый советник"
 
 msgctxt "#Commerce_ToggleIndustry"
 msgid "Toggle activation of this industry"
-msgstr ""
+msgstr "Включить/выключить это производство"
 
 msgctxt "#Company_Send_Confirm_Text"
 msgid "{[company_name]} has been sent to {[city_name]}"
@@ -1582,15 +1503,15 @@ msgstr "Отправить отряд"
 
 msgctxt "#Company_Tooltip_Cursed"
 msgid "This company is cursed by Seth"
-msgstr ""
+msgstr "Этот отряд проклят Сетом."
 
 msgctxt "#Company_Tooltip_No_Sent_Button"
 msgid "There is no distant city to defend"
-msgstr ""
+msgstr "Нет города, который нужно защищать."
 
 msgctxt "#Company_Tooltip_No_Soldier"
 msgid "This company does not have any soldiers."
-msgstr ""
+msgstr "В этом отряде нет воинов."
 
 msgctxt "#Company_Tooltip_Part1_Archer"
 msgid "An archer company."
@@ -1607,56 +1528,56 @@ msgstr "Отряд пехотинцев."
 msgctxt "#Company_Tooltip_Part1_Transport"
 msgid "A transport ship. Needed to send troops by sea to another city."
 msgstr ""
+"Транспортный корабль. Нужен для переброски войск по воде к другому городу."
 
 msgctxt "#Company_Tooltip_Part1_Warship"
 msgid "A combat warship. Needed to fight sea invasion."
-msgstr ""
+msgstr "Боевой корабль. Нужен для морских сражений."
 
 msgctxt "#Company_Tooltip_Part2_Experience_Level"
 msgid "It has {[experience_level]} level of experience."
-msgstr ""
+msgstr "Уровень опыта в боях: {[experience_level]}."
 
 msgctxt "#Company_Tooltip_Part2_No_Experience"
 msgid "It has no experience of combat."
-msgstr ""
+msgstr "Нет опыта в боях."
 
 msgctxt "#Company_Tooltip_Part3_Not_Upgraded"
 msgid "This company uses basic weapons."
-msgstr ""
+msgstr "Этот отряд использует обычное оружие."
 
 msgctxt "#Company_Tooltip_Part3_Upgraded"
 msgid "This company uses {[weapon_sprite]}."
-msgstr ""
+msgstr "Этот отряд использует {[weapon_sprite]}."
 
 msgctxt "#Company_Tooltip_Part4_Available"
 msgid "Currently training, ready to defend the city."
-msgstr ""
+msgstr "Обучается, готов защищать город."
 
 msgctxt "#Company_Tooltip_Part4_Sent"
 msgid "Currently fighting in {[city_name]}"
-msgstr ""
+msgstr "Сражается в городу {[city_name]}"
 
 msgctxt "#Company_Tooltip_Part5"
 msgid "Click here to center view on the fort."
-msgstr ""
+msgstr "Щёлкните сюда, чтобы перейти к форту."
 
 msgctxt "#Company_Tooltip_Sent_Button"
 msgid "Sent this company to defend a distant city."
-msgstr ""
+msgstr "Отправить отряд для защиты далёкого города."
 
 msgctxt "#Company_Tooltip_Sent_Button_No_Ship"
 msgid "The city does not have enough transport ships available to send troops."
-msgstr ""
+msgstr "У города нет транспортных кораблей для переброски отрядов."
 
 msgctxt "#Company_tooltip_none"
 msgid "This company does not exist. Build a fort to create a new company."
-msgstr ""
+msgstr "Отряд не существует. Постройте форт, чтобы создать новый отряд."
 
 msgctxt "#Diversions"
 msgid "Overseer of Diversions"
 msgstr "Советник по развлечениям"
 
-#, fuzzy
 msgctxt "#Diversions_CanEntertain"
 msgid "Can entertain"
 msgstr "Вместимость зрителей"
@@ -1669,79 +1590,71 @@ msgctxt "#Diversions_Dancer"
 msgid "Dancers' stages"
 msgstr "Сцены танцовщиц"
 
-#, fuzzy
 msgctxt "#Diversions_DancerMissing"
 msgid ""
 "Your Pavilions need more dancers. A new Conservatory could boost local "
 "entertainment levels in parts of the city."
 msgstr ""
-"Вашим сценам нужно больше танцовщиц. Если построить новую музыкальную школу, "
-"она поможет развить развлекательные программы в районах города."
+"Вашим сценам нужно больше танцовщиц. Новая музыкальная школа поможет развить "
+"развлекательные программы в части города."
 
 msgctxt "#Diversions_Juggler"
 msgid "Juggler's stages"
 msgstr "Сцены жонглёров"
 
-#, fuzzy
 msgctxt "#Diversions_JugglerMusicanMissing"
 msgid ""
 "Some Booths or Bandstands have empty stages. More jugglers or musicians "
 "would satisfy neighborhoods that are complaining of poor entertainment."
 msgstr ""
-"Часть помостов или музыкальных площадок пустуют. Если на них начнет "
-"выступать больше жонглеров или музыкантов, это успокоит недовольства в "
-"районах, где жалуются на плохие развлечения."
+"Часть помостов или музыкальных площадок пустуют. Больше жонглёров или "
+"музыкантов могут успокоить недовольства в районах, жалующихся на плохие "
+"развлечения."
 
 msgctxt "#Diversions_Musician"
 msgid "Musicians' stages"
 msgstr "Сцены музыкантов"
 
-#, fuzzy
 msgctxt "#Diversions_NoEntertainmentNeeded"
 msgid ""
 "No one is seeking entertainment yet. As your city grows, though, people will "
 "want amusements like juggling, music and dancing."
 msgstr ""
 "Пока никто не жаждет развлечений. Но по мере роста города людям захочется "
-"увеселений, таких как выступления жонглеров, музыкантов и танцовщиц."
+"увеселений, таких как выступления жонглёров, музыкантов и танцовщиц."
 
-#, fuzzy
 msgctxt "#Diversions_NoMoreEntertainmentNeeded"
 msgid ""
 "There's currently enough diversion to satisfy everyone. As the city grows, "
 "though, people will ask for more and better forms of entertainment."
 msgstr ""
 "Пока что всех устраивает культурная жизнь, но по мере роста города люди "
-"захотят, чтобы развлечений было больше, а сами они стали разнообразней."
+"захотят больше разнообразных развлечений."
 
-#, fuzzy
 msgctxt "#Diversions_People"
 msgid "{0} people"
-msgstr "{0} чел."
+msgstr "{0} человек"
 
 msgctxt "#Diversions_Senet"
 msgid "Senet Houses "
 msgstr "Дома сенета"
 
-#, fuzzy
 msgctxt "#Diversions_Shows"
 msgid "Shows"
 msgstr "Представления"
 
-#, fuzzy
 msgctxt "#Diversions_SomeEntertainmentNeeded"
 msgid ""
 "Some residents want more recreational facilities. More choices in diversions "
 "would motivate them to upgrade their homes."
 msgstr ""
-"Некоторым жителям хочется больше мест для отдыха и времяпрепровождения. "
-"Более широкий выбор развлечений подтолкнет их улучшить свои дома."
+"Некоторым жителям хочется больше мест для отдыха и развлечения. Более "
+"широкий выбор развлечений подтолкнёт их развивать свои дома."
 
 msgctxt "#Diversions_Title"
 msgid "Overseer of Diversions"
 msgstr "Советник по развлечениям"
 
-#, fuzzy
 msgctxt "#Diversions_UnequalAccess"
 msgid ""
 "Parts of the city grumble that they have no access to recreation. Building "
@@ -1750,16 +1663,15 @@ msgstr ""
 "Жители некоторых районов жалуются, что им совсем нечем заняться в свободное "
 "время. Постройка развлекательных площадок поможет развитию бедных кварталов."
 
-#, fuzzy
 msgctxt "#Diversions_UnequalAccess_2"
 msgid ""
 "Some people whine about inadequate entertainment in their neighborhoods. You "
 "may need to offer more variety, or perhaps build more performer schools to "
 "provide artists for venues that lack them."
 msgstr ""
-"Некоторые люди жалуются на скучные развлечения в их кварталах. Возможно, вам "
-"нужно разнообразить увеселительные заведения или же построить больше школ "
-"для артистов, чтобы в заведениях было кому работать."
+"Некоторые люди жалуются на скучные развлечения в своём районе. Возможно, вам "
+"нужно разнообразить увеселительные заведения или построить больше школ для "
+"артистов, чтобы на площадках было кому работать."
 
 msgctxt "#Diversions_WorkingStage"
 msgid "Working Stages"
@@ -1769,10 +1681,9 @@ msgctxt "#Diversions_Zoo"
 msgid "Zoos"
 msgstr "Зоопарки"
 
-#, fuzzy
 msgctxt "#Excellent"
 msgid "Excellent"
-msgstr "Превосходно!"
+msgstr "Превосходно"
 
 msgctxt "#FestivalCommon"
 msgid "Common festival"
@@ -1788,22 +1699,21 @@ msgstr "Роскошный праздник"
 
 msgctxt "#Festival_Preparing"
 msgid "Preparing festival for {[god]}"
-msgstr "Началась подготовка праздника. На нём будет чествоваться {[god]}"
+msgstr "На предстоящем празднике будет чествоваться {[god]}"
 
 msgctxt "#Fort_Not_Built"
 msgid "Fort not built"
-msgstr ""
+msgstr "Форт не построен"
 
 msgctxt "#Fort_Not_Built_Explained"
 msgid "You must build a new fort to create a new company"
-msgstr ""
+msgstr "Постройте новый форт, чтобы создать новый отряд"
 
 #, fuzzy
 msgctxt "#GiveToPeople"
 msgid "Give to the people of Egypt"
 msgstr "Подарок народу Египта"
 
-#, fuzzy
 msgctxt "#Good"
 msgid "Good"
 msgstr "Хорошо"
@@ -1924,30 +1834,25 @@ msgctxt "#Granaries_History"
 msgid "History"
 msgstr "История"
 
-#, fuzzy
 msgctxt "#Granaries_History_desc"
 msgid "City population over time"
 msgstr "Динамика населения города"
 
-#, fuzzy
 msgctxt "#Granaries_Migration_HighTaxes"
 msgid "High taxes keep some people away from our city."
-msgstr "Часть людей не переезжает в город из-за высоких налогов."
+msgstr "Высокие налоги отпугивают людей."
 
-#, fuzzy
 msgctxt "#Granaries_Migration_LowWage"
 msgid "Low wages reduce immigration to our city."
-msgstr "Низкие доходы снижают приток людей в город."
+msgstr "Низкое жалование снижает приток людей в наш город."
 
-#, fuzzy
 msgctxt "#Granaries_Migration_NoFood"
 msgid "Lack of food in your Granaries reduces immigration."
-msgstr "Нехватка запасов пищи в амбарах снижает поток людей в город."
+msgstr "Отсутствие пищи в амбарах снижает приток новых жителей."
 
-#, fuzzy
 msgctxt "#Granaries_Migration_NoSpace"
 msgid "Lack of housing vacancies limits immigration."
-msgstr "Нехватка жилья снижает приток людей в город."
+msgstr "Отсутствие жилья ограничивает приток новых жителей."
 
 msgctxt "#Granaries_Migration_None"
 msgid "Nobody wants to live in our city."
@@ -1957,22 +1862,18 @@ msgctxt "#Granaries_Migration_Normal"
 msgid "Overall, people are coming, or wish to come, to our city."
 msgstr "В целом люди прибывают или хотят прибыть в наш город."
 
-#, fuzzy
 msgctxt "#Granaries_Migration_Slums"
 msgid "Poor housing, despite your city's wealth, discourages immigrants."
 msgstr ""
-"Несмотря на то, что город богат, плохое состояние жилья в нем отпугивает "
-"желающих переехать."
+"Плохие жилища, несмотря на богатство города, отпугивают новых переселенцев."
 
-#, fuzzy
 msgctxt "#Granaries_Migration_Static"
 msgid "Overall, your city population is static."
-msgstr "В целом население города держится на одном уровне."
+msgstr "В целом численность населения держится на одном уровне."
 
-#, fuzzy
 msgctxt "#Granaries_Migration_Unemployment"
 msgid "Unemployment reduces your number of immigrants."
-msgstr "Безработица снижает приток новоприбывших."
+msgstr "Безработица снижает количество новоприбывших."
 
 msgctxt "#Granaries_Newcomers"
 msgid ""
@@ -1990,7 +1891,6 @@ msgctxt "#Granaries_Society"
 msgid "Society"
 msgstr "Общество"
 
-#, fuzzy
 msgctxt "#Granaries_Society_desc"
 msgid "Population composition by income"
 msgstr "Состав населения по доходу"
@@ -2015,7 +1915,6 @@ msgctxt "#Learning"
 msgid "Overseer of Learning"
 msgstr "Советник по образованию"
 
-#, fuzzy
 msgctxt "#Learning_CanEducate"
 msgid "Can educate"
 msgstr "Могут обучить"
@@ -2028,12 +1927,10 @@ msgctxt "#Learning_Library"
 msgid "Library"
 msgstr "Библиотека"
 
-#, fuzzy
 msgctxt "#Learning_LibraryCoverage"
 msgid "people"
-msgstr "чел."
+msgstr "людей"
 
-#, fuzzy
 msgctxt "#Learning_LibraryNeeded"
 msgid ""
 "Library access is now needed in certain areas of the city. People need "
@@ -2042,97 +1939,86 @@ msgstr ""
 "Некоторым районам города теперь требуется доступ к библиотекам. Людям нужно "
 "изучать литературу, чтобы работать писцами."
 
-#, fuzzy
 msgctxt "#Learning_MoreFacilitiesNeeded"
 msgid ""
 "Better Scribal School and Library access would enhance some areas of the "
 "city. People should not have to walk so far for learning!"
 msgstr ""
-"Хороший доступ к школам писцов и библиотекам улучшить состояние некоторых "
-"районов города. Люди не должны ходить так далеко, чтобы получить знания!"
+"Лучший доступ к школам писцов и библиотекам может развить некоторые районы "
+"города. Люди не должны ходить так далеко ради знаний!"
 
-#, fuzzy
 msgctxt "#Learning_MoreLibraryNeeded"
 msgid ""
 "Some areas of the city want better Library access. Upper-class scribes do "
 "not appreciate having to walk so far to the Library."
 msgstr ""
-"Какие-то районы города требуют улучшить доступ к библиотекам. Писцам высших "
-"классов не нравится, что до библиотеки так далеко идти."
+"Некоторым районам требуется улучшенный доступ к библиотекам. Богатым писцам "
+"не нравится так далеко ходить в библиотеку."
 
-#, fuzzy
 msgctxt "#Learning_MoreSchoolNeeded"
 msgid ""
 "Some neighborhoods demand better Scribal School access. Some houses have "
 "access to city schools, but others do not, and this hinders their "
 "development."
 msgstr ""
-"Некоторые районы требуют улучшить доступ к школам писцов. Доступ к городским "
-"школам есть не у всех домов, и это мешает им развиваться."
+"Некоторым районам требуется улучшенный доступ к школам писцов. У некоторых "
+"домов нет доступа к школам, и это мешает им развиваться."
 
-#, fuzzy
 msgctxt "#Learning_NoFacilitiesNeeded"
 msgid ""
 "No one is asking for educational facilities yet. As the city grows in "
 "stature, though, people will expect Scribal Schools, followed later by "
 "demands for Libraries."
 msgstr ""
-"Пока никто не просит построить образовательные учреждения. Но по мере роста "
-"города людям потребуются школы писцов, а потом и библиотеки."
+"Пока никому не нужны образовательные учреждения. Но по мере роста города "
+"людям потребуются школы писцов, а потом и библиотеки."
 
-#, fuzzy
 msgctxt "#Learning_NoLibraryNeeded_NoCompleteCoverage"
 msgid ""
 "All homes that want them have educational facilities, but building more "
 "Libraries would reduce overcrowding and enhance city Culture."
 msgstr ""
-"Все дома, где есть такая необходимость, имеют доступ к образовательным "
-"учреждениям, но если построить больше библиотек, они не будут настолько "
-"переполнены, и это улучшит культурный уровень в городе."
+"У всех домов есть доступ к образовательным учреждениям, но если построить "
+"больше библиотек, школы будут не так переполнены, и это улучшит культурный "
+"уровень в городе."
 
-#, fuzzy
 msgctxt "#Learning_NoSchoolNeeded_NoCompleteCoverage"
 msgid ""
 "All homes that want them have educational facilities, but building more "
 "Scribal Schools would reduce classroom sizes and improve city Culture."
 msgstr ""
-"Все дома, где есть такая необходимость, имеют доступ к образовательным "
-"учреждениям, но если построить больше школ писцов, можно уменьшить размер "
-"классов и улучшить культурный уровень в городе."
+"У всех домов есть доступ к образовательным учреждениям, но если построить "
+"больше школ писцов, то в классах будет не так много учеников, и это улучшит "
+"культурный уровень в городе."
 
-#, fuzzy
 msgctxt "#Learning_PerfectAccess"
 msgid ""
 "All homes that want them have educational facilities.  Scribal Schools and "
 "Libraries are numerous, and no one complains of overcrowding."
 msgstr ""
-"Все дома, где есть такая необходимость, имеют доступ к образовательным "
-"учреждениям. В городе множество школ писцов и библиотек и никто не жалуется "
-"на толпы людей внутри."
+"У всех домов есть доступ к образовательным учреждениям. Школ писцов и "
+"библиотек достаточно, и никто не жалуется тесноту внутри них."
 
 msgctxt "#Learning_School"
 msgid "Scribal schools "
 msgstr "Школы писцов "
 
-#, fuzzy
 msgctxt "#Learning_SchoolCoverage"
 msgid "children"
 msgstr "детей"
 
-#, fuzzy
 msgctxt "#Learning_SchoolNeeded"
 msgid ""
 "Certain areas of the city now need Scribal School access. Poor education "
 "prevents some residents from improving their housing."
 msgstr ""
-"Определенным районам города нужен доступ к школам писцов. Из-за плохого "
-"образования некоторые люди не могут улучшить жилье."
+"Некоторым районам города нужен доступ к школам писцов. Плохое образование "
+"препятствует развитию домов."
 
 msgctxt "#Learning_Title"
 msgid "Overseer of Learning"
 msgstr "Советник по образованию"
 
-#, fuzzy
 msgctxt "#Learning_Working"
 msgid "Working"
 msgstr "Работают"
@@ -2145,26 +2031,22 @@ msgctxt "#Military_"
 msgid "Dispatch"
 msgstr "Отправить"
 
-#, fuzzy
 msgctxt "#Military_EnemiesMoving"
 msgid "We are getting reports of enemies moving toward the city."
-msgstr "Нам поступают доклады о врагах, которые идут на город."
+msgstr "Нам поступают донесения о врагах, идущих к городу."
 
-#, fuzzy
 msgctxt "#Military_EnemyNear"
 msgid "Our enemies are within sight of the city."
-msgstr "Враги подходят к городу."
+msgstr "Наши враги уже видны на горизонте."
 
-#, fuzzy
 msgctxt "#Military_NoCompanies"
 msgid ""
 "You have no companies to command. You must first build a Fort to house a new "
 "company."
 msgstr ""
-"У вас нет отрядов. Сначала постройте крепость, чтобы разместить в ней новый "
+"У вас нет отрядов. Сначала постройте форт, чтобы разместить в нём новый "
 "отряд."
 
-#, fuzzy
 msgctxt "#Military_NoShips"
 msgid ""
 "You have no warships to command. You must first build a Wharf for a new "
@@ -2173,10 +2055,9 @@ msgstr ""
 "У вас нет военных кораблей. Сначала постройте причал, чтобы разместить "
 "военный корабль."
 
-#, fuzzy
 msgctxt "#Military_NoThreat"
 msgid "We have no reports of any threats to the city."
-msgstr "Докладов об угрозах городу не поступало."
+msgstr "Донесений об угрозах городу не поступало."
 
 msgctxt "#Military_TabArmy"
 msgid "Army status"
@@ -2190,15 +2071,13 @@ msgctxt "#Military_Title"
 msgid "Overseer of the Military"
 msgstr "Военный советник"
 
-#, fuzzy
 msgctxt "#Military_TroopsNeeded"
 msgid "Some of our troops are needed abroad."
-msgstr "Часть нашего войска нужна за пределами страны."
+msgstr "Часть нашего войска нужна за пределами города."
 
-#, fuzzy
 msgctxt "#Military_TroopsNotNeeded"
 msgid "We have no requests for military assistance abroad."
-msgstr "За пределами страны не запрашивали военную помощь."
+msgstr "Никто не запрашивал военной помощи за пределами города."
 
 msgctxt "#Monuments"
 msgid "Overseer of Monuments"
@@ -2263,7 +2142,6 @@ msgstr ""
 "Работа над этой кирпичной пирамидой ещё не началась. Вам нужны чернорабочие "
 "для подготовки и запасы кирпича и известняка для завершения строительства."
 
-#, fuzzy
 msgctxt "#Monuments_BurialAmount"
 msgid "Amount to Dispatch"
 msgstr "Отправляемое количество"
@@ -2552,7 +2430,6 @@ msgctxt "#Overseers"
 msgid "Overseers"
 msgstr "Советники"
 
-#, fuzzy
 msgctxt "#Perfect"
 msgid "Perfect"
 msgstr "Идеально"
@@ -2820,12 +2697,10 @@ msgstr ""
 "Музыканты сочиняют о вас песни, а ваше имя увенчивает все общественные "
 "постройки."
 
-#, fuzzy
 msgctxt "#Politics_LostDebens"
 msgid "<sprite name=\"Deben\"> lost this year through theft."
-msgstr "<sprite name=\"Deben\"> потеряно в этом году из-за краж."
+msgstr "<sprite name=\"Deben\"> украдено в этом году."
 
-#, fuzzy
 msgctxt "#Politics_NoRequest"
 msgid "There are no requests outstanding at the moment."
 msgstr "В данный момент нет невыполненных запросов."
@@ -2834,10 +2709,9 @@ msgctxt "#Politics_PharaonicRequest"
 msgid "Pharaonic request"
 msgstr "Запрос фараона"
 
-#, fuzzy
 msgctxt "#Politics_RequestTiming"
 msgid "{0} months to comply"
-msgstr "{0} мес. на исполнение"
+msgstr "{0} мес. на выполнение"
 
 msgctxt "#Politics_SalaryChancellor"
 msgid "Chancellor's salary of"
@@ -2883,10 +2757,9 @@ msgctxt "#Politics_SalaryVizier"
 msgid "Vizier's salary of"
 msgstr "Жалование визиря"
 
-#, fuzzy
 msgctxt "#Politics_Savings"
 msgid "Savings of"
-msgstr "Накоплено"
+msgstr "Накопления"
 
 msgctxt "#Politics_SendGift"
 msgid "Send a gift"
@@ -2896,30 +2769,26 @@ msgctxt "#Politics_Send_Company_Button"
 msgid "Send troops"
 msgstr "Отправить войска"
 
-#, fuzzy
 msgctxt "#Politics_Title"
 msgid "Political Overseer for {0}"
-msgstr "Ваш политический советник, {0}"
+msgstr "Ваш советник по политике, {0}"
 
 msgctxt "#Politics_Title_Tooltip"
 msgid "Political Overseer"
 msgstr "Советник по политике"
 
-#, fuzzy
 msgctxt "#Polititcs_MissionAlreadyWon"
 msgid ""
 "The Palace forbids you to draw a salary now, as you are continuing to govern "
 "of your own free choice."
 msgstr ""
-"Дворец отныне запрещает вам получать жалование, поскольку вы продолжаете "
-"управлять по собственному усмотрению."
+"Дворец больше не выплачивает вам жалование, поскольку вы продолжаете править "
+"по своей доброй воле."
 
-#, fuzzy
 msgctxt "#Polititcs_NoMansion"
 msgid "You need to build a Mansion in order to draw a personal salary."
 msgstr "Постройте особняк, чтобы получать личное жалование."
 
-#, fuzzy
 msgctxt "#Poor"
 msgid "Poor"
 msgstr "Мало"
@@ -2938,12 +2807,10 @@ msgstr ""
 "трудится, защищая город от малярии.[I2p_Few]{[number]} аптекаря трудится, "
 "защищая город от малярии."
 
-#, fuzzy
 msgctxt "#PublicHealth_ApothecariesNeeded"
 msgid "Some parts of the city demand access to an Apothecary."
-msgstr "Некоторые районы города требуют доступа к аптекарям."
+msgstr "Для некоторых районов требуется доступ к аптекам."
 
-#, fuzzy
 msgctxt "#PublicHealth_CareFor"
 msgid "Care for"
 msgstr "Обслуживается"
@@ -2956,101 +2823,89 @@ msgctxt "#PublicHealth_Dentists"
 msgid "Dentists"
 msgstr "Дантисты"
 
-#, fuzzy
 msgctxt "#PublicHealth_DentistsNeeded"
 msgid ""
 "Certain well-to-do areas of the city want Dentists. A local Dentist will "
 "enhance the stature of the neighborhood."
 msgstr ""
-"Благополучные районы города просят зубных врачей. Присутствие зубного врача "
-"улучшит статус района."
+"Некоторым благополучным районам город необходим доступ к дантистам. Наличие "
+"дантиста улучшит статус района."
 
-#, fuzzy
 msgctxt "#PublicHealth_Desc_0"
 msgid ""
 "City health is appalling! Pestilence is certain in such shocking conditions."
 msgstr ""
-"Здравоохранение в городе на ужасном уровне! В таких кошмарных условиях "
-"вспышка чумы неизбежна."
+"В городе кошмарный уровень здравоохранения! В таких кошмарных условиях скоро "
+"разразится чума."
 
-#, fuzzy
 msgctxt "#PublicHealth_Desc_10"
 msgid "City health is terrible! Disease is almost inevitable."
 msgstr ""
-"Здравоохранение в городе на очень плохом уровне! Вспышка заболеваний "
-"практически неизбежна."
+"В городе ужасный уровень здравоохранения! Болезни практически неизбежны."
 
-#, fuzzy
 msgctxt "#PublicHealth_Desc_100"
 msgid ""
 "City health is perfect. Your health care workers spend most of their days "
 "playing senet. "
 msgstr ""
-"В городе идеальный уровень здравоохранения. Лекари и остальные работники "
-"сферы целыми днями играют в сенет."
+"В городе идеальный уровень здравоохранения. Ваши медицинские работники "
+"целыми днями играют в сенет."
 
-#, fuzzy
 msgctxt "#PublicHealth_Desc_20"
 msgid ""
 "City health is bad. More health care workers might improve the situation."
 msgstr ""
-"Здравоохранение в городе на плохом уровне. Ситуацию можно улучшить, если "
-"появится больше работников здравоохранения."
+"В городе плохой уровень здравоохранения. Ситуацию можно улучшить, если "
+"появится больше медицинских работников."
 
-#, fuzzy
 msgctxt "#PublicHealth_Desc_30"
 msgid ""
 "City health is poor. Plenty of food and health facilities would improve it."
 msgstr ""
-"Здравоохранение в городе на неважном уровне. Его можно улучшить хорошими "
-"запасами еды и постройкой учреждений здравоохранения."
+"В городе низки уровень здравоохранения. Ситуацию можно улучшить хорошими "
+"запасами еды и постройкой медицинских учреждений."
 
-#, fuzzy
 msgctxt "#PublicHealth_Desc_40"
 msgid ""
 "City health is below average. Make sure citizens have food, and access to "
 "health care providers."
 msgstr ""
-"Уровень здравоохранения в городе ниже среднего. Убедитесь, что жителям "
-"хватает еды и у них есть доступ к работникам здравоохранения."
+"В городе неважный уровень здравоохранения. Убедитесь, что у жителей "
+"достаточно пищи и есть доступ к медицинским работникам."
 
-#, fuzzy
 msgctxt "#PublicHealth_Desc_50"
 msgid ""
 "City health is average. Foul influences are under control, and people get "
 "enough to eat."
 msgstr ""
-"В городе средний уровень здравоохранения. Возбудители заболеваний находятся "
-"под контролем, а людям хватает пищи."
+"В городе средний уровень здравоохранения. Заразные болезни под контролем, а "
+"людям хватает пищи."
 
-#, fuzzy
 msgctxt "#PublicHealth_Desc_60"
 msgid "City health is good. Citizens are prone to only minor ailments."
 msgstr ""
-"В городе хороший уровень здравоохранения. Люди не болеют ничем серьезным."
+"В городе хороший уровень здравоохранения. Жители подвержены только лёгким "
+"болезням."
 
-#, fuzzy
 msgctxt "#PublicHealth_Desc_70"
 msgid "City health is very good. Local caregivers are coping well."
 msgstr ""
-"В городе очень хороший уровень здравоохранения. Местные работники сферы "
-"успевают со всем справляться."
+"В городе очень хороший уровень здравоохранения. Местные медицинские "
+"работники успевают со всем справляться."
 
-#, fuzzy
 msgctxt "#PublicHealth_Desc_80"
 msgid ""
 "City health is excellent, with no waiting times at all to visit local health "
 "facilities."
 msgstr ""
-"В городе прекрасный уровень здравоохранения. У лекарей и других заведений "
-"практически не бывает очередей."
+"В городе прекрасный уровень здравоохранения. В медицинских учреждениях нет "
+"очередей."
 
-#, fuzzy
 msgctxt "#PublicHealth_Desc_90"
 msgid "City health is almost perfect, with health facilities virtually empty."
 msgstr ""
-"В городе практически идеальный уровень здравоохранения. К лекарям и другим "
-"работникам сферы почти никто не ходит."
+"В городе практически идеальный уровень здравоохранения. У медицинских "
+"учреждений практически нет больных."
 
 msgctxt "#PublicHealth_FoodVariety"
 msgid ""
@@ -3061,111 +2916,97 @@ msgstr ""
 "разнообразия пищи.[I2p_One]{[number]} вид пищи в вашем городе.[I2p_Few]"
 "{[number]} вида пищи в вашем городе."
 
-#, fuzzy
 msgctxt "#PublicHealth_MoreApothecariesNeeded"
 msgid "More and more people want convenient medical facilities (Apothecaries)."
 msgstr "Все больше людей хотят иметь удобный доступ к услугам аптекаря."
 
-#, fuzzy
 msgctxt "#PublicHealth_MoreDentistsNeeded"
 msgid ""
 "More areas of the city now require Dentists. As your city grows wealthier, "
 "more and more residents can afford new ivory teeth."
 msgstr ""
-"Зубные врачи теперь требуются в большем числе районов города. Когда город "
-"становится богаче, больше его жителей могут позволить зубы из слоновой кости."
+"Всё большему числу районов необходим доступ к дантистам. Город богатеет, всё "
+"больше его жителей могут себе позволить новые зубы из слоновой кости."
 
-#, fuzzy
 msgctxt "#PublicHealth_MoreMortuariesNeeded"
 msgid ""
 "Citizens require more Mortuaries to properly prepare their dead for the "
 "afterlife."
 msgstr ""
-"Жителям требуется больше бальзамировщиков, чтобы правильно подготовить "
-"умерших к загробной жизни."
+"Жителям требуется больше моргов, чтобы должным образом подготовить усопших к "
+"загробной жизни."
 
-#, fuzzy
 msgctxt "#PublicHealth_MorePhysiciansNeeded"
 msgid "Some regions of the city want more Physicians."
-msgstr "Некоторые зоны города просят больше лекарей."
+msgstr "Некоторым районам города нужно больше лекарей."
 
 msgctxt "#PublicHealth_Mortuaries"
 msgid "Mortuaries"
 msgstr "Морги"
 
-#, fuzzy
 msgctxt "#PublicHealth_MortuariesNeeded"
 msgid ""
 "Development in some quarters is being held back by poor citywide Mortuary "
 "coverage."
 msgstr ""
-"Развитию некоторых кварталов мешает недостаток услуг бальзамировщиков по "
-"всему городу."
+"Развитие некоторых кварталов сдерживается недостаточным предоставлением "
+"услуг моргов."
 
-#, fuzzy
 msgctxt "#PublicHealth_NoFacilitiesNeeded"
 msgid ""
 "No one is asking for health or sanitary facilities. As the city develops, "
 "though, people will expect access to healthcare, then Dentists, and then "
 "even more medical facilities!"
 msgstr ""
-"Пока никто не просит заняться вопросами здравоохранения или гигиены. Но с "
-"ростом города людям потребуется доступ к услугам лекарей, а потом и зубных "
-"врачей и других заведений для заботы о здоровье!"
+"Пока никому не нужны медицинские учреждения. Но по мере роста города людям "
+"потребуется услуги лекарей, а потом и дантистов и других заведений для "
+"заботы о здоровье!"
 
-#, fuzzy
 msgctxt "#PublicHealth_NoProblem"
 msgid "Your small settlement has yet to report any problems with health."
-msgstr "Ваше маленькое поселение еще не сообщало о проблемах со здоровьем."
+msgstr ""
+"В вашем маленьком поселении ещё никто не сообщал о проблемах со здоровьем."
 
 msgctxt "#PublicHealth_Outbreaks_0"
 msgid "No"
 msgstr "Нет"
 
-#, fuzzy
 msgctxt "#PublicHealth_Outbreaks_1"
 msgid "A few"
 msgstr "Пара"
 
-#, fuzzy
 msgctxt "#PublicHealth_Outbreaks_2"
 msgid "Some"
-msgstr "Несколько"
+msgstr "Немного"
 
-#, fuzzy
 msgctxt "#PublicHealth_Outbreaks_3"
 msgid "Several"
-msgstr "Небольшое количество"
+msgstr "Несколько"
 
-#, fuzzy
 msgctxt "#PublicHealth_Outbreaks_4"
 msgid "Many"
 msgstr "Много"
 
-#, fuzzy
 msgctxt "#PublicHealth_Outbreaks_phrase"
 msgid "outbreaks have been reported this month."
-msgstr "вспышек зарегистрировано в этом месяце."
+msgstr "вспышек в этом месяце."
 
-#, fuzzy
 msgctxt "#PublicHealth_Patients"
 msgid "{0} patients"
-msgstr "Пациентов: {0}"
+msgstr "{0} пациентов"
 
 msgctxt "#PublicHealth_Physicians"
 msgid "Physicians"
 msgstr "Лекари"
 
-#, fuzzy
 msgctxt "#PublicHealth_PhysiciansNeeded"
 msgid "Certain areas of the city now need access to Physicians."
-msgstr "Определенным районам города нужен доступ к лекарям."
+msgstr "Некоторым районам города нужен доступ к лекарям."
 
 msgctxt "#PublicHealth_Title"
 msgid "Overseer of Public Health"
 msgstr "Советник по здравоохранению"
 
-#, fuzzy
 msgctxt "#PublicHealth_Working"
 msgid "Working"
 msgstr "Работают"
@@ -3182,109 +3023,97 @@ msgctxt "#Ratings_Culture_100"
 msgid "This city is more Cultured than any in Egypt!"
 msgstr "Это самый культурный город во всём Египте!"
 
-#, fuzzy
 msgctxt "#Ratings_Culture_DancersNeeded"
 msgid ""
 "There are too few dancers in the city. If possible, add more Dancers' stages "
 "to improve this rating."
 msgstr ""
 "В городе слишком мало танцовщиц. Добавьте больше площадок для них, чтобы "
-"улучшить этот рейтинг."
+"улучшить рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Culture_DentistsNeeded"
 msgid ""
 "Not enough houses have access to a Dentist. Better access would improve this "
 "rating."
 msgstr ""
-"Слишком мало жителей имеют доступ к зубным врачам. Улучшенный доступ хорошо "
-"скажется на этом рейтинге."
+"У некоторых домов нет доступа к услугам дантиста. Решите эту проблему, чтобы "
+"улучшить рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Culture_JugglersNeeded"
 msgid ""
 "There are too few jugglers in the city. If possible, add more Jugglers' "
 "stages to improve this rating."
 msgstr ""
-"В городе слишком мало жонглеров. Добавьте больше площадок для них, чтобы "
-"улучшить этот рейтинг."
+"В городе слишком мало жонглёров. Добавьте больше площадок для них, чтобы "
+"улучшить рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Culture_LibrariesNeeded"
 msgid ""
 "There are too few Libraries working in the city. If possible, build more to "
 "improve this rating."
 msgstr ""
-"В городе открыто слишком мало библиотек. По возможности постройте больше, "
+"В городе работает слишком мало библиотек. По возможности постройте больше, "
 "чтобы улучшить этот рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Culture_MortuariesNeeded"
 msgid ""
 "Not enough houses have access to a Mortuary. Better access would improve "
 "this rating."
 msgstr ""
-"Слишком мало жителей имеют доступ к бальзамировщикам. Улучшенный доступ "
-"хорошо скажется на этом рейтинге."
+"У некоторых домов нет доступа к услугам морга. Решите эту проблему, чтобы "
+"улучшить рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Culture_MusiciansNeeded"
 msgid ""
 "There are too few musicians in the city. If possible, add more Musicians' "
 "stages to improve this rating."
 msgstr ""
 "В городе слишком мало музыкантов. Добавьте больше площадок для них, чтобы "
-"улучшить этот рейтинг."
+"улучшить рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Culture_PhysiciansNeeded"
 msgid ""
 "Not enough houses have access to a Physician. Better access would improve "
 "this rating."
 msgstr ""
-"Слишком мало жителей имеют доступ к лекарям. Улучшенный доступ хорошо "
-"скажется на этом рейтинге."
+"У некоторых домов нет доступа к услугам лекаря. Решите эту проблему, чтобы "
+"улучшить рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Culture_ReligionNeeded"
 msgid ""
 "There are too few places of worship in the city. Building more would improve "
 "this rating."
 msgstr ""
-"В городе слишком мало мест для поклонения богам. Если построить больше, этот "
-"рейтинг улучшится."
+"В городе слишком мало мест для поклонения богам. По возможности постройте "
+"больше, чтобы улучшить этот рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Culture_SchoolNeeded"
 msgid ""
 "There are too few Scribal Schools working in the city. Building more would "
 "improve this rating."
 msgstr ""
-"В городе открыто слишком мало школ писцов. Если построить больше, этот "
-"рейтинг улучшится."
+"В городе работает слишком мало школ писцов. По возможности постройте больше, "
+"чтобы улучшить этот рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Culture_SenetHousesNeeded"
 msgid ""
 "There are too few Senet Houses in the city. If possible, build Senet Houses "
 "to improve this rating."
 msgstr ""
-"В городе слишком мало домов сенета. Постройте больше домов сенета, чтобы "
-"улучшить этот рейтинг."
+"В городе работает слишком мало домов сенета. По возможности постройте "
+"больше, чтобы улучшить этот рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Culture_ZoosNeeded"
 msgid ""
 "There are too few Zoos in the city. If possible, build Zoos to improve this "
 "rating."
 msgstr ""
-"В городе слишком мало зоопарков. Постройте больше зоопарков, чтобы улучшить "
-"этот рейтинг."
+"В городе работает слишком мало зоопарков. По возможности постройте больше, "
+"чтобы улучшить этот рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Culture_hover"
 msgid "Click here for advice about your Culture rating"
-msgstr "Нажмите здесь, чтобы получить совет о рейтинге культуры"
+msgstr "Щёлкните здесь, чтобы получить совет о рейтинге культуры."
 
 msgctxt "#Ratings_HouseNeededTooltip"
 msgid "Houses needed"
@@ -3298,173 +3127,156 @@ msgctxt "#Ratings_Kingdom_100"
 msgid "Your Kingdom is the best-rated in all Egypt!"
 msgstr "У вашего города самый лучший рейтинг Царства!"
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_CanceledRequest"
 msgid ""
 "The way you have responded to certain events has greatly harmed your "
 "reputation throughout the Kingdom, and lowered this rating."
 msgstr ""
-"Ваша реакция на определенные события сильно навредила вашей репутации в "
-"стране и снизила этот рейтинг."
+"Ваша реакция на определённые события сильно повредила вашей репутации в "
+"Царстве и снизила рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_DownFromLastYear"
 msgid ""
 "Your Kingdom rating is lower than it was last year. Pay your annual tribute, "
 "draw a modest salary, and fulfill requests from Pharaoh or other cities in "
 "the Kingdom."
 msgstr ""
-"Рейтинг государства снизился по сравнению с прошлым годом. Заплатите годовую "
-"дань, платите себе скромное жалование и выполняйте запросы от фараона или "
-"других городов в стране."
+"Рейтинг Царства снизился по сравнению с прошлым годом. Заплатите годовую "
+"дань, сократите себе жалование и вовремя выполняйте запросы от фараона или "
+"других городов."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_HighSalary"
 msgid ""
 "Your salary is too high for your current standing. Your Kingdom rating will "
 "rise if you reduce it somewhat."
 msgstr ""
-"Ваше жалование не соответствует положению и слишком высоко. Рейтинг "
-"государства вырастет, если вы частично снизите личный заработок."
+"Ваше жалование слишком высоко для вашего положения. Рейтинг в Царстве "
+"вырастет, если вы сократите своё жалование."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_HighSalary2"
 msgid ""
 "Your salary is too high for your current standing. You would do well to "
 "reduce it."
 msgstr ""
-"Ваше жалование не соответствует положению и слишком высоко. Вам стоит "
-"поумерить аппетиты."
+"Ваше жалование слишком высоко для вашего положения. Вам следует его "
+"сократить."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_HighSalary3"
 msgid ""
 "Your brazenness in paying yourself a salary higher than your rank entitles "
 "you to is frowned upon."
 msgstr ""
-"Никто не одобряет того, как нагло вы назначили себе жалование, превышающее "
-"допустимое для вашего ранга."
+"Никому не нравится то, как вы нагло назначили себе жалование, не "
+"соответствующее вашему положению."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_NoChange"
 msgid ""
 "Your Kingdom rating is unchanged from last year. You can instruct your "
 "Political Overseer to give a gift to Egypt, and this rating will rise."
 msgstr ""
-"Рейтинг государства такой же, как в прошлом году. Можете приказать "
-"политическому советнику сделать подарок для Египта, и тогда рейтинг "
-"поднимется."
+"Рейтинг Царства такой же, как и в прошлом году. Можете приказать советнику "
+"по политике сделать подарок для Египта, и тогда рейтинг поднимется."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_NoTribute1st"
 msgid ""
 "You could not pay your tribute this year, which reduced your Kingdom rating. "
 "Keep some money in your treasury at year's end so you can make your annual "
 "payment."
 msgstr ""
-"Вы не смогли выплатить дань в этом году, и это снизило рейтинг государства. "
-"Отложите определенную сумму в казне к концу года, чтобы произвести выплату."
+"Вы не смогли выплатить дань в этом году, и это снизило рейтинг Царства. "
+"Оставьте на конец года в казне определённую сумму, чтобы иметь возможность "
+"произвести выплату."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_NoTribute2nd"
 msgid ""
 "For the second year in a row, you have not paid tribute, and your Kingdom "
 "rating suffers for it."
 msgstr ""
-"Вы второй год подряд не выплачиваете годовую дань, и это плохо отражается на "
-"рейтинге государства."
+"Вы второй год подряд не выплачиваете дань, и это плохо отражается на "
+"рейтинге Царства."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_NoTribute3rd"
 msgid ""
 "Your continued inability to provide annual tribute lowers your reputation "
 "throughout the Kingdom, and reduces this rating."
 msgstr ""
-"Ваша постоянная неспособность выплачивать годовую дань плохо сказывается на "
-"вашей репутации в стране и снижает этот рейтинг."
+"Ваша продолжающаяся неспособность выплачивать годовую дань плохо сказывается "
+"на вашей репутации в Царстве и снижает этот рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_RecentChanges"
 msgid ""
 "Your response to certain events has harmed your standing in the Kingdom a "
 "little."
 msgstr ""
-"Ваш ответ на определенные события несколько навредил вашей репутации в "
-"стране."
+"Ваш ответ на определённые события несколько повредил вашей репутации в "
+"Царстве."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_UnmeetObjectives"
 msgid ""
 "Your slow progress toward meeting your goals in a timely fashion has reduced "
 "your Kingdom rating."
-msgstr "Медленное выполнение намеченных целей понизило рейтинг государства."
+msgstr ""
+"Из-за слишком медленного выполнения намеченных целей ваш рейтинг царства "
+"снизился."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_UpFromLastYear"
 msgid ""
 "Your Kingdom rating is higher than it was last year. You can instruct your "
 "Political Overseer to give a gift to Egypt, and this rating will rise even "
 "more."
 msgstr ""
-"Рейтинг государства выше, чем в прошлом году. Можете приказать политическому "
-"советнику сделать подарок для Египта, и тогда рейтинг поднимется еще выше."
+"Рейтинг Царства выше, чем в прошлом году. Можете приказать советнику по "
+"политике сделать подарок для Египта, чтобы повысить рейтинг ещё выше."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_VeryHighSalary"
 msgid ""
 "The ridiculously high salary that you pay yourself indicates your complete "
 "lack of dedication to the Kingdom, and reduces this rating."
 msgstr ""
 "Непомерно высокое жалование, которое вы себе назначили, указывает на ваше "
-"полное нежелание что-либо делать для страны и снижает этот рейтинг."
+"полное нежелание что-либо ради Царства и снижает этот рейтинг."
 
-#, fuzzy
 msgctxt "#Ratings_Kingdom_VeryHighSalary2"
 msgid ""
 "The salary that you pay yourself, far exceeding your rank, reduces your "
 "reputation in the Kingdom."
 msgstr ""
-"Ваша репутация в стране страдает, потому что ваше жалование значительно "
-"превышает положенное вашему рангу."
+"Высокое жалование, которое вы себе назначили, не соответствует вашему "
+"положения и снижает рейтинг Царства."
 
 msgctxt "#Ratings_Kingdom_hover"
 msgid "Click here for advice about your Kingdom rating"
-msgstr "Щёлкните здесь, чтобы получить совет о рейтинге государства."
+msgstr "Щёлкните здесь, чтобы получить совет о рейтинге Царства."
 
 msgctxt "#Ratings_Monument"
 msgid "Monument"
 msgstr "Монументы"
 
-#, fuzzy
 msgctxt "#Ratings_Monument_Equal_Needed"
 msgid "This city has the most magnificent Monuments in all Egypt!"
-msgstr "В этом городе лучшие памятники во всем Египте!"
+msgstr "В этом городе самые величественные монументы во всём Египте!"
 
-#, fuzzy
 msgctxt "#Ratings_Monument_Lower_Than_Needed"
 msgid ""
 "Remember to instruct the Overseer of Monuments to dispatch any necessary "
 "burial provisions. Also visit monument construction sites for a detailed "
 "progress report."
 msgstr ""
-"Не забудьте приказать советнику по памятникам отправить необходимые "
-"погребальные принадлежности. И посещайте площадки для строящихся памятников, "
-"чтобы узнать подробности о ходе строительства."
+"Не забудьте приказать советнику по монументов отправить необходимые "
+"погребальные принадлежности. Также вы можете посетить площадки строящихся "
+"монументов, чтобы узнать подробности о ходе строительства."
 
-#, fuzzy
 msgctxt "#Ratings_Monument_hover"
 msgid "Click here for advice about your Monument rating"
-msgstr "Нажмите здесь, чтобы получить совет о рейтинге памятников"
+msgstr "Щёлкните здесь, чтобы получить совет о рейтинге монументов."
 
-#, fuzzy
 msgctxt "#Ratings_NoHouseTarget"
 msgid "No target housing"
-msgstr "Нет цели по постройкам"
+msgstr "Нет условий по постройкам"
 
-#, fuzzy
 msgctxt "#Ratings_NoPopulationTarget"
 msgid "No target population"
-msgstr "Нет цели по населению"
+msgstr "Нет условий по населению"
 
 msgctxt "#Ratings_Population"
 msgid "Population"
@@ -3476,7 +3288,7 @@ msgstr "Население: {0}/{1}"
 
 msgctxt "#Ratings_PopulationNeededTooltip"
 msgid "Population needed"
-msgstr ""
+msgstr "Требуется населения"
 
 msgctxt "#Ratings_Prosperity"
 msgid "Prosperity"
@@ -3486,50 +3298,43 @@ msgctxt "#Ratings_Prosperity_100"
 msgid "The amazing Prosperity of this city is the talk of Egypt!"
 msgstr "Невероятное благополучие этого города на слуху у всего Египта!"
 
-#, fuzzy
 msgctxt "#Ratings_Prosperity_Advice"
 msgid "The city is more Prosperous when exports earn more than imports cost."
 msgstr ""
-"Благополучие растет в том городе, где заработок от экспорта превышает "
-"расходы на импорт."
+"Благополучие растёт в том городе, где доход от экспорта превышает расходы на "
+"импорт."
 
-#, fuzzy
 msgctxt "#Ratings_Prosperity_HighUnemployment"
 msgid "High unemployment in your city retards your Prosperity rating."
 msgstr ""
-"Высокий уровень безработицы в вашем городе не дает расти рейтингу "
+"Высокий уровень безработицы в вашем городе препятствует росту рейтинга "
 "благополучия."
 
 msgctxt "#Ratings_Prosperity_LaborShortages"
 msgid "Labor shortages reduce Prosperity."
 msgstr "Недостаток рабочей силы снижает благополучие."
 
-#, fuzzy
 msgctxt "#Ratings_Prosperity_LowLevelHouses"
 msgid ""
 "The overall quality of your city's housing holds this rating back. Improve "
 "the housing in your city to raise it."
 msgstr ""
-"Общее качество жилья в вашем городе не дает подняться этому рейтингу. "
+"Общее качество жилья в вашем городе препятствует росту данного рейтинга. "
 "Улучшите жилье, чтобы рейтинг вырос."
 
-#, fuzzy
 msgctxt "#Ratings_Prosperity_LowWages"
 msgid ""
 "Paying less than the Kingdom wage tarnishes your city's image as a "
 "prosperous one."
 msgstr ""
-"Вы платите жалование ниже государственного минимума, поэтому город не "
-"считается неблагополучным."
+"Вы платите жалование ниже минимума, что вредит образу процветающего города."
 
-#, fuzzy
 msgctxt "#Ratings_Prosperity_NegativeIncome"
 msgid "Last year your city lost money - this reduced the city's Prosperity."
 msgstr ""
-"В прошлом году ваш город понес финансовые потери, и это снизило уровень его "
+"В прошлом году ваш город потерял деньги, и это снизило уровень его "
 "благополучия."
 
-#, fuzzy
 msgctxt "#Ratings_Prosperity_NoTribute"
 msgid ""
 "Your inability to pay the annual tribute marks your city out as a failure."
@@ -3537,20 +3342,17 @@ msgstr ""
 "Ваш город признан несостоятельным из-за вашей неспособности выплатить "
 "годовую дань."
 
-#, fuzzy
 msgctxt "#Ratings_Prosperity_Slums"
 msgid ""
 "The high concentration of slum dwellers in your city lends it the appearance "
 "of a poor one."
 msgstr ""
-"В городе слишком много людей живет в трущобах, поэтому он выглядит бедным."
+"В городе слишком много людей живёт в трущобах, поэтому он выглядит бедным."
 
-#, fuzzy
 msgctxt "#Ratings_Prosperity_hover"
 msgid "Click here for advice about your Prosperity rating"
-msgstr "Нажмите здесь, чтобы получить совет о рейтинге благополучия"
+msgstr "Щёлкните здесь, чтобы получить совет о рейтинге благополучия."
 
-#, fuzzy
 msgctxt "#Ratings_ScoreNeeded"
 msgid "{0} Needed"
 msgstr "Требуется {0}"
@@ -3559,7 +3361,6 @@ msgctxt "#Ratings_Title"
 msgid "Ratings Overseer"
 msgstr "Советник по рейтингу"
 
-#, fuzzy
 msgctxt "#Sparse"
 msgid "Sparse"
 msgstr "Редко"
@@ -3568,10 +3369,9 @@ msgctxt "#Temples"
 msgid "Overseer of the Temples"
 msgstr "Советник по храмам"
 
-#, fuzzy
 msgctxt "#Temples_Appeasement"
 msgid "Appeasement"
-msgstr "Умилостивление"
+msgstr "Умиротворение"
 
 msgctxt "#Temples_Displeased_Bast"
 msgid ""
@@ -3618,12 +3418,10 @@ msgstr ""
 "своего города в его глазах или увидите, как разозлённый бог сметает ваши "
 "отряды!"
 
-#, fuzzy
 msgctxt "#Temples_FestivalButton"
 msgid "Hold new festival"
-msgstr "Проведите новый праздник"
+msgstr "Устроить новый праздник"
 
-#, fuzzy
 msgctxt "#Temples_FestivalInfo"
 msgid "Festival information"
 msgstr "Информация о празднике"
@@ -3714,34 +3512,31 @@ msgctxt "#Temples_Mood_Sympathetic"
 msgid "Sympathetic"
 msgstr "Благосклонность"
 
-#, fuzzy
 msgctxt "#Temples_NoTempleNeeded"
 msgid ""
 "So far, people are too preoccupied with physical needs to think about "
 "religion. As your city grows, though, they will want easy access to a "
 "variety of Temples."
 msgstr ""
-"Пока что люди слишком заняты налаживанием элементарных условий для жизни, "
-"чтобы задумываться о религии. Но по мере роста города жителям захочется "
-"иметь доступ к храмам разных богов."
+"Пока что люди заняты налаживанием элементарных условий для жизни, чтобы "
+"задумываться о религии. Но по мере роста города жителям захочется иметь "
+"свободный доступ к храмам разных богов."
 
-#, fuzzy
 msgctxt "#Temples_NoTemples"
 msgid ""
 "Residents are beginning to feel spiritual needs. The absence of nearby "
 "places of worship holds back city development."
 msgstr ""
 "Жители начинают ощущать потребности духовного характера. Отсутствие "
-"поблизости мест для поклонения богам не дает городу развиваться."
+"поблизости мест для поклонения богам не даёт городу развиваться."
 
-#, fuzzy
 msgctxt "#Temples_NoTemplesBadMood"
 msgid ""
 "More and more people fear that, without at least one place of worship in "
 "their neighborhoods, the gods will feel spurned."
 msgstr ""
-"Все больше людей боится, что богов разгневает полное отсутствие мест для "
-"поклонения в районах города."
+"Всё больше людей боится, что отсутствие мест для поклонения может серьёзно "
+"разозлить богов."
 
 msgctxt "#Temples_OrderFestival"
 msgid "Order a festival"
@@ -3751,7 +3546,6 @@ msgctxt "#Temples_PatronGod"
 msgid "Patron God"
 msgstr "Бог-покровитель"
 
-#, fuzzy
 msgctxt "#Temples_PerfectCoverage"
 msgid ""
 "Everyone's particular religious beliefs are served, and the priests report "
@@ -3760,14 +3554,14 @@ msgstr ""
 "Каждый человек имеет возможность проводить обряды согласно своим верованиям, "
 "а жрецы сообщают, что боги довольны тем, как их почитают в городе."
 
-#, fuzzy
 msgctxt "#Temples_SecondTempleNeeded"
 msgid ""
 "More sophisticated residents want access to another religion close to home. "
 "Lack of religious diversity limits city development in certain areas."
 msgstr ""
-"Более образованные жители хотят иметь доступ к святилищу другого бога. Малое "
-"религиозное разнообразие не дает развиваться определенным районам города."
+"Более образованные жители хотят иметь возможность поклоняться другим богам. "
+"Малое религиозное разнообразие препятствует развитию определённых районов "
+"города."
 
 msgctxt "#Temples_Shrines"
 msgid "Shrines"
@@ -3837,7 +3631,6 @@ msgctxt "#Treasury_InterestsDebt"
 msgid "Interest on debt"
 msgstr "Процент по долгам"
 
-#, fuzzy
 msgctxt "#Treasury_LastYear"
 msgid "Last year"
 msgstr "Прошлый год"
@@ -3854,12 +3647,9 @@ msgctxt "#Treasury_PersonalSalary"
 msgid "Personal salary"
 msgstr "Личное жалование"
 
-#, fuzzy
 msgctxt "#Treasury_ProjectdPayroll"
 msgid "Projected payroll this year: {0}<sprite name=\"Deben\">"
-msgstr ""
-"Прогнозируемые расходы на оплату труда в этом году: {0} <sprite "
-"name=\"Deben\">"
+msgstr "Ожидаемая выплата рабочим в этом году: {0}<sprite name=\"Deben\">"
 
 msgctxt "#Treasury_RequestAndFestivals"
 msgid "Requests and Festivals"
@@ -3889,10 +3679,9 @@ msgctxt "#Treasury_Theft"
 msgid "Theft"
 msgstr "Воровство"
 
-#, fuzzy
 msgctxt "#Treasury_ThisYear"
 msgid "So far this year"
-msgstr "Этот год на текущий момент"
+msgstr "Текущий год"
 
 msgctxt "#Treasury_Title"
 msgid "Overseer of the Treasury"
@@ -3926,12 +3715,10 @@ msgctxt "#Treasury_Wages"
 msgid "Wages"
 msgstr "Жалование людей"
 
-#, fuzzy
 msgctxt "#VeryGood"
 msgid "Very good"
 msgstr "Очень хорошо"
 
-#, fuzzy
 msgctxt "#VeryPoor"
 msgid "Very poor"
 msgstr "Очень мало"
@@ -3940,7 +3727,6 @@ msgctxt "#Workers"
 msgid "Overseer of the Workers"
 msgstr "Советник по рабочей силе"
 
-#, fuzzy
 msgctxt "#Workers_ActualWorkers"
 msgid "Have"
 msgstr "Имеется"

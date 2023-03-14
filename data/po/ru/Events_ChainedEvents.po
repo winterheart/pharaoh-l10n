@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-03-08 19:42+0300\n"
+"PO-Revision-Date: 2023-03-14 21:52+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 22.08.3\n"
+"X-Generator: Lokalize 23.07.70\n"
 
 #, fuzzy
 msgctxt "#ConstructionProjectComply_City_ReasonPhrase_1"
@@ -42,14 +42,14 @@ msgstr ""
 "вы помогли городу {[city_name]} закончить стройку в срок, отправив материалы "
 "({[resource]}, {0} ед.). Однако"
 
-#, fuzzy
 msgctxt "#ConstructionProjectComply_Pharaoh_ReasonPhrase_1"
 msgid ""
 "because the {0} {[resource]} you sent were essential to the timely "
 "completion of Pharaoh's construction project in {[city_name]},"
 msgstr ""
-"благодаря отправленным материалам ({[resource]}, {0} ед.) помогли завершить "
-"стройку фараона в городе {[city_name]}, поэтому"
+"благодаря тому, что отправленные вами материалы ({[resource]}, {0} шт.) были "
+"очень важны для своевременного завершения проекта фараона в городе "
+"{[city_name]}, поэтому"
 
 #, fuzzy
 msgctxt "#ConstructionProjectComply_Pharaoh_ReasonPhrase_2"
@@ -221,7 +221,6 @@ msgctxt "#DemandUp_ReasonPhrase_3"
 msgid "even though {[city_name]} wishes to trade more {[resource]},"
 msgstr "хотя {[city_name]} хочет закупать больше ресурса {[resource]},"
 
-#, fuzzy
 msgctxt "#DistantBattleComply_City_ReasonPhrase_1"
 msgid "because your troops helped win the day at {[city_name]},"
 msgstr "поскольку ваши воины помогли городу {[city_name]} выиграть битву,"
@@ -695,23 +694,21 @@ msgctxt "#EgyptianCity_To_DistantCity_ReasonPhrase_3"
 msgid "even though {[city_name]} has fallen to invading forces,"
 msgstr "хотя город {[city_name]} перешел захватчикам,"
 
-#, fuzzy
 msgctxt "#FamineReliefComply_City_ReasonPhrase_1"
 msgid ""
 "because the {0} {[resource]} you sent filled the bellies of {[city_name]} "
 "during the famine,"
 msgstr ""
-"поскольку вы отправили пищу ({[resource]}, {0} ед.) и накормили голодающих в "
-"городе {[city_name]},"
+"поскольку отправленная вами пища ({[resource]}, {0} ед.) помогла городу "
+"{[city_name]} прокормить своих голодающих жителей,"
 
-#, fuzzy
 msgctxt "#FamineReliefComply_City_ReasonPhrase_2"
 msgid ""
 "the {0} {[resource]} you sent to {[city_name]} filled the bellies of its "
 "people during the famine. Additionally, viziers report that"
 msgstr ""
-"вы отправили пищу ({[resource]}, {0} ед.) и накормили голодающих в городе "
-"{[city_name]}. Также визири докладывают, что"
+"отправленная вами пища ({[resource]}, {0} ед.) помогла городу {[city_name]} "
+"прокормить своих голодающих жителей. Также визири докладывают, что"
 
 #, fuzzy
 msgctxt "#FamineReliefComply_City_ReasonPhrase_3"
@@ -1327,10 +1324,9 @@ msgctxt "#KingdomRatingDown_ReasonPhrase_3"
 msgid "even though you're becoming less and less popular in the kingdom,"
 msgstr "хотя вы теряете популярность по всему государству,"
 
-#, fuzzy
 msgctxt "#KingdomRatingUp_ReasonPhrase_1"
 msgid "because your reputation in the Kingdom recently increased,"
-msgstr "поскольку ваша репутация в государстве растет,"
+msgstr "поскольку ваша репутация в Царстве недавно выросла,"
 
 msgctxt "#KingdomRatingUp_ReasonPhrase_2"
 msgid "your reputation in the Kingdom has improved. Now"

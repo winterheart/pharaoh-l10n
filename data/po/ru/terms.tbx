@@ -2740,6 +2740,54 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="azamat_h._hackimov-228">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>kingdom rating</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>рейтинг царства</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-229">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>prosperity</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>благополучие</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-230">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>farafra</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>фарафра</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-231">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>kebet</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>кебет</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>

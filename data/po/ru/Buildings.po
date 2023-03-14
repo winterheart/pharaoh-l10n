@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-02-28 00:28\n"
-"PO-Revision-Date: 2023-03-06 02:46+0300\n"
+"PO-Revision-Date: 2023-03-11 02:44+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -139,16 +139,14 @@ msgctxt "#ArtisansGuild"
 msgid "Artisans' Guild"
 msgstr "Артель художников"
 
-#, fuzzy
 msgctxt "#ArtisansGuild_flavor"
 msgid ""
 "Artisans meet here to prepare plaster from clay and mix their paints before "
 "heading out to decorate a tomb. "
 msgstr ""
-"Здесь художники создают гипсовый раствор из глины и замешивают краски для "
-"украшения гробниц."
+"Здесь художники создают штукатурку из глины и замешивают краски перед тем, "
+"как отправиться украшать гробницы."
 
-#, fuzzy
 msgctxt "#ArtisansGuild_stock_clay_0"
 msgid ""
 "The guild won't send any artisans to the tomb until it receives a supply of "
@@ -157,14 +155,12 @@ msgstr ""
 "Артель не сможет посылать художников украшать гробницу, пока не получит "
 "запас глины."
 
-#, fuzzy
 msgctxt "#ArtisansGuild_stock_paint_0"
 msgid ""
 "Artisans are hard-pressed to decorate a tomb without the paint it needs from "
 "a Paint Maker or Storage Yard."
 msgstr ""
-"Без краски художники работать не могут. Доставьте ее от изготовителя красок "
-"или со склада."
+"Художники не смогут украшать гробницу без краски из мастерской или со склада."
 
 msgctxt "#ArtisansGuild_storage_clay"
 msgid "Clay<sprite name=\"Clay\">: {0} units."
@@ -174,61 +170,55 @@ msgctxt "#ArtisansGuild_storage_paint"
 msgid "Paint<sprite name=\"Paint\">: {0} units."
 msgstr "Краска<sprite name=\"Paint\">: {0} мер."
 
-#, fuzzy
 msgctxt "#ArtisansGuild_tooltip"
 msgid ""
 "Sends artisans working on monuments when provided with paint <sprite "
 "name=\"Paint\"> and clay <sprite name=\"Clay\">"
 msgstr ""
-"При наличии краски <sprite name=\"Paint\"> и глины <sprite name=\"Clay\"> "
-"художники могут украшать памятники."
+"Отправляет художников к монументам при наличии краски <sprite "
+"name=\"Paint\"> и глины <sprite name=\"Clay\">."
 
-#, fuzzy
 msgctxt "#ArtisansGuild_workers_0"
 msgid "This guild has no employees and cannot send out any artisans."
-msgstr "Артель пустует и не может отправлять художников на работы."
+msgstr "В этой артели нет мастеров, некому присылать художников."
 
-#, fuzzy
 msgctxt "#ArtisansGuild_workers_1"
 msgid ""
 "Paint in the tombs has plenty of time to dry. Unless this guild finds more "
 "workers, the tomb may take an eternity to decorate."
 msgstr ""
-"Пока художники возвращаются к работе, роспись успевает высохнуть. Если не "
-"нанять больше рабочих, украшение гробницы займет целую вечность."
+"Краска в гробнице успевает высохнуть. Если не нанять больше рабочих, "
+"украшение гробницы займёт целую вечность."
 
-#, fuzzy
 msgctxt "#ArtisansGuild_workers_100"
 msgid ""
 "This guild has a full palette of artisans who waste no time decorating the "
 "interiors of tombs."
 msgstr ""
-"В артели собралась яркая группа художников, которые быстро занимаются "
-"росписью гробниц."
+"В этой артели собралась разномастная братия художников, споро и умело "
+"расписывающих внутренние покои гробниц."
 
-#, fuzzy
 msgctxt "#ArtisansGuild_workers_25"
 msgid ""
 "This guild needs many more workers. The few artisans that work here are "
 "doing what they can to decorate the tomb, but they need more help."
 msgstr ""
-"Художников сильно не хватает. Те, что есть, исправно трудятся над украшением "
-"гробницы, однако им требуется помощь."
+"Этой артели нужно гораздо больше рабочих. Те немногие художники трудятся не "
+"покладая рук над украшением гробницы, но им нужна помощь."
 
-#, fuzzy
 msgctxt "#ArtisansGuild_workers_50"
 msgid ""
 "This guild is doing its best to provide artisans to the tomb and provides "
 "fewer tomb artisans than it could."
 msgstr ""
-"Артель отправляет работать всех, кого может, однако художников не хватает."
+"Артель делает всё возможное, чтобы обеспечить гробницу художниками, но их не "
+"хватает."
 
-#, fuzzy
 msgctxt "#ArtisansGuild_workers_75"
 msgid ""
 "This guild lacks an artisan or two. Tomb painting has slowed a little bit."
 msgstr ""
-"В артели немного не хватает художников, поэтому украшение гробниц идет "
+"В артели не хватает пары художников, поэтому украшение гробниц идёт чуть "
 "медленнее."
 
 msgctxt "#Bandstand"
@@ -243,71 +233,64 @@ msgstr ""
 "На этой площади жители могут посмотреть увлекательные выступления жонглёров "
 "и послушать местных музыкантов."
 
-#, fuzzy
 msgctxt "#Bandstand_J_NoM"
 msgid ""
 "This square stages juggling. It could please audiences better if it had "
 "musicians to play."
 msgstr ""
-"Здесь выступают жонглеры. Их представления понравятся публике еще больше, "
-"если рядом будут играть музыканты."
+"На этой площади выступают жонглёры. Их представления понравятся публике ещё "
+"больше, если рядом будут играть музыканты."
 
-#, fuzzy
 msgctxt "#Bandstand_JugglingShow"
 msgid "Current jugglers will amaze for another {0} days."
-msgstr "Жонглеры будут развлекать публику еще {0} д."
+msgstr "Жонглёры будут развлекать публику ещё {0} дней."
 
-#, fuzzy
 msgctxt "#Bandstand_MusicalShow"
 msgid "The musicians will play for another {0} days."
-msgstr "Музыканты будут играть еще {0} д."
+msgstr "Музыканты будут играть ещё {0} д."
 
-#, fuzzy
 msgctxt "#Bandstand_NoJ_M"
 msgid ""
 "This square hosts music for the amusement of the local community. It seeks "
 "jugglers to put on a few shows."
-msgstr "Музыканты услаждают слух публики, однако не хватает веселых жонглеров."
+msgstr ""
+"На этой площади музыканты услаждают слух публики, однако не хватает весёлых "
+"жонглёров."
 
-#, fuzzy
 msgctxt "#Bandstand_NoJ_NoM"
 msgid ""
 "This square never has any shows. It needs jugglers and musicians to liven it "
 "up."
 msgstr ""
-"Здесь никто не выступает. Это место могут оживить жонглеры и музыканты."
+"На этой площади никто не выступает. Для яркого выступления здесь нужны "
+"жонглёры и музыканты."
 
-#, fuzzy
 msgctxt "#Bandstand_NoJugglingShow"
 msgid "No current juggling acts"
-msgstr "Жонглеры не выступают"
+msgstr "Жонглёры не выступают"
 
-#, fuzzy
 msgctxt "#Bandstand_NoMusicalShow"
 msgid "No current musical shows"
 msgstr "Музыканты не выступают"
 
-#, fuzzy
 msgctxt "#Bandstand_flavor"
 msgid ""
 "People come here to watch the latest juggling tricks and listen to music."
-msgstr "Сюда жители приходят поглазеть на трюки жонглеров и послушать музыку."
+msgstr "Сюда жители приходят поглазеть на трюки жонглёров и послушать музыку."
 
-#, fuzzy
 msgctxt "#Bandstand_tooltip"
 msgid ""
 "Generates jugglers and musicians if serviced with the appropriate schools. "
 "Must be built on a crossroad"
 msgstr ""
-"Здесь выступают жонглеры и музыканты из соответствующих школ. Размещается на "
-"перекрестке."
+"Здесь проводятся выступления жонглёров и музыкантов при наличии "
+"соответствующих школ. Необходимо размещать на перекрёстке."
 
-#, fuzzy
 msgctxt "#Bandstand_workers_0"
 msgid ""
 "This square is dead. With no employees, it provides no leisure services to "
 "the local community."
-msgstr "Здесь совсем безлюдно. Никто не развлекает местную публику."
+msgstr "Эта площадь безлюдна. Никто не развлекает местную публику."
 
 msgctxt "#BarleyFarm"
 msgid "Barley Farm"
@@ -346,8 +329,7 @@ msgid ""
 "With hardly any workers at this farm, Egyptians might soon be reduced to "
 "drinking water."
 msgstr ""
-"Покуда на ферме почти нет рабочих, скоро египтянам придётся пить воду вместо "
-"пива."
+"На ферме почти нет рабочих, скоро египтянам придётся пить воду вместо пива."
 
 msgctxt "#BarleyFarm_workers_100"
 msgid ""
@@ -407,7 +389,6 @@ msgctxt "#BastTempleComplex"
 msgid "Temple Complex to Bast"
 msgstr "Храмовый комплекс Баст"
 
-#, fuzzy
 msgctxt "#BastTempleComplex_flavor"
 msgid ""
 "As goddess of the home, Bast can improve the quality of life in your city, "
@@ -421,12 +402,12 @@ msgid ""
 "whatever problems they might have."
 msgstr ""
 "Богиня домашнего очага Баст повышает благополучие вашего города, обеспечивая "
-"жителям более хорошие условия для жизни. Сила ее столь велика, что она "
-"способна умилостивить других богов. Однако, если вы не угодите Баст, город "
-"ждут страшные беды и разруха. Если воздвигнуть алтарь Исиды, богини-"
-"целительницы, она будет охранять здоровье жителей, а также поможет, если их "
-"сразит болезнь. А оракул богини радости, любви и веселья Хатхор подбодрит "
-"ваш народ в трудную минуту."
+"жителям более хорошие условия для жизни. Её сила столь велика, что она даже "
+"способна умилостивить других богов. И конечно же, если вы прогневаете Баст, "
+"город будут ждать страшные беды и разруха. Если воздвигнуть алтарь Исиды, "
+"богини-целительницы, она будет оберегать здоровье жителей и облегчит "
+"страдания, если они всё-таки заболеют. А оракул богини радости, любви и "
+"веселья Хатхор подбодрит ваш народ в трудную минуту."
 
 msgctxt "#BastTempleComplex_tooltip"
 msgid ""
@@ -518,47 +499,43 @@ msgstr ""
 "На этой площади выступают местные жонглёры, которые обычно собирают много "
 "зрителей."
 
-#, fuzzy
 msgctxt "#Booth_JugglingShow"
 msgid "Current show runs for another {0} days."
-msgstr "Выступление продлится еще {0} д."
+msgstr "Выступление продлится ещё {0} дней."
 
-#, fuzzy
 msgctxt "#Booth_NoJ"
 msgid ""
 "This square never has any shows. It needs real jugglers to provide "
 "entertainment for it."
 msgstr ""
-"Здесь никто не выступает. Нужны опытные жонглеры, которые будут развлекать "
-"народ."
+"На этой площади никто не выступает. Нужны опытные жонглёры, которые будут "
+"развлекать людей."
 
-#, fuzzy
 msgctxt "#Booth_NoJugglingShow"
 msgid "No current juggling shows"
-msgstr "Жонглеры не выступают"
+msgstr "Жонглёры не выступают"
 
-#, fuzzy
 msgctxt "#Booth_flavor"
 msgid "Citizens enjoy clever juggling acts and general nonsense here."
 msgstr ""
-"Жители приходят посмотреть представления жонглеров и просто повеселиться."
+"Сюда жители приходят поглазеть на представления жонглёров и просто "
+"повеселиться."
 
-#, fuzzy
 msgctxt "#Booth_tooltip"
 msgid ""
 "Generates jugglers if serviced by a juggler school. Must be built on a turn"
-msgstr "Здесь выступают жонглеры из школы жонглеров. Размещается на повороте."
+msgstr ""
+"Здесь выступают жонглёры из школы жонглёров. Необходимо размещать на "
+"повороте."
 
-#, fuzzy
 msgctxt "#Booth_workers_0"
 msgid ""
 "Breezes are the only thing stirring in this square. Without workers, it "
 "provides no shows for the locals."
 msgstr ""
-"Здесь тихо, только ветер гуляет. Нет артистов, которые могут порадовать "
-"жителей представлением."
+"Здесь тихо, только ветер гуляет по площади. Нет артистов, которые могут "
+"порадовать жителей представлением."
 
-#, fuzzy
 msgctxt "#BowMaker"
 msgid "Bowyer"
 msgstr "Изготовитель луков"
@@ -568,21 +545,21 @@ msgid ""
 "Your Overseer of Commerce decreed that composite bow production should cease."
 msgstr "Торговый советник приказал прекратить производство композитных луков."
 
-#, fuzzy
 msgctxt "#BowMaker_flavor"
 msgid ""
 "The best artisans of the city craft deadly composite bow to equip your "
 "archers with."
-msgstr "Лучшие мастера города создают смертоносное оружие для ваших лучников."
+msgstr ""
+"Лучшие мастера города изготавливают смертоносные составные луки ваших "
+"лучников."
 
-#, fuzzy
 msgctxt "#BowMaker_stock_0"
 msgid ""
 "This workshop will produce no composite bows without a shipment of wood, "
 "whether from a Storage Yard or a Wood Cutter."
 msgstr ""
-"Производство композитных луков остановилось из-за нехватки дерева. Доставьте "
-"его со склада или от лесорубов."
+"Эта мастерская не будет производить составные луки без поставок древесины со "
+"склада или от лесорубов."
 
 msgctxt "#BowMaker_storage"
 msgid "Stored wood<sprite name=\"Wood\">: {0} units."
@@ -596,52 +573,48 @@ msgstr ""
 "Производит композитные луки <sprite name=\"CompositeBows\"> из дерева "
 "<sprite name=\"Wood\">."
 
-#, fuzzy
 msgctxt "#BowMaker_workers_0"
 msgid "This Bowyer has no employees, and will produce no weapons at all."
-msgstr "Мастеров нет, поэтому вооружение никто не производит."
+msgstr "В мастерской никого нет, оружие никто не производит."
 
-#, fuzzy
 msgctxt "#BowMaker_workers_1"
 msgid ""
 "With hardly any employees, this Bowyer will produce very few composite bows "
 "over the coming year."
 msgstr ""
-"В мастерской почти нет рабочих. В этом году произведут очень мало "
-"композитных луков."
+"Здесь почти нет рабочих, в этом году мастерская произведёт очень мало "
+"составных луков."
 
-#, fuzzy
 msgctxt "#BowMaker_workers_100"
 msgid ""
 "This Bowyer is fully staffed, and produces many high-quality composite bows."
 msgstr ""
-"Мастерская работает в полную силу. Композитные луки производят быстро и "
-"качественно."
+"Мастерская работает в полную силу, быстро и качественно производя составные "
+"луки."
 
-#, fuzzy
 msgctxt "#BowMaker_workers_25"
 msgid ""
 "Very few people work at this Bowyer. Composite bows production is slow as a "
 "result."
 msgstr ""
-"В мастерской слишком мало рабочих. Производство композитных луков идет очень "
+"В мастерской слишком мало рабочих. Производство составных луков идёт очень "
 "медленно."
 
-#, fuzzy
 msgctxt "#BowMaker_workers_50"
 msgid ""
 "This Bowyer is understaffed, and produces composite bows more slowly than it "
 "should."
-msgstr "Мастеров не хватает. Производство композитных луков идет медленнее."
+msgstr ""
+"Мастерской не хватает рабочих, она производит составные луки не так быстро, "
+"как могла бы."
 
-#, fuzzy
 msgctxt "#BowMaker_workers_75"
 msgid ""
 "This Bowyer could use more workers to reach its full potential for composite "
 "bow production."
 msgstr ""
-"Можно нанять больше рабочих, тогда производство композитных луков пойдет "
-"быстрее."
+"Производство составных луков пойдёт полным ходом, если нанять ещё больше "
+"рабочих."
 
 msgctxt "#Brewery"
 msgid "Brewery"
@@ -836,7 +809,8 @@ msgid ""
 "With hardly any workers, this Brickworks will produce very few bricks over "
 "the coming year."
 msgstr ""
-"Здесь почти нет рабочих, в этом году мастерская произведёт очень кирпича."
+"Здесь почти нет рабочих, в этом году мастерская произведёт очень мало "
+"кирпича."
 
 msgctxt "#Brickworks_workers_100"
 msgid ""
@@ -970,14 +944,13 @@ msgctxt "#CattleRanch_disabled"
 msgid "By decree of the Overseer of Commerce, cattle ranching has ceased."
 msgstr "По приказу торгового советника производство мяса остановлено."
 
-#, fuzzy
 msgctxt "#CattleRanch_flavor"
 msgid ""
 "Well-fed citizens want meat in their diet. Meat can be kept in Granaries for "
 "local consumption, or taken to Storage Yards for export."
 msgstr ""
-"Мясо значительно повышает сытость ваших горожан. Мясо для горожан нужно "
-"хранить в амбаре, а то, что вы хотите продать, отвозите на склад."
+"Мясо в рационе жителей сделает их сытыми. Мясо для местного потребления "
+"должно храниться в амбарах, а на продажу — на складах."
 
 msgctxt "#CattleRanch_tooltip"
 msgid ""
@@ -985,40 +958,35 @@ msgid ""
 msgstr ""
 "Производит мясо <sprite name=\"Meat\"> из соломы <sprite name=\"Straw\">."
 
-#, fuzzy
 msgctxt "#CattleRanch_workers_0"
 msgid "This ranch has no workers. All of the animals have escaped or died."
-msgstr "На ферме нет рабочих. Все животные разбежались или погибли."
+msgstr "На этой ферме нет рабочих. Все животные разбежались или погибли."
 
-#, fuzzy
 msgctxt "#CattleRanch_workers_1"
 msgid "With hardly any workers, this ranch can raise very few cattle."
-msgstr "На ферме почти нет рабочих, и некому заниматься разведением скота."
+msgstr "Здесь почти нет рабочих, ферма выращивает очень мало скота."
 
-#, fuzzy
 msgctxt "#CattleRanch_workers_100"
 msgid ""
 "This ranch has all the workers it needs. With straw, it can yield ample meat."
 msgstr ""
-"На ферме достаточно рабочих. При наличии соломы здесь будут производить "
-"много мяса."
+"На ферме достаточно рабочих. При наличии соломы мясо будет в огромном "
+"достатке."
 
-#, fuzzy
 msgctxt "#CattleRanch_workers_25"
 msgid ""
 "Very few people work at this ranch. Its potential meat production is low."
-msgstr "На ферме слишком мало рабочих. Здесь производится мало мяса."
+msgstr "На ферме слишком мало рабочих. Производится мало мяса."
 
-#, fuzzy
 msgctxt "#CattleRanch_workers_50"
 msgid "This farm is understaffed. It cannot reach its potential output."
-msgstr "На ферме не хватает рабочих. Производство мяса сильно снижено."
+msgstr ""
+"На ферме не хватает рабочих. Она не может достичь планируемых показателей."
 
-#, fuzzy
 msgctxt "#CattleRanch_workers_75"
 msgid ""
 "This ranch needs to hire more workers if it is to produce meat efficiently. "
-msgstr "Ферма может приносить больше мяса, если нанять новых рабочих."
+msgstr "Эта ферма может приносить больше мяса, если нанять больше рабочих."
 
 msgctxt "#ChariotMaker"
 msgid "Chariot Workshop"
@@ -1028,28 +996,23 @@ msgctxt "#ChariotMaker_disabled"
 msgid "Your Overseer of Commerce decreed that chariot production should cease."
 msgstr "Торговый советник приказал прекратить производство колесниц."
 
-#, fuzzy
 msgctxt "#ChariotMaker_flavor"
 msgid ""
 "Here, expert craftsmen produce 'war wheels', one of Egypt's deadliest "
 "weapons."
-msgstr ""
-"Здесь умелые мастера строят «боевые повозки» — одно из самых грозных военных "
-"орудий Египта."
+msgstr "Здесь умелые мастера строят «боевые повозки» — грозное оружие Египта."
 
-#, fuzzy
 msgctxt "#ChariotMaker_stock_0"
 msgid ""
 "This workshop will produce no chariots without a shipment of wood and "
 "copper, whether from a Storage Yard, a Wood Cutter or a Copper Mine."
 msgstr ""
-"Производство колесниц остановилось из-за нехватки дерева и меди. Доставьте "
-"их со склада, от лесорубов или из медного рудника."
+"Эта мастерская не будет производить колесницы без поставок древесины и меди "
+"со склада, от лесорубов или медного рудника."
 
-#, fuzzy
 msgctxt "#ChariotMaker_storage_copper"
 msgid "Stored copper<sprite name=\"Copper\">: {0} units."
-msgstr "Запасы меди <sprite name=\"Copper\">: {0} ед."
+msgstr "Запасы меди<sprite name=\"Copper\">: {0} мер."
 
 msgctxt "#ChariotMaker_storage_wood"
 msgid "Stored wood<sprite name=\"Wood\">: {0} units."
@@ -1063,50 +1026,46 @@ msgstr ""
 "Производит колесницы <sprite name=\"Chariots\"> из меди <sprite "
 "name=\"Copper\"> и дерева <sprite name=\"Wood\">."
 
-#, fuzzy
 msgctxt "#ChariotMaker_workers_0"
 msgid ""
 "This Chariot Maker has no employees, and will produce no war wheels at all."
-msgstr "Мастеров нет, поэтому боевые колесницы никто не производит."
+msgstr "В мастерской никого нет, боевые колесницы никто не производит."
 
-#, fuzzy
 msgctxt "#ChariotMaker_workers_1"
 msgid ""
 "With hardly any employees, this Chariot Maker will produce very few chariots "
 "over the coming year."
 msgstr ""
-"В мастерской почти нет рабочих. В этом году произведут очень мало колесниц."
+"Здесь почти нет рабочих, в этом году мастерская произведёт очень мало "
+"колесниц."
 
-#, fuzzy
 msgctxt "#ChariotMaker_workers_100"
 msgid ""
 "This Chariot Maker is fully staffed, and produces many high-quality chariots."
 msgstr ""
-"Мастерская работает в полную силу. Колесницы производят быстро и качественно."
+"Мастерская работает в полную силу, быстро и качественно производя колесницы."
 
-#, fuzzy
 msgctxt "#ChariotMaker_workers_25"
 msgid ""
 "Very few people work at this Chariot Maker. Chariot production is slow as a "
 "result."
 msgstr ""
-"В мастерской слишком мало рабочих. Производство колесниц идет очень медленно."
+"В мастерской слишком мало рабочих. Производство колесниц идёт очень медленно."
 
-#, fuzzy
 msgctxt "#ChariotMaker_workers_50"
 msgid ""
 "This Chariot Maker is understaffed, and produces chariots more slowly than "
 "it should."
-msgstr "Мастеров не хватает. Производство колесниц идет медленнее."
+msgstr ""
+"Мастерской не хватает рабочих, она производит колесницы не так быстро, как "
+"могла бы."
 
-#, fuzzy
 msgctxt "#ChariotMaker_workers_75"
 msgid ""
 "This Chariot Maker could use more workers to reach its full potential for "
 "chariot production."
 msgstr ""
-"В мастерскую можно нанять больше рабочих. Тогда производство колесниц пойдет "
-"быстрее."
+"Производство колесниц пойдёт полным ходом, если нанять ещё больше рабочих."
 
 msgctxt "#ChickpeaFarm"
 msgid "Chickpea Farm"
@@ -1144,7 +1103,7 @@ msgctxt "#ChickpeaFarm_workers_1"
 msgid ""
 "With hardly any workers at this farm, the chickpea harvest will be "
 "negligible."
-msgstr "Покуда на ферме почти нет рабочих, урожай нута будет незначительным."
+msgstr "На ферме почти нет рабочих, урожай нута будет ничтожным."
 
 msgctxt "#ChickpeaFarm_workers_100"
 msgid ""
@@ -1218,8 +1177,7 @@ msgid ""
 "With hardly any diggers at this pit, it will produce very little clay over "
 "the coming year."
 msgstr ""
-"В этом карьере почти нет рабочих. В этом году добыча глины будет почти "
-"нулевая."
+"В этом карьере почти нет рабочих. В этом году добыча глины будет ничтожной."
 
 msgctxt "#ClayPit_workers_100"
 msgid ""
@@ -1243,74 +1201,65 @@ msgid ""
 "This pit is working below maximum capacity. Clay production will be slightly "
 "slower as a result."
 msgstr ""
-"Этот карьер артель работает не в полную силу. Добыча глины идёт немного "
-"медленнее."
+"Этот карьер работает не в полную силу. Добыча глины идёт немного медленнее."
 
 msgctxt "#Conservatory"
 msgid "Conservatory"
 msgstr "Музыкальная школа"
 
-#, fuzzy
 msgctxt "#Conservatory_flavor"
 msgid ""
 "Egyptian people are always eager to hear the latest renditions from new "
 "musicians."
 msgstr "Египтяне всегда рады послушать свежие сочинения новых музыкантов."
 
-#, fuzzy
 msgctxt "#Conservatory_tooltip"
 msgid "Sends Musicians to Bandcamps and Pavilions"
-msgstr "Присылает музыкантов на музыкальные площадки и сцены."
+msgstr "Отправляет музыкантов на эстрады и сцены."
 
-#, fuzzy
 msgctxt "#Conservatory_workers_0"
 msgid "With no training staff, this school cannot train any new musicians."
 msgstr "Школа без наставников не может готовить новых музыкантов."
 
-#, fuzzy
 msgctxt "#Conservatory_workers_1"
 msgid ""
 "I have no staff other than myself. I cannot be expected to work under these "
 "conditions! At best, I can train a musician in three months."
 msgstr ""
-"Здесь нет никого, кроме меня. Вы же не думаете, что я могу работать в таких "
-"условиях? В лучшем случае вы получите одного музыканта через три месяца."
+"Здесь нет никого, кроме меня. Я не могу работать в таких условиях! В лучшем "
+"случае я смогу обучить музыканта через три месяца."
 
-#, fuzzy
 msgctxt "#Conservatory_workers_100"
 msgid ""
 "We are pleased to announce that, with full employment, we are training up to "
 "four new musicians every month."
 msgstr ""
-"С радостью объявляем, что школа работает в полную силу и готовит до четырех "
-"музыкантов в месяц."
+"С гордостью можем сообщить, что полностью укомплектованная школа готовит до "
+"четырёх музыкантов в месяц."
 
-#, fuzzy
 msgctxt "#Conservatory_workers_25"
 msgid ""
 "We have so few employees that we will struggle to turn out one new musician "
 "over the next two months."
 msgstr ""
-"Наставников так мало, что мы с трудом сможем подготовить одного музыканта за "
-"два месяца."
+"У нас так мало наставников, что мы с трудом можем подготовить одного "
+"музыканта за два месяца."
 
-#, fuzzy
 msgctxt "#Conservatory_workers_50"
 msgid ""
 "We are half-staffed, and so are only able to train one musician in the "
 "coming month."
 msgstr ""
-"Школа работает вполсилы, поэтому в следующем месяце мы выпустим только "
-"одного музыканта."
+"Нам не хватает половины работников, поэтому в следующем месяце мы можем "
+"подготовить только одного музыканта."
 
-#, fuzzy
 msgctxt "#Conservatory_workers_75"
 msgid ""
 "We are slightly understaffed, and so can train at most two new musicians "
 "each month."
 msgstr ""
-"Наставников немного не хватает, поэтому мы можем выпускать не больше двух "
-"музыкантов в месяц."
+"Не хватает нескольких наставников, поэтому мы можем подготовить не больше "
+"двух музыкантов в месяц."
 
 msgctxt "#ConstructionSites"
 msgid "Construction Sites"
@@ -1324,58 +1273,55 @@ msgctxt "#CopperMine_disabled"
 msgid "Your Overseer of Commerce ordered a halt to copper mining."
 msgstr "Торговый советник приказал остановить добычу меди."
 
-#, fuzzy
 msgctxt "#CopperMine_flavor"
 msgid ""
 "Easily worked and durable, copper makes fine weapons and a valuable export."
 msgstr ""
-"Медь — прочный и легкий в обработке материал, из которого получается "
-"отличное оружие. Также ее можно выгодно продавать."
+"Из прочной и легко обрабатываемой меди изготавливается отличное оружие. "
+"Также её можно выгодно продавать."
 
 msgctxt "#CopperMine_tooltip"
 msgid ""
 "Needs to be placed near ore veins to produce copper <sprite name=\"Copper\">"
 msgstr ""
+"Должен размещаться рядом с рудными жилами для производства меди <sprite "
+"name=\"Copper\">."
 
-#, fuzzy
 msgctxt "#CopperMine_workers_0"
 msgid "This mine has no workers. Production has ceased."
-msgstr "На руднике нет рабочих. Добыча остановилась."
+msgstr "В этом руднике нет рабочих. Добыча остановлена."
 
-#, fuzzy
 msgctxt "#CopperMine_workers_1"
 msgid ""
 "With hardly any workers here, output has nearly stopped. It will produce "
 "little over the coming year."
 msgstr ""
-"Рабочих почти нет, и добыча практически прекратилась. В этом году карьер "
-"принесет мало гранита."
+"Рабочих почти нет, и добыча практически прекратилась. В этом году добыча "
+"меди будет ничтожной."
 
-#, fuzzy
 msgctxt "#CopperMine_workers_100"
 msgid ""
 "This mine has all the workers it needs, and is producing plenty of copper."
-msgstr "На руднике достаточно рабочих. Здесь добывается много меди."
+msgstr ""
+"На этом руднике достаточно рабочих, медь добывается в большом количестве."
 
-#, fuzzy
 msgctxt "#CopperMine_workers_25"
 msgid "Very few people work in this building. Production is slow as a result."
-msgstr "Здесь слишком мало рабочих, поэтому добыча идет очень медленно."
+msgstr ""
+"В этой постройке слишком мало рабочих Производство идёт очень медленно."
 
-#, fuzzy
 msgctxt "#CopperMine_workers_50"
 msgid ""
 "This mine is understaffed. It takes longer to produce copper than it should."
-msgstr "Рабочих не хватает. Добыча меди занимает гораздо больше времени."
+msgstr "В этом руднике не хватает рабочих. Добыча меди значительно снижена."
 
-#, fuzzy
 msgctxt "#CopperMine_workers_75"
 msgid ""
 "This mine is working below maximum capacity. Production could be slightly "
 "more efficient with more workers."
 msgstr ""
 "Рудник работает не в полную силу. Он будет приносить больше меди, если "
-"нанять новых рабочих."
+"нанять больше рабочих."
 
 msgctxt "#Courthouse"
 msgid "Courthouse"
@@ -1448,61 +1394,53 @@ msgctxt "#DanceSchool_flavor"
 msgid "Dancers delight audiences with graceful and tantalizing new moves."
 msgstr "Танцовщицы услаждают взор публики изящными и волнующими движениями."
 
-#, fuzzy
 msgctxt "#DanceSchool_tooltip"
 msgid "Sends Dancers to Pavilions"
-msgstr "Готовит танцовщиц для работы на сцене."
+msgstr "Отправляет танцовщиц на сцены."
 
-#, fuzzy
 msgctxt "#DanceSchool_workers_0"
 msgid "With no instructors, this dance school cannot teach any new dancers."
 msgstr "Школа без наставников не может готовить новых танцовщиц."
 
-#, fuzzy
 msgctxt "#DanceSchool_workers_1"
 msgid ""
 "I have no staff other than myself. I cannot be expected to work under these "
 "conditions! At best, I can teach one dancer in three months."
 msgstr ""
-"Здесь нет никого, кроме меня. Вы же не думаете, что я могу работать в таких "
-"условиях? В лучшем случае вы получите одну танцовщицу через три месяца."
+"Здесь нет никого, кроме меня. Я не могу работать в таких условиях! В лучшем "
+"случае я смогу обучить танцовщицу через три месяца."
 
-#, fuzzy
 msgctxt "#DanceSchool_workers_100"
 msgid ""
 "We are pleased to announce that, with full employment, we can provide up to "
 "four new dancers every month."
 msgstr ""
-"С радостью объявляем, что школа работает в полную силу и готовит до четырех "
-"танцовщиц в месяц."
+"С гордостью можем сообщить, что полностью укомплектованная школа готовит до "
+"четырёх танцовщиц в месяц."
 
-#, fuzzy
 msgctxt "#DanceSchool_workers_25"
 msgid ""
 "We need instructors so badly that we can barely handle one new dancer over "
 "the next two months."
 msgstr ""
-"Отчаянно не хватает наставников! Если постараемся, за два месяца выпустим "
-"одну танцовщицу."
+"Нам так сильно нужны наставники, мы с трудом можем подготовить одну "
+"танцовщицу за два месяца."
 
-#, fuzzy
 msgctxt "#DanceSchool_workers_50"
 msgid ""
 "We are half-staffed, so we can train only one dancer in the coming month."
 msgstr ""
-"Школа работает вполсилы, поэтому в следующем месяце мы сможем выпустить "
-"только одну танцовщицу."
+"Нам не хватает половины работников, поэтому в следующем месяце мы можем "
+"подготовить только одну танцовщицу."
 
-#, fuzzy
 msgctxt "#DanceSchool_workers_75"
 msgid ""
 "We are slightly understaffed, and so can only train two new dancers each "
 "month at most."
 msgstr ""
-"Наставников немного не хватает, поэтому мы можем выпускать всего двух "
-"танцовщиц в месяц."
+"Не хватает нескольких наставников, поэтому мы можем подготовить не больше "
+"двух танцовщиц в месяц."
 
-#, fuzzy
 msgctxt "#Defense"
 msgid "Defensive Structures"
 msgstr "Оборонительные сооружения"
@@ -1511,37 +1449,32 @@ msgctxt "#Dentist"
 msgid "Dentist"
 msgstr "Дантист"
 
-#, fuzzy
 msgctxt "#Dentist_flavor"
 msgid ""
 "Sand gets into everything, including food. Constant abrasion makes plenty of "
 "work for Egyptian dentists."
 msgstr ""
-"Песок забивается повсюду и даже во время еды скрипит на зубах, так что для "
-"зубных врачей всегда найдется работа."
+"Песок есть везде, даже в еде. От его постоянного воздействия на зубы для "
+"дантистов всегда найдётся работа."
 
-#, fuzzy
 msgctxt "#Dentist_tooltip"
 msgid "Increases the health of your city. Required for spacious residences"
 msgstr ""
-"Повышает уровень здоровья в городе. Требуется для строительства просторных "
+"Улучшает здравоохранение в городе. Требуется для строительства просторных "
 "резиденций."
 
-#, fuzzy
 msgctxt "#Dentist_workers_0"
 msgid ""
 "This Dentist's office is not operational, and its neighbors' teeth show the "
 "lack of care."
-msgstr ""
-"Зубной врач не работает, поэтому зубы местных жителей в плачевном состоянии."
+msgstr "Дантист не работает, некому заботиться о зубах жителей соседних домов."
 
-#, fuzzy
 msgctxt "#Dentist_workers_1"
 msgid ""
 "This Dentist's office is operational, and the local community's teeth gleam "
 "with pride."
 msgstr ""
-"Зубной врач работает, и его соседи могут похвастаться ослепительными "
+"Дантист работает, и жители соседних домов могут похвастаться ослепительными "
 "улыбками."
 
 msgctxt "#Distribution"
@@ -1552,108 +1485,93 @@ msgctxt "#Dock"
 msgid "Dock"
 msgstr "Пристань"
 
-#, fuzzy
 msgctxt "#Dock_docked_workers_0"
 msgid "Without any dockers on staff, we cannot service the docked ship."
-msgstr "Грузчиков нет, поэтому мы не можем обслужить пришвартованный корабль."
+msgstr "Без грузчиков мы не можем обслужить пришвартованный корабль."
 
-#, fuzzy
 msgctxt "#Dock_docked_workers_1"
 msgid ""
 "We are servicing the docked ship. With so few dock workers, though, this "
 "could take a long time."
 msgstr ""
-"Пришвартованный корабль обслуживается, однако грузчиков мало, поэтому работа "
-"идет медленно."
+"Мы обслуживаем пришвартованный корабль, но грузчиков так мало, что на это "
+"уйдёт много времени."
 
-#, fuzzy
 msgctxt "#Dock_docked_workers_100"
 msgid ""
 "With full employment, we can service the docked ship quickly and efficiently."
 msgstr ""
 "Все грузчики на месте, и мы можем быстро обслужить пришвартованный корабль."
 
-#, fuzzy
 msgctxt "#Dock_docked_workers_50"
 msgid ""
 "We are servicing the docked ship, although this will take a little longer "
 "than it would if we were fully staffed."
 msgstr ""
-"Пришвартованный корабль обслуживается, однако работа пойдет быстрее, если у "
-"нас будет больше грузчиков."
+"Мы обслуживаем пришвартованный корабль, однако работа пошла бы быстрее, будь "
+"у нас больше грузчиков."
 
-#, fuzzy
 msgctxt "#Dock_empty_workers_0"
 msgid ""
 "Any ship that moors here will find no workers to load or unload its cargo."
 msgstr ""
 "Рабочих нет, поэтому некому загружать и разгружать прибывающие корабли."
 
-#, fuzzy
 msgctxt "#Dock_empty_workers_1"
 msgid ""
 "The few dockers employed here would take a long time to load and unload any "
 "ships that arrive in port."
 msgstr ""
-"Рабочих слишком мало, поэтому загрузка и разгрузка прибывающих кораблей "
-"займет много времени."
+"Грузчиков так мало, что на разгрузку и погрузку кораблей уйдёт много времени."
 
-#, fuzzy
 msgctxt "#Dock_empty_workers_100"
 msgid ""
 "With full employment, our dockers are just waiting for their ship to come in."
-msgstr "Все рабочие на месте. Грузчики ожидают прибытия корабля."
+msgstr "Все рабочие на месте. Грузчики ожидают прибытия очередного корабля."
 
-#, fuzzy
 msgctxt "#Dock_empty_workers_50"
 msgid ""
 "We are understaffed, so it will take a little longer than normal to load and "
 "unload any ships that arrive in port."
 msgstr ""
-"Рабочих не хватает, поэтому обслуживание прибывающих кораблей займет больше "
-"времени, чем обычно."
+"Нам не хватает грузчиков, поэтому на разгрузку и погрузку кораблей уходит "
+"больше времени, чем обычно."
 
-#, fuzzy
 msgctxt "#Dock_flavor"
 msgid ""
 "Trading ships from all over the world moor here to deliver imports and pick "
 "up exports. You cannot conduct waterborne trade without Docks."
 msgstr ""
-"Сюда прибывают торговые корабли со всего мира. Они привозят товары и "
-"забирают то, что мы произвели. Без пристани нельзя вести морскую торговлю."
+"Здесь швартуются торговые корабли со всего света, продавая и покупая "
+"всевозможные товары. Без пристани нельзя вести водную торговлю."
 
-#, fuzzy
 msgctxt "#Dock_order_dont_trade"
 msgid "Don't Trade"
 msgstr "Не торговать"
 
-#, fuzzy
 msgctxt "#Dock_order_trade"
 msgid "Trade"
 msgstr "Торговать"
 
-#, fuzzy
 msgctxt "#Dock_tooltip"
 msgid ""
 "Trading ships will exchange goods here. Don't forget to build storage yards "
 "close by!"
 msgstr ""
-"Торговые корабли обменивают здесь товары. Не забывайте строить поблизости "
-"склады!"
+"Здесь торговые корабли обмениваются товарами. Не забывайте строить "
+"поблизости склады!"
 
-#, fuzzy
 msgctxt "#DynastyMansion"
 msgid "Dynasty Mansion"
 msgstr "Особняк династии"
 
-#, fuzzy
 msgctxt "#DynastyMansion_tooltip"
 msgid ""
 "One of the most incredible residence of all Egypt, and it's yours! Allows "
 "you to draw a salary. Must be built on a grassy area"
 msgstr ""
-"Одна из самых великолепных резиденций в Египте, и она принадлежит вам! "
-"Позволяет получать жалование. Размещается на покрытой травой земле."
+"Одна из самых великолепных резиденций в Египте, и она принадлежит вам! Даёт "
+"вам право назначать себе жалование. Размещается на покрытой травой земле."
 
 msgctxt "#Education"
 msgid "Education"
@@ -1667,14 +1585,13 @@ msgctxt "#FamilyMansion"
 msgid "Family Mansion"
 msgstr "Семейный особняк"
 
-#, fuzzy
 msgctxt "#FamilyMansion_tooltip"
 msgid ""
 "A beautiful mansion for you and your family. Allows you to draw a salary. "
 "Must be built on a grassy area"
 msgstr ""
-"Прекрасный особняк для вас и вашего рода. Позволяет получать жалование. "
-"Размещается на покрытой травой земле."
+"Прекрасный особняк для вас и вашего рода. Даёт вам право назначать себе "
+"жалование. Размещается на покрытой травой земле."
 
 msgctxt "#FarmBarley"
 msgid "Barley Farm"
@@ -1720,23 +1637,20 @@ msgctxt "#Farm_Nextflood"
 msgid "The next floods will come in {[Month]}."
 msgstr "Следующий разлив: {[Month]}."
 
-#, fuzzy
 msgctxt "#Farm_Nile_empty"
 msgid "This farm needs laborers, who can be trained at a Work Camp."
-msgstr "На ферме требуются рабочие! Их можно обучить в лагере рабочих."
+msgstr "Для этой фермы нужны рабочие из рабочего лагеря."
 
-#, fuzzy
 msgctxt "#Farm_Nile_staffed"
 msgid "This farm has a full crew of laborers working the fields."
-msgstr "На ферме нет недостатка рабочих. Они бодро трудятся в поле."
+msgstr "Эта ферма полностью укомплектована рабочими, возделывающими поля."
 
-#, fuzzy
 msgctxt "#Farm_Plagued"
 msgid ""
 "This farm's land was blighted by the recent swarm of locusts, and will take "
 "some time to recover."
 msgstr ""
-"Ферма пострадала в результате нашествия саранчи. Восстановление займет "
+"Эта ферма пострадала от нашествия саранчи, и на её восстановление уйдёт "
 "некоторое время."
 
 msgctxt "#FerryLanding"
@@ -1807,14 +1721,13 @@ msgctxt "#FigFarm_disabled"
 msgid "Your Overseer of Commerce ordered a halt to fig farming."
 msgstr "Торговый советник приказал остановить выращивание инжира."
 
-#, fuzzy
 msgctxt "#FigFarm_flavor"
 msgid ""
 "Figs figure prominently in the balanced diet that people need for health and "
 "happiness."
 msgstr ""
-"Инжир — неотъемлемый элемент полноценного рациона. Влияет на уровень "
-"здоровья и счастья."
+"Инжир — важная часть сбалансированного рациона, благотворно влияющая на "
+"здоровье и счастье."
 
 msgctxt "#FigFarm_harvest"
 msgid "The next fig harvest is in {[Month]}."
@@ -1828,17 +1741,14 @@ msgstr ""
 "Производит инжир<sprite name=\"Figs\">. Урожай в сентябре, если разместить "
 "на лугу."
 
-#, fuzzy
 msgctxt "#FigFarm_workers_0"
 msgid "This grove has no workers. The trees are wild and barren."
-msgstr "На ферме совсем нет рабочих. Деревья одичали и не плодоносят."
+msgstr "На ферме нет рабочих. Деревья одичали и не плодоносят."
 
-#, fuzzy
 msgctxt "#FigFarm_workers_1"
 msgid "With hardly any workers at this farm, it will barely give a fig."
-msgstr "На ферме почти нет рабочих. Они соберут совсем мало инжира."
+msgstr "На ферме почти нет рабочих, вряд ли здесь можно ждать урожай инжира."
 
-#, fuzzy
 msgctxt "#FigFarm_workers_100"
 msgid ""
 "This grove has all the workers it needs. It gets maximum yield for its "
@@ -1847,86 +1757,79 @@ msgstr ""
 "На ферме достаточно рабочих. Она приносит столько урожая, сколько позволяет "
 "земля."
 
-#, fuzzy
 msgctxt "#FigFarm_workers_25"
 msgid ""
 "There are very few farmers working here. Fig production is far from maximal."
-msgstr "На ферме слишком мало рабочих, поэтому она приносит скудный урожай."
+msgstr "На ферме слишком мало рабочих. Урожай инжира далёк от максимального."
 
-#, fuzzy
 msgctxt "#FigFarm_workers_50"
 msgid ""
 "This grove is understaffed. Its workers harvest fewer figs than they "
 "otherwise could."
-msgstr "На ферме не хватает рабочих. Они собирают меньше инжира."
+msgstr ""
+"На ферме не хватает рабочих. Они будут собирать меньше инжира, чем позволяет "
+"земля."
 
-#, fuzzy
 msgctxt "#FigFarm_workers_75"
 msgid "This grove could use more workers. It would produce more figs."
-msgstr "Ферма будет приносить больше инжира, если нанять новых рабочих."
+msgstr "Ферма будет приносить больше инжира, если нанять больше рабочих."
 
 msgctxt "#Firehouse"
 msgid "Firehouse"
 msgstr "Пожарный пост"
 
-#, fuzzy
 msgctxt "#Firehouse_Marshal_In"
 msgid "Our marshal is preparing for duty."
-msgstr "Пожарный готовится к службе."
+msgstr "Наш пожарный готовится к обходу."
 
-#, fuzzy
 msgctxt "#Firehouse_Marshal_Out"
 msgid "Our marshal is patrolling the streets."
-msgstr "Пожарный патрулирует улицы."
+msgstr "Наш пожарный патрулирует улицы."
 
-#, fuzzy
 msgctxt "#Firehouse_flavor"
 msgid ""
 "Firehouses send marshals into the city to prevent fires, and to fight those "
 "that do break out. "
 msgstr ""
-"Пожарные следят, чтобы в городе не было пожаров, а если проглядели, борются "
-"с огнем."
+"Пожарные посты отправляют пожарных для недопущения возгораний и тушения "
+"пожаров."
 
-#, fuzzy
 msgctxt "#Firehouse_tooltip"
 msgid ""
 "Prevents buildings from catching fire. The fire marshal can stop ongoing "
 "fires"
-msgstr "Защищает здания от пожаров. Пожарные тушат вспыхнувшее пламя."
+msgstr "Защищает здания от пожаров. Пожарные могут потушить вспыхнувшее пламя."
 
-#, fuzzy
 msgctxt "#Firehouse_workers_0"
 msgid ""
 "With no staff, this Firehouse is little more than a fire waiting to happen."
 msgstr ""
-"Пожарных нет, поэтому даже на этом посту в любой момент может разгореться "
-"пламя."
+"Без работников даже этот пожарный пост является возможным источником "
+"возгорания."
 
-#, fuzzy
 msgctxt "#Firehouse_workers_1"
 msgid ""
 "We are operating with desk staff only. We frequently go a full month without "
 "sending a marshal out on the streets."
-msgstr "Работают только единицы. Пожарные не патрулируют улицы целый месяц."
+msgstr ""
+"Здесь работают только служащие. Часто пожарных на улицах нет целый месяц."
 
-#, fuzzy
 msgctxt "#Firehouse_workers_100"
 msgid ""
 "Currently our duty roster is full. Our marshals are always out there, "
 "sniffing out evidence of fire."
 msgstr ""
-"Недостатка в пожарных нет. Они постоянно следят за любыми намеками на пожар."
+"Расписание дежурств полностью заполнено. Наши пожарные всегда на посту, "
+"выслеживая любые признаки малейшего возгорания."
 
-#, fuzzy
 msgctxt "#Firehouse_workers_25"
 msgid ""
 "We have far too few men. Often, no marshals leave the Firehouse for up to "
 "two weeks at a time."
 msgstr ""
-"Пожарных сильно не хватает! Они зачастую не совершают обходы по две недели."
+"У нас слишком мало людей. Часто мы не можем выпустить пожарного на обход в "
+"течение двух недель."
 
-#, fuzzy
 msgctxt "#Firehouse_workers_50"
 msgid ""
 "We are understaffed. There are delays of up to a week in fire prevention "
@@ -1934,7 +1837,6 @@ msgid ""
 msgstr ""
 "Пожарных не хватает. Перерыв между обходами может затягиваться на неделю."
 
-#, fuzzy
 msgctxt "#Firehouse_workers_75"
 msgid ""
 "We are a little short of marshals. We have gaps of perhaps a day or two in "
@@ -1951,17 +1853,14 @@ msgctxt "#FishingWharf_disabled"
 msgid "Your Overseer of Commerce ordered a halt to fishing."
 msgstr "Торговый советник приказал остановить рыбную ловлю."
 
-#, fuzzy
 msgctxt "#FishingWharf_dockedboat"
 msgid "We are re-stocking our fishing boat for another outbound voyage."
-msgstr "Готовим рыбацкую лодку к очередному плаванию."
+msgstr "Мы готовим лодку к очередному лову рыбы."
 
-#, fuzzy
 msgctxt "#FishingWharf_fishing"
 msgid "Our boat is at the fishing grounds now, hauling in fish."
-msgstr "Рыбаки прибыли на рыбное место и начали ловить рыбу."
+msgstr "Наша лодка прибыла на рыбное место и начала ловить рыбу."
 
-#, fuzzy
 msgctxt "#FishingWharf_flavor"
 msgid ""
 "Boats sail here from the Shipwright to take on crews and begin fishing local "
@@ -1970,49 +1869,42 @@ msgstr ""
 "Лодки, построенные на верфи, набирают здесь команду для ловли рыбы. Каждый "
 "причал обслуживает одну рыбацкую лодку."
 
-#, fuzzy
 msgctxt "#FishingWharf_fromfishingpoint"
 msgid ""
 "Our fishing boat is sailing back from the fishing grounds with its catch."
-msgstr "Рыбацкая лодка покинула рыбное место и везет улов."
+msgstr "Наша лодка возвращается назад с уловом рыбы."
 
-#, fuzzy
 msgctxt "#FishingWharf_fromshipwright"
 msgid "Our boat is sailing to the Wharf now."
-msgstr "Лодка возвращается на причал."
+msgstr "Наша лодка отправляется на причал."
 
-#, fuzzy
 msgctxt "#FishingWharf_noboat"
 msgid "We are currently waiting for a Shipwright to build us a fishing boat."
-msgstr "Ожидаем рыбацкую лодку с верфи."
+msgstr "Мы ждём, пока на верфи не построят нам рыбацкую лодку."
 
-#, fuzzy
 msgctxt "#FishingWharf_nofishingpoint"
 msgid ""
 "Our fishermen hope that someone discovers fishing grounds in this area "
 "someday. They can't earn much of a living with the waters depleted."
 msgstr ""
-"Рыбаки надеются, что когда-нибудь здесь появится рыба. Они не смогут "
-"заработать на хлеб, пока воды пустуют."
+"Рыбаки надеются, что когда-нибудь здесь появится рыба. Им не на что жить, "
+"если воды пустуют."
 
-#, fuzzy
 msgctxt "#FishingWharf_plague"
 msgid "Our fishing boat is not going out into that polluted water!"
-msgstr "Вода загрязнена! Рыбацкая лодка туда не поплывет."
+msgstr "Наша лодка не поплывёт по этой загрязнённой воде!"
 
-#, fuzzy
 msgctxt "#FishingWharf_tofishingpoint"
 msgid "Our fishing boat is sailing out to the fishing grounds."
-msgstr "Рыбацкая лодка отправилась к рыбному месту."
+msgstr "Наша лодка отправилась к рыбному месту."
 
-#, fuzzy
 msgctxt "#FishingWharf_tooltip"
 msgid ""
 "Once the shipwright has sent this wharf its fishing boat, will produce fish "
 "<sprite name=\"Fish\"> from the nearest fishing point"
 msgstr ""
-"Когда с верфи пришлют лодку, она будет ловить рыбу <sprite name=\"Fish\"> в "
-"ближайшем рыбном месте."
+"Как только с верфи сюда прибудет лодка, она отправится ловить рыбу <sprite "
+"name=\"Fish\"> в ближайшем рыбном месте."
 
 msgctxt "#FlaxFarm"
 msgid "Flax Farm"
@@ -2022,14 +1914,14 @@ msgctxt "#FlaxFarm_disabled"
 msgid "Your Overseer of Commerce ordered a halt to flax growing."
 msgstr "Торговый советник приказал остановить выращивание льна."
 
-#, fuzzy
 msgctxt "#FlaxFarm_flavor"
 msgid ""
 "Flax goes to a Weaver, who processes the fibers and weaves them into linen "
 "for Mortuaries to use in embalming, or for export."
 msgstr ""
-"Лен поставляется в ткацкие мастерские, где из волокна создается ткань, "
-"которую используют при бальзамировании или отправляют на продажу."
+"Лён поставляется в ткацкие мастерские, где из волокна прядётся ткань, "
+"которую затем используют в моргах для бальзамирования или отправляют на "
+"продажу."
 
 msgctxt "#FlaxFarm_harvest"
 msgid "The next flax harvest is in {[Month]}."
@@ -2047,10 +1939,9 @@ msgctxt "#FlaxFarm_workers_0"
 msgid "This farm has no workers. No flax can grow here."
 msgstr "На ферме нет рабочих. Лен здесь не растёт."
 
-#, fuzzy
 msgctxt "#FlaxFarm_workers_1"
 msgid "With hardly any workers in this farm, the ground is mostly barren."
-msgstr "На ферме почти нет рабочих. Землю не успевают обрабатывать."
+msgstr "На ферме почти нет рабочих, землю даже не успевают вспахать."
 
 msgctxt "#FlaxFarm_workers_100"
 msgid ""
@@ -2058,34 +1949,32 @@ msgid ""
 "flax flowers."
 msgstr "На ферме достаточно рабочих. Поля усыпаны голубыми цветами льна."
 
-#, fuzzy
 msgctxt "#FlaxFarm_workers_25"
 msgid ""
 "There are very few people working here. The flax harvest will suffer as a "
 "result."
 msgstr "На ферме слишком мало рабочих, поэтому урожай льна сильно снижен."
 
-#, fuzzy
 msgctxt "#FlaxFarm_workers_50"
 msgid ""
 "This farm is understaffed. Flax plants aren't as dense or as sturdy as they "
 "could be."
-msgstr "На ферме не хватает рабочих. Лен растет тонким и слабым."
+msgstr ""
+"На ферме не хватает рабочих. Стебли льна не такие плотные и крепкие, как "
+"могли бы быть."
 
-#, fuzzy
 msgctxt "#FlaxFarm_workers_75"
 msgid ""
 "This farm is working below maximum capacity. Flax production could be better "
 "with more workers."
 msgstr ""
-"Ферма работает не в полную силу, поэтому она принесет меньше льна, чем могла "
-"бы."
+"Ферма работает не в полную силу. Она будет приносить больше льна, если "
+"нанять больше рабочих."
 
 msgctxt "#FoodAndFarming"
 msgid "Food & Farming"
 msgstr "Пища и земледелие"
 
-#, fuzzy
 msgctxt "#FoodFarm"
 msgid "Food Farms"
 msgstr "Фермы (пища)"
@@ -2102,189 +1991,162 @@ msgctxt "#FortArchers"
 msgid "Fort: Archers"
 msgstr "Форт: лучники"
 
-#, fuzzy
 msgctxt "#FortArchers_tooltip"
 msgid "Where your archers can rest between battles"
-msgstr "Здесь лучники могут отдохнуть от сражений."
+msgstr "Здесь между сражениями отдыхают лучники."
 
-#, fuzzy
 msgctxt "#FortArchers_troops"
 msgid "There are currently {0} archers stationed at this fort."
-msgstr "Лучников в крепости: {0}."
+msgstr "Сейчас в форте размещено {0} лучников."
 
-#, fuzzy
 msgctxt "#FortArchers_troops_0"
 msgid "There are no archers at all stationed at this fort."
-msgstr "В крепости нет лучников"
+msgstr "В форте нет лучников."
 
-#, fuzzy
 msgctxt "#FortArchers_troops_1"
 msgid "Only one lonely archer is stationed at this fort."
-msgstr "В крепости размещен всего один лучник."
+msgstr "В форте размещён всего один лучник."
 
-#, fuzzy
 msgctxt "#FortArchers_upgrade_button"
 msgid "Equip {0} archers with Composite Bows<sprite name=\"CompositeBows\">"
 msgstr ""
-"Вооружить лучников композитными луками <sprite name=\"CompositeBows\">: {0}"
+"Вооружить {0} лучников составными луками<sprite name=\"CompositeBows\">."
 
-#, fuzzy
 msgctxt "#FortArchers_upgrade_full"
 msgid ""
 "Every archer at this fort is fully equipped with the best Composite "
 "Bows<sprite name=\"CompositeBows\"> in all Egypt!"
 msgstr ""
-"Лучники в крепости вооружены лучшими композитными луками <sprite "
+"Каждый лучник в форте вооружён лучшим составным луком<sprite "
 "name=\"CompositeBows\"> во всем Египте!"
 
-#, fuzzy
 msgctxt "#FortArchers_upgrade_none"
 msgid ""
 "Archers here are only equipped with simple bows. Produce some Composite "
 "Bows<sprite name=\"CompositeBows\"> from wood<sprite name=\"Wood\"> to "
 "benefit your men."
 msgstr ""
-"Местные лучники вооружены самыми простыми луками. Сделайте композитные луки "
-"<sprite name=\"CompositeBows\"> из дерева <sprite name=\"Wood\">, чтобы "
-"усилить боеспособность солдат."
+"Лучники вооружены простыми луками. Сделайте составные луки<sprite "
+"name=\"CompositeBows\"> из дерева<sprite name=\"Wood\">, чтобы усилить ваших "
+"людей."
 
-#, fuzzy
 msgctxt "#FortArchers_upgrade_one"
 msgid ""
 "Only one archer in this fort is currently equipped with a composite "
 "bow<sprite name=\"CompositeBows\">."
 msgstr ""
-"Вы вооружили композитным луком <sprite name=\"CompositeBows\"> только одного "
-"лучника в крепости."
+"Вы вооружили составным луком<sprite name=\"CompositeBows\"> только одного "
+"лучника в форте."
 
-#, fuzzy
 msgctxt "#FortArchers_upgrade_state"
 msgid ""
 "Currently, {0} of your archers are equipped with Composite Bows<sprite "
 "name=\"CompositeBows\">, making them more resilient in battle."
 msgstr ""
-"Вы вооружили лучников ({0}) композитными луками <sprite "
-"name=\"CompositeBows\">, так что они лучше защищены в бою."
+"Вы вооружили {0} лучников составными луками<sprite name=\"CompositeBows\">, "
+"так что они лучше защищены в бою."
 
 msgctxt "#FortCharioteers"
 msgid "Fort: Charioteers"
 msgstr "Форт: колесничие"
 
-#, fuzzy
 msgctxt "#FortCharioteers_tooltip"
 msgid "Where your charioteers can rest between battles"
-msgstr "Здесь колесничие могут отдохнуть от сражений."
+msgstr "Здесь между сражениями отдыхают колесничие."
 
-#, fuzzy
 msgctxt "#FortCharioteers_troops"
 msgid "There are currently {0} charioteers stationed at this fort."
-msgstr "Колесничих в крепости: {0}."
+msgstr "Сейчас в форте размещено {0} колесничих."
 
-#, fuzzy
 msgctxt "#FortCharioteers_troops_0"
 msgid "There are no men stationed at this fort."
-msgstr "В крепости нет колесничих."
+msgstr "В форте нет колесничих."
 
-#, fuzzy
 msgctxt "#FortCharioteers_troops_1"
 msgid "Only one charioteer is stationed at this fort."
-msgstr "В крепости размещен всего один колесничий."
+msgstr "В форте размещён всего один колесничий."
 
 msgctxt "#FortInfantery"
 msgid "Fort: Infantry"
 msgstr "Форт: пехотинцы"
 
-#, fuzzy
 msgctxt "#FortInfantery_tooltip"
 msgid "Where your infantry can rest between battles"
-msgstr "Здесь пехотинцы могут отдохнуть от сражений."
+msgstr "Здесь между сражениями отдыхают пехотинцы."
 
-#, fuzzy
 msgctxt "#FortInfantery_troops"
 msgid "There are currently {0} men stationed at this fort."
-msgstr "Солдат в крепости: {0}."
+msgstr "Сейчас в форте размещено {0} пехотинцев."
 
-#, fuzzy
 msgctxt "#FortInfantery_troops_0"
 msgid "There are no men stationed at this fort."
-msgstr "В крепости нет солдат."
+msgstr "В форте нет пехотинцев."
 
-#, fuzzy
 msgctxt "#FortInfantery_troops_1"
 msgid "Only one soldier is stationed at this fort."
-msgstr "В крепости размещен всего один солдат."
+msgstr "В форте размещён всего один пехотинец."
 
-#, fuzzy
 msgctxt "#FortInfantery_upgrade_button"
 msgid "Equip {0} soldiers with shields<sprite name=\"Shields\">"
-msgstr "Выдать солдатам щиты <sprite name=\"Shields\">: {0}"
+msgstr "Снабдить {0} воинов щитами<sprite name=\"Shields\">."
 
-#, fuzzy
 msgctxt "#FortInfantery_upgrade_full"
 msgid ""
 "All the men in this fort are fully equipped with weapons<sprite "
 "name=\"Weapons\"> and shields<sprite name=\"Shields\">, you could not find a "
 "more efficient company."
 msgstr ""
-"Вы снабдили оружием <sprite name=\"Weapons\"> и щитами <sprite "
-"name=\"Shields\"> всех солдат в крепости. Более боеспособного войска не "
-"найти!"
+"Вы снабдили оружием<sprite name=\"Weapons\"> и щитами<sprite "
+"name=\"Shields\"> всех воинов в форте. Более боеспособного отряда не найти!"
 
-#, fuzzy
 msgctxt "#FortInfantery_upgrade_none"
 msgid ""
 "No soldier at this fort is equipped with shields<sprite name=\"Shields\">. "
 "Produce some from hides<sprite name=\"Hides\"> to benefit your men."
 msgstr ""
-"У солдат в крепости нет щитов <sprite name=\"Shields\">. Сделайте их из шкур "
-"<sprite name=\"Hides\">, чтобы повысить боеспособность войска."
+"У воинов в форте нет щитов<sprite name=\"Shields\">. Сделайте их из "
+"шкур<sprite name=\"Hides\">, чтобы усилить ваших людей."
 
-#, fuzzy
 msgctxt "#FortInfantery_upgrade_one"
 msgid ""
 "Only one man in this fort is currently equipped with a shield<sprite "
 "name=\"Shields\">."
 msgstr ""
-"Вы выдали щит <sprite name=\"Shields\"> только одному солдату в крепости."
+"Вы снабдили щитом<sprite name=\"Shields\"> только одного воина в форте."
 
-#, fuzzy
 msgctxt "#FortInfantery_upgrade_state"
 msgid ""
 "Currently, {0} of your men are equipped with shields<sprite "
 "name=\"Shields\">, making them more resilient in battle."
 msgstr ""
-"Вы выдали солдатам ({0}) щиты <sprite name=\"Shields\">, так что они лучше "
+"Вы снабдили {0} воинов щитам<sprite name=\"Shields\">, так что они лучше "
 "защищены в бою."
 
 msgctxt "#FortInfantry"
 msgid "Fort: Infantry"
 msgstr "Форт: пехотинцы"
 
-#, fuzzy
 msgctxt "#Fort_curse"
 msgid ""
 "This Fort is accursed by Seth, and it will be some time yet before any "
 "soldiers dare to venture back here."
 msgstr ""
-"Крепость проклял Сет, и сюда еще долго не решится ступить ни один воин."
+"Этот форт проклял Сет, и сюда ещё долго не решится ступить ни один воин."
 
-#, fuzzy
 msgctxt "#Fort_flavor"
 msgid ""
 "Forts draw soldiers from the city's Recruiter. A Military Academy would "
 "provide better-trained troops."
 msgstr ""
-"Вербовщик отправляет в крепость солдат. Школа военного дела обеспечит вас "
-"более умелыми воинами."
+"Форты набирают воинов из пункта вербовки. Военная школа может обеспечить вас "
+"более опытными отрядами."
 
-#, fuzzy
 msgctxt "#Fort_full"
 msgid ""
 "This fort holds as many soldiers as it can. Build more forts to grow your "
 "army!"
 msgstr ""
-"Крепость больше не может принимать солдат. Постройте новые крепости, чтобы "
-"ваша армия росла!"
+"Форт полностью укомплектован. Постройте новые форты, чтобы ваша армия росла!"
 
 msgctxt "#Game_Order"
 msgid "Special orders"
@@ -2385,54 +2247,48 @@ msgstr ""
 "Добывает самоцветы на продажу или для изготовления украшений — основного "
 "предмета роскоши для ваших жителей."
 
-#, fuzzy
 msgctxt "#GemstoneMine_tooltip"
 msgid "Needs to be placed near rocks to produce gems <sprite name=\"Gems\">"
 msgstr ""
-"Производит самоцветы <sprite name=\"Gems\">. Размещается рядом со скалами."
+"Должен размещаться рядом со скалами для производства самоцветов <sprite "
+"name=\"Gems\">."
 
-#, fuzzy
 msgctxt "#GemstoneMine_workers_0"
 msgid ""
 "This mine has no workers. Precious stones remain locked forever in the rock."
 msgstr ""
-"На руднике нет рабочих. Драгоценные камни навсегда заточены в грубой породе."
+"В этом руднике нет рабочих. Драгоценные камни навсегда заточены в грубой "
+"породе."
 
-#, fuzzy
 msgctxt "#GemstoneMine_workers_1"
 msgid "With hardly any workers here, almost no gems are being mined."
-msgstr ""
-"На руднике так мало рабочих, что добыча самоцветов практически прекратилась."
+msgstr "Здесь почти нет рабочих, самоцветов никто не добывает."
 
-#, fuzzy
 msgctxt "#GemstoneMine_workers_100"
 msgid ""
 "This mine has all the workers it needs, and produces glittering mounds of "
 "gems."
-msgstr ""
-"На руднике достаточно рабочих, и склады полнятся сверкающими горками "
-"самоцветов."
+msgstr "На этом руднике достаточно рабочих, горы самоцветов ждут своего часа."
 
-#, fuzzy
 msgctxt "#GemstoneMine_workers_25"
 msgid ""
 "Very few miners work here. Teasing gems from rock is very slow going indeed."
 msgstr ""
-"На руднике мало рабочих, поэтому добыча самоцветов идет очень медленно."
+"На руднике мало рабочих, поэтому добыча самоцветов идёт очень медленно."
 
-#, fuzzy
 msgctxt "#GemstoneMine_workers_50"
 msgid ""
 "This mine is understaffed. It produces considerably fewer gems than it could."
-msgstr "Рабочих не хватает. Добыча самоцветов сильно снижена."
+msgstr ""
+"В этом руднике не хватает рабочих. Добыча самоцветов значительно снижена."
 
-#, fuzzy
 msgctxt "#GemstoneMine_workers_75"
 msgid ""
 "This mine has some job openings, and gem production is less efficient than "
 "it could be."
 msgstr ""
-"На руднике заняты не все рабочие места, поэтому добыча самоцветов снижена."
+"На руднике есть незанятые рабочие места, добыча самоцветов чуть меньше "
+"максимальной."
 
 msgctxt "#GoldMine"
 msgid "Gold Mine"
@@ -2442,62 +2298,57 @@ msgctxt "#GoldMine_disabled"
 msgid "The Overseer of Commerce commanded an end to gold mining."
 msgstr "Торговый советник приказал остановить добычу золота."
 
-#, fuzzy
 msgctxt "#GoldMine_flavor"
 msgid ""
 "Mining gold is the most direct way to fill your city's treasury. Lucky is "
 "the city that has this precious resource, for its wealth is assured."
 msgstr ""
-"Добыча золота — главный способ пополнения городской казны. Близость к "
-"месторождениям драгоценного металла сулит городу большое богатство."
+"Добыча золота — самый простой способ пополнить городскую казну. Удача "
+"благоволит тому городу, у которого есть столь ценный ресурс, ибо его "
+"богатство обеспечено."
 
-#, fuzzy
 msgctxt "#GoldMine_tooltip"
 msgid ""
 "Needs to be placed near veins to produce gold <sprite name=\"Gold\"> that is "
 "transformed into debens <sprite name=\"Deben\"> at the palace"
 msgstr ""
-"Производит золото <sprite name=\"Gold\">, которое превращают в дебены "
-"<sprite name=\"Deben\"> во дворце. Размещается рядом с золотой жилой."
+"Должен размещаться рядом с рудными жилами для производства золота <sprite "
+"name=\"Gold\">, которое отправляется во дворец для чеканки дебенов <sprite "
+"name=\"Deben\">."
 
-#, fuzzy
 msgctxt "#GoldMine_workers_0"
 msgid "This mine has no workers. No ore whatsoever can be extracted."
-msgstr "На руднике нет рабочих, поэтому здесь ничего не добывают."
+msgstr "В этом руднике нет рабочих. Некому добывать руду."
 
-#, fuzzy
 msgctxt "#GoldMine_workers_1"
 msgid ""
 "With hardly any workers here, mining has nearly stopped. Very little gold "
 "will come of this."
 msgstr ""
-"На руднике так мало рабочих, что добыча практически прекратилась. На золотые "
-"горы не рассчитывайте."
+"Рабочих почти нет, и добыча практически прекратилась. Золота будет очень "
+"мало."
 
-#, fuzzy
 msgctxt "#GoldMine_workers_100"
 msgid ""
 "This mine has all the workers it needs, and produces a small fortune in gold."
-msgstr "На руднике достаточно рабочих, и они добывают для вас много золота."
+msgstr ""
+"На этом руднике достаточно рабочих, золото добывается в большом количестве."
 
-#, fuzzy
 msgctxt "#GoldMine_workers_25"
 msgid "Very few people work here. Gold output is rather anemic."
 msgstr "На руднике слишком мало рабочих, поэтому добыча золота весьма скудная."
 
-#, fuzzy
 msgctxt "#GoldMine_workers_50"
 msgid "This mine is understaffed. It produces less gold than it could."
-msgstr "Рабочих не хватает. Добыча золота сильно снижена."
+msgstr "В этом руднике не хватает рабочих. Добыча золота значительно снижена."
 
-#, fuzzy
 msgctxt "#GoldMine_workers_75"
 msgid ""
 "This mine is working below maximum capacity. It would yield more gold if "
 "there were more miners."
 msgstr ""
 "Рудник работает не в полную силу. Он будет приносить больше золота, если "
-"добавить рабочих."
+"нанять больше рабочих."
 
 msgctxt "#Goods"
 msgid "Goods Production"
@@ -2511,13 +2362,12 @@ msgctxt "#GrainFarm_disabled"
 msgid "Your Overseer of Commerce ordered a halt to grain farming."
 msgstr "Торговый советник приказал остановить выращивание зерна."
 
-#, fuzzy
 msgctxt "#GrainFarm_flavor"
 msgid ""
 "Grain must be stored in Granaries to feed your people, or in Storage Yards "
 "if it is for export."
 msgstr ""
-"Зерно для горожан нужно хранить в амбарах, а то, что пойдет на продажу, — на "
+"Зерно для местного потребления должно храниться в амбарах, а на продажу — на "
 "складах."
 
 msgctxt "#GrainFarm_harvest"
@@ -2532,17 +2382,15 @@ msgstr ""
 "Производит зерно<sprite name=\"Grain\"> и 100 мер соломы <sprite "
 "name=\"Straw\">. Урожай в мае и январе, если разместить на лугу."
 
-#, fuzzy
 msgctxt "#GrainFarm_workers_0"
 msgid "This farm has no workers. Even weeds struggle to grow here."
-msgstr "На ферме нет рабочих. Здесь не растут даже сорняки."
+msgstr "На ферме нет рабочих. Даже сорняки тут с трудом растут."
 
-#, fuzzy
 msgctxt "#GrainFarm_workers_1"
 msgid ""
 "With hardly any workers at this farm, it will produce very little grain this "
 "season."
-msgstr "На ферме почти нет рабочих. В этом сезоне зерна будет совсем мало."
+msgstr "На ферме почти нет рабочих, в этом году будет мало зерна."
 
 msgctxt "#GrainFarm_workers_100"
 msgid ""
@@ -2552,38 +2400,33 @@ msgstr ""
 "На ферме достаточно рабочих. Она приносит столько урожая, сколько позволяет "
 "земля."
 
-#, fuzzy
 msgctxt "#GrainFarm_workers_25"
 msgid ""
 "There are very few farmers working here. Grain production is scanty as a "
 "result."
-msgstr "На ферме слишком мало рабочих, поэтому она приносит маленький урожай."
+msgstr "На ферме слишком мало рабочих. Урожай зерна весьма скудный."
 
-#, fuzzy
 msgctxt "#GrainFarm_workers_50"
 msgid ""
 "This farm is understaffed. Its workers don't grow as much food as they could."
-msgstr "На ферме не хватает рабочих. Производство зерна снижено."
+msgstr "На ферме не хватает рабочих. Урожай не такой богатый, как мог бы быть."
 
-#, fuzzy
 msgctxt "#GrainFarm_workers_75"
 msgid "This farm could be more productive if it had more workers."
-msgstr "Урожай будет лучше, если нанять больше рабочих."
+msgstr "Ферма будет более продуктивной, если нанять больше рабочих."
 
 msgctxt "#Granary"
 msgid "Granary"
 msgstr "Амбар"
 
-#, fuzzy
 msgctxt "#Granary_flavor"
 msgid ""
 "Full Granaries are vital for keeping the people's bellies filled, and help "
 "attract new citizens. A Granary can store any type of food."
 msgstr ""
-"Пока амбары заполнены, подданные сыты и в город тянутся новые жители. В "
-"амбаре можно хранить все виды пищи."
+"Пока амбары полны, жители сыты и в город тянутся новые поселенцы. Амбар "
+"может хранить все виды пищи."
 
-#, fuzzy
 msgctxt "#Granary_tooltip"
 msgid ""
 "Can store every type of food: Chickpeas <sprite name=\"Chickpeas\">, Figs "
@@ -2606,65 +2449,58 @@ msgctxt "#GraniteQuarry_disabled"
 msgid "Your Overseer of Commerce ordered that no more granite be quarried."
 msgstr "Торговый советник приказал остановить добычу гранита."
 
-#, fuzzy
 msgctxt "#GraniteQuarry_flavor"
 msgid ""
 "Obelisks use the heavy blocks of sturdy granite that you carve from the "
 "bones of the earth here."
 msgstr ""
-"Обелиски создают из тяжелых блоков гранита, добываемого из недр нашей земли."
+"Из тяжёлых блоков гранита, высекаемого здесь из недр земли, создаются "
+"величественные обелиски."
 
-#, fuzzy
 msgctxt "#GraniteQuarry_tooltip"
 msgid ""
 "Needs to be placed near rocks. Produces granite <sprite name=\"Granite\">"
 msgstr ""
-"Здесь добывается гранит <sprite name=\"Granite\">. Размещается рядом со "
-"скалами."
+"Должен размещаться рядом со скалами. Производит гранит <sprite "
+"name=\"Granite\">."
 
-#, fuzzy
 msgctxt "#GraniteQuarry_workers_0"
 msgid "This quarry has no workers. Production has ceased."
-msgstr "В карьере нет рабочих. Добыча остановилась."
+msgstr "В этом карьере нет рабочих. Добыча остановлена."
 
-#, fuzzy
 msgctxt "#GraniteQuarry_workers_1"
 msgid ""
 "With hardly any workers here, output has nearly stopped. It will produce "
 "little over the coming year."
 msgstr ""
-"Рабочих почти нет, и добыча практически прекратилась. В этом году карьер "
-"принесет мало гранита."
+"Рабочих почти нет, и добыча практически прекратилась. В этом году добыча "
+"гранита будет ничтожной."
 
-#, fuzzy
 msgctxt "#GraniteQuarry_workers_100"
 msgid ""
 "This quarry has all the workers it needs, and is working flat out to produce "
 "granite."
 msgstr ""
-"В карьере достаточно рабочих. Они работают изо всех сил, чтобы добыть как "
-"можно больше гранита."
+"На этом руднике достаточно рабочих, вкалывающих на полную силу для добычи "
+"гранита."
 
-#, fuzzy
 msgctxt "#GraniteQuarry_workers_25"
 msgid "Very few people work here. The quarry yields very little granite."
-msgstr "Рабочих слишком мало. Они едва успевают добывать гранит."
+msgstr "Здесь работает мало людей. Карьер производит очень мало гранита."
 
-#, fuzzy
 msgctxt "#GraniteQuarry_workers_50"
 msgid ""
 "This quarry is understaffed. It takes longer to produce granite than it "
 "should."
-msgstr "Рабочих не хватает. Добыча гранита занимает больше времени."
+msgstr "В карьере не хватает рабочих. Добыча гранита занимает больше времени."
 
-#, fuzzy
 msgctxt "#GraniteQuarry_workers_75"
 msgid ""
 "This quarry is working below maximum capacity. Production could be slightly "
 "more efficient with more workers."
 msgstr ""
-"Карьер работает не в полную силу. Он будет приносить больше гранита, если "
-"нанять новых рабочих."
+"Карьер работает не в полную силу. Он будет работать лучше, если нанять "
+"больше рабочих."
 
 msgctxt "#GuildArtisans"
 msgid "Artisans' Guild"
@@ -2703,14 +2539,13 @@ msgid ""
 "Your Overseer of Commerce has decreed that henna production should stop."
 msgstr "Торговый советник приказал остановить производство хны."
 
-#, fuzzy
 msgctxt "#HennaFarm_flavor"
 msgid ""
 "The finest henna is grown here and sent to the Paint Maker, who makes the "
 "bright paints that decorate tomb walls."
 msgstr ""
-"Здесь производится лучшая хна, из которой мастера делают яркие краски для "
-"украшения гробниц."
+"Здесь выращивается лучшая хна, из которой мастера делают яркие краски для "
+"украшения стен гробниц."
 
 msgctxt "#HennaFarm_harvest"
 msgid "The next henna harvest is in {[Month]}."
@@ -2724,18 +2559,15 @@ msgstr ""
 "Производит хну<sprite name=\"Henna\">. Урожай в декабре, если разместить на "
 "лугу."
 
-#, fuzzy
 msgctxt "#HennaFarm_workers_0"
 msgid "Without any workers, this farm can't possibly grow any henna."
-msgstr "Рабочих нет, поэтому выращивать хну некому."
+msgstr "Без рабочих на ферме некому выращивать хну."
 
-#, fuzzy
 msgctxt "#HennaFarm_workers_1"
 msgid ""
 "Most of this farm is barren. It needs more workers before it can grow more "
 "henna."
-msgstr ""
-"Поля практически не засеяны. Чтобы выращивать хну, нужно больше рабочих."
+msgstr "Поля стоят незасеянными. Чтобы выращивать хну, нужно больше рабочих."
 
 msgctxt "#HennaFarm_workers_100"
 msgid ""
@@ -2744,23 +2576,20 @@ msgid ""
 msgstr ""
 "На ферме достаточно рабочих. Они вовсю трудятся в поле, взращивая урожай."
 
-#, fuzzy
 msgctxt "#HennaFarm_workers_25"
 msgid ""
 "There are very few people working here. The henna harvest will suffer as a "
 "result."
 msgstr "На ферме слишком мало рабочих, поэтому урожай хны сильно снижен."
 
-#, fuzzy
 msgctxt "#HennaFarm_workers_50"
 msgid ""
 "This farm doesn't have enough workers to tend to an entire field of henna."
-msgstr "На ферме недостаточно рабочих, чтобы обрабатывать целое поле хны."
+msgstr "На ферме не хватает рабочих для возделывания всего поля хны."
 
-#, fuzzy
 msgctxt "#HennaFarm_workers_75"
 msgid "This farm could harvest more henna if it had more workers."
-msgstr "Урожай хны будет лучше, если нанять больше рабочих."
+msgstr "Эта ферма может собрать больше хны, если нанять больше рабочих."
 
 msgctxt "#HorusOracle"
 msgid "Oracle of Horus"
@@ -2770,40 +2599,36 @@ msgctxt "#Housing"
 msgid "Housing"
 msgstr "Жильё"
 
-#, fuzzy
 msgctxt "#Housing_tooltip"
 msgid "Place plots of housing so migrants join your city"
-msgstr "Размещайте жилье для новых переселенцев."
+msgstr "Разметьте место под жильё для новых переселенцев."
 
 msgctxt "#HuntingLodge"
 msgid "Hunting Lodge"
 msgstr "Охотничья хижина"
 
-#, fuzzy
 msgctxt "#HuntingLodge_DistantPreyPoint"
 msgid ""
 "It takes too long for meat to get back to the lodge. Try putting it closer "
 "to wildlife."
 msgstr ""
-"Доставка дичи занимает слишком много времени. Разместите хижину ближе к "
+"Доставка добычи занимает слишком много времени. Разместите хижину ближе к "
 "месту обитания диких животных."
 
-#, fuzzy
 msgctxt "#HuntingLodge_HuntersOut"
 msgid "This lodge's hunters are out seeking prey."
-msgstr "Охотники отправились на поиски животных."
+msgstr "Охотники отправились на поиски добычи."
 
 msgctxt "#HuntingLodge_disabled"
 msgid "The Overseer of Commerce decreed that hunting should cease."
 msgstr "Торговый советник распорядился прекратить охоту."
 
-#, fuzzy
 msgctxt "#HuntingLodge_flavor"
 msgid ""
 "Hunters based here track and hunt local wildlife. The Hunting Lodge then "
 "distributes game meat to local Storage Yards or Granaries."
 msgstr ""
-"Охотники отправляются добывать мясо диких животных. Из хижины охотника дичь "
+"Работающие здесь люди охотятся на диких животных. Из хижины охотника дичь "
 "поступает на склады и в амбары."
 
 msgctxt "#HuntingLodge_storage_Hides"
@@ -2822,48 +2647,42 @@ msgstr ""
 "Отправляет трёх охотников для добычи мяса дичи<sprite name=\"GameMeat\">. "
 "Также выделывает шкуры<sprite name=\"Hides\"> из антилоп."
 
-#, fuzzy
 msgctxt "#HuntingLodge_workers_0"
 msgid "This lodge has no workers. The hunt is canceled."
-msgstr "Здесь никто не работает. Охоты не будет."
+msgstr "В хижине нет работников. Охоты не будет."
 
-#, fuzzy
 msgctxt "#HuntingLodge_workers_1"
 msgid ""
 "With hardly any hunters working here, prey animals cavort unmolested. It "
 "could be a very hungry dry season..."
 msgstr ""
-"Охотников почти нет, и диким животным ничто не угрожает. А вот жителей ждет "
-"очень голодный сезон..."
+"Охотников почти нет, и диким животным ничто не угрожает. А вот жителей ждёт "
+"голодное время..."
 
-#, fuzzy
 msgctxt "#HuntingLodge_workers_100"
 msgid ""
 "This lodge has all the workers it needs. The hunters are stalking every herd "
 "they can find."
 msgstr ""
-"В хижине достаточно рабочих. Охотники добывают всю дичь, которая попадается "
-"на пути."
+"В этой хижине достаточно рабочих. Охотники выслеживают любую дичь в округе."
 
-#, fuzzy
 msgctxt "#HuntingLodge_workers_25"
 msgid "Very few people work here. Meat collection is slow, indeed."
-msgstr "Охотников слишком мало. Они едва успевают добывать дичь."
+msgstr "Здесь работает мало людей. Охота идёт очень вяло."
 
-#, fuzzy
 msgctxt "#HuntingLodge_workers_50"
 msgid ""
 "This lodge is understaffed, and it takes longer to collect meat than it "
 "should."
 msgstr "Охотников не хватает. Добыча мяса занимает больше времени."
 
-#, fuzzy
 msgctxt "#HuntingLodge_workers_75"
 msgid ""
 "This lodge is working below maximum capacity. Food collection will be slower "
 "as a result."
 msgstr ""
-"Хижина работает не в полную силу. Из-за этого охота идет немного медленнее."
+"Эта хижина работает не в полную силу. Производство пищи идёт немного "
+"медленнее."
 
 msgctxt "#Hygiene"
 msgid "Hygiene"
@@ -2885,21 +2704,18 @@ msgctxt "#IrrigationDitch"
 msgid "Irrigation Ditch"
 msgstr "Оросительный канал"
 
-#, fuzzy
 msgctxt "#IrrigationDitch_nsource"
 msgid ""
 "This Irrigation Ditch is not transporting water to less fertile areas, as it "
 "has no source of water from which to draw."
 msgstr ""
-"Оросительный канал не соединен с источником воды, поэтому вода не поступает "
+"Оросительный канал не соединён с источником воды, поэтому вода не поступает "
 "в неплодородные районы."
 
-#, fuzzy
 msgctxt "#IrrigationDitch_tooltip"
 msgid "When connected to a working water lift, irrigates nearby farms"
-msgstr "При соединении с подъемником для воды орошает близлежащие фермы."
+msgstr "При соединении с шадуфом орошает близлежащие фермы."
 
-#, fuzzy
 msgctxt "#IrrigationDitch_working"
 msgid "This Irrigation Ditch moves water to help fertilize farmland"
 msgstr "Вода, поступающая по оросительному каналу, насыщает наши угодья."
@@ -2949,115 +2765,102 @@ msgctxt "#Jeweler_workers_0"
 msgid "This Jeweler has no employees, and is not producing anything."
 msgstr "В этой мастерской нет ювелиров, здесь ничего не производится."
 
-#, fuzzy
 msgctxt "#Jeweler_workers_1"
 msgid ""
 "With hardly any craftsmen, this Jeweler will produce few luxury goods over "
 "the coming year."
 msgstr ""
-"В мастерской почти нет рабочих. В этом году производство предметов роскоши "
-"сильно сократится."
+"Здесь почти нет мастеров, в этом году ювелирная мастерская произведёт очень "
+"мало украшений."
 
-#, fuzzy
 msgctxt "#Jeweler_workers_100"
 msgid ""
 "This facility is at full employment, and makes as much jewelry as possible."
-msgstr "Все ювелиры на месте, поэтому создание украшений идет полным ходом."
+msgstr ""
+"Мастерская полностью укомплектована, создание украшений идёт полным ходом."
 
-#, fuzzy
 msgctxt "#Jeweler_workers_25"
 msgid ""
 "Very few craftsmen work here. Jewelry production is very slow as a result."
 msgstr ""
-"Здесь работает слишком мало мастеров, поэтому они едва успевают создавать "
-"украшения."
+"Здесь работает слишком мало мастеров. Изготовление украшений идёт очень "
+"медленно."
 
-#, fuzzy
 msgctxt "#Jeweler_workers_50"
 msgid ""
 "This facility is understaffed, and takes longer to produce jewelry than it "
 "should."
 msgstr "Ювелиров не хватает. Создание украшений занимает больше времени."
 
-#, fuzzy
 msgctxt "#Jeweler_workers_75"
 msgid ""
 "This facility has some job openings. Jewelry production will improve when "
 "they are filled."
 msgstr ""
-"В мастерской заняты не все рабочие места. Производство пойдет быстрее, если "
-"их заполнить."
+"В мастерской есть незанятые рабочие места. Производство украшений пойдёт "
+"быстрее если их заполнить."
 
 msgctxt "#JugglerSchool"
 msgid "Juggler School"
 msgstr "Школа жонглёров"
 
-#, fuzzy
 msgctxt "#JugglerSchool_flavor"
 msgid "New jugglers with inventive new routines are always in demand."
 msgstr ""
-"Публика всегда жаждет посмотреть на изобретательные трюки новых жонглеров."
+"Публика всегда жаждет посмотреть на изобретательные трюки новых жонглёров."
 
-#, fuzzy
 msgctxt "#JugglerSchool_tooltip"
 msgid ""
 "Sends jugglers to all performances venues: Booths, Bandcamps and Pavilions"
 msgstr ""
-"Готовит жонглеров для всех мест развлечения: помостов, музыкальных площадок "
-"и сцен."
+"Отправляет жонглёров во все места развлечения: помосты, эстрады и сцены."
 
-#, fuzzy
 msgctxt "#JugglerSchool_workers_0"
 msgid ""
 "This school is deserted. Without mentors in its employ, no new jugglers will "
 "be produced."
 msgstr ""
-"Школа заброшена. В отсутствие наставников жонглеров обучать невозможно."
+"Эта школа заброшена. Без наставников новых жонглёров обучать невозможно."
 
-#, fuzzy
 msgctxt "#JugglerSchool_workers_1"
 msgid ""
 "I have no staff other than myself. I cannot be expected to work under these "
 "conditions! At best, I can train a juggler in three months."
 msgstr ""
-"Здесь нет никого, кроме меня. Вы же не думаете, что я могу работать в таких "
-"условиях? В лучшем случае вы получите одного жонглера через три месяца."
+"Здесь нет никого, кроме меня. Я не могу работать в таких условиях! В лучшем "
+"случае я смогу обучить жонглёра через три месяца."
 
-#, fuzzy
 msgctxt "#JugglerSchool_workers_100"
 msgid ""
 "We are pleased to announce that, with full employment, we train up to four "
 "new jugglers every month."
 msgstr ""
-"С радостью объявляем, что школа работает в полную силу и готовит до четырех "
-"жонглеров в месяц."
+"С гордостью можем сообщить, что полностью укомплектованная школа готовит до "
+"четырёх жонглёров в месяц."
 
-#, fuzzy
 msgctxt "#JugglerSchool_workers_25"
 msgid ""
 "We need employees badly. It will be a struggle to turn out one new juggler "
 "over the next two months."
 msgstr ""
-"Наставников очень мало! Мы сможем подготовить только одного жонглера, и то "
-"через два месяца."
+"Нам так сильно нужны наставники, мы с трудом можем подготовить одного "
+"жонглёра за два месяца."
 
-#, fuzzy
 msgctxt "#JugglerSchool_workers_50"
 msgid ""
 "We are half-staffed, and so are only able to train one juggler in the coming "
 "month."
 msgstr ""
-"Школа работает вполсилы, поэтому в следующем месяце мы сможем выпустить "
-"только одного жонглера."
+"Нам не хватает половины работников, поэтому в следующем месяце мы можем "
+"подготовить только одного жонглёра."
 
-#, fuzzy
 msgctxt "#JugglerSchool_workers_75"
 msgid ""
 "We are slightly understaffed, and so can produce two new jugglers each "
 "month, at most."
 msgstr ""
-"Наставников немного не хватает, поэтому мы можем выпускать всего двух "
-"жонглеров в месяц."
+"Не хватает нескольких наставников, поэтому мы можем подготовить не больше "
+"двух жонглёров в месяц."
 
 msgctxt "#LampMaker"
 msgid "Lamp Maker"
@@ -3068,27 +2871,22 @@ msgid "Your Overseer of Commerce turned out the lights on lamp production."
 msgstr ""
 "Тушите свет! Ваш торговый советник приказал остановить производство ламп."
 
-#, fuzzy
 msgctxt "#LampMaker_flavor"
 msgid "Here, workers fill pottery with oil to make long-burning lamps."
-msgstr ""
-"Рабочие наливают масло в глиняные горшки. Так получают лампы, которые долго "
-"служат владельцам."
+msgstr "Здесь рабочие наполняют горшки маслом, создавая долго горящие лампы."
 
-#, fuzzy
 msgctxt "#LampMaker_stock_oil_0"
 msgid ""
 "This workshop needs oil delivered to it from a Storage Yard to produce lamps."
-msgstr "Для производства ламп нужно доставить масло со склада."
+msgstr "Для производства ламп этой мастерской необходимо масло со склада."
 
-#, fuzzy
 msgctxt "#LampMaker_stock_pottery_0"
 msgid ""
 "This workshop needs pottery delivered to it, from a Storage Yard or a "
 "Potter, to produce lamps."
 msgstr ""
-"Для производства ламп нужно доставить керамику со склада или из гончарной "
-"мастерской."
+"Для производства ламп этой мастерской необходима керамика со склада или из "
+"гончарной мастерской."
 
 msgctxt "#LampMaker_storage_oil"
 msgid "Oil<sprite name=\"Oil\">: {0} units."
@@ -3106,12 +2904,11 @@ msgstr ""
 "Производит лампы <sprite name=\"Lamp\"> из масла <sprite name=\"Oil\"> и "
 "керамики <sprite name=\"Pottery\">."
 
-#, fuzzy
 msgctxt "#LampMaker_workers_0"
 msgid "No lamps are made at this Lamp Maker. It lacks employees."
-msgstr "В мастерской не делают лампы. Здесь нет рабочих."
+msgstr "В этой мастерской не делают лампы. Здесь нет рабочих."
 
-#, fuzzy
+# error
 msgctxt "#LampMaker_workers_1"
 msgid ""
 "Hardly any lamps are being produce at this Paint Maker. It needs many more "
@@ -3120,35 +2917,32 @@ msgstr ""
 "Производство ламп почти остановилось. Чтобы ускорить его, нужно больше "
 "мастеров."
 
-#, fuzzy
 msgctxt "#LampMaker_workers_100"
 msgid ""
 "With a full staff of workers, this Lamp Maker has no trouble producing lamps "
 "in a timely fashion."
-msgstr "В мастерской хватает рабочих, поэтому дело спорится."
+msgstr ""
+"Здесь хватает рабочих, мастерская без задержек и простоев производит лампы."
 
-#, fuzzy
 msgctxt "#LampMaker_workers_25"
 msgid ""
 "This Lamp Maker needs several more employees. The limited staff is doing the "
 "best they can, but lamp production has slowed considerably."
 msgstr ""
-"В мастерской срочно требуются рабочие. Те, что есть, стараются изо всех сил, "
-"но производство ламп все равно идет очень медленно."
+"Мастерской нужно больше рабочих. Те, что есть, стараются изо всех сил, но "
+"производство ламп все равно идёт очень медленно."
 
-#, fuzzy
 msgctxt "#LampMaker_workers_50"
 msgid "This workshop is understaffed, and lamp production is light."
 msgstr "В мастерской не хватает рабочих, и производство ламп замедлилось."
 
-#, fuzzy
 msgctxt "#LampMaker_workers_75"
 msgid ""
 "This Lamp Maker has some unfilled jobs, which slows down lamp production "
 "somewhat."
 msgstr ""
-"В мастерской заняты не все рабочие места, поэтому производство ламп немного "
-"снижено."
+"В этой мастерской есть свободные рабочие места, поэтому производство ламп "
+"немного снижено."
 
 msgctxt "#LandFertility"
 msgid "Land is {0}% fertile."
@@ -3170,16 +2964,15 @@ msgctxt "#LettuceFarm_disabled"
 msgid "The Overseer of Commerce decreed that lettuce farming should cease."
 msgstr "Торговый советник распорядился прекратить выращивание латука."
 
-#, fuzzy
 msgctxt "#LettuceFarm_flavor"
 msgid ""
 "Lettuce contributes to the balanced diet your people need for happiness and "
 "health. Granaries store lettuce for local consumption, and Storage Yards "
 "take surpluses for export."
 msgstr ""
-"Латук вносит разнообразие в рацион ваших жителей, что повышает уровень "
-"счастья и здоровья. Латук для горожан нужно хранить в амбарах, а тот, что "
-"пойдет на продажу, — на складах."
+"Латук разнообразит рацион ваших жителей, благотворно влияя на здоровье и "
+"счастье. Латук для местного потребления должен храниться в амбарах, а на "
+"продажу — на складах."
 
 msgctxt "#LettuceFarm_harvest"
 msgid "The next lettuce harvest is in {[Month]}."
@@ -3193,19 +2986,15 @@ msgstr ""
 "Производит латук<sprite name=\"Lettuce\">. Урожай в апреле, если разместить "
 "на лугу."
 
-#, fuzzy
 msgctxt "#LettuceFarm_workers_0"
 msgid "This farm has no workers. Nothing has been planted."
-msgstr "На ферме нет рабочих, и некому посадить латук."
+msgstr "На ферме нет рабочих. На полях ничего не растёт."
 
-#, fuzzy
 msgctxt "#LettuceFarm_workers_1"
 msgid ""
 "With almost no farmers to tend the crop, this will not be a banner year for "
 "lettuce."
-msgstr ""
-"Уходом за полями заниматься почти некому, так что в этом году рекордного "
-"урожая ждать не стоит."
+msgstr "Некому следить за всходами, рекордного урожая латука ждать не стоит."
 
 msgctxt "#LettuceFarm_workers_100"
 msgid ""
@@ -3215,27 +3004,24 @@ msgstr ""
 "На ферме достаточно рабочих. Здесь выращивается столько латука, сколько "
 "позволяет земля."
 
-#, fuzzy
 msgctxt "#LettuceFarm_workers_25"
 msgid ""
 "There are very few farmers working here. The lettuce harvest will suffer "
 "greatly for it."
-msgstr "На ферме слишком мало рабочих, поэтому урожай латука сильно снизится."
+msgstr "На ферме слишком мало рабочих, поэтому урожай латука сильно снижен."
 
-#, fuzzy
 msgctxt "#LettuceFarm_workers_50"
 msgid ""
 "This farm is understaffed. Its lettuce heads are smaller and fewer than they "
 "could be."
-msgstr "На ферме не хватает рабочих. Урожай меньше, как и размеры кочанов."
+msgstr "На ферме не хватает рабочих. Латук не такой крупный, как мог бы быть."
 
-#, fuzzy
 msgctxt "#LettuceFarm_workers_75"
 msgid ""
 "This farm is working below maximum capacity, so its crop is smaller than it "
 "could be."
 msgstr ""
-"Ферма работает не в полную силу, поэтому она принесет меньше урожая, чем "
+"Ферма работает не в полную силу, поэтому она принесёт меньше урожая, чем "
 "могла бы."
 
 msgctxt "#Library"
@@ -3254,32 +3040,30 @@ msgctxt "#Library_stock"
 msgid "Stored Papyrus<sprite name=\"Papyrus\">: {0} units."
 msgstr "Запасы папируса<sprite name=\"Papyrus\">: {0} мер."
 
-#, fuzzy
 msgctxt "#Library_tooltip"
 msgid ""
 "Also costs 500 papyrus <sprite name=\"Papyrus\"> to be built. Upon regular "
 "deliveries of papyrus <sprite name=\"Papyrus\">, will improve education in "
 "the city"
 msgstr ""
-"Для строительства требуется также 500 ед. папируса <sprite "
+"Для строительства требуется также 500 мер папируса <sprite "
 "name=\"Papyrus\">. Регулярные поставки папируса <sprite name=\"Papyrus\"> "
-"повышают уровень образования в городе."
+"повышает уровень образования в городе."
 
-#, fuzzy
 msgctxt "#Library_workers_0"
 msgid ""
 "This Library lacks employees, papyrus, or both. It cannot serve the "
 "community."
 msgstr ""
-"В библиотеке нет рабочих, папируса или того и другого. Она не приносит "
+"В этой библиотеке нет рабочих, папируса или того и другого. Она не приносит "
 "пользы."
 
-#, fuzzy
 msgctxt "#Library_workers_1"
 msgid ""
 "As long as this Library has employees and papyrus, it can serve the "
 "community."
-msgstr "Пока в библиотеке есть рабочие и папирус, она приносит жителям пользу."
+msgstr ""
+"Пока в библиотеке есть работники и папирус, она приносит жителям пользу."
 
 msgctxt "#LimestoneQuarry"
 msgid "Limestone Quarry"
@@ -3300,51 +3084,47 @@ msgstr ""
 "Должен размещаться рядом со скалами. Производит известняк <sprite "
 "name=\"Limestone\">."
 
-#, fuzzy
 msgctxt "#LimestoneQuarry_workers_0"
 msgid "This quarry has no workers, and thus produces no limestone."
-msgstr "В карьере нет рабочих. Известняк не добывается."
+msgstr "В этом карьере нет рабочих, известняк не добывается."
 
-#, fuzzy
 msgctxt "#LimestoneQuarry_workers_1"
 msgid ""
 "With hardly any workers here, limestone production is almost nonexistent. "
-msgstr ""
-"Здесь почти нет рабочих, поэтому добыча известняка практически нулевая."
+msgstr "Здесь почти нет рабочих, добыча известняка исчезающе мала."
 
-#, fuzzy
 msgctxt "#LimestoneQuarry_workers_100"
 msgid ""
 "This quarry has all the workers it needs, and produces as much limestone as "
 "possible."
-msgstr "В карьере достаточно рабочих. Они добывают известняк не покладая рук."
+msgstr ""
+"В этом карьере достаточно рабочих, известняк добывается в большом количестве."
 
-#, fuzzy
 msgctxt "#LimestoneQuarry_workers_25"
 msgid ""
 "Very few people work in this building. Production is much too slow as a "
 "result."
-msgstr "Здесь слишком мало рабочих, поэтому добыча идет очень медленно."
+msgstr ""
+"В этой постройке слишком мало рабочих. Производство идёт очень медленно."
 
-#, fuzzy
 msgctxt "#LimestoneQuarry_workers_50"
 msgid ""
 "This building is understaffed. It takes longer than it should to cut blocks "
 "of limestone."
-msgstr "Рабочих не хватает. Добыча известняка занимает больше времени."
+msgstr ""
+"В карьере не хватает рабочих. Добыча известняка занимает больше времени."
 
-#, fuzzy
 msgctxt "#LimestoneQuarry_workers_75"
 msgid ""
 "This quarry is working below maximum capacity. Production could be greater "
 "with more workers."
 msgstr ""
-"Карьер работает не в полную силу. Добыча улучшится, если нанять новых "
-"рабочих."
+"Карьер работает не в полную силу. Он будет работать лучше, если нанять "
+"больше рабочих."
 
 msgctxt "#LookingForLabor"
 msgid "Looking for laborers"
-msgstr ""
+msgstr "Ищем работников."
 
 msgctxt "#MaatAltar"
 msgid "Altar of Ma'at"
@@ -3414,19 +3194,17 @@ msgctxt "#Mansion_Village2"
 msgid "Village Noble's salary of"
 msgstr "Жалование вельможи"
 
-#, fuzzy
 msgctxt "#Mansion_flavor"
 msgid ""
 "Your home is one of the city's most desirable addresses. Your Mansion gives "
 "you the authority to draw a salary. "
 msgstr ""
-"Вашим домом восхищается весь город. Особняк дает вам право получать "
-"жалование."
+"Ваше жилище — одно из самых привлекательных мест в городе. Особняк даёт вам "
+"право назначать себе жалование."
 
-#, fuzzy
 msgctxt "#ManufacturedGoods"
 msgid "Manufactured Goods"
-msgstr "Производство товаров"
+msgstr "Произведённые товары"
 
 msgctxt "#MeatFish"
 msgid "Meat & Fish Production"
@@ -3444,43 +3222,39 @@ msgctxt "#Military"
 msgid "Military Buildings"
 msgstr "Военные сооружения"
 
-#, fuzzy
 msgctxt "#MilitaryAcademy"
 msgid "Military Academy"
-msgstr "Школа военного дела"
+msgstr "Военная школа"
 
-#, fuzzy
 msgctxt "#MilitaryAcademy_flavor"
 msgid ""
 "When new soldiers finish their basic training at the Recruiter, they seek to "
 "improve in quality and capability at this academy, but cannot until it "
 "receives its full quota of staff."
 msgstr ""
-"Постигнув азы военного дела у вербовщика, новобранцы совершенствуются в этой "
-"школе. Однако обучение невозможно, пока не наберется достаточно наставников."
+"Закончив основы военного дела у вербовщика, новобранцы совершенствуют свои "
+"навыки в этой школе, однако обучение невозможно, пока не наберётся "
+"достаточно наставников."
 
-#, fuzzy
 msgctxt "#MilitaryAcademy_tooltip"
 msgid "Train recruits before they join a fort"
-msgstr "Здесь новобранцы обучаются перед назначением в крепость."
+msgstr "Обучает новобранцев перед назначением в форт."
 
-#, fuzzy
 msgctxt "#MilitaryAcademy_workers_0"
 msgid ""
 "With no staff, we cannot polish the skills of the city's new soldiers. They "
 "will have to go straight to their Forts and hope for the best."
 msgstr ""
-"В школе нет наставников, и некому совершенствовать навыки новых солдат. "
-"Остается отправить их в крепость и надеяться, что имеющихся знаний им хватит."
+"Без работников некому совершенствовать навыки новых воинов. Остаётся "
+"отправлять их сразу в форт и надеяться на лучшее."
 
-#, fuzzy
 msgctxt "#MilitaryAcademy_workers_1"
 msgid ""
 "We give green soldiers from the city's Recruiter the extra edge they need to "
 "excel in today's Egyptian army."
 msgstr ""
-"Здесь зеленые новобранцы получают знания и опыт, которые помогут им блистать "
-"в армии Египта."
+"Мы обучаем зелёных новобранцев от вербовщика дополнительными приёмами, "
+"которые обязательно пригодятся им в службе в египетской армии."
 
 msgctxt "#MinOracle"
 msgid "Oracle of Min"
@@ -3560,14 +3334,12 @@ msgstr "Причалы"
 
 msgctxt "#NoLabor"
 msgid "No labor"
-msgstr ""
+msgstr "Нет рабочих"
 
-#, fuzzy
 msgctxt "#NoWorkersNearby"
 msgid "No workers live nearby"
 msgstr "Рядом не живут рабочие."
 
-#, fuzzy
 msgctxt "#NonFoodFarm"
 msgid "Non-Food Farms"
 msgstr "Фермы (другое)"
@@ -3576,10 +3348,11 @@ msgctxt "#Oracle_built"
 msgid "The Oracle of this Temple Complex is already built"
 msgstr "В храмовом комплексе уже есть оракул."
 
-#, fuzzy
+# ???
+
 msgctxt "#Order_Quota_Empty"
 msgid "empty"
-msgstr "ничего"
+msgstr "пусто"
 
 msgctxt "#Order_Quota_Full"
 msgid "all"
@@ -3627,7 +3400,6 @@ msgctxt "#OsirisTempleComplex"
 msgid "Temple Complex to Osiris"
 msgstr "Храмовый комплекс Осириса"
 
-#, fuzzy
 msgctxt "#OsirisTempleComplex_flavor"
 msgid ""
 "Osiris is the god of the Nile flood, and all life which springs from the "
@@ -3640,14 +3412,13 @@ msgid ""
 "your city with greater vitality. His Oracle makes animal herds and fish "
 "colonies more resilient, and even accelerates the regrowth of some plants. "
 msgstr ""
-"Осирис управляет разливом Нила и властвует над загробным миром. Если "
-"завоевать его благосклонность, каждый год он будет устраивать живительный "
-"разлив, дарующий плодородность вашим полям. Также он увеличивает урожай во "
-"время жатвы. Если в храме есть алтарь Себека, бога плодородия, жрецы Осириса "
-"помогают жителям растянуть запасы пищи и других необходимых материалов. Если "
-"же есть оракул Мина, бога обновления, он придает силы флоре и фауне в городе "
-"и за его пределами: зверья и рыбы становится больше, а кроме того, быстрее "
-"восстанавливаются некоторые растения."
+"Осирис является богом разливов Нила и всего живого в загробном мире. "
+"Завоевав его благосклонность, ваш город получит благословение обильного "
+"разлива, приносящего в поля плодородный ил. Он также может увеличить урожай. "
+"Благодаря алтарю Себека, бога плодородия, жрецы Осириса помогают жителям "
+"использовать запасы пищи и других товаров более экономно. Оракул Мина, бога "
+"перерождения, дарует силы дикой природе: дикие животные и рыбы плодятся в "
+"больших количествах, а некоторые растения зреют быстрее."
 
 msgctxt "#OsirisTempleComplex_tooltip"
 msgid ""
@@ -3681,7 +3452,6 @@ msgctxt "#PaintMaker_disabled"
 msgid "Your Overseer of Commerce has stopped paint production."
 msgstr "Ваш торговый советник остановил производство красок."
 
-#, fuzzy
 msgctxt "#PaintMaker_flavor"
 msgid ""
 "Here, henna is crushed and processed into paint, which artisans use to "
@@ -3690,19 +3460,17 @@ msgstr ""
 "Здесь хну растирают в порошок и превращают в краску, с помощью которой "
 "художники богато украшают стены царских гробниц."
 
-#, fuzzy
 msgctxt "#PaintMaker_stock_0"
 msgid ""
 "This workshop needs henna from a Henna Farm or Storage Yard before it can "
 "make any paint. "
 msgstr ""
-"Для изготовления краски требуется хна. Ее можно доставить с фермы хны или со "
+"Для изготовления краски этой мастерской необходима хна из фермы или со "
 "склада."
 
-#, fuzzy
 msgctxt "#PaintMaker_storage"
 msgid "Henna<sprite name=\"Henna\">: {0} units."
-msgstr "Запасы хны <sprite name=\"Henna\">: {0} ед."
+msgstr "Хна<sprite name=\"Henna\">: {0} мер."
 
 msgctxt "#PaintMaker_tooltip"
 msgid ""
@@ -3710,7 +3478,6 @@ msgid ""
 msgstr ""
 "Производит краску <sprite name=\"Paint\"> из хны <sprite name=\"Henna\">."
 
-#, fuzzy
 msgctxt "#PaintMaker_workers_0"
 msgid ""
 "This Paint Maker's staff has completely dried up. With no workers, no paint "
@@ -3719,7 +3486,6 @@ msgstr ""
 "В мастерской не осталось ни одного рабочего. А без них и краску делать "
 "некому."
 
-#, fuzzy
 msgctxt "#PaintMaker_workers_1"
 msgid ""
 "Only a few workers are employed by this Paint Maker. The small staff can "
@@ -3727,38 +3493,35 @@ msgid ""
 msgstr ""
 "В мастерской работают единицы. Их сил едва хватает на производство краски."
 
-#, fuzzy
 msgctxt "#PaintMaker_workers_100"
 msgid ""
 "With a full staff, this Paint Maker produces paint as quickly and "
 "efficiently as it can."
 msgstr ""
-"В мастерской хватает рабочих, поэтому они могут быстро производить краску."
+"Здесь хватает рабочих, мастерская производит краску в кратчайшие сроки."
 
-#, fuzzy
 msgctxt "#PaintMaker_workers_25"
 msgid ""
 "This Paint Maker needs many more workers. Paint production here has slowed "
 "to a crawl."
 msgstr ""
-"В мастерской слишком мало рабочих. Производство краски практически "
-"остановилось."
+"Мастерской нужно больше рабочих. Производство краски идёт очень медленно."
 
-#, fuzzy
 msgctxt "#PaintMaker_workers_50"
 msgid ""
 "This Paint Maker is understaffed, and produces paint more slowly than it "
 "should."
-msgstr "Изготовителей красок не хватает. Производство идет гораздо медленнее."
+msgstr ""
+"Мастерской не хватает рабочих, она производит краски не так быстро, как "
+"могла бы."
 
-#, fuzzy
 msgctxt "#PaintMaker_workers_75"
 msgid ""
 "This Paint Maker's staffing level is a little thin, so paint production is "
 "compromised."
 msgstr ""
-"В мастерской небольшая нехватка рабочих, поэтому производство краски "
-"снизилось."
+"В мастерской небольшая нехватка рабочих, поэтому производство краски чуть "
+"ниже максимальной."
 
 msgctxt "#Palace"
 msgid "Palace"
@@ -3768,16 +3531,15 @@ msgctxt "#PalaceVillage"
 msgid "Village Palace"
 msgstr "Дворец деревни"
 
-#, fuzzy
 msgctxt "#Palace_flavor"
 msgid ""
 "The Palace is among your city's most desirable buildings and the cornerstone "
 "of the city economy. It turns gold nuggets to debens and stores some of the "
 "city's funds."
 msgstr ""
-"Дворец — одно из самых роскошных зданий в городе и краеугольный камень его "
-"экономики. Здесь золото превращается в дебены, а также хранится часть "
-"денежных запасов города."
+"Дворец — одно из самых привлекательных зданий в городе и краеугольный камень "
+"его экономики. Здесь золотые слитки превращаются в дебены, а также хранится "
+"часть денежных запасов города."
 
 msgctxt "#PapyrusMaker"
 msgid "Papyrus Maker"
@@ -3787,25 +3549,23 @@ msgctxt "#PapyrusMaker_disabled"
 msgid "Your Overseer of Commerce decreed that papyrus production should cease."
 msgstr "Торговый советник распорядился прекратить изготовление папируса."
 
-#, fuzzy
 msgctxt "#PapyrusMaker_flavor"
 msgid ""
 "Here reeds are bound together to make papyrus, which educational "
 "institutions require for writing down information and sharing knowledge. "
 "Papyrus may also be profitably traded."
 msgstr ""
-"Здесь из стеблей тростника делают папирус. Его используют в учебных "
-"заведениях для записи текстов и распространения знаний. Также папирус можно "
-"выгодно продавать."
+"Здесь из стеблей тростника делают папирус, используемый в учебных заведениях "
+"для записи текстов и распространения знаний. Также папирус можно выгодно "
+"продавать."
 
-#, fuzzy
 msgctxt "#PapyrusMaker_stock_0"
 msgid ""
 "This workshop will produce no papyrus without a shipment of reeds, whether "
 "from a Storage Yard or a Reed Gatherer."
 msgstr ""
-"Производство папируса остановилось из-за нехватки тростника. Доставьте его "
-"со склада или от сборщиков тростника."
+"Эта мастерская не будет производить папирус без поставок тростника со склада "
+"или от сборщиков."
 
 msgctxt "#PapyrusMaker_storage"
 msgid "Stored reeds<sprite name=\"Reeds\">: {0} units."
@@ -3818,174 +3578,158 @@ msgstr ""
 "Производит папирус<sprite name=\"Papyrus\"> из тростника<sprite "
 "name=\"Reeds\">."
 
-#, fuzzy
 msgctxt "#PapyrusMaker_workers_0"
 msgid ""
 "This Papyrus Maker has no employees, and will yield no products as a result."
-msgstr "В мастерской никто не работает, поэтому папирус не производится."
+msgstr "В мастерской никого нет, поэтому она ничего не производит."
 
-#, fuzzy
 msgctxt "#PapyrusMaker_workers_1"
 msgid ""
 "With hardly any employees, this Papyrus Maker will produce little papyrus "
 "over the coming year."
 msgstr ""
-"В мастерской почти нет рабочих. В этом году произведут совсем мало папируса."
+"Здесь почти нет рабочих, в этом году мастерская произведёт очень мало "
+"папируса."
 
-#, fuzzy
 msgctxt "#PapyrusMaker_workers_100"
 msgid ""
 "This Papyrus Maker is fully staffed, and produces ample high-quality papyrus."
 msgstr ""
-"Мастерская работает в полную силу. Папирус производят быстро и качественно."
+"Мастерская работает в полную силу, быстро и качественно производя папирус."
 
-#, fuzzy
 msgctxt "#PapyrusMaker_workers_25"
 msgid ""
 "Very few people work at this workshop. Papyrus production is slow as a "
 "result."
 msgstr ""
-"В мастерской слишком мало рабочих. Производство папируса идет очень медленно."
+"В этой мастерской слишком мало рабочих. Производство папируса идёт очень "
+"медленно."
 
-#, fuzzy
 msgctxt "#PapyrusMaker_workers_50"
 msgid ""
 "This Papyrus Maker is understaffed, and produces papyrus more slowly than it "
 "should."
-msgstr "Мастеров не хватает. Производство папируса идет медленнее."
+msgstr ""
+"Мастерской не хватает рабочих, она производит папирус не так быстро, как "
+"могла бы."
 
-#, fuzzy
 msgctxt "#PapyrusMaker_workers_75"
 msgid ""
 "This Papyrus Maker could use more workers to reach its full potential for "
 "papyrus production."
 msgstr ""
-"Можно нанять больше рабочих, тогда производство папируса пойдет быстрее."
+"Производство папируса пойдёт полным ходом, если нанять ещё больше рабочих."
 
 msgctxt "#PartialLabor"
 msgid "Partial labor"
-msgstr ""
+msgstr "Частичная занятость"
 
 msgctxt "#Pavilion"
 msgid "Pavilion"
 msgstr "Сцена"
 
-#, fuzzy
 msgctxt "#Pavilion_DanceShow"
 msgid "Dance shows run for another {0} days."
-msgstr "Танцовщицы будут выступать еще {0} д."
+msgstr "Танцовщицы будут выступать ещё {0} дней."
 
-#, fuzzy
 msgctxt "#Pavilion_J_M_D"
 msgid ""
 "This square is in constant motion with dancing, music and juggling greatly "
 "delighting the local community."
 msgstr ""
-"Здесь кипит культурная жизнь: танцовщицы, музыканты и жонглеры дают "
-"представления на радость местным жителям."
+"На этой площади проходит нескончаемая череда выступлений танцовщиц, "
+"музыкантов и жонглёров на радость местным жителям."
 
-#, fuzzy
 msgctxt "#Pavilion_J_M_NoD"
 msgid ""
 "This square has musicians and jugglers, but the music cries out for dancers "
 "to complete the show."
-msgstr "Здесь есть жонглеры и музыканты, но не хватает танцовщиц."
+msgstr ""
+"На этой площади есть жонглёры и музыканты, но для красочного представления "
+"не хватает танцовщиц."
 
-#, fuzzy
 msgctxt "#Pavilion_J_NoM_D"
 msgid ""
 "This square has dancers and jugglers. It needs musicians to provide complete "
 "entertainment."
 msgstr ""
-"Здесь выступают танцовщицы и жонглеры, однако без музыкантов программа "
-"остается неполной."
+"На этой площади выступают танцовщицы и жонглёры, однако без музыкантов "
+"программа остаётся неполной."
 
-#, fuzzy
 msgctxt "#Pavilion_J_NoM_NoD"
 msgid ""
 "This square has juggling performances, but it needs musicians and dancers to "
 "fill the otherwise empty stages."
 msgstr ""
-"Здесь выступают жонглеры, но пустуют площадки для музыкантов и танцовщиц."
+"На этой площади выступают жонглёры, но пустуют площадки для музыкантов и "
+"танцовщиц."
 
-#, fuzzy
 msgctxt "#Pavilion_JugglingShow"
 msgid "Juggling will continue for another {0} days."
-msgstr "Жонглеры будут выступать еще {0} д."
+msgstr "Жонглёры будут выступать ещё {0} дней."
 
-#, fuzzy
 msgctxt "#Pavilion_MusicalShow"
 msgid "Musical shows run for another {0} days."
-msgstr "Музыканты будут выступать еще {0} д."
+msgstr "Музыканты будут выступать ещё {0} дней."
 
-#, fuzzy
 msgctxt "#Pavilion_NoDanceShow"
 msgid "No current dancing"
 msgstr "Танцовщицы не выступают"
 
-#, fuzzy
 msgctxt "#Pavilion_NoJ_M_D"
 msgid ""
 "This square has dancers and musicians for the locals, but some jugglers "
 "would be most welcome."
 msgstr ""
-"Здесь выступают танцовщицы и музыканты, но жители не откажутся посмотреть на "
-"жонглеров."
+"На этой площади выступают танцовщицы и музыканты, но жители не откажутся "
+"посмотреть на жонглёров."
 
-#, fuzzy
 msgctxt "#Pavilion_NoJ_M_NoD"
 msgid "This square has musicians, but no jugglers or dancers."
-msgstr "Здесь есть музыканты, но нет жонглеров и танцовщиц."
+msgstr "На этой площади есть музыканты, но нет жонглёров и танцовщиц."
 
-#, fuzzy
 msgctxt "#Pavilion_NoJ_NoM_D"
 msgid ""
 "This square has dancers, who would greatly welcome some music. Juggling "
 "would be nice, too."
 msgstr ""
-"Здесь есть танцовщицы, но им тяжело выступать без музыки. Жонглеры тоже не "
-"помешают."
+"На этой площади есть танцовщицы, но им тяжело выступать без музыки. Жонглёры "
+"тоже не помешают."
 
-#, fuzzy
 msgctxt "#Pavilion_NoJ_NoM_NoD"
 msgid ""
 "This square has no shows. It needs dancers, musicians and jugglers to draw "
 "crowds."
 msgstr ""
-"Здесь никто не выступает. Публику привлекут танцовщицы, музыканты и жонглеры."
+"На этой площади никто не выступает. Публику привлекут танцовщицы, музыканты "
+"и жонглёры."
 
-#, fuzzy
 msgctxt "#Pavilion_NoJugglingShow"
 msgid "No current juggling shows"
-msgstr "Жонглеры не выступают"
+msgstr "Жонглёры не выступают"
 
-#, fuzzy
 msgctxt "#Pavilion_NoMusicalShow"
 msgid "No current musicals"
-msgstr "Музыканты не выступают."
+msgstr "Музыканты не выступают"
 
-#, fuzzy
 msgctxt "#Pavilion_flavor"
 msgid "Dancing, music and juggling...what more could a citizen desire?"
-msgstr "Танцы, музыка, жонглеры... Чего еще желать?"
+msgstr "Танцы, музыка и трюки... чего ещё можно желать?"
 
-#, fuzzy
 msgctxt "#Pavilion_tooltip"
 msgid ""
 "Generates jugglers, musicians and dancers if serviced by the appropriate "
 "schools. Must be built on a crossroad"
 msgstr ""
-"Здесь выступают жонглеры, музыканты и танцовщицы из соответствующих школ. "
-"Размещается на перекрестке."
+"Здесь проводятся выступления жонглёров, музыкантов и танцовщиц при наличии "
+"соответствующих школ. Необходимо размещать на перекрёстке."
 
-#, fuzzy
 msgctxt "#Pavilion_workers_0"
 msgid ""
 "This square is closed. With no employees to run it, it is useless as a "
 "leisure amenity."
-msgstr "Здесь пусто. Пока артистов нет, смотреть не на что."
+msgstr "Эта площадь закрыта. Пока артистов нет, смотреть не на что."
 
-#, fuzzy
 msgctxt "#PerformanceVenues"
 msgid "Performances Venues"
 msgstr "Места выступлений"
@@ -3994,45 +3738,40 @@ msgctxt "#PersonalMansion"
 msgid "Personal Mansion"
 msgstr "Личный особняк"
 
-#, fuzzy
 msgctxt "#PersonalMansion_tooltip"
 msgid ""
 "Your own home! Allows you to draw a salary. Must be built on a grassy area"
 msgstr ""
-"Ваше собственное жилище! Позволяет получать жалование. Размещается на "
-"покрытой травой земле."
+"Ваше собственное жилище! Даёт вам право назначать себе жалование. "
+"Размещается на покрытой травой земле."
 
 msgctxt "#Physician"
 msgid "Physician"
 msgstr "Лекарь"
 
-#, fuzzy
 msgctxt "#Physician_flavor"
 msgid ""
 "A pomegranate a day keeps the doctor away, or so the saying goes. Physicians "
 "improve health as they make their rounds."
 msgstr ""
-"Как говорится, кушайте гранат на ужин — лекарь будет вам не нужен. Лекари "
-"улучшают здоровье жителей во время обхода."
+"Как говорится, ешь большой гранат на ужин — лекарь будет вам не нужен. "
+"Лекари улучшают здоровье жителей во время обхода."
 
-#, fuzzy
 msgctxt "#Physician_tooltip"
 msgid "Protects citizens from diseases and increases health in the city"
 msgstr "Защищает жителей от болезней и повышает уровень здоровья в городе."
 
-#, fuzzy
 msgctxt "#Physician_workers_0"
 msgid ""
 "This Physician's office is not operational, and does nothing for community "
 "health."
-msgstr "Лекарь не работает, и некому позаботиться о здоровье местных жителей."
+msgstr "Лекарь не работает, некому позаботиться о здоровье местных жителей."
 
-#, fuzzy
 msgctxt "#Physician_workers_1"
 msgid ""
 "This Physician's office is operational, and the local community is healthy "
 "and fit."
-msgstr "Лекарь работает, поэтому местные жители ни на что не жалуются."
+msgstr "Лекарь работает, и местные жители здоровы и полны сил."
 
 msgctxt "#PlainStoneQuarry"
 msgid "Plain Stone Quarry"
@@ -4042,32 +3781,28 @@ msgctxt "#PlainStoneQuarry_disabled"
 msgid "The Overseer of Commerce commanded a halt to quarrying."
 msgstr "Торговый советник приказал прекратить добычу камня."
 
-#, fuzzy
 msgctxt "#PlainStoneQuarry_flavor"
 msgid ""
 "Cut plain stone from the earth here. With monuments rising all across Egypt, "
 "you can usually find a buyer for good building stone, even if you have no "
 "use for it yourself. "
 msgstr ""
-"Здесь добывается камень. Из этого материала возводят величественные "
-"сооружения по всему Египту. Если вам камень не нужен, покупатель на него "
-"всегда найдется."
+"Здесь добывается камень. По всему Египту возводятся величественные "
+"монументы, так что покупателя строительного камня вы всегда найдёте, даже "
+"если вам он не нужен."
 
-#, fuzzy
 msgctxt "#PlainStoneQuarry_tooltip"
 msgid ""
 "Needs to be placed near rocks. Produces plain stone <sprite "
 "name=\"Plainstone\">"
 msgstr ""
-"Здесь добывается камень <sprite name=\"Plainstone\">. Размещается рядом со "
-"скалами."
+"Должен размещаться рядом со скалами. Производит камень <sprite "
+"name=\"Plainstone\">."
 
-#, fuzzy
 msgctxt "#PlainStoneQuarry_workers_0"
 msgid "This quarry has no workers to cut rock from the earth."
-msgstr "В карьере нет рабочих. Некому добывать камень."
+msgstr "В этом карьере нет рабочих, некому добывать камень."
 
-#, fuzzy
 msgctxt "#PlainStoneQuarry_workers_1"
 msgid ""
 "With hardly any workers at this quarry, production is at a virtual "
@@ -4076,29 +3811,25 @@ msgstr ""
 "В карьере почти нет рабочих, и производство практически прекратилось. В этом "
 "году добыча будет невелика."
 
-#, fuzzy
 msgctxt "#PlainStoneQuarry_workers_100"
 msgid ""
 "This quarry has all the workers it needs, and produces many tons of plain "
 "stone."
-msgstr "В карьере достаточно рабочих, и здесь добывается много камня."
+msgstr ""
+"В этом карьере достаточно рабочих, камень добывается в большом количестве."
 
-#, fuzzy
 msgctxt "#PlainStoneQuarry_workers_25"
 msgid ""
 "There are very few people working at this quarry. Production is very slow as "
 "a result."
-msgstr "В карьере слишком мало рабочих, поэтому камень добывается медленно."
+msgstr "В карьере слишком мало рабочих. Камень добывается очень медленно."
 
-#, fuzzy
 msgctxt "#PlainStoneQuarry_workers_50"
 msgid ""
 "This quarry is understaffed, and takes longer to produce stone blocks than "
 "it should."
-msgstr ""
-"В карьере не хватает рабочих. Добыча камня занимает гораздо больше времени."
+msgstr "В карьере не хватает рабочих. Добыча камня занимает больше времени."
 
-#, fuzzy
 msgctxt "#PlainStoneQuarry_workers_75"
 msgid ""
 "This quarry is working below maximum capacity due to a small shortage of "
@@ -4131,83 +3862,72 @@ msgstr ""
 "Городская стража отправляет стражников в город для поддержания закона. "
 "Гражданский порядок обеспечивается  регулярным патрулированием города."
 
-#, fuzzy
 msgctxt "#PoliceStation_goldstolen"
 msgid "{0} gold stolen this year."
-msgstr "Золота украдено в этом году: {0}."
+msgstr "Украдено золота в этом году: {0}."
 
-#, fuzzy
 msgctxt "#PoliceStation_thefts"
 msgid "{0} thefts this year."
 msgstr "Краж в этом году: {0}."
 
-#, fuzzy
 msgctxt "#PoliceStation_tooltip"
 msgid ""
 "Curbs crime in the neighborhood. The constable can fight thieves and tomb "
 "robbers"
 msgstr ""
-"Предотвращает преступления в окрестностях. Стражники борются с ворами и "
-"расхитителями гробниц."
+"Предотвращает преступления в окрестностях. Стражники могут обезвреживать "
+"воров и расхитителей гробниц."
 
-#, fuzzy
 msgctxt "#PoliceStation_walker_in"
 msgid "Our constable is preparing for duty."
-msgstr "Стражник готовится к службе."
+msgstr "Наш стражник готовится к обходу."
 
-#, fuzzy
 msgctxt "#PoliceStation_walker_out"
 msgid "Our constable is out on patrol."
-msgstr "Стражник патрулирует улицы."
+msgstr "Наш стражник патрулирует улицы."
 
-#, fuzzy
 msgctxt "#PoliceStation_workers_0"
 msgid "With no staff, this station is little more than a target for vandals."
-msgstr "Стражи нет, и этот участок — просто мишень для вандалов."
+msgstr "Без работников даже этот участок подвержен вандализму."
 
-#, fuzzy
 msgctxt "#PoliceStation_workers_1"
 msgid ""
 "We are operating with desk staff only. We frequently go a full month without "
 "sending a constable out on the streets."
 msgstr ""
-"В страже работают единицы. Зачастую между патрулями проходит целый месяц."
+"Здесь работают только служащие. Часто стражников на улицах нет целый месяц."
 
-#, fuzzy
 msgctxt "#PoliceStation_workers_100"
 msgid ""
 "Currently our duty roster is full. Our constables are always alert to signs "
 "of crime."
 msgstr ""
-"Недостатка в стражниках нет. Они неусыпно следят за любыми нарушениями "
-"порядка."
+"Расписание дежурств полностью заполнено. Наши стражники бдительно выискивают "
+"малейшие проявления преступности."
 
-#, fuzzy
 msgctxt "#PoliceStation_workers_25"
 msgid ""
 "We have far too few men. Criminals could operate unchecked for up to two "
 "weeks at a time."
 msgstr ""
-"Стражников сильно не хватает! Преступники могут безнаказанно заниматься "
-"темными делами две недели кряду."
+"У нас слишком мало людей. Часто мы пропускаем преступления в течение двух "
+"недель."
 
-#, fuzzy
 msgctxt "#PoliceStation_workers_50"
 msgid ""
 "We are understaffed. Criminals are encouraged by gaps of up to a week in our "
 "duty roster."
 msgstr ""
-"Стражников не хватает. Иной раз город не патрулируется целую неделю, и "
-"злоумышленники этим пользуются."
+"Стражников не хватает. Иной раз улицы не патрулируется целую неделю, и "
+"преступники этим пользуются."
 
-#, fuzzy
 msgctxt "#PoliceStation_workers_75"
 msgid ""
 "We are a little short of constables. We have gaps of perhaps a day or two in "
 "our coverage."
 msgstr ""
-"Стражников немного не хватает. В некоторые дни районы города не "
-"патрулируются."
+"Стражников немного не хватает. Районы города патрулируются с перерывом в "
+"день или два."
 
 msgctxt "#PomegranateFarm"
 msgid "Pomegranate Farm"
@@ -4217,16 +3937,15 @@ msgctxt "#PomegranateFarm_disabled"
 msgid "Pomegranate farming has ceased, by order of the Overseer of Commerce."
 msgstr "Выращивание гранатов остановлено по приказу торгового советника."
 
-#, fuzzy
 msgctxt "#PomegranateFarm_flavor"
 msgid ""
 "Pomegranates enhance the balanced diet people need for health and happiness. "
 "Granaries store pomegranates for local consumption, and Storage Yards can "
 "export surpluses."
 msgstr ""
-"Гранаты помогают разнообразить рацион ваших жителей, что повышает их уровень "
-"счастья и здоровья. Гранаты для горожан нужно хранить в амбарах, а те, что "
-"пойдут на продажу, — на складах."
+"Гранаты разнообразит рацион ваших жителей, благотворно влияя на здоровье и "
+"счастье. Гранаты для местного потребления должны храниться в амбарах, а на "
+"продажу — на складах."
 
 msgctxt "#PomegranateFarm_harvest"
 msgid "The next pomegranate harvest is in {[Month]}."
@@ -4240,46 +3959,43 @@ msgstr ""
 "Производит гранаты <sprite name=\"Pomegranate\">. Урожай в июне и ноябре, "
 "если разместить на лугу."
 
-#, fuzzy
 msgctxt "#PomegranateFarm_workers_0"
 msgid "This orchard has no workers, and the trees are fruitless and gnarled."
-msgstr "В саду нет рабочих. Деревья заболели и не плодоносят."
+msgstr "На ферме нет рабочих, деревья больны и не плодоносят."
 
-#, fuzzy
 msgctxt "#PomegranateFarm_workers_1"
 msgid ""
 "With hardly any workers at this orchard, the pomegranate crop will be quite "
 "disappointing."
-msgstr "В саду почти нет рабочих, поэтому урожай гранатов будет очень скудным."
+msgstr "На ферме почти нет рабочих, урожай гранатов будет разочаровывающим."
 
-#, fuzzy
 msgctxt "#PomegranateFarm_workers_100"
 msgid ""
 "This orchard has all the workers it needs. The trees bear as much fruit as "
 "the land's fertility allows."
 msgstr ""
-"В саду достаточно рабочих. Деревья приносят столько плодов, сколько может "
-"обеспечить почва."
+"На ферме достаточно рабочих. Деревья приносят столько плодов, сколько "
+"позволяет земля."
 
-#, fuzzy
 msgctxt "#PomegranateFarm_workers_25"
 msgid ""
 "Very few people work at this orchard. The pomegranate harvest will be small."
-msgstr "В саду слишком мало рабочих, поэтому урожай гранатов будет невелик."
+msgstr "На ферме слишком мало рабочих. Урожай гранатов будет небольшим."
 
-#, fuzzy
 msgctxt "#PomegranateFarm_workers_50"
 msgid ""
 "This orchard is understaffed. It produces fewer pomegranates than it could."
-msgstr "Рабочих в саду не хватает. Урожай гранатов сильно снижен."
+msgstr ""
+"На ферме не хватает рабочих. Урожай гранатов не такой большой, какой мог "
+"быть."
 
-#, fuzzy
 msgctxt "#PomegranateFarm_workers_75"
 msgid ""
 "This orchard is working below maximum capacity, so the crop this year is a "
 "bit lighter than it should be."
 msgstr ""
-"Сад работает не в полную силу, поэтому урожай в этом году будет меньше."
+"Ферма работает не в полную силу, поэтому урожай в этом году будет чуть "
+"меньше."
 
 msgctxt "#Potter"
 msgid "Potter"
@@ -4289,25 +4005,23 @@ msgctxt "#Potter_disabled"
 msgid "Pottery production has ceased, by order of the Overseer of Commerce."
 msgstr "Производство керамики прекращено по приказу торгового советника."
 
-#, fuzzy
 msgctxt "#Potter_flavor"
 msgid ""
 "Here, potters mould clay into pots that citizens use for storing "
 "commodities. Trade pottery, or let your Bazaars distribute it so that people "
 "can build better housing."
 msgstr ""
-"Здесь гончары создают из глины горшки, в которых жители могут хранить "
-"припасы. Торгуйте керамикой или поставляйте ее на базары, чтобы жители "
-"улучшали свои жилища."
+"Здесь гончары лепят из глины и обжигают горшки, в которых жители могут "
+"хранить припасы. Торгуйте керамикой или поставляйте её на базары, чтобы "
+"жители могли улучшить своё благосостояние."
 
-#, fuzzy
 msgctxt "#Potter_stock_0"
 msgid ""
 "This workshop needs clay delivered to it, from a Storage Yard or a Clay Pit, "
 "to produce pottery."
 msgstr ""
-"Для производства керамики нужно доставить глину со склада или из глиняного "
-"карьера."
+"Для производства керамики этой мастерской необходима глина со склада или из "
+"глиняного карьера."
 
 msgctxt "#Potter_storage"
 msgid "Stored clay<sprite name=\"Clay\">: {0} units."
@@ -4320,48 +4034,44 @@ msgstr ""
 "Производит керамику <sprite name=\"Pottery\"> из глины <sprite "
 "name=\"Clay\">."
 
-#, fuzzy
 msgctxt "#Potter_workers_0"
 msgid "This Potter has no employees. It will not turn out a single pot."
-msgstr "Гончаров нет. Здесь некому лепить горшки."
+msgstr "В этой мастерской нет мастеров. Некому обжигать горшки."
 
-#, fuzzy
 msgctxt "#Potter_workers_1"
 msgid ""
 "With hardly any employees, this Potter will produce almost no pottery over "
 "the coming year."
 msgstr ""
-"В мастерской почти нет рабочих. В этом году производство керамики сильно "
-"сократится."
+"Здесь почти нет рабочих, в этом году мастерская произведёт очень мало "
+"керамики."
 
-#, fuzzy
 msgctxt "#Potter_workers_100"
 msgid ""
 "This Potter has all the employees it needs, and produces as much pottery as "
 "possible."
 msgstr ""
-"В мастерской достаточно рабочих. Они производят керамику не покладая рук."
+"В этой мастерской достаточно рабочих, производство керамики идёт полным "
+"ходом."
 
-#, fuzzy
 msgctxt "#Potter_workers_25"
 msgid "Very few people work here, so pottery production is very slow."
 msgstr ""
-"В мастерской слишком мало рабочих. Производство керамики идет очень медленно."
+"В мастерской слишком мало рабочих. Производство керамики идёт очень медленно."
 
-#, fuzzy
 msgctxt "#Potter_workers_50"
 msgid ""
 "This workshop is understaffed, and it takes longer to produce pottery than "
 "it should."
-msgstr "Гончаров не хватает. Создание керамики занимает больше времени."
+msgstr ""
+"Здесь не хватает рабочих. Производство керамики занимает больше времени."
 
-#, fuzzy
 msgctxt "#Potter_workers_75"
 msgid ""
 "This Potter has some job openings. Pottery production will suffer slightly "
 "as a result."
 msgstr ""
-"В мастерской заняты не все рабочие места. Из-за этого производство немного "
+"В мастерской заняты не все рабочие места. Производство керамики немного "
 "снижено."
 
 msgctxt "#Production"
@@ -4487,7 +4197,6 @@ msgctxt "#RaTempleComplex"
 msgid "Temple Complex to Ra"
 msgstr "Храмовый комплекс Ра"
 
-#, fuzzy
 msgctxt "#RaTempleComplex_flavor"
 msgid ""
 "As god of the Kingdom, Ra facilitates trade and travel throughout the known "
@@ -4497,11 +4206,11 @@ msgid ""
 "willing to attend to their daily labors. In the name of Pharaoh, they'll be "
 "inspired to work for the greater good of Egypt."
 msgstr ""
-"Ра, главное божество государства, защищает торговцев и путешественников по "
-"всему миру. Алтарь Маат, богини правосудия, поможет уберечь город от "
-"преступности. А если в храме есть оракул Гора, защитника царей, ваши жители "
-"с большим рвением будут отправляться на работу. Во имя фараона они будут "
-"трудиться на благо всего Египта."
+"Как бог Царства, Ра способствует торговцам и путешественникам по всему миру. "
+"Алтарь Маат, богини справедливости, поможет уберечь город от преступности, а "
+"благодаря оракулу Гора, бога фараонов, жители с большим рвением будут "
+"исполнять свою работу. Во имя фараона они будут трудиться на благо всего "
+"Египта."
 
 msgctxt "#RaTempleComplex_tooltip"
 msgid ""
@@ -4537,57 +4246,54 @@ msgstr "Вербовщик"
 
 msgctxt "#Recruiter_ChariotsStored"
 msgid "Chariots<sprite name=\"Chariots\"> Stored: {0} units."
-msgstr "Запасы колесниц <sprite name=\"Chariots\">: {0} шт."
+msgstr "Запасы колесниц<sprite name=\"Chariots\">: {0} шт."
 
 msgctxt "#Recruiter_ChariotsStored_None"
 msgid "No Chariots<sprite name=\"Chariots\"> in stock."
-msgstr ""
+msgstr "В запасах нет колесниц<sprite name=\"Chariots\">."
 
 msgctxt "#Recruiter_ChariotsStored_One"
 msgid "Chariot<sprite name=\"Chariots\"> Stored: {0} unit."
 msgstr "Запасы колесниц<sprite name=\"Chariots\">: {0} шт."
 
-#, fuzzy
 msgctxt "#Recruiter_CompositeBowsStored"
 msgid ""
 "Composite Bows<sprite name=\"CompositeBows\"> Stored: {0} units."
 "[i2p_One]Composite Bow<sprite name=\"CompositeBows\"> Stored: {0} unit."
 msgstr ""
-"Запасы композитных луков <sprite name=\"CompositeBows\">: {0} ед."
-"[i2p_One]Запасы композитных луков <sprite name=\"CompositeBows\">: {0} ед."
+"Запасы композитных луков<sprite name=\"CompositeBows\">: {0} штук."
+"[i2p_One]Запасы композитных луков<sprite name=\"CompositeBows\">: {0} штука."
+"[i2p_Few]Запасы композитных луков<sprite name=\"CompositeBows\">: {0} штуки."
 
-#, fuzzy
 msgctxt "#Recruiter_ShieldsStored"
 msgid ""
 "Shields<sprite name=\"Shields\"> Stored: {0} units.[i2p_One]Shield<sprite "
 "name=\"Shields\"> Stored: {0} unit."
 msgstr ""
-"Запасы щитов <sprite name=\"Shields\">: {0} ед.[i2p_One]Запасы щитов <sprite "
-"name=\"Shields\">: {0} ед."
+"Запасы щитов<sprite name=\"Shields\">: {0} штук.[i2p_One]Запасы щитов<sprite "
+"name=\"Shields\">: {0} штука.[i2p_Few]Запасы щитов<sprite name=\"Shields\">: "
+"{0} штуки."
 
-#, fuzzy
 msgctxt "#Recruiter_WeaponsStored"
 msgid "Weapons<sprite name=\"Weapons\"> Stored: {0} units."
-msgstr "Запасы оружия <sprite name=\"Weapons\">: {0} ед."
+msgstr "Запасы оружия<sprite name=\"Weapons\">: {0} шт."
 
 msgctxt "#Recruiter_WeaponsStored_None"
 msgid "No Weapons<sprite name=\"Weapons\"> in stock."
-msgstr ""
+msgstr "В запасах нет оружия<sprite name=\"Weapons\">."
 
 msgctxt "#Recruiter_WeaponsStored_One"
 msgid "Weapon<sprite name=\"Weapon\"> Stored: {0} unit."
 msgstr "Запасы оружия<sprite name=\"Weapons\">: {0} шт."
 
-#, fuzzy
 msgctxt "#Recruiter_flavor"
 msgid ""
 "No one can join the Egyptian army without first passing through here; it's "
 "the city's training school for new recruits."
 msgstr ""
-"Невозможно пополнить ряды египетской армии, минуя вербовщика. Здесь "
-"новобранцы получают начальное обучение."
+"Нельзя вступить в ряды египетской армии, минуя это место. Здесь новобранцы "
+"обучаются основам боевой подготовки."
 
-#, fuzzy
 msgctxt "#Recruiter_nostock_workers_1"
 msgid ""
 "With a skeleton staff and no supply of weapons, we can just barely train the "
@@ -4596,94 +4302,85 @@ msgstr ""
 "Работают единицы, и оружия нет. Нам едва хватает сил на обучение одного "
 "лучника."
 
-#, fuzzy
 msgctxt "#Recruiter_nostock_workers_100"
 msgid ""
 "We can train new archers quickly enough, but we need weapons to add any "
 "infantry or chariots to the city's battalion."
 msgstr ""
-"Мы можем быстро обучать лучников, однако, чтобы пополнить вооруженные силы "
-"пехотой и колесницами, нам нужно оружие."
+"Мы можем быстро обучать новых лучников, но для обучения пехотинцев и "
+"колесничих нам нужны поставки оружия."
 
-#, fuzzy
 msgctxt "#Recruiter_nostock_workers_33"
 msgid ""
 "We are understaffed and out of weapons! We can train archers, but only "
 "slowly."
 msgstr ""
-"Не хватает наставников и оружия! Мы можем обучать лучников, но быстрых "
-"результатов не ждите."
+"Не хватает вербовщиков и оружия! Мы можем обучать только лучников, но очень "
+"медленно."
 
-#, fuzzy
 msgctxt "#Recruiter_nostock_workers_66"
 msgid ""
 "We are missing employees, so we can train soldiers at a reduced rate. "
 "Without stored weapons, we can train neither infantry nor charioteers."
 msgstr ""
-"Наставников не хватает, поэтому обучение ведется медленнее. Также нет оружия "
-"для обучения пехоты и колесничих."
+"Нам не хватает вербовщиков, поэтому обучение идёт медленно. А без оружия мы "
+"не можем обучать пехотинцев и колесничих."
 
-#, fuzzy
 msgctxt "#Recruiter_notneeded"
 msgid ""
 "We are not currently training any recruits, as we have no requests from city "
 "Forts or Towers for any new men."
 msgstr ""
-"Обучение не ведется, так как в крепостях и башнях не требуется пополнение."
+"На данный момент мы не ведём обучение новобранцев, так как для фортов и "
+"башен пополнение не требуется."
 
-#, fuzzy
 msgctxt "#Recruiter_tooltip"
 msgid ""
 "Recruits soldiers among your citizens. Needs weapons <sprite "
 "name=\"Weapons\"> for infantry and chariots <sprite name=\"Chariots\"> for "
 "charioteers"
 msgstr ""
-"Набирает солдат среди жителей. Для пехоты требуется оружие <sprite "
-"name=\"Weapons\">, для колесничих — колесницы <sprite name=\"Chariots\">."
+"Набирает воинов среди жителей. Требуется оружие <sprite name=\"Weapons\"> "
+"для пехотинцев и колесничих, колесницы <sprite name=\"Chariots\"> — для "
+"колесничих."
 
-#, fuzzy
 msgctxt "#Recruiter_workers_0"
 msgid ""
 "With no staff, we cannot train a single new recruit. Seth help us in times "
 "of war!"
-msgstr ""
-"Обучать новобранцев некому. Если на нас нападут, останется уповать на "
-"милость Сета!"
+msgstr "Некому обучать новобранцев. Да поможет нам Сет в час войны!"
 
-#, fuzzy
 msgctxt "#Recruiter_workers_1"
 msgid ""
 "With a skeleton staff, we are training new soldiers extremely slowly, even "
 "though we have the weapons to train any type of soldier."
 msgstr ""
-"Работают единицы, поэтому обучение солдат ведется крайне медленно, хотя у "
+"Работают единицы, поэтому обучение воинов ведётся крайне медленно, хотя у "
 "нас есть оружие для всех видов войск."
 
-#, fuzzy
 msgctxt "#Recruiter_workers_100"
 msgid ""
 "We train new soldiers at maximum efficiency, and we have the weapons to "
 "train any type of soldier."
 msgstr ""
-"Обучение ведется полным ходом. Кроме того, есть оружие для всех видов войск."
+"Тренировка новых воинов идёт полным ходом, и у нас есть оружие для всех "
+"видов войск."
 
-#, fuzzy
 msgctxt "#Recruiter_workers_33"
 msgid ""
 "We are understaffed and training new soldiers slowly, but we have the "
 "weapons to train any type of soldier."
 msgstr ""
-"У нас не хватает рабочих, поэтому обучение ведется медленно. Однако оружие "
-"есть для всех видов войск."
+"У нас не хватает вербовщиков, поэтому обучение ведётся медленно. Однако "
+"оружие есть для всех видов войск."
 
-#, fuzzy
 msgctxt "#Recruiter_workers_66"
 msgid ""
 "We train new soldiers at reduced speed due to lack of staff, although we do "
 "have the weapons to train any type of soldier."
 msgstr ""
-"Наставников немного не хватает, поэтому обучение ведется медленнее. Однако "
-"есть оружие для всех видов войск."
+"Не хватает нескольких вербовщиков, поэтому обучение ведётся не так быстро. "
+"Однако есть оружие для всех видов войск."
 
 msgctxt "#ReedGatherer"
 msgid "Reed Gatherer"
@@ -4693,54 +4390,46 @@ msgctxt "#ReedGatherer_disabled"
 msgid "Reed harvesting has ceased, by command of the Overseer of Commerce."
 msgstr "Сбор тростника прекращён по приказу торгового советника."
 
-#, fuzzy
 msgctxt "#ReedGatherer_flavor"
 msgid ""
 "Reed gatherers venture from here into the marshes to collect reeds for "
 "papyrus, without which education would be impossible."
 msgstr ""
-"Местные работники срезают на болотах тростник для производства папируса, без "
-"которого невозможно развивать образование."
+"Отсюда сборщики отправляются к болотам собирать тростник для изготовления "
+"папируса, без которого образование невозможно."
 
 msgctxt "#ReedGatherer_storage"
 msgid "Stored reeds<sprite name=\"Reeds\">: {0} units."
 msgstr "Запасы тростника<sprite name=\"Reeds\">: {0} мер."
 
-#, fuzzy
 msgctxt "#ReedGatherer_tooltip"
 msgid ""
 "Dispatches 5 gatherers looking for reeds <sprite name=\"Reeds\"> in the "
 "marshes"
 msgstr ""
-"Пять рабочих отправляются собирать тростник <sprite name=\"Reeds\"> на "
+"Отправляет пятерых сборщиков собирать тростник <sprite name=\"Reeds\"> на "
 "болотах."
 
-#, fuzzy
 msgctxt "#ReedGatherer_workers_0"
 msgid "This place has no workers to gather reeds. "
-msgstr "Здесь нет рабочих, так что некому собирать тростник."
+msgstr "Здесь нет рабочих, некому собирать тростник."
 
-#, fuzzy
 msgctxt "#ReedGatherer_workers_1"
 msgid "With so few gatherers employed here, almost no reeds are harvested."
-msgstr "Здесь работают единицы, поэтому они почти не собирают тростник."
+msgstr "Здесь так мало сборщиков, что они собирают крайне мало тростника."
 
-#, fuzzy
 msgctxt "#ReedGatherer_workers_100"
 msgid "This place has all the workers it needs. No reed is safe. "
-msgstr "Сборщиков достаточно. Не уцелеет ни одна тростинка."
+msgstr "Здесь достаточно рабочих. Ни одна тростинка от нас не ускользнёт."
 
-#, fuzzy
 msgctxt "#ReedGatherer_workers_25"
 msgid "Very few people work here, and few reeds are being cut."
-msgstr "Слишком мало рабочих. Они едва успевают собирать тростник."
+msgstr "Здесь работает слишком мало людей, добывается очень мало тростника."
 
-#, fuzzy
 msgctxt "#ReedGatherer_workers_50"
 msgid "This place is understaffed, so reed cutting is slow going. "
-msgstr "Рабочих не хватает, поэтому добыча тростника идет медленно."
+msgstr "Рабочих не хватает, поэтому добыча тростника идёт медленно."
 
-#, fuzzy
 msgctxt "#ReedGatherer_workers_75"
 msgid ""
 "This place is below its labor potential, so reed gathering is slowed "
@@ -4773,15 +4462,14 @@ msgctxt "#Roadblock"
 msgid "Roadblock"
 msgstr "Заграждение"
 
-#, fuzzy
 msgctxt "#Roadblock_flavor"
 msgid ""
 "Place roadblocks to restrict walkers' patrol routes. People with specific "
 "destinations (like delivery men or Bazaar buyers) can pass freely."
 msgstr ""
-"Расставляйте заграждения, чтобы ограничить движение обходчиков. Жители, "
-"следующие к определенной цели (например, доставщики и базарные торговцы), "
-"могут сквозь них проходить."
+"Разместите заграждения, чтобы ограничить движение ходоков. Жители, идущие к "
+"определённой цели (например, разносчики или базарные торговки), могут "
+"проходить через них свободно."
 
 msgctxt "#Roadblock_tooltip"
 msgid "Restricts walkers' patrol routes. Must be built on a road"
@@ -4811,66 +4499,60 @@ msgctxt "#SandstoneQuarry_disabled"
 msgid "Your Overseer of Commerce ordered that no more sandstone be quarried."
 msgstr "Торговый советник приказал остановить добычу песчаника."
 
-#, fuzzy
 msgctxt "#SandstoneQuarry_flavor"
 msgid "Only sandstone has the right properties for mausoleums and sun temples."
 msgstr ""
-"Песчаник обладает идеальными свойствами для строительства гробниц и храмов "
-"Солнца."
+"Только песчаник обладает нужными свойствами для строительства мавзолеев и "
+"храмов Солнца."
 
-#, fuzzy
 msgctxt "#SandstoneQuarry_tooltip"
 msgid ""
 "Needs to be placed near rocks. Produces sandstone <sprite name=\"Sandstone\">"
 msgstr ""
-"Здесь добывается песчаник <sprite name=\"Sandstone\">. Размещается рядом со "
-"скалами."
+"Должен размещаться рядом со скалами. Производит песчаник <sprite "
+"name=\"Sandstone\">."
 
-#, fuzzy
 msgctxt "#SandstoneQuarry_workers_0"
 msgid "This quarry has no workers. Production has ceased."
-msgstr "В карьере нет рабочих. Добыча остановилась."
+msgstr "В этом карьере нет рабочих. Добыча остановлена."
 
-#, fuzzy
 msgctxt "#SandstoneQuarry_workers_1"
 msgid ""
 "With hardly any workers here, output has nearly stopped. It will produce "
 "little over the coming year."
 msgstr ""
-"Рабочих почти нет, и добыча практически прекратилась. В этом году карьер "
-"принесет мало гранита."
+"Рабочих почти нет, и добыча практически прекратилась. В этом году добыча "
+"песчаника будет ничтожной."
 
-#, fuzzy
 msgctxt "#SandstoneQuarry_workers_100"
 msgid ""
 "This quarry has all the workers it needs, and is working flat out to produce "
 "sandstone."
 msgstr ""
-"В карьере достаточно рабочих. Они работают изо всех сил, чтобы добыть как "
-"можно больше песчаника."
+"На этом руднике достаточно рабочих, вкалывающих на полную силу для добычи "
+"песчаника."
 
-#, fuzzy
 msgctxt "#SandstoneQuarry_workers_25"
 msgid ""
 "Very few people work in this building. Production is extremely slow as a "
 "result."
-msgstr "Здесь слишком мало рабочих, поэтому добыча идет очень медленно."
+msgstr ""
+"В этой постройке слишком мало рабочих. Производство идёт очень медленно."
 
-#, fuzzy
 msgctxt "#SandstoneQuarry_workers_50"
 msgid ""
 "This quarry is understaffed. It takes longer to produce sandstone than it "
 "should."
-msgstr "Рабочих не хватает. Добыча песчаника занимает больше времени."
+msgstr ""
+"В карьере не хватает рабочих. Добыча песчаника занимает больше времени."
 
-#, fuzzy
 msgctxt "#SandstoneQuarry_workers_75"
 msgid ""
 "This quarry is working below maximum capacity. Production could be slightly "
 "more efficient with more workers."
 msgstr ""
-"Карьер работает не в полную силу. Он будет приносить больше гранита, если "
-"нанять новых рабочих."
+"Карьер работает не в полную силу. Он будет работать лучше, если нанять "
+"больше рабочих."
 
 msgctxt "#Schools"
 msgid "Schools"
@@ -4892,25 +4574,21 @@ msgctxt "#ScribalSchool_stock"
 msgid "Stored Papyrus<sprite name=\"Papyrus\">: {0} units."
 msgstr "Запасы папируса <sprite name=\"Papyrus\">: {0} штук."
 
-#, fuzzy
 msgctxt "#ScribalSchool_tooltip"
 msgid ""
 "Upon regular deliveries of papyrus <sprite name=\"Papyrus\">, will improve "
 "education in the city"
 msgstr ""
-"Регулярные поставки папируса <sprite name=\"Papyrus\"> повысят уровень "
+"Регулярные поставки папируса <sprite name=\"Papyrus\"> повышает уровень "
 "образования в городе."
 
-#, fuzzy
 msgctxt "#ScribalSchool_workers_0"
 msgid ""
 "This school cannot educate anyone at present. It lacks employees, papyrus, "
 "or both."
 msgstr ""
-"Сейчас в школе нельзя никого обучить. Нет учителей, папируса или того и "
-"другого."
+"Эта школа не может никого обучать. Нет учителей, папируса или того и другого."
 
-#, fuzzy
 msgctxt "#ScribalSchool_workers_1"
 msgid ""
 "This school enables children to escape a life of physical toil as long as it "
@@ -4931,49 +4609,44 @@ msgctxt "#SenetHouse"
 msgid "Senet House"
 msgstr "Дом сенета"
 
-#, fuzzy
 msgctxt "#SenetHouse_flavor"
 msgid ""
 "Games of skill and chance can make or break the fortunes of the players."
 msgstr ""
-"В сенете все зависит от умений и удачи. Игрок может разбогатеть или остаться "
-"ни с чем."
+"Состязание мастерства и удачи может сделать или богатым, или оставить ни с "
+"чем."
 
-#, fuzzy
 msgctxt "#SenetHouse_stock_0"
 msgid ""
 "This Senet House has players, but a reliable supply of beer would enliven "
 "the games."
-msgstr "В доме сенета хватает гостей, но постоянный приток пива оживит игру."
+msgstr "В доме сенета хватает гостей, но постоянные поставки пива оживят игру."
 
 msgctxt "#SenetHouse_storage"
 msgid "Stored beer <sprite name=\"Beer\">: {0} units"
 msgstr "Запасы пива<sprite name=\"Beer\">: {0} мер."
 
-#, fuzzy
 msgctxt "#SenetHouse_tooltip"
 msgid ""
 "Upon regular deliveries of beer <sprite name=\"Beer\">, will improve "
 "entertainment in the city"
 msgstr ""
-"Регулярные поставки пива <sprite name=\"Beer\"> улучшат охват развлечениями "
+"Регулярные поставки пива <sprite name=\"Beer\"> повышает уровень развлечений "
 "в городе."
 
-#, fuzzy
 msgctxt "#SenetHouse_workers_0"
 msgid ""
 "No one visits this Senet House. Without workers, the local community draws "
 "no entertainment from it."
 msgstr ""
-"В дом сенета никто не заходит. Местные жители не желают проводить здесь "
-"досуг, поскольку их никто не обслужит."
+"Этот дом сенета никто не посещает. Без работников нет никаких развлечений "
+"для людей."
 
-#, fuzzy
 msgctxt "#SenetHouse_workers_1"
 msgid ""
 "This Senet House has constant games, much to the delight of the local "
 "population."
-msgstr "К удовольствию местных жителей, в доме сенета постоянно ведется игра."
+msgstr "К удовольствию местных жителей, в доме сенета постоянно ведётся игра."
 
 msgctxt "#Services"
 msgid "Services"
@@ -5009,7 +4682,6 @@ msgctxt "#SethTempleComplex"
 msgid "Temple Complex to Seth"
 msgstr "Храмовый комплекс Сета"
 
-#, fuzzy
 msgctxt "#SethTempleComplex_flavor"
 msgid ""
 "When Seth is appeased, your enemies are his enemies. He can help your "
@@ -5021,11 +4693,13 @@ msgid ""
 "the risk of crime in the houses that they pass and to apprehend criminals in "
 "the city."
 msgstr ""
-"Заручившись благосклонностью Сета, вы обеспечите себе сильного союзника. "
-"Самых неопытных юнцов он превращает в матерых воинов, а порой своей рукою "
-"сражает ваших неприятелей. Влияние этого грозного бога распространяется даже "
-"на бои, ведущиеся далеко от города. Разумеется, если не умилостивить Сета, "
-"вы на себе почувствуете всю его сокрушительную мощь."
+"Благосклонный к вам Сет станет грозным противником для ваших врагов. Под его "
+"взором даже неопытные воины сражаются словно львы. Сам он может своей дланью "
+"уничтожить неприятелей. Влияние столь грозного бога простирается даже на "
+"отдалённые сражения. Алтарь Анубиса, бога смерти, позволяет моргам "
+"использовать меньше ткани при подготовке тела к вечной жизни, а оракул "
+"Сехмет, богини войны, дарует жрецам Сета силу снизить риск преступности в "
+"домах, мимо которых они проходят, и обезвреживать преступников в городе."
 
 msgctxt "#SethTempleComplex_tooltip"
 msgid ""
@@ -5040,7 +4714,7 @@ msgid ""
 "Seth watches over soldiers and encourages valor in combat. No man dares "
 "fight without the blessing of Seth."
 msgstr ""
-"Сет оберегает солдат и побуждает в них отвагу в бою. Никто не осмелится "
+"Сет оберегает воинов и побуждает в них отвагу в бою. Никто не осмелится "
 "вступить в бой, не получив благословения от Сета."
 
 msgctxt "#SethTemple_title"
@@ -5059,22 +4733,20 @@ msgctxt "#ShieldMaker_disabled"
 msgid "Your Overseer of Commerce decreed that shield production should cease."
 msgstr "Торговый советник приказал прекратить производство щитов."
 
-#, fuzzy
 msgctxt "#ShieldMaker_flavor"
 msgid ""
 "Here are produced the life-saving shields that will protect your infantry "
 "during battle."
 msgstr ""
-"Здесь производят надежные щиты, которые защищают в бою ваших пехотинцев."
+"Здесь производят надёжные щиты, которые защищают в бою ваших пехотинцев."
 
-#, fuzzy
 msgctxt "#ShieldMaker_stock_0"
 msgid ""
 "This workshop will produce no shields without a shipment of hides, whether "
 "from a Storage Yard or a Hunter's Lodge."
 msgstr ""
-"Производство щитов остановилось из-за нехватки шкур. Доставьте их со склада "
-"или из хижины охотника."
+"Эта мастерская не будет производить щиты без поставок шкур со склада или из "
+"хижины охотников."
 
 msgctxt "#ShieldMaker_storage"
 msgid "Stored hides<sprite name=\"Hides\">: {0} units."
@@ -5086,55 +4758,51 @@ msgid ""
 msgstr ""
 "Производит щиты<sprite name=\"Shields\"> из шкур<sprite name=\"Hides\">."
 
-#, fuzzy
 msgctxt "#ShieldMaker_workers_0"
 msgid ""
 "This Shield Maker has no employees, and will produce no protection for your "
 "infantry at all."
-msgstr "Мастеров нет, поэтому никто не производит щиты для вашей пехоты."
+msgstr "В мастерской никого нет, никто не производит щиты для пехотинцев."
 
-#, fuzzy
 msgctxt "#ShieldMaker_workers_1"
 msgid ""
 "With hardly any employees, this Shield Maker will produce very few shields "
 "over the coming year."
 msgstr ""
-"В мастерской почти нет рабочих. В этом году произведут очень мало щитов."
+"Здесь почти нет рабочих, в этом году мастерская произведёт очень мало щитов."
 
-#, fuzzy
 msgctxt "#ShieldMaker_workers_100"
 msgid ""
 "This Shield Maker is fully staffed, and produces many high-quality shields."
 msgstr ""
-"Мастерская работает в полную силу. Щиты производят быстро и качественно."
+"Мастерская работает в полную силу, быстро и качественно производя щиты."
 
-#, fuzzy
 msgctxt "#ShieldMaker_workers_25"
 msgid ""
 "Very few people work at this Shield Maker. Shield production is slow as a "
 "result."
 msgstr ""
-"В мастерской слишком мало рабочих. Производство щитов идет очень медленно."
+"В мастерской слишком мало рабочих. Производство щитов идёт очень медленно."
 
-#, fuzzy
 msgctxt "#ShieldMaker_workers_50"
 msgid ""
 "This Shield Maker is understaffed, and produces shields more slowly than it "
 "should."
-msgstr "Мастеров не хватает. Производство щитов идет медленнее."
+msgstr ""
+"Мастерской не хватает рабочих, она производит щиты не так быстро, как могла "
+"бы."
 
-#, fuzzy
 msgctxt "#ShieldMaker_workers_75"
 msgid ""
 "This Shield Maker could use more workers to reach its full potential for "
 "shield production."
-msgstr "Можно нанять больше рабочих, тогда производство щитов пойдет быстрее."
+msgstr ""
+"Производство щитов пойдёт полным ходом, если нанять ещё больше рабочих."
 
 msgctxt "#Shipwright"
 msgid "Shipwright"
 msgstr "Верфь"
 
-#, fuzzy
 msgctxt "#Shipwright_flavor"
 msgid ""
 "With enough workers, the Shipwright builds military vessels and fishing "
@@ -5142,58 +4810,54 @@ msgid ""
 "transport ships; no raw materials are needed to build fishing boats."
 msgstr ""
 "Если рабочих достаточно, на верфи создаются военные корабли и рыбацкие лодки "
-"по заказу причалов. Для строительства боевых и транспортных кораблей нужно "
-"дерево. Для строительства рыбацких лодок сырье не требуется."
+"для свободных причалов. Для строительства боевых и транспортных кораблей "
+"нужна древесина; для строительства рыбацких лодок сырьё не требуется."
 
-#, fuzzy
 msgctxt "#Shipwright_idle"
 msgid "There are currently no Wharves demanding any of our vessels."
-msgstr "Нет причалов, которым требуются корабли."
+msgstr "На данный момент нет причалов, которым требуются корабли."
 
-#, fuzzy
 msgctxt "#Shipwright_idle_nowood"
 msgid "We need wood to repair and build military vessels."
-msgstr "Для постройки и ремонта военных кораблей нужно дерево."
+msgstr "Нам нужна древесина для постройки и ремонта военных кораблей."
 
-#, fuzzy
 msgctxt "#Shipwright_repairing"
 msgid "We are repairing a military vessel."
-msgstr "Ремонтируем военный корабль."
+msgstr "Сейчас мы ремонтируем военный корабль."
 
-#, fuzzy
 msgctxt "#Shipwright_repairing_nowood"
 msgid ""
 "We have ships lined up to be repaired, but no wood with which to repair them."
 msgstr ""
-"Нужно отремонтировать несколько кораблей, однако нам не хватает дерева."
+"К нам выстроились корабли для ремонта, но нет древесины для их починки."
 
 msgctxt "#Shipwright_storage"
 msgid "Stored wood <sprite name=\"Wood\">: {0} units."
 msgstr "Запасы древесины<sprite name=\"Wood\">: {0} мер."
 
-#, fuzzy
 msgctxt "#Shipwright_tooltip"
 msgid ""
 "Builds boats for your wharfs. Fishing boats are free but military boats will "
 "require deliveries of wood <sprite name=\"Wood\">."
 msgstr ""
-"Здесь строятся суда по заказу причалов. Рыбацкие лодки не требуют сырья, но "
-"для военных кораблей нужно дерево <sprite name=\"Wood\">."
+"Здесь строятся корабли для свободных причалов. Рыбацкие лодки не требуют "
+"сырья, но для военных кораблей нужна древесина  <sprite name=\"Wood\">."
 
-#, fuzzy
 msgctxt "#Shipwright_working"
 msgid ""
 "We are building a military vessel or fishing boat to order for a Wharf in "
 "the city."
-msgstr "Строим военный корабль или рыбацкую лодку по заказу причала."
+msgstr ""
+"Сейчас мы строим военный корабль или рыбацкую лодку для одного из причалов "
+"города."
 
-#, fuzzy
 msgctxt "#Shipwright_working_nowood"
 msgid ""
 "A Warship or Transport Wharf has ordered us to build a ship, but we lack the "
 "necessary wood."
 msgstr ""
-"Военный или транспортный причал заказал корабль, но у нас не хватает дерева."
+"Нам нужно построить военный или транспортный корабль для одного из причалов "
+"города, но у нас нет древесины."
 
 msgctxt "#ShrineBast"
 msgid "Shrine to Bast"
@@ -5321,69 +4985,60 @@ msgctxt "#StorageYard"
 msgid "Storage Yard"
 msgstr "Склад"
 
-#, fuzzy
 msgctxt "#StorageYard_AlmostFull"
 msgid ""
 "WARNING: This Storage Yard is getting full. It can only accept goods of "
 "existing types. No new commodity types will be checked in at all."
 msgstr ""
-"ВНИМАНИЕ: склад почти заполнен. Принимаются только товары, которые уже "
+"ВНИМАНИЕ: Склад почти заполнен. Принимаются только товары, которые уже "
 "представлены. Новые виды товаров не принимаются."
 
 msgctxt "#StorageYard_Empty"
 msgid "This Storage Yard is empty."
 msgstr "На складе ничего нет."
 
-#, fuzzy
 msgctxt "#StorageYard_Full"
 msgid ""
 "WARNING: This Storage Yard is completely full. It cannot accept any more "
 "goods."
-msgstr "ВНИМАНИЕ: склад заполнен. Нет места для новых поступлений."
+msgstr "ВНИМАНИЕ: Склад заполнен. Нет места для новых поступлений."
 
-#, fuzzy
 msgctxt "#StorageYard_flavor"
 msgid ""
 "All manner of goods need storage. Caravans trade at Storage Yards, Docks "
 "swap exports for imports at nearby yards, and Bazaars stock up here, too."
 msgstr ""
-"Продукцию нужно где-то хранить. На складах торгуют с караванами, обменивают "
-"товары с близлежащих пристаней и пополняют запас базаров."
+"Товары нужно где-то хранить. Склады торгуют с караванами, обмениваются "
+"товарами с близлежащими пристанями и пополняют запасы базаров."
 
-#, fuzzy
 msgctxt "#StorageYard_tooltip"
 msgid ""
 "Can store every type of resource your city can produce or trade. Can be used "
 "for trade on land"
 msgstr ""
-"Здесь хранятся ресурсы, которые город производит или покупает. Используется "
-"для сухопутной торговли."
+"Здесь хранятся все ресурсы, которые город может произвести или купить. "
+"Используется для торговли с караванами."
 
-#, fuzzy
 msgctxt "#Storage_DeliveryManBack"
 msgid "Our delivery man is on his way back."
-msgstr "Доставщик возвращается."
+msgstr "Наш разносчик возвращается назад."
 
-#, fuzzy
 msgctxt "#Storage_DeliveryManGet"
 msgid "Our delivery man is out getting goods"
-msgstr "Доставщик забирает товары."
+msgstr "Наш разносчик забирает товары."
 
-#, fuzzy
 msgctxt "#Storage_DeliveryManIn"
 msgid "Our delivery man is ready for new orders."
-msgstr "Доставщик готов к новым поручениям."
+msgstr "Наш разносчик готов к новым поручениям."
 
-#, fuzzy
 msgctxt "#Storage_DeliveryManOut"
 msgid "Our delivery man is taking goods elsewhere."
-msgstr "Доставщик развозит товары."
+msgstr "Наш разносчик развозит товары."
 
 msgctxt "#Storage_Order"
 msgid "Special orders"
 msgstr "Особые указания"
 
-#, fuzzy
 msgctxt "#Storage_Quantity"
 msgid "Storing"
 msgstr "Хранится"
@@ -5392,10 +5047,9 @@ msgctxt "#Storage_SpaceFor"
 msgid "Space for"
 msgstr "Можно разместить"
 
-#, fuzzy
 msgctxt "#TaxCollector"
 msgid "Tax Collector's office"
-msgstr "Контора сборщика податей"
+msgstr "Контора сборщика налогов"
 
 msgctxt "#TaxCollector_Collector_In"
 msgid "Our collector is preparing to depart."
@@ -5405,73 +5059,64 @@ msgctxt "#TaxCollector_Collector_Out"
 msgid "Our collector is out auditing the locals' accounts."
 msgstr "Наш сборщик отправился получать налоги."
 
-#, fuzzy
 msgctxt "#TaxCollector_NoPalace"
 msgid "Your city needs a Palace before you can collect taxes."
-msgstr "Чтобы собирать подати, нужно построить дворец."
+msgstr "Чтобы собирать налоги, нужно построить дворец."
 
-#, fuzzy
 msgctxt "#TaxCollector_NoWorkingPalace"
 msgid "Your city needs a working Palace in order to collect taxes."
-msgstr "Чтобы собирать подати, нужен работающий дворец."
+msgstr "Чтобы собирать налоги, нужен работающий дворец."
 
-#, fuzzy
 msgctxt "#TaxCollector_flavor"
 msgid ""
 "Although not the most popular workers in the city, tax collectors make "
 "possible our great Kingdom and all the benefits that flow to us."
 msgstr ""
-"Пусть сборщики податей не пользуются всеобщей любовью, именно благодаря им "
-"государство процветает, и народ может пользоваться его благами."
+"Пусть сборщики налогов не пользуются всеобщей любовью, именно благодаря им "
+"царство процветает, и народ может пользоваться его благами."
 
-#, fuzzy
 msgctxt "#TaxCollector_tooltip"
 msgid "Allows you to tax your citizens. Requires a working Palace"
-msgstr "Позволяет собирать подати. Требуется работающий дворец."
+msgstr "Позволяет собирать налоги. Требуется работающий дворец."
 
-#, fuzzy
 msgctxt "#TaxCollector_workers_0"
 msgid ""
 "With no collection staff, this office contributes nothing to the city "
 "treasury."
 msgstr ""
-"Сборщиков податей нет, поэтому средства в городскую казну не поступают."
+"Сборщиков нет, эта контора никак не участвует в пополнении городской казны."
 
-#, fuzzy
 msgctxt "#TaxCollector_workers_1"
 msgid ""
 "With so few people in this office, local citizens can evade many of their "
 "tax bills."
 msgstr ""
-"Сборщиков совсем не хватает. Местные жители легко уходят от уплаты податей."
+"В конторе слишком мало работников, местные жители с лёгкостью уходят от "
+"уплаты налогов."
 
-#, fuzzy
 msgctxt "#TaxCollector_workers_100"
 msgid ""
 "Currently working with complete efficiency, our collectors ensure that all "
 "due taxes on their routes are paid."
-msgstr "Сборщики податей работают в полную силу и обходят все дома на пути."
+msgstr ""
+"Сборщики работают в полную силу и добиваются уплаты всех налогов на своём "
+"пути."
 
-#, fuzzy
 msgctxt "#TaxCollector_workers_25"
 msgid "We are badly understaffed and go two weeks between collection patrols."
 msgstr "Сборщиков слишком мало, поэтому между обходами проходит две недели."
 
-#, fuzzy
 msgctxt "#TaxCollector_workers_50"
 msgid ""
 "We are understaffed, and have a week's wait before any collectors return to "
 "duty."
-msgstr ""
-"Сборщиков не хватает. Выполнив обязанности, они берут недельный перерыв."
+msgstr "Не хватает рабочих, приходится ждать неделю между обходами сборщиков."
 
-#, fuzzy
 msgctxt "#TaxCollector_workers_75"
 msgid ""
 "We have a day or two of idle time before returning collectors go back out on "
 "the streets."
-msgstr ""
-"Сборщики иногда берут перерыв, поэтому совершают обход через день или два."
+msgstr "Приходится ждать день-другой, чтобы сборщик совершил очередной обход."
 
 msgctxt "#TempleBast"
 msgid "Temple to Bast"
@@ -5529,61 +5174,54 @@ msgctxt "#Tower"
 msgid "Tower"
 msgstr "Башня"
 
-#, fuzzy
 msgctxt "#Tower_NoSentry"
 msgid ""
 "We have maintenance staff, but we need guards from a Recruiter to defend the "
 "city."
 msgstr ""
-"В башне есть рабочие, но для защиты города вербовщик должен прислать "
+"В башне есть работники, но для защиты города вербовщик должен прислать "
 "караульных."
 
-#, fuzzy
 msgctxt "#Tower_UpgradeBow"
 msgid ""
 "The guard in this Tower can be upgraded with 1 Composite Bow<sprite "
 "name=\"CompositeBows\">."
 msgstr ""
-"Караульного в этой башне можно улучшить с помощью 1 композитного лука "
-"<sprite name=\"CompositeBows\">."
+"Караульного в этой башне можно улучшить с помощью 1 композитного лука<sprite "
+"name=\"CompositeBows\">."
 
 msgctxt "#Tower_UpgradeButton"
 msgid "Upgrade this tower"
 msgstr "Улучшить башню"
 
-#, fuzzy
 msgctxt "#Tower_UpgradeFull"
 msgid ""
 "This Tower is now fully upgraded and will protect your city in the most "
 "efficient way."
-msgstr ""
-"Башня полностью улучшена и будет обеспечивать город максимальной защитой."
+msgstr "Башня полностью улучшена и защищает ваш город наилучшим образом."
 
-#, fuzzy
 msgctxt "#Tower_UpgradeHalf"
 msgid ""
 "You already upgraded this Tower once, it could be even more efficient in "
 "protecting your city with a second upgrade."
 msgstr ""
-"Вы улучшили башню. Можно улучшить ее еще раз, чтобы обеспечить город большей "
-"защитой."
+"Вы уже улучшили эту башню. Можно улучшить её ещё раз, чтобы обеспечить город "
+"лучшей защитой."
 
-#, fuzzy
 msgctxt "#Tower_UpgradeNone"
 msgid ""
 "This Tower has not yet been upgraded, it will protect your city but could be "
 "more efficient."
 msgstr ""
-"Башню не улучшали. Она защищает город, но могла бы делать это еще "
+"Башню не улучшали. Она защищает город, но могла бы делать это ещё "
 "эффективней."
 
-#, fuzzy
 msgctxt "#Tower_UpgradeStone"
 msgid ""
 "This Tower can be upgraded for 1 block of plain stone<sprite "
 "name=\"Plainstone\">."
 msgstr ""
-"Башню можно улучшить с помощью 1 каменного блока <sprite "
+"Эту башню можно улучшить с помощью 1 каменного блока<sprite "
 "name=\"Plainstone\">."
 
 msgctxt "#Tower_flavor"
@@ -5591,61 +5229,57 @@ msgid ""
 "Build Towers into Walls. When connected to roads, Towers receive guards from "
 "the city's Recruiter."
 msgstr ""
+"Встраивайте башни в стены. При доступе к дорогам в башнях появляются "
+"стражники от вербовщика."
 
-#, fuzzy
 msgctxt "#Tower_tooltip"
 msgid "Must be built on a thick wall. Occupied by a sentry"
-msgstr "Размещается на широкой стене. Здесь несет службу дозорный."
+msgstr "Размещается на широкой стене. Здесь несёт службу дозорный."
 
 msgctxt "#Tower_workers_0"
 msgid "With no workers, we cannot station Tower guards."
-msgstr ""
+msgstr "Без работников мы не можем содержать в башне стражников."
 
-#, fuzzy
 msgctxt "#Tower_workers_1"
 msgid "Our men are at full strength, alert and ready to repel any threats."
-msgstr "Караульные в полном составе готовы отразить любую угрозу."
+msgstr "Наши люди в полном составе бдительны и готовы отразить любую угрозу."
 
 msgctxt "#TownPalace"
 msgid "Town Palace"
 msgstr "Дворец поселения"
 
-#, fuzzy
 msgctxt "#TownPalace_tooltip"
 msgid ""
 "A proper Palace for your thriving town that stores most of the city "
 "treasure. Allows you to collect tax. Must be built on a grassy area."
 msgstr ""
-"Дворец, достойный процветающего города. Здесь хранятся его главные "
-"богатства. Позволяет собирать подати. Размещается на покрытой травой земле."
+"В этом достойном процветающего города дворце хранится большая часть "
+"городских богатств. Позволяет собирать налоги. Размещается на покрытой "
+"травой земле."
 
 msgctxt "#TransportWharf"
 msgid "Transport Wharf"
 msgstr "Транспортный причал"
 
-#, fuzzy
 msgctxt "#TransportWharf_dockedship"
 msgid "Our transport is in port."
-msgstr "Корабль пришвартован."
+msgstr "Наш корабль пришвартован."
 
-#, fuzzy
 msgctxt "#TransportWharf_flavor"
 msgid ""
 "Transport ships, built by Shipwrights, moor here between assignments. Your "
 "battalion needs transports to navigate the Nile."
 msgstr ""
-"Транспортные суда, построенные на верфи, ожидают здесь новых заданий. Эти "
-"корабли требуются для движения по Нилу."
+"Транспортные корабли, построенные на верфи, швартуются здесь в ожидании "
+"новых заданий. Эти корабли необходимы для переброски ваших отрядов по Нилу."
 
-#, fuzzy
 msgctxt "#TransportWharf_sailingship"
 msgid "Our transport is off transporting."
-msgstr "Корабль переправляет войска."
+msgstr "Наш корабль переправляет войска."
 
-#, fuzzy
 msgctxt "#TransportWharf_tooltip"
 msgid "Transports troops to battlefields far away"
-msgstr "Корабли переправляют войска на далекие поля сражений."
+msgstr "Перебрасывают отряды на далёкие поля сражений."
 
 msgctxt "#Troops"
 msgid "Forts"
@@ -5653,82 +5287,72 @@ msgstr "Форты"
 
 msgctxt "#Undo"
 msgid "Undo your last action and get back"
-msgstr ""
+msgstr "Отменить последнее действие."
 
-#, fuzzy
 msgctxt "#Vault"
 msgid "Vaults hold {0} debens<sprite name=\"Deben\">"
-msgstr "Дебенов <sprite name=\"Deben\"> в казне: {0}"
+msgstr "Дебенов<sprite name=\"Deben\"> в хранилищах: {0}"
 
 msgctxt "#VillagePalace"
 msgid "Village Palace"
 msgstr "Дворец деревни"
 
-#, fuzzy
 msgctxt "#VillagePalace_tooltip"
 msgid ""
 "Stores most of the city treasure. Allows you to collect tax. Must be built "
 "on a grassy area"
 msgstr ""
-"Здесь хранятся главные богатства города. Позволяет собирать подати. "
-"Размещается на покрытой травой земле."
+"Здесь хранится большая часть городских богатств. Позволяет собирать налоги. "
+"Размещается на покрытой травой земле"
 
 msgctxt "#Wall"
 msgid "Wall"
 msgstr "Стена"
 
-#, fuzzy
 msgctxt "#Wall_flavor"
 msgid ""
 "While not offering protections on their own, the towers you build on them "
 "can help win battles."
 msgstr ""
-"Стены защищают город от вторжения врагов. Захватчики могут уничтожать стены. "
-"Широкие стены более прочные, кроме того, их могут патрулировать караульные "
-"из башен."
+"Сами по себе стены не защищают. Стройте на них башни, чтобы получить "
+"поддержку в битвах."
 
-#, fuzzy
 msgctxt "#Wall_tooltip"
 msgid "Necessary to build towers, terrible for desirability"
-msgstr "Защищает город от захватчиков."
+msgstr ""
+"Необходимы для строительства башен, ужасно влияют на привлекательность."
 
-#, fuzzy
 msgctxt "#WarningWorkers"
 msgid "The Overseer of Workers could shift some labor"
-msgstr "Советнику по рабочей силе следует добавить рабочих."
+msgstr "Советник по рабочей силе может перераспределить рабочих."
 
-#, fuzzy
 msgctxt "#WarningWorkersAlert"
 msgid "<color=#ea4242>WARNING: Poor access to workers</color>"
-msgstr "ВНИМАНИЕ! Нет доступа к рабочим."
+msgstr "<color=#ea4242>ВНИМАНИЕ: Плохой доступ к рабочей силе</color>"
 
 msgctxt "#WarshipWharf"
 msgid "Warship Wharf"
 msgstr "Военный причал"
 
-#, fuzzy
 msgctxt "#WarshipWharf_dockedship"
 msgid "Our warship is in port."
-msgstr "Боевой корабль пришвартован."
+msgstr "Наш боевой корабль пришвартован."
 
-#, fuzzy
 msgctxt "#WarshipWharf_flavor"
 msgid ""
 "A warship berths here between battles. Any city on the Nile ought to have at "
 "least a couple of defensive ships at the ready."
 msgstr ""
-"Боевой корабль стоит здесь в ожидании сражений. Любому городу на Ниле не "
-"помешает хотя бы несколько подобных кораблей."
+"Здесь швартуется боевой корабль в ожидании сражений. Любому городу на Ниле "
+"не помешает хотя бы несколько подобных кораблей."
 
-#, fuzzy
 msgctxt "#WarshipWharf_sailingship"
 msgid "Our warship is out in battle."
-msgstr "Боевой корабль защищает город от захватчиков."
+msgstr "Наш боевой корабль отправился в бой."
 
-#, fuzzy
 msgctxt "#WarshipWharf_tooltip"
 msgid "A warship to face the battles to come"
-msgstr "Боевой корабль готов к будущим сражениям."
+msgstr "Боевой корабль для будущих сражений"
 
 msgctxt "#WaterCrossing"
 msgid "Water Crossing"
@@ -5771,7 +5395,6 @@ msgctxt "#WaterSupply"
 msgid "Water Supply"
 msgstr "Источник воды"
 
-#, fuzzy
 msgctxt "#WaterSupply_flavor"
 msgid ""
 "Water carriers get clean water from this desirable source, and improve "
@@ -5780,59 +5403,52 @@ msgstr ""
 "Отсюда водоносы забирают чистую воду и разносят в дома, повышая уровень "
 "здоровья и счастья."
 
-#, fuzzy
 msgctxt "#WaterSupply_tooltips"
 msgid ""
 "Sends a water carrier to deliver drinking water to your houses. Must be "
 "built on a grassy area."
 msgstr ""
-"Отсюда водонос доставляет воду жителям домов. Размещается на покрытой травой "
-"земле."
+"Отправляет водонос для доставки питьевой воды в жилые дома. Размещается на "
+"покрытой травой земле."
 
-#, fuzzy
 msgctxt "#WaterSupply_workers_0"
 msgid ""
 "With no delivery staff, this facility could just as well be a dry hole in "
 "the ground."
-msgstr "Водоносов нет. Если вода здесь и есть, жители ее не получают."
+msgstr "Без водоносов пользы от этой постройки как от сухой дыры в земле."
 
-#, fuzzy
 msgctxt "#WaterSupply_workers_1"
 msgid ""
 "We are operating with a skeleton staff only. We frequently go a full month "
 "without delivering any water."
-msgstr "Работают единицы. Доставка воды обычно занимает целый месяц."
+msgstr "Здесь работают только служащие. Часто поставок воды нет целый месяц."
 
-#, fuzzy
 msgctxt "#WaterSupply_workers_100"
 msgid "Our staff continuously carry clean water to the local populace."
 msgstr "Наши водоносы постоянно снабжают местных жителей чистой водой."
 
-#, fuzzy
 msgctxt "#WaterSupply_workers_25"
 msgid ""
 "We have far too few workers. Sometimes, no water is delivered for up to two "
 "weeks at a time."
 msgstr ""
-"Водоносов сильно не хватает! Горожане могут не получать воду по две недели."
+"У нас слишком мало людей. Часто вода не доставляется в течение двух недель."
 
-#, fuzzy
 msgctxt "#WaterSupply_workers_50"
 msgid ""
 "We are understaffed, and have dangerous gaps of up to a week in our water "
 "delivery cycle."
 msgstr ""
-"Водоносов не хватает. Горожане могут не получать воду неделю, что весьма "
-"опасно для здоровья."
+"Водоносов не хватает. Иной раз перерыв между поставками воды достигает целую "
+"неделю."
 
-#, fuzzy
 msgctxt "#WaterSupply_workers_75"
 msgid ""
 "We are a little short of water carriers. We have gaps of perhaps a day or "
 "two in our coverage."
 msgstr ""
-"Водоносов немного не хватает. Районы города получают воду с перерывами в "
-"день или два."
+"Водоносов немного не хватает. Поставки воды производится с перерывом в день "
+"или два."
 
 msgctxt "#Weaponsmith"
 msgid "Weaponsmith"
@@ -5874,45 +5490,41 @@ msgid ""
 "This Weaponsmith has no employees, and will therefore produce no weapons."
 msgstr "В кузнице никого нет, оружие никто не производит."
 
-#, fuzzy
 msgctxt "#Weaponsmith_workers_1"
 msgid ""
 "With hardly any employees, this Weaponsmith contributes very few weapons to "
 "the city's efforts."
 msgstr ""
-"В мастерской почти нет рабочих, поэтому оружейник с трудом производит оружие "
-"для защиты города."
+"Здесь почти нет рабочих, в этом году оружейная мастерская внесёт "
+"незначительный вклад в производство города."
 
-#, fuzzy
 msgctxt "#Weaponsmith_workers_100"
 msgid ""
 "This workshop has all the employees it needs, and produces as many weapons "
 "as possible."
 msgstr ""
-"В мастерской достаточно рабочих. Они производят оружие не покладая рук."
+"В этой мастерской достаточно рабочих, производство оружия идёт полным ходом."
 
-#, fuzzy
 msgctxt "#Weaponsmith_workers_25"
 msgid ""
 "There are very few people working at this Weaponsmith. Weapon production is "
 "very slow."
 msgstr ""
-"В мастерской слишком мало рабочих. Производство оружия идет очень медленно."
+"В мастерской слишком мало рабочих. Производство оружия идёт очень медленно."
 
-#, fuzzy
 msgctxt "#Weaponsmith_workers_50"
 msgid ""
 "This workshop is understaffed. It takes longer to produce weapons than it "
 "should."
-msgstr "Оружейников не хватает. Производство оружия занимает больше времени."
+msgstr "Здесь не хватает рабочих. Производство оружия занимает больше времени."
 
-#, fuzzy
 msgctxt "#Weaponsmith_workers_75"
 msgid ""
 "This Weaponsmith is not fully staffed, so weapon production is slightly "
 "slower than it could be."
 msgstr ""
-"Мы можем нанять еще оружейников, тогда производство оружия пойдет быстрее."
+"Эта постройка не работает в полную силу, производство оружия идёт не так "
+"быстро."
 
 msgctxt "#Weaver"
 msgid "Weaver"
@@ -5930,14 +5542,13 @@ msgstr ""
 "Здесь из льняного волокна создают ткань, которая используется моргами для "
 "бальзамирования. Ткань также можно выгодно продать."
 
-#, fuzzy
 msgctxt "#Weaver_stock_0"
 msgid ""
 "This workshop will produce no linen without a shipment of flax, whether from "
 "a Storage Yard or a farm."
 msgstr ""
-"Производство ткани остановилось из-за нехватки льна. Доставьте его со склада "
-"или с фермы."
+"Эта мастерская не будет производить ткань без поставок льна со склада или из "
+"фермы."
 
 msgctxt "#Weaver_storage"
 msgid "Stored flax<sprite name=\"Flax\">: {0} units."
@@ -5949,86 +5560,75 @@ msgid ""
 msgstr ""
 "Производит ткань <sprite name=\"Linen\"> изо льна <sprite name=\"Flax\">."
 
-#, fuzzy
 msgctxt "#Weaver_workers_0"
 msgid "This Weaver has no workers, and so cannot produce any linen at all."
 msgstr "В ткацкой мастерской нет рабочих, и ткань никто не производит."
 
-#, fuzzy
 msgctxt "#Weaver_workers_1"
 msgid ""
 "With hardly any employees, this Weaver can produce almost no linen over the "
 "coming year."
 msgstr ""
-"В мастерской почти нет рабочих. В этом году поставки ткани сильно сократятся."
+"Здесь почти нет рабочих, в этом году мастерская произведёт очень мало ткани."
 
-#, fuzzy
 msgctxt "#Weaver_workers_100"
 msgid "This Weaver is fully staffed, and produces ample high-quality linen."
 msgstr ""
-"Ткацкая мастерская работает в полную силу. Ткань производят быстро и "
-"качественно."
+"Мастерская работает в полную силу, быстро и качественно производя ткань."
 
-#, fuzzy
 msgctxt "#Weaver_workers_25"
 msgid ""
 "Very few people work at this Weaver. Linen production is slow as a result."
 msgstr ""
-"В мастерской слишком мало рабочих. Производство ткани идет очень медленно."
+"В этой мастерской слишком мало рабочих. Производство ткани идёт очень "
+"медленно."
 
-#, fuzzy
 msgctxt "#Weaver_workers_50"
 msgid ""
 "This Weaver is understaffed, and produces linen more slowly than it should."
-msgstr "Ткачей не хватает. Производство ткани идет медленнее."
+msgstr ""
+"Мастерской не хватает рабочих, она производит ткань не так быстро, как могла "
+"бы."
 
-#, fuzzy
 msgctxt "#Weaver_workers_75"
 msgid ""
 "This Weaver could use more workers to reach its full potential for linen "
 "production."
 msgstr ""
-"В мастерскую можно нанять больше ткачей. Тогда производство ткани пойдет "
-"быстрее."
+"Производство ткани пойдёт полным ходом, если нанять ещё больше рабочих."
 
 msgctxt "#Well"
 msgid "Well"
 msgstr "Колодец"
 
-#, fuzzy
 msgctxt "#Well_flavor"
 msgid ""
 "Citizens without clean water deliveries can draw water from Wells, but Well-"
 "water neighborhoods are not the healthiest or most desirable places to live."
 msgstr ""
-"Жители, которым не доставляют чистую воду, могут добывать ее в колодце. "
-"Однако в районах, где есть колодцы, снижается уровень здоровья и "
-"привлекательности."
+"Жители, которым не доставляют чистую воду, могут добывать её в колодце, "
+"однако в такие районы не столь привлекательны и защищены от болезней."
 
-#, fuzzy
 msgctxt "#Well_nohouses"
 msgid ""
 "This well's water is going to waste, as there are no houses within its "
 "service range."
 msgstr "Колодец построен зря, поскольку в радиусе действия нет домов."
 
-#, fuzzy
 msgctxt "#Well_tooltips"
 msgid ""
 "Provides water within a 2-tile radius of themselves. No workers needed. Must "
 "be built on a grassy area."
 msgstr ""
-"Подает воду в радиусе двух клеток. Рабочие не требуются. Размещается на "
-"покрытой травой земле."
+"Предоставляет воду на расстоянии двух ячеек от себя. Рабочие не  требуются. "
+"Размещается на покрытой травой земле."
 
-#, fuzzy
 msgctxt "#Well_unneeded"
 msgid ""
 "This well is unneeded. All the houses it serves get deliveries from a Water "
 "Supply."
-msgstr "Колодец не нужен. Все дома получают воду из источника."
+msgstr "Колодец не бесполезен. Все дома получают воду из источника."
 
-#, fuzzy
 msgctxt "#WoodCutter"
 msgid "Wood Cutter"
 msgstr "Лесорубы"
@@ -6037,14 +5637,13 @@ msgctxt "#WoodCutter_disabled"
 msgid "Tree cutting has ceased, by order of the Overseer of Commerce."
 msgstr "Рубка деревьев прекращена по приказу торгового советника."
 
-#, fuzzy
 msgctxt "#WoodCutter_flavor"
 msgid ""
 "Wood has many uses ranging from monument construction to shipbuilding, and "
 "is in great demand throughout the Kingdom."
 msgstr ""
-"Дерево применяется во многих областях — от возведения памятников до "
-"кораблестроения. Оно очень востребовано по всему государству."
+"Древесина используется во многих областях — от возведения монументов до "
+"кораблестроения. Она очень востребована по всему Царству."
 
 msgctxt "#WoodCutter_storage"
 msgid "Holds {0} raw wood<sprite name=\"Wood\">."
@@ -6054,96 +5653,87 @@ msgctxt "#WoodCutter_tooltip"
 msgid ""
 "Dispatches 3 tree-cutters to gather as much wood <sprite name=\"Wood\"> as "
 "possible"
-msgstr "Отравляет трёх лесорубов добывать дерево <sprite name=\"Wood\">."
+msgstr "Отравляет трёх лесорубов добывать древесину <sprite name=\"Wood\">."
 
-#, fuzzy
 msgctxt "#WoodCutter_workers_0"
 msgid ""
 "This facility has no workers, and contributes nothing to the city's economy."
-msgstr "Лесорубов нет. Это место никак не участвует в экономике города."
+msgstr "Лесорубов нет, эта постройка никак не участвует в экономике города."
 
-#, fuzzy
 msgctxt "#WoodCutter_workers_1"
 msgid ""
 "With hardly any tree-cutters, wood output is at a virtual standstill here."
-msgstr "Рабочих почти нет, поэтому рубка практически прекратилась."
+msgstr "Лесорубов почти нет, поставки древесины практически незначительны."
 
-#, fuzzy
 msgctxt "#WoodCutter_workers_100"
 msgid ""
 "This building has all the workers it needs. It harvests wood with maximum "
 "efficiency."
-msgstr "Здесь достаточно рабочих. Рубка идет полным ходом."
+msgstr "В постройке достаточно рабочих. Добыча древесины идёт полным ходом."
 
-#, fuzzy
 msgctxt "#WoodCutter_workers_25"
 msgid ""
 "Very few people work at this yard. Wood production is very slow as a result."
-msgstr "Здесь слишком мало рабочих. Рубка дерева идет очень медленно."
+msgstr ""
+"В этой постройке слишком мало рабочих. Производство древесины идёт очень "
+"медленно."
 
-#, fuzzy
 msgctxt "#WoodCutter_workers_50"
 msgid ""
 "This industry is understaffed, and takes longer to cut wood than it should."
-msgstr "Рабочих не хватает. Рубка занимает больше времени."
+msgstr ""
+"В постройке не хватает рабочих, производство древесины занимает больше "
+"времени."
 
-#, fuzzy
 msgctxt "#WoodCutter_workers_75"
 msgid ""
 "This Wood Cutter is not fully staffed, and wood production is lower than it "
 "could be."
-msgstr "Мы можем нанять еще лесорубов, тогда рубка пойдет быстрее."
+msgstr ""
+"Эта постройка не работает в полную силу, добыча древесины идёт не так быстро."
 
 msgctxt "#Work Camp"
 msgid "Work Camp"
 msgstr "Рабочий лагерь"
 
-#, fuzzy
 msgctxt "#Work Camp_both"
 msgid "Our laborers are off working on both floodplain farms and monuments."
-msgstr "Разнорабочие помогают на пойменных фермах и на стройке памятников."
+msgstr "Наши рабочие трудятся на пойменных полях и на стройках монументов."
 
-#, fuzzy
 msgctxt "#Work Camp_farms"
 msgid "Our laborers are off working on floodplain farms."
-msgstr "Разнорабочие помогают на пойменных фермах."
+msgstr "Наши рабочие трудятся на пойменных полях."
 
-#, fuzzy
 msgctxt "#Work Camp_flavor"
 msgid ""
 "This Work Camp houses laborers who can work either on floodplain farms or on "
 "monuments."
 msgstr ""
-"В лагере живут рабочие, которые могут помогать на фермах в пойме Нила и на "
-"стройке памятников."
+"В лагере живут рабочие, которые работают на пойменных полях или на стройках "
+"монументов."
 
-#, fuzzy
 msgctxt "#Work Camp_monuments"
 msgid "Our laborers are off working on monuments."
-msgstr "Разнорабочие помогают на стройке памятников."
+msgstr "Наши рабочие трудятся на стройках монументов."
 
-#, fuzzy
 msgctxt "#Work Camp_notarget"
 msgid "Our laborers are off looking for work."
-msgstr "Разнорабочие отправились на поиски заданий."
+msgstr "Наши рабочие отправились на поиски работы."
 
-#, fuzzy
 msgctxt "#Work Camp_tooltip"
 msgid "Provides workers for floodplains farms and monuments."
 msgstr ""
-"Готовит людей для работы на фермах в пойме Нила и на стройке памятников."
+"Готовит рабочих для работы на пойменных полях и на стройках монументов."
 
-#, fuzzy
 msgctxt "#Work Camp_workers_0"
 msgid ""
 "This Work Camp needs workers to support the manual laborers based here. "
 msgstr ""
-"В лагере не хватает рабочих, которые обеспечивают быт живущих здесь трудяг."
+"В этом лагере не хватает работников, чтобы поддерживать местных чернорабочих."
 
-#, fuzzy
 msgctxt "#Work Camp_workers_1"
 msgid "We supply as much unskilled labor as is humanly possible."
-msgstr "Мы готовим столько разнорабочих, сколько вообще возможно."
+msgstr "Мы готовим столько рабочих, сколько вообще возможно."
 
 msgctxt "#WorkersCount"
 msgid "{0} / {1} workers"
@@ -6157,52 +5747,45 @@ msgctxt "#Zoo"
 msgid "Zoo"
 msgstr "Зоопарк"
 
-#, fuzzy
 msgctxt "#Zoo_stock_gamemeat_0"
 msgid ""
 "This Zoo has zookeepers, but needs a supply of game meat before any animals "
 "can call it home."
 msgstr ""
-"В зоопарке есть смотрители, но животных здесь не поселят без поставок дичи."
+"В зоопарке есть смотрители, но без мяса дичи животных здесь не поселят."
 
-#, fuzzy
 msgctxt "#Zoo_stock_straw_0"
 msgid "This Zoo has employees, but with no straw it cannot host any animals."
-msgstr ""
-"В зоопарке есть смотрители, но животных нельзя разместить, пока нет соломы."
+msgstr "В зоопарке есть смотрители, но без соломы животных здесь не поселят."
 
 msgctxt "#Zoo_storage_gamemeat"
 msgid "Game Meat<sprite name=\"GameMeat\">: {0} units."
-msgstr "Запасы дичи<sprite name=\"GameMeat\">: {0} мер."
+msgstr "Дичь<sprite name=\"GameMeat\">: {0} мер."
 
 msgctxt "#Zoo_storage_straw"
 msgid "Straw<sprite name=\"Straw\">: {0} units."
 msgstr "Солома<sprite name=\"Straw\">: {0} мер."
 
-#, fuzzy
 msgctxt "#Zoo_tooltip"
 msgid ""
 "Provides entertainment upon regular deliveries of game meat <sprite "
 "name=\"GameMeat\"> and straw <sprite name=\"Straw\">"
 msgstr ""
-"При регулярных поставках дичи <sprite name=\"GameMeat\"> и соломы <sprite "
-"name=\"Straw\"> развлекает жителей."
+"Развлекает жителей при регулярных поставках мяса дичи <sprite "
+"name=\"GameMeat\"> и соломы <sprite name=\"Straw\">."
 
-#, fuzzy
 msgctxt "#Zoo_workers_0"
 msgid ""
 "People are afraid to visit a Zoo without zookeepers. Until the Zoo finds "
 "some employees, it won't bring the neighborhood any benefit."
 msgstr ""
-"Жители боятся приходить в зоопарк, где нет смотрителей. Пока здесь никто не "
-"работает, для жителей от зоопарка мало толку."
+"Люди боятся приходить в зоопарк, где нет смотрителей. Пока здесь никто не "
+"работает, от зоопарка мало толку."
 
-#, fuzzy
 msgctxt "#Zoo_workers_0_alt"
 msgid "With no animals, this Zoo is nothing more than empty cages."
-msgstr "Без животных зоопарк может удивить посетителя только пустыми клетками."
+msgstr "Без животных зоопарк может удивить только пустыми клетками."
 
-#, fuzzy
 msgctxt "#Zoo_workers_1"
 msgid "Exotic animals from near and far delight crowds of citizens at the Zoo."
 msgstr "В зоопарке жители дивятся экзотическим животным со всех уголков земли."
