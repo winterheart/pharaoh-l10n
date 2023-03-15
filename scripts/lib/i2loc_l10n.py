@@ -281,7 +281,7 @@ class I2LocTranslation:
             stats["fuzzy"] += len(po.fuzzy_entries())
             stats["translated"] += len(po.translated_entries())
             stats["untranslated"] += len(po.untranslated_entries())
-            self.logger.info(
+            self.logger.debug(
                 f"{po_file}: "
                 f"{stats['translated']}/"
                 f"{stats['fuzzy']}/"

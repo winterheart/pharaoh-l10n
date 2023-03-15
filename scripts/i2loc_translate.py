@@ -94,10 +94,13 @@ if __name__ == "__main__":
             translated = 0
             untranslated = 0
             fuzzy = 0
+            total = 0
             for item in I2LocCsvKeys:
                 stats = rcg_translation.show_stats(args["--podir"], item, lang)
                 translated += stats["translated"]
                 untranslated += stats["untranslated"]
                 fuzzy += stats["fuzzy"]
-            logger.info(f"Lang {lang} TOTAL: Translated: {translated}, Fuzzy: {fuzzy}, Untranslated: {untranslated}, "
+                total += stats["translated"] + stats["untranslated"] + stats["fuzzy"]
+            logger.info(f"Lang {lang} TOTAL: {total}, Translated: {translated}, Fuzzy: {fuzzy},"
+                        f" Untranslated: {untranslated}, "
                         f"Ratio: {100 * translated / (translated + untranslated + fuzzy):.2f}%")
