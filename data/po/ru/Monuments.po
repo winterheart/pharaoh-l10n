@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-03-21 16:51\n"
-"PO-Revision-Date: 2023-03-04 18:22+0300\n"
+"PO-Revision-Date: 2023-03-21 17:08+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 22.08.3\n"
+"X-Generator: Lokalize 23.07.70\n"
 
 msgctxt "#AbuSimbel"
 msgid "Abu Simbel"
@@ -339,7 +339,6 @@ msgstr ""
 "Наши каменотёсы уже готовы крыть монумент медью, как только она появится. "
 "Добудьте её или купите."
 
-#, fuzzy
 msgctxt "#Foreman_NoCopper_var"
 msgid ""
 "The roof on this will leak like a sieve if we don't get some copper. If you "
@@ -373,7 +372,6 @@ msgstr ""
 "Наши каменотёсы ни за что не закончат этот монумент, пока вы не закупите "
 "больше мрамора."
 
-#, fuzzy
 msgctxt "#Foreman_NoMarble_var"
 msgid ""
 "Without any marble, our talented stonemasons have nothing to do. That is a "
@@ -421,7 +419,6 @@ msgstr ""
 "Плотники жалуются, как им не хватает дерева. Нарубите побольше или увеличьте "
 "поставки из других городов."
 
-#, fuzzy
 msgctxt "#Foreman_NoWorkCamps"
 msgid ""
 "Do you think the gods are going to build this monument? Build some Work "
@@ -482,7 +479,6 @@ msgstr ""
 "Никто из рабочих не явился на площадку. Стоит выяснить почему, а то, может, "
 "у вас не рабочие лагеря, а лагеря отдыха."
 
-#, fuzzy
 msgctxt "#Foreman_Plainstone_Stockpiled"
 msgid ""
 "The Overseer of Commerce refuses to release plain stone to my workers. He "
@@ -685,10 +681,9 @@ msgctxt "#Mausoleum_Complete"
 msgid "The mausoleum is complete."
 msgstr "Мавзолей готов."
 
-#, fuzzy
 msgctxt "#Mausoleum_PercentFinish"
 msgid "The mausoleum is {0}% complete"
-msgstr "Мавзолей готов."
+msgstr "Мавзолей готов на {0}%."
 
 msgctxt "#Mausoleum_Phase_1"
 msgid "Phase 1"
@@ -1098,7 +1093,6 @@ msgctxt "#SunTemple_Complete"
 msgid "The sun temple is complete! "
 msgstr "Храм Солнца готов!"
 
-#, fuzzy
 msgctxt "#SunTemple_PercentFinish"
 msgid "The Sun temple is {0}% complete"
 msgstr "Храм Солнца готов на {0}%."
@@ -1144,7 +1138,6 @@ msgstr ""
 "Для оставшейся части храма Солнца требуется {0} блоков песчаника ({1} "
 "загрузок)."
 
-#, fuzzy
 msgctxt "#SunTemple_TaksPercentFinish"
 msgid "This task is {0}% complete"
 msgstr "Эта задача готова на {0}%."
