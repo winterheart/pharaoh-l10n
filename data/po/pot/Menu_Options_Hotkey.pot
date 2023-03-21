@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-02-28 00:28\n"
-"PO-Revision-Date: 2023-02-28 00:28\n"
+"POT-Creation-Date: 2023-03-21 16:51\n"
+"PO-Revision-Date: 2023-03-21 16:51\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -118,6 +118,10 @@ msgctxt "#HideUI"
 msgid "Hide UI"
 msgstr ""
 
+msgctxt "#Housing"
+msgid "Housing"
+msgstr ""
+
 msgctxt "#IngameHelp"
 msgid "Ingame Help"
 msgstr ""
@@ -132,6 +136,10 @@ msgstr ""
 
 msgctxt "#Menu"
 msgid "Menu"
+msgstr ""
+
+msgctxt "#Minimap"
+msgid "Toggle Minimap"
 msgstr ""
 
 msgctxt "#Nilometer"
@@ -202,12 +210,24 @@ msgctxt "#ReligionOverlay"
 msgid "Religion Overlay"
 msgstr ""
 
+msgctxt "#Remove"
+msgid "Remove"
+msgstr ""
+
 msgctxt "#ResetBindings"
 msgid "Set bindings to default"
 msgstr ""
 
 msgctxt "#ResetSpeed"
 msgid "Reset Speed"
+msgstr ""
+
+msgctxt "#Road"
+msgid "Road"
+msgstr ""
+
+msgctxt "#Roadblock"
+msgid "Roadblock"
 msgstr ""
 
 msgctxt "#RotateBuilding"
@@ -228,6 +248,10 @@ msgstr ""
 
 msgctxt "#ToggleGrid"
 msgid "Toggle Grid"
+msgstr ""
+
+msgctxt "#Undo"
+msgid "Undo"
 msgstr ""
 
 msgctxt "#WaterOverlay"

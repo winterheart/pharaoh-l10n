@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-02-28 00:28\n"
-"PO-Revision-Date: 2023-02-28 00:28\n"
+"POT-Creation-Date: 2023-03-21 16:51\n"
+"PO-Revision-Date: 2023-03-21 16:51\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -14,4 +14,529 @@ msgstr ""
 
 msgctxt ""
 msgid "This house is infested with frogs"
+msgstr ""
+
+msgctxt "ApothecaryAccess_High"
+msgid ""
+"This house was recently passed by a herbalist. It will have Apothecary "
+"access for a long time"
+msgstr ""
+
+msgctxt "ApothecaryAccess_Low"
+msgid ""
+"Unless a herbalist passes it soon, this house will lose Apothecary access"
+msgstr ""
+
+msgctxt "ApothecaryAccess_Mid"
+msgid "This house has Apothecary access"
+msgstr ""
+
+msgctxt "ApothecaryAccess_None"
+msgid "This house has no access to an Apothecary"
+msgstr ""
+
+msgctxt "ArchitectRisk_0"
+msgid "This building is unstable, and is likely to collapse soon"
+msgstr ""
+
+msgctxt "ArchitectRisk_100"
+msgid "This building is in perfect structural condition"
+msgstr ""
+
+msgctxt "ArchitectRisk_20"
+msgid "This building has many structural faults and cracks"
+msgstr ""
+
+msgctxt "ArchitectRisk_40"
+msgid "This building has some structural faults"
+msgstr ""
+
+msgctxt "ArchitectRisk_60"
+msgid "This building has a low risk of collapse"
+msgstr ""
+
+msgctxt "ArchitectRisk_80"
+msgid "This building has a negligible risk of collapse"
+msgstr ""
+
+msgctxt "CourthouseAccess_High"
+msgid ""
+"This house was recently passed by a magistrate. It will have Courthouse "
+"access for a long time"
+msgstr ""
+
+msgctxt "CourthouseAccess_Low"
+msgid ""
+"This house has not been passed by a magistrate for a while. It will soon "
+"lose Courthouse access"
+msgstr ""
+
+msgctxt "CourthouseAccess_Mid"
+msgid "This house has Courthouse access"
+msgstr ""
+
+msgctxt "CourthouseAccess_None"
+msgid "This house has no access to a Courthouse"
+msgstr ""
+
+msgctxt "DancerAccess_High"
+msgid ""
+"This house was recently passed by a dancer. It will have dance stage access "
+"for a long time"
+msgstr ""
+
+msgctxt "DancerAccess_Low"
+msgid ""
+"This house has not been passed by a dancer for a while. It will soon lose "
+"dance access"
+msgstr ""
+
+msgctxt "DancerAccess_Mid"
+msgid "This house has dance stage access"
+msgstr ""
+
+msgctxt "DancerAccess_None"
+msgid "This house has no access to a dance stage"
+msgstr ""
+
+msgctxt "DentistAccess_High"
+msgid ""
+"This house was recently passed by a dentist. It will have Dentist access for"
+" a long time"
+msgstr ""
+
+msgctxt "DentistAccess_Low"
+msgid ""
+"Unless a dentist walks by soon, this house will lose Dentist office access"
+msgstr ""
+
+msgctxt "DentistAccess_Mid"
+msgid "This house has Dentist access"
+msgstr ""
+
+msgctxt "DentistAccess_None"
+msgid "This house has no access to a Dentist's office"
+msgstr ""
+
+msgctxt "DiseaseRisk_0"
+msgid "This building is disease-ridden."
+msgstr ""
+
+msgctxt "DiseaseRisk_20"
+msgid "This building has a risk of disease"
+msgstr ""
+
+msgctxt "DiseaseRisk_40"
+msgid "This building has some risk of disease."
+msgstr ""
+
+msgctxt "DiseaseRisk_60"
+msgid "This building is a negligible disease risk."
+msgstr ""
+
+msgctxt "DiseaseRisk_80"
+msgid "This building has no likelihood of disease."
+msgstr ""
+
+msgctxt "EducationAccess_Both"
+msgid "This house has access to both a Scribal School and a Library"
+msgstr ""
+
+msgctxt "EducationAccess_None"
+msgid "This house has no access to any Scribal Schools or Libraries"
+msgstr ""
+
+msgctxt "EducationAccess_One"
+msgid "This house has access to a Scribal School or to a Library"
+msgstr ""
+
+msgctxt "EntertainmentValue_0"
+msgid "This dwelling has no access to any entertainment whatsoever"
+msgstr ""
+
+msgctxt "EntertainmentValue_1"
+msgid "This dwelling barely has access to any entertainment"
+msgstr ""
+
+msgctxt "EntertainmentValue_10"
+msgid "This dwelling has very limited access to entertainment venues"
+msgstr ""
+
+msgctxt "EntertainmentValue_20"
+msgid "This dwelling has limited access to entertainment venues"
+msgstr ""
+
+msgctxt "EntertainmentValue_30"
+msgid "This dwelling has some access to entertainment venues"
+msgstr ""
+
+msgctxt "EntertainmentValue_40"
+msgid "This dwelling has access to several entertainment venues"
+msgstr ""
+
+msgctxt "EntertainmentValue_50"
+msgid "This dwelling has reasonable access to entertainment venues"
+msgstr ""
+
+msgctxt "EntertainmentValue_60"
+msgid "This dwelling has good access to entertainment venues"
+msgstr ""
+
+msgctxt "EntertainmentValue_70"
+msgid "This dwelling has very good access to entertainment venues"
+msgstr ""
+
+msgctxt "EntertainmentValue_80"
+msgid "This dwelling has excellent access to entertainment venues"
+msgstr ""
+
+msgctxt "EntertainmentValue_90"
+msgid "This dwelling has access to all the entertainment it could ever desire"
+msgstr ""
+
+msgctxt "FireRisk_0"
+msgid "This building has no likelihood of catching fire"
+msgstr ""
+
+msgctxt "FireRisk_100"
+msgid "This building could catch fire at any moment!"
+msgstr ""
+
+msgctxt "FireRisk_20"
+msgid "This building is a negligible fire risk"
+msgstr ""
+
+msgctxt "FireRisk_40"
+msgid "This building has some risk of fire"
+msgstr ""
+
+msgctxt "FireRisk_60"
+msgid "This building has a risk of fire"
+msgstr ""
+
+msgctxt "FireRisk_80"
+msgid "This building is a fire trap"
+msgstr ""
+
+msgctxt "FoodAcess_High"
+msgid "This house has no problems in getting the food it requires to survive"
+msgstr ""
+
+msgctxt "FoodAcess_Low"
+msgid "This house will soon eat through its limited stocks of food"
+msgstr ""
+
+msgctxt "FoodAcess_Mid"
+msgid "This house has food stocks to last for at least the coming month"
+msgstr ""
+
+msgctxt "FoodAcess_None"
+msgid "This house has no stocks of food"
+msgstr ""
+
+msgctxt "JugglerAccess_High"
+msgid ""
+"This house was recently passed by a juggler. It will have juggler access for"
+" a long time"
+msgstr ""
+
+msgctxt "JugglerAccess_Low"
+msgid ""
+"This house has not been passed by a juggler for a while. It will soon lose "
+"juggler access"
+msgstr ""
+
+msgctxt "JugglerAccess_Mid"
+msgid "This house has juggler access"
+msgstr ""
+
+msgctxt "JugglerAccess_None"
+msgid "This house has no access to a juggler"
+msgstr ""
+
+msgctxt "LibraryAccess_High"
+msgid ""
+"This house was recently passed by a librarian. It will have Library access "
+"for a long time"
+msgstr ""
+
+msgctxt "LibraryAccess_Low"
+msgid "Unless a librarian passes it soon, this house will lose Library access"
+msgstr ""
+
+msgctxt "LibraryAccess_Mid"
+msgid "This house has Library access"
+msgstr ""
+
+msgctxt "LibraryAccess_None"
+msgid "This house has no access to a Library"
+msgstr ""
+
+msgctxt "MalariaRisk_0"
+msgid "This building will have malaria soon."
+msgstr ""
+
+msgctxt "MalariaRisk_20"
+msgid "This building has a risk of malaria"
+msgstr ""
+
+msgctxt "MalariaRisk_40"
+msgid "This building has some risk of malaria."
+msgstr ""
+
+msgctxt "MalariaRisk_60"
+msgid "This building is a negligible malaria risk."
+msgstr ""
+
+msgctxt "MalariaRisk_80"
+msgid "This building has no likelihood of malaria."
+msgstr ""
+
+msgctxt "MortuaryAccess_High"
+msgid ""
+"This house was recently passed by an embalmer. It will have Mortuary access "
+"for a long time"
+msgstr ""
+
+msgctxt "MortuaryAccess_Low"
+msgid ""
+"Unless an embalmer passes it soon, this house will lose Mortuary access"
+msgstr ""
+
+msgctxt "MortuaryAccess_Mid"
+msgid "This house has Mortuary access"
+msgstr ""
+
+msgctxt "MortuaryAccess_None"
+msgid "This house has no access to a Mortuary"
+msgstr ""
+
+msgctxt "MusicianAccess_High"
+msgid ""
+"This house was recently passed by a musician. It will have musician access "
+"for a long time"
+msgstr ""
+
+msgctxt "MusicianAccess_Low"
+msgid ""
+"This house has not been passed by a musician for a while. It will soon lose "
+"musician access"
+msgstr ""
+
+msgctxt "MusicianAccess_Mid"
+msgid "This house has musician access"
+msgstr ""
+
+msgctxt "MusicianAccess_None"
+msgid "This house has no access to a musicians' stage"
+msgstr ""
+
+msgctxt "OverlayGeneral"
+msgid "Overlay intelligent help."
+msgstr ""
+
+msgctxt "PhysicianAccess_High"
+msgid "This house hasn't been passed by a physician in a while."
+msgstr ""
+
+msgctxt "PhysicianAccess_Low"
+msgid "This house has recently had a physician pass by."
+msgstr ""
+
+msgctxt "PhysicianAccess_Mid"
+msgid "This house has had a physician pass by."
+msgstr ""
+
+msgctxt "PhysicianAccess_None"
+msgid "No Physician access."
+msgstr ""
+
+msgctxt "PoliceRisk_0"
+msgid ""
+"This is a very law-abiding neighborhood, with no crimes reported at all"
+msgstr ""
+
+msgctxt "PoliceRisk_100"
+msgid ""
+"This whole area is a tinderbox of unrest! Crime is endemic, and anything "
+"might happen"
+msgstr ""
+
+msgctxt "PoliceRisk_20"
+msgid "There is only the occasional crime in this area"
+msgstr ""
+
+msgctxt "PoliceRisk_40"
+msgid "This is a low-crime area, but a few residents have complained"
+msgstr ""
+
+msgctxt "PoliceRisk_60"
+msgid ""
+"Several crimes were reported here recently, but on the whole, this "
+"neighborhood is reasonably secure"
+msgstr ""
+
+msgctxt "PoliceRisk_80"
+msgid ""
+"This is a high-crime area. Residents are unhappy, and the streets are not "
+"safe to walk at night"
+msgstr ""
+
+msgctxt "ReligionAccess_Five"
+msgid "This house has access to Temples to all the gods"
+msgstr ""
+
+msgctxt "ReligionAccess_Four"
+msgid "This house has access to Temples to 4 different gods"
+msgstr ""
+
+msgctxt "ReligionAccess_None"
+msgid "This house has no access to any Temples or Shrines"
+msgstr ""
+
+msgctxt "ReligionAccess_One"
+msgid "This house has access to a Temple to a single god only"
+msgstr ""
+
+msgctxt "ReligionAccess_Three"
+msgid "This house has access to Temples to 3 different gods"
+msgstr ""
+
+msgctxt "ReligionAccess_Two"
+msgid "This house has access to Temples to 2 different gods"
+msgstr ""
+
+msgctxt "ScribalSchoolAccess_High"
+msgid ""
+"This house was recently passed by a scholar. It will have Scribal School "
+"access for a long time"
+msgstr ""
+
+msgctxt "ScribalSchoolAccess_Low"
+msgid ""
+"Unless a scholar passes by soon, this house will lose Scribal School access"
+msgstr ""
+
+msgctxt "ScribalSchoolAccess_Mid"
+msgid "This house has Scribal School access"
+msgstr ""
+
+msgctxt "ScribalSchoolAccess_None"
+msgid "This house has no access to a Scribal School"
+msgstr ""
+
+msgctxt "SenetAccess_High"
+msgid ""
+"This house was recently passed by a senet master. It will have Senet House "
+"access for a long time"
+msgstr ""
+
+msgctxt "SenetAccess_Low"
+msgid ""
+"This house has not been passed by a senet master for a while. It will soon "
+"lose Senet House access"
+msgstr ""
+
+msgctxt "SenetAccess_Mid"
+msgid "This house has Senet House access"
+msgstr ""
+
+msgctxt "SenetAccess_None"
+msgid "This house has no access to a Senet House"
+msgstr ""
+
+msgctxt "TaxAccess_None"
+msgid "This house is not registered for taxes, and so does not pay any tax"
+msgstr ""
+
+msgctxt "TaxAccess_Yes"
+msgid "{0} deben collected so far this year."
+msgstr ""
+
+msgctxt "TaxAccess_Zero"
+msgid "No tax collected from this house so far this year."
+msgstr ""
+
+msgctxt "WaterAccess_None"
+msgid "This dwelling has no access to drinking water"
+msgstr ""
+
+msgctxt "WaterAccess_Tile"
+msgid "This land has a groundwater supply for wells and Water Supplies"
+msgstr ""
+
+msgctxt "WaterAccess_WaterSupply_High"
+msgid ""
+"This house was recently passed by a water carrier. It will have clean "
+"drinking water for a long time"
+msgstr ""
+
+msgctxt "WaterAccess_WaterSupply_Low"
+msgid ""
+"Unless a water carrier passes soon, this house will exhaust its stocks of "
+"clean drinking water"
+msgstr ""
+
+msgctxt "WaterAccess_WaterSupply_Mid"
+msgid "This house has stocks of clean drinking water"
+msgstr ""
+
+msgctxt "WaterAccess_WaterSupply_None"
+msgid "This house is receiving no deliveries of clean drinking water"
+msgstr ""
+
+msgctxt "WaterAccess_Well"
+msgid "This dwelling has only basic drinking water access"
+msgstr ""
+
+msgctxt "WorkforceAccess_1"
+msgid ""
+"This building currently has very little access to people to supply it with "
+"labor"
+msgstr ""
+
+msgctxt "WorkforceAccess_20"
+msgid ""
+"This building currently has poor access to people to supply it with labor"
+msgstr ""
+
+msgctxt "WorkforceAccess_40"
+msgid ""
+"This building currently has some access to people to supply it with labor"
+msgstr ""
+
+msgctxt "WorkforceAccess_60"
+msgid ""
+"This building currently has good access to people to supply it with labor"
+msgstr ""
+
+msgctxt "WorkforceAccess_80"
+msgid ""
+"This building currently has excellent access to people to supply it with "
+"labor"
+msgstr ""
+
+msgctxt "WorkforceAccess_None"
+msgid ""
+"This building currently has no access to people to supply it with labor"
+msgstr ""
+
+msgctxt "ZooAccess_High"
+msgid ""
+"This house was recently passed by a zookeeper. It will have Zoo access for a"
+" long time"
+msgstr ""
+
+msgctxt "ZooAccess_Low"
+msgid ""
+"This house has not been passed by a zookeeper for a while. It will soon lose"
+" Zoo access"
+msgstr ""
+
+msgctxt "ZooAccess_Mid"
+msgid "This house has Zoo access"
+msgstr ""
+
+msgctxt "ZooAccess_None"
+msgid "This house has no access to a Zoo"
 msgstr ""

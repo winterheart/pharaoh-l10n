@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-02-28 00:28\n"
-"PO-Revision-Date: 2023-02-28 00:28\n"
+"POT-Creation-Date: 2023-03-21 16:51\n"
+"PO-Revision-Date: 2023-03-21 16:51\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -180,12 +180,25 @@ msgid ""
 "look by pressing the rotation key"
 msgstr ""
 
+msgctxt "#GranaryDefault"
+msgid "Granaries Default Accept"
+msgstr ""
+
+msgctxt "#GranaryDefault_0_hover"
+msgid "Granaries accept all goods by default"
+msgstr ""
+
+msgctxt "#GranaryDefault_1_hover"
+msgid "Granaries refuse all goods by default"
+msgstr ""
+
 msgctxt "#HoverDelay"
-msgid "Hover on building Delay"
+msgid "Hover Delay"
 msgstr ""
 
 msgctxt "#HoverDelay_hover"
-msgid "Duration of the hover on a building before the info are display"
+msgid ""
+"Duration of time you can hover over a building before the info is displayed"
 msgstr ""
 
 msgctxt "#Monitor"
@@ -230,6 +243,18 @@ msgstr ""
 
 msgctxt "#StorageDefault_1_hover"
 msgid "Granaries & Storage Yards refuse all goods by default"
+msgstr ""
+
+msgctxt "#StorageYardDefault"
+msgid "Storage Yards Default Accept"
+msgstr ""
+
+msgctxt "#StorageYardDefault_0_hover"
+msgid "Storage Yards accept all goods by default"
+msgstr ""
+
+msgctxt "#StorageYardDefault_1_hover"
+msgid "Storage Yards refuse all goods by default"
 msgstr ""
 
 msgctxt "#Subcategory"
@@ -279,6 +304,16 @@ msgstr ""
 
 msgctxt "#UIScale"
 msgid "UI scale"
+msgstr ""
+
+msgctxt "#UncappedZoom"
+msgid "Uncapped Zoom"
+msgstr ""
+
+msgctxt "#UncappedZoom_hover"
+msgid ""
+"You can zoom out as much as you want. Can have a severe effect on "
+"performances, use at your own risks"
 msgstr ""
 
 msgctxt "#UnlimitedFramerate"

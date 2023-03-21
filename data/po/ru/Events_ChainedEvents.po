@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-02-15 20:56\n"
-"PO-Revision-Date: 2023-03-14 21:52+0300\n"
+"POT-Creation-Date: 2023-03-21 16:51\n"
+"PO-Revision-Date: 2023-03-19 01:28+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -15,32 +15,29 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 23.07.70\n"
 
-#, fuzzy
 msgctxt "#ConstructionProjectComply_City_ReasonPhrase_1"
 msgid ""
 "because you helped {[city_name]} successfully complete its project on "
 "schedule by sending {0} {[resource]},"
 msgstr ""
-"вы помогли городу {[city_name]} закончить стройку в срок, отправив материалы "
-"({[resource]}, {0} ед.). Поэтому"
+"поскольку вы помогли городу {[city_name]} закончить стройку в срок, отправив "
+"материалы ({[resource]}, {0} шт.),"
 
-#, fuzzy
 msgctxt "#ConstructionProjectComply_City_ReasonPhrase_2"
 msgid ""
 "you helped {[city_name]} to keep its project on schedule by sending {0} "
 "{[resource]}. Incidentally,"
 msgstr ""
-"вы помогли городу {[city_name]} вовремя завершить стройку, отправив "
-"материалы ({[resource]}, {0} ед.). Вдобавок"
+"вы помогли городу {[city_name]} соблюсти график стройки, отправив материалы "
+"({[resource]}, {0} шт.). Вдобавок"
 
-#, fuzzy
 msgctxt "#ConstructionProjectComply_City_ReasonPhrase_3"
 msgid ""
 "although you helped {[city_name]} successfully complete its project on "
 "schedule by sending {0} {[resource]},"
 msgstr ""
-"вы помогли городу {[city_name]} закончить стройку в срок, отправив материалы "
-"({[resource]}, {0} ед.). Однако"
+"хотя вы помогли городу {[city_name]} закончить стройку в срок, отправив "
+"материалы ({[resource]}, {0} шт.),"
 
 msgctxt "#ConstructionProjectComply_Pharaoh_ReasonPhrase_1"
 msgid ""
@@ -51,23 +48,21 @@ msgstr ""
 "очень важны для своевременного завершения проекта фараона в городе "
 "{[city_name]}, поэтому"
 
-#, fuzzy
 msgctxt "#ConstructionProjectComply_Pharaoh_ReasonPhrase_2"
 msgid ""
 "the {0} {[resource]} you sent were essential to the timely completion of "
 "Pharaoh's construction project in {[city_name]}. Also,"
 msgstr ""
-"благодаря отправленным материалам ({[resource]}, {0} ед.) помогли завершить "
-"стройку фараона в городе {[city_name]}. Кроме того,"
+"отправленные вами материалы ({[resource]}, {0} шт.) были очень важны для "
+"своевременного завершения проекта фараона в городе {[city_name]}. Также,"
 
-#, fuzzy
 msgctxt "#ConstructionProjectComply_Pharaoh_ReasonPhrase_3"
 msgid ""
 "even though the {0} {[resource]} you sent were essential to the timely "
 "completion of Pharaoh's construction project in {[city_name]},"
 msgstr ""
-"благодаря отправленным материалам ({[resource]}, {0} ед.) помогли завершить "
-"стройку фараона в городе {[city_name]}. Однако"
+"хотя отправленные вами материалы ({[resource]}, {0} шт.) были очень важны "
+"для своевременного завершения проекта фараона в городе {[city_name]},"
 
 #, fuzzy
 msgctxt "#ConstructionProjectRefuse_City_ReasonPhrase_1"
@@ -198,7 +193,7 @@ msgstr "поскольку {[city_name]} закупает меньше ресу�
 
 #, fuzzy
 msgctxt "#DemandDown_ReasonPhrase_2"
-msgid "{[city_name]} is no trading as much, and"
+msgid "{[city_name]} is not trading as much, and"
 msgstr "в городе {[city_name]} снизился спрос. Также"
 
 #, fuzzy
@@ -795,7 +790,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#FamineReliefRefuse_Pharaoh_ReasonPhrase_3"
 msgid ""
-"you shunned Pharaoh and his people at {[city_name]}, during the famine by "
+"you shunned Pharaoh and his people at {[city_name]} during the famine by "
 "denying to send {0} {[resource]}, but despite this"
 msgstr ""
 "отказавшись отправить пищу ({[resource]}, {0} ед.) голодающим в город "
@@ -858,20 +853,17 @@ msgstr ""
 "пищи ({[resource]}, {0} ед.). Однако вы все же немного утолили их голод, "
 "поэтому"
 
-#, fuzzy
 msgctxt "#FloodFails_ReasonPhrase_1"
 msgid "because the flood is expected to fail"
-msgstr "поскольку разлив не ожидается,"
+msgstr "поскольку разлива не будет,"
 
-#, fuzzy
 msgctxt "#FloodFails_ReasonPhrase_2"
 msgid "the flood is expected to fail, and"
-msgstr "в этом году разлив не ожидается, и"
+msgstr "разлива не будет, и"
 
-#, fuzzy
 msgctxt "#FloodFails_ReasonPhrase_3"
 msgid "even though the flood was expected to fail,"
-msgstr "хотя разлив в этом году не ожидается,"
+msgstr "хотя разлива не будет,"
 
 msgctxt "#GeneralRequestComply_City_ReasonPhrase_1"
 msgid ""
@@ -1040,7 +1032,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#GiftForfeited_ReasonPhrase_1"
 msgid ""
-"because you did not accept a gift of {0} {[resource]} from {[city_name]}"
+"because you did not accept a gift of {0} {[resource]} from {[city_name]},"
 msgstr ""
 "поскольку вы не приняли подарок ({[resource]}, {0} ед.) от города "
 "{[city_name]},"
@@ -1055,13 +1047,13 @@ msgstr ""
 #, fuzzy
 msgctxt "#GiftForfeited_ReasonPhrase_3"
 msgid ""
-"though you did not accept the gift of {0} {[resource]} from {[city_name]}"
+"though you did not accept the gift of {0} {[resource]} from {[city_name]},"
 msgstr ""
 "хотя вы не приняли подарок ({[resource]}, {0} ед.) от города {[city_name]},"
 
 #, fuzzy
 msgctxt "#GiftRefused_ReasonPhrase_1"
-msgid "because you refused a gift of {0} {[resource]} from {[city_name]}"
+msgid "because you refused a gift of {0} {[resource]} from {[city_name]},"
 msgstr ""
 "поскольку вы отказались принять подарок ({[resource]}, {0} ед.) от города "
 "{[city_name]},"
@@ -1123,34 +1115,32 @@ msgstr ""
 "хотя вы помогли городу {[city_name]} устроить великий праздник в честь "
 "божества {[god]}, отправив ресурс ({[resource]}, {0} ед.),"
 
-#, fuzzy
 msgctxt "#GreatFestivalComply_Pharaoh_ReasonPhrase_1"
 msgid ""
 "because you honored Pharaoh and {[god]} by sending {0} {[resource]} to "
 "{[city_name]} in time for the Great Festival,"
 msgstr ""
-"вы успели к великому празднику отправить в город {[city_name]} ресурс "
-"({[resource]}, {0} ед.), проявив почтение к фараону и божеству {[god]. "
-"Поэтому"
+"поскольку вы проявили почтение к фараону и богу {[god]}, вовремя отравив к "
+"великому празднику в городе {[city_name]} необходимые припасы ({[resource]}, "
+"{0} шт.),"
 
-#, fuzzy
 msgctxt "#GreatFestivalComply_Pharaoh_ReasonPhrase_2"
 msgid ""
 "you graciously honored Pharaoh and {[god]} by sending {0} {[resource]} to "
 "{[city_name]} in time for the Great Festival. Also,"
 msgstr ""
-"вы успели к великому празднику отправить в город {[city_name]} ресурс "
-"({[resource]}, {0} ед.), проявив почтение к фараону и божеству {[god]. Кроме "
-"того,"
+"вы проявили любезное почтение к фараону и богу {[god]}, вовремя отравив к "
+"великому празднику в городе {[city_name]} необходимые припасы ({[resource]}, "
+"{0} шт.). Также,"
 
-#, fuzzy
 msgctxt "#GreatFestivalComply_Pharaoh_ReasonPhrase_3"
 msgid ""
 "although you graciously honored Pharaoh and {[god]} by sending {0} "
 "{[resource]} to {[city_name]} in time for the Great Festival,"
 msgstr ""
-"хотя вы успели к великому празднику отправить в город {[city_name]} ресурс "
-"({[resource]}, {0} ед.), проявив почтение к фараону и божеству {[god]},"
+"хотя вы проявили любезное почтение к фараону и богу {[god]}, вовремя отравив "
+"к великому празднику в городе {[city_name]} необходимые припасы "
+"({[resource]}, {0} шт.),"
 
 #, fuzzy
 msgctxt "#GreatFestivalRefuse_City_ReasonPhrase_1"
@@ -1236,33 +1226,32 @@ msgstr ""
 "хотя город {[city_name]} не получил к великому празднику в честь божества "
 "{[god]} нужное ({[resource]}, {0} ед.), вы все же старались. Поэтому"
 
-#, fuzzy
 msgctxt "#GreatFestivalTooLate_Pharaoh_ReasonPhrase_1"
 msgid ""
 "because you sent {0} {[resource]} too late for Pharaoh's Great Festival to "
 "{[god]} at {[city_name]},"
 msgstr ""
-"вы не успели доставить в город {[city_name]} все необходимое ({[resource]}, "
-"{0} ед.) к великому празднику в честь божества {[god]. Поэтому"
+"поскольку вы слишком поздно отправили необходимые припасы ({[resource]}, {0} "
+"шт.) в город {[city_name]} на великий праздник, устроенный фараоном в честь "
+"бога {[god]},"
 
-#, fuzzy
 msgctxt "#GreatFestivalTooLate_Pharaoh_ReasonPhrase_2"
 msgid ""
 "you sent {0} {[resource]} too late for Pharaoh's Great Festival to {[god]} "
 "at {[city_name]}. Additionally,"
 msgstr ""
-"вы не успели доставить в город {[city_name]} все необходимое ({[resource]}, "
-"{0} ед.) к великому празднику в честь божества {[god]. Кроме того,"
+"вы слишком поздно отправили необходимые припасы ({[resource]}, {0} шт.) в "
+"город {[city_name]} на великий праздник, устроенный фараоном в честь бога "
+"{[god]}. Также,"
 
-#, fuzzy
 msgctxt "#GreatFestivalTooLate_Pharaoh_ReasonPhrase_3"
 msgid ""
 "even though the {0} {[resource]} arrived too late for Pharaoh's Great "
 "Festival to {[god]} at {[city_name]}, since you made the effort,"
 msgstr ""
-"хотя вы не успели доставить в город {[city_name]} все необходимое "
-"({[resource]}, {0} ед.) к великому празднику в честь божества {[god]}, все "
-"же вы старались. Поэтому"
+"хотя вы слишком поздно отправили необходимые припасы ({[resource]}, {0} шт.) "
+"в город {[city_name]} на великий праздник, устроенный фараоном в честь бога "
+"{[god]},"
 
 #, fuzzy
 msgctxt "#Invasion_Bedouin_ReasonPhrase_1"
@@ -1393,12 +1382,12 @@ msgstr "поскольку цена на ресурс {[resource]} возрос�
 
 #, fuzzy
 msgctxt "#PriceUp_ReasonPhrase_2"
-msgid "the price of {[resource]} risen, and what's more"
+msgid "the price of {[resource]} has risen, and what's more"
 msgstr "цена на ресурс {[resource]} возросла. Вдобавок"
 
 #, fuzzy
 msgctxt "#PriceUp_ReasonPhrase_3"
-msgid "event though prices have risen,"
+msgid "even though prices have risen,"
 msgstr "хотя цены возросли,"
 
 #, fuzzy
@@ -1451,8 +1440,8 @@ msgstr ""
 #, fuzzy
 msgctxt "#ThreatComply_City_ReasonPhrase_3"
 msgid ""
-"even though you gave into the demands of {[city_name]} for {0} {[resource]}, "
-"nevertheless"
+"even though you gave in to the demands of {[city_name]} for {0} "
+"{[resource]}, nevertheless"
 msgstr ""
 "хотя вы исполнили требование города {[city_name]} и отправили ресурс "
 "({[resource]}, {0} ед.),"
@@ -1468,8 +1457,8 @@ msgstr ""
 #, fuzzy
 msgctxt "#ThreatComply_Pharaoh_ReasonPhrase_2"
 msgid ""
-"you have given in to Pharaoh and sent {0} {[resource]} to regarding "
-"{[city_name]}. Also, viziers report that"
+"you have given in to Pharaoh and sent {0} {[resource]} to {[city_name]}. "
+"Also, viziers report that"
 msgstr ""
 "вы отправили в город {[city_name]} ресурс ({[resource]}, {0} ед.), исполнив "
 "волю фараона. Также визири докладывают, что"
@@ -1630,32 +1619,26 @@ msgctxt "#UnderSiege_ReasonPhrase_3"
 msgid "even though {[city_name]} is under siege,"
 msgstr "хотя город {[city_name]} в осаде,"
 
-#, fuzzy
 msgctxt "#WageDown_ReasonPhrase_1"
 msgid "because wages have fallen,"
-msgstr "поскольку доходы жителей падают,"
+msgstr "поскольку жалование падает,"
 
-#, fuzzy
 msgctxt "#WageDown_ReasonPhrase_2"
 msgid "wages have fallen, and what's more,"
-msgstr "доходы жителей падают. Кроме того,"
+msgstr "жалование падает, кроме того,"
 
-#, fuzzy
 msgctxt "#WageDown_ReasonPhrase_3"
 msgid "even though wages have fallen,"
-msgstr "хотя доходы жителей падают,"
+msgstr "хотя жалование падает,"
 
-#, fuzzy
 msgctxt "#WageUp_ReasonPhrase_1"
 msgid "because wages have increased throughout the Kingdom,"
-msgstr "поскольку доходы жителей по всему государству растут,"
+msgstr "поскольку жалование по всему Царству растёт,"
 
-#, fuzzy
 msgctxt "#WageUp_ReasonPhrase_2"
 msgid "wages have increased throughout the Kingdom, and"
-msgstr "доходы жителей по всему государству растут, и"
+msgstr "жалование по всему Царству растёт, и"
 
-#, fuzzy
 msgctxt "#WageUp_ReasonPhrase_3"
 msgid "even though wages have increased throughout the Kingdom,"
-msgstr "хотя доходы жителей по всему государству растут,"
+msgstr "хотя жалование по всему Царству растёт,"
