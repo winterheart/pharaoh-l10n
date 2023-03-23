@@ -12,12 +12,7 @@ using UnityEngine;
 using I2.Loc;
 using HarmonyLib;
 using System.Reflection.Emit;
-using System.Security.Cryptography;
-using System.Net;
-using System.Runtime.Serialization;
 using System.Linq;
-using System.Runtime.CompilerServices;
-using System;
 
 namespace Pharaoh_L10n
 {
@@ -69,13 +64,24 @@ namespace Pharaoh_L10n
         static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
         {
             var codes = new List<CodeInstruction>(instructions);
-            foreach (var code in codes)
+            bool found = false;
+            foreach (var code in codes.Select((name, index) => (name, index)))
             {
-                if (code.opcode == OpCodes.Ldftn && (code.operand as MethodInfo).Name == "<OnEnable>b__79_0")
+                if (code.name.opcode == OpCodes.Newobj &&
+                    (code.name.operand as ConstructorInfo).FullDescription() == "void System.Func<string, bool>::.ctor(object object, IntPtr method)" &&
+                    codes[code.index - 1].opcode == OpCodes.Ldftn
+                    )
                 {
-                    MelonLogger.Msg($"Found opcode: {code.opcode.Name} : {(code.operand as MethodInfo).Name}");
-                    code.operand = AccessTools.Method(typeof(Utils), "IsNotNote");
+                    MelonLogger.Msg($"Found anchor opcode");
+                    MelonLogger.Msg($"Previous opcode: {codes[code.index - 1].opcode.Name} : {(codes[code.index - 1].operand as MethodInfo).Name}");
+                    codes[code.index - 1].operand = AccessTools.Method(typeof(Utils), "IsNotNote");
+                    found = true;
                 }
+               
+            }
+            if (!found)
+            {
+                MelonLogger.Warning($"Anchor opcode not found!");
             }
             return codes;
         }
