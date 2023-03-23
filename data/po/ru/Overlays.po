@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-03-21 16:51\n"
-"PO-Revision-Date: 2023-02-19 19:56+0300\n"
+"PO-Revision-Date: 2023-03-22 00:21+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -17,564 +17,586 @@ msgstr ""
 
 msgctxt ""
 msgid "This house is infested with frogs"
-msgstr "Этот дом наводнён жабами"
+msgstr "Этот дом наводнён жабами."
 
 msgctxt "ApothecaryAccess_High"
 msgid ""
 "This house was recently passed by a herbalist. It will have Apothecary "
 "access for a long time"
 msgstr ""
+"Мимо этого дома недавно проходил аптекарь. Доступ к аптеке сохранится ещё "
+"надолго."
 
 msgctxt "ApothecaryAccess_Low"
 msgid ""
 "Unless a herbalist passes it soon, this house will lose Apothecary access"
 msgstr ""
+"Если в ближайшем времени рядом не пройдёт аптекарь, этот дом потеряет доступ "
+"к аптеке."
 
-#, fuzzy
 msgctxt "ApothecaryAccess_Mid"
 msgid "This house has Apothecary access"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к аптеке."
 
-#, fuzzy
 msgctxt "ApothecaryAccess_None"
 msgid "This house has no access to an Apothecary"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к аптеке."
 
 msgctxt "ArchitectRisk_0"
 msgid "This building is unstable, and is likely to collapse soon"
-msgstr ""
+msgstr "Это здание нестабильно и очень скоро может обвалиться."
 
 msgctxt "ArchitectRisk_100"
 msgid "This building is in perfect structural condition"
-msgstr ""
+msgstr "Это здание в идеальном состоянии."
 
 msgctxt "ArchitectRisk_20"
 msgid "This building has many structural faults and cracks"
-msgstr ""
+msgstr "У этого здания множество трещин и дефектов."
 
 msgctxt "ArchitectRisk_40"
 msgid "This building has some structural faults"
-msgstr ""
+msgstr "У этого здания есть несколько дефектов."
 
 msgctxt "ArchitectRisk_60"
 msgid "This building has a low risk of collapse"
-msgstr ""
+msgstr "У этого здания низкий риск обвала."
 
 msgctxt "ArchitectRisk_80"
 msgid "This building has a negligible risk of collapse"
-msgstr ""
+msgstr "У этого здания ничтожный риск обвала."
 
 msgctxt "CourthouseAccess_High"
 msgid ""
 "This house was recently passed by a magistrate. It will have Courthouse "
 "access for a long time"
 msgstr ""
+"Мимо этого дома недавно проходил магистрат. Доступ к зданию суда сохранится "
+"ещё надолго."
 
 msgctxt "CourthouseAccess_Low"
 msgid ""
 "This house has not been passed by a magistrate for a while. It will soon "
 "lose Courthouse access"
 msgstr ""
+"Этот дом давно не посещался магистратом. Он скоро потеряет доступ к зданию "
+"суда."
 
-#, fuzzy
 msgctxt "CourthouseAccess_Mid"
 msgid "This house has Courthouse access"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к зданию суда."
 
-#, fuzzy
 msgctxt "CourthouseAccess_None"
 msgid "This house has no access to a Courthouse"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к зданию суда."
 
 msgctxt "DancerAccess_High"
 msgid ""
 "This house was recently passed by a dancer. It will have dance stage access "
 "for a long time"
 msgstr ""
+"Мимо этого дома недавно проходила танцовщица. Доступ к танцевальной площадке "
+"сохранится ещё надолго."
 
 msgctxt "DancerAccess_Low"
 msgid ""
 "This house has not been passed by a dancer for a while. It will soon lose "
 "dance access"
 msgstr ""
+"Этот дом давно не посещался танцовщицей. Он скоро потеряет доступ к "
+"танцевальным площадкам."
 
-#, fuzzy
 msgctxt "DancerAccess_Mid"
 msgid "This house has dance stage access"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к танцевальным площадкам."
 
-#, fuzzy
 msgctxt "DancerAccess_None"
 msgid "This house has no access to a dance stage"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к танцевальным площадкам."
 
 msgctxt "DentistAccess_High"
 msgid ""
 "This house was recently passed by a dentist. It will have Dentist access for "
 "a long time"
 msgstr ""
+"Мимо этого дома недавно проходил дантист. Доступ к нему сохранится ещё "
+"надолго."
 
 msgctxt "DentistAccess_Low"
 msgid ""
 "Unless a dentist walks by soon, this house will lose Dentist office access"
 msgstr ""
+"Если в ближайшем времени рядом не пройдёт дантист, этот дом потеряет к нему "
+"доступ."
 
-#, fuzzy
 msgctxt "DentistAccess_Mid"
 msgid "This house has Dentist access"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к дантисту."
 
-#, fuzzy
 msgctxt "DentistAccess_None"
 msgid "This house has no access to a Dentist's office"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к дантисту."
 
 msgctxt "DiseaseRisk_0"
 msgid "This building is disease-ridden."
-msgstr ""
+msgstr "Это здание — рассадник болезней."
 
 msgctxt "DiseaseRisk_20"
 msgid "This building has a risk of disease"
-msgstr ""
+msgstr "У этого здания есть риск заболеваний."
 
 msgctxt "DiseaseRisk_40"
 msgid "This building has some risk of disease."
-msgstr ""
+msgstr "У этого здания есть некоторый риск заболеваний."
 
 msgctxt "DiseaseRisk_60"
 msgid "This building is a negligible disease risk."
-msgstr ""
+msgstr "У этого здания ничтожный риск заболеваний."
 
 msgctxt "DiseaseRisk_80"
 msgid "This building has no likelihood of disease."
-msgstr ""
+msgstr "Это здание практически не подвержено болезням."
 
-#, fuzzy
 msgctxt "EducationAccess_Both"
 msgid "This house has access to both a Scribal School and a Library"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ и к школе писцов, и к библиотеке."
 
-#, fuzzy
 msgctxt "EducationAccess_None"
 msgid "This house has no access to any Scribal Schools or Libraries"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к школе писцов или библиотеке."
 
-#, fuzzy
 msgctxt "EducationAccess_One"
 msgid "This house has access to a Scribal School or to a Library"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к школе писцов или к библиотеке."
 
-#, fuzzy
 msgctxt "EntertainmentValue_0"
 msgid "This dwelling has no access to any entertainment whatsoever"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого поселения нет доступа к никаким развлечениям."
 
 msgctxt "EntertainmentValue_1"
 msgid "This dwelling barely has access to any entertainment"
-msgstr ""
+msgstr "У этого поселения очень плохой доступ к развлечениям."
 
 msgctxt "EntertainmentValue_10"
 msgid "This dwelling has very limited access to entertainment venues"
 msgstr ""
+"У этого поселения очень ограниченный доступ к развлекательным площадкам."
 
 msgctxt "EntertainmentValue_20"
 msgid "This dwelling has limited access to entertainment venues"
-msgstr ""
+msgstr "У этого поселения ограниченный доступ к развлекательным площадкам."
 
 msgctxt "EntertainmentValue_30"
 msgid "This dwelling has some access to entertainment venues"
-msgstr ""
+msgstr "У этого поселения есть некоторый доступ к развлекательным площадкам."
 
 msgctxt "EntertainmentValue_40"
 msgid "This dwelling has access to several entertainment venues"
 msgstr ""
+"У этого поселения есть доступ к нескольким к развлекательным площадкам."
 
 msgctxt "EntertainmentValue_50"
 msgid "This dwelling has reasonable access to entertainment venues"
-msgstr ""
+msgstr "У этого поселения неплохой доступ к развлекательным площадкам."
 
 msgctxt "EntertainmentValue_60"
 msgid "This dwelling has good access to entertainment venues"
-msgstr ""
+msgstr "У этого поселения хороший доступ к развлекательным площадкам."
 
 msgctxt "EntertainmentValue_70"
 msgid "This dwelling has very good access to entertainment venues"
-msgstr ""
+msgstr "У этого поселения очень хороший доступ к развлекательным площадкам."
 
 msgctxt "EntertainmentValue_80"
 msgid "This dwelling has excellent access to entertainment venues"
-msgstr ""
+msgstr "У этого поселения великолепный доступ к развлекательным площадкам."
 
 msgctxt "EntertainmentValue_90"
 msgid "This dwelling has access to all the entertainment it could ever desire"
 msgstr ""
+"У этого поселения есть доступ ко всем видам развлечения, что можно пожелать."
 
 msgctxt "FireRisk_0"
 msgid "This building has no likelihood of catching fire"
-msgstr ""
+msgstr "Это здание практически не подвержено возгоранию."
 
 msgctxt "FireRisk_100"
 msgid "This building could catch fire at any moment!"
-msgstr ""
+msgstr "Это здание может загореться в любой момент!"
 
 msgctxt "FireRisk_20"
 msgid "This building is a negligible fire risk"
-msgstr ""
+msgstr "У этого здания ничтожный риск возгорания."
 
 msgctxt "FireRisk_40"
 msgid "This building has some risk of fire"
-msgstr ""
+msgstr "У этого здания низкий риск возгорания."
 
 msgctxt "FireRisk_60"
 msgid "This building has a risk of fire"
-msgstr ""
+msgstr "У этого здания есть риск возгорания."
 
 msgctxt "FireRisk_80"
 msgid "This building is a fire trap"
-msgstr ""
+msgstr "Это здание может возгореться."
 
 msgctxt "FoodAcess_High"
 msgid "This house has no problems in getting the food it requires to survive"
-msgstr ""
+msgstr "В этом доме нет проблем с поставками пищи, необходимой для выживания."
 
-#, fuzzy
 msgctxt "FoodAcess_Low"
 msgid "This house will soon eat through its limited stocks of food"
-msgstr "Этот дом наводнён жабами"
+msgstr "В этом доме скоро съедят все съестные запасы."
 
-#, fuzzy
 msgctxt "FoodAcess_Mid"
 msgid "This house has food stocks to last for at least the coming month"
-msgstr "Этот дом наводнён жабами"
+msgstr "В этом доме есть съестные припасы по крайней мере на месяц."
 
-#, fuzzy
 msgctxt "FoodAcess_None"
 msgid "This house has no stocks of food"
-msgstr "Этот дом наводнён жабами"
+msgstr "В этом доме нет съестных припасов."
 
 msgctxt "JugglerAccess_High"
 msgid ""
 "This house was recently passed by a juggler. It will have juggler access for "
 "a long time"
 msgstr ""
+"Мимо этого дома недавно проходил жонглёр. Доступ к жонглёрской площадке "
+"сохранится ещё надолго."
 
 msgctxt "JugglerAccess_Low"
 msgid ""
 "This house has not been passed by a juggler for a while. It will soon lose "
 "juggler access"
 msgstr ""
+"Этот дом давно не посещался жонглёром. Он скоро потеряет доступ к "
+"жонглёрским площадкам."
 
-#, fuzzy
 msgctxt "JugglerAccess_Mid"
 msgid "This house has juggler access"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к жонглёрам."
 
-#, fuzzy
 msgctxt "JugglerAccess_None"
 msgid "This house has no access to a juggler"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к жонглёрам."
 
 msgctxt "LibraryAccess_High"
 msgid ""
 "This house was recently passed by a librarian. It will have Library access "
 "for a long time"
 msgstr ""
+"Мимо этого дома недавно проходил библиотекарь. Доступ к библиотеке "
+"сохранится ещё надолго."
 
 msgctxt "LibraryAccess_Low"
 msgid "Unless a librarian passes it soon, this house will lose Library access"
 msgstr ""
+"Если в ближайшем времени рядом не пройдёт библиотекарь, этот дом потеряет "
+"доступ к библиотеке."
 
-#, fuzzy
 msgctxt "LibraryAccess_Mid"
 msgid "This house has Library access"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к библиотеке."
 
-#, fuzzy
 msgctxt "LibraryAccess_None"
 msgid "This house has no access to a Library"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к библиотеке."
 
 msgctxt "MalariaRisk_0"
 msgid "This building will have malaria soon."
-msgstr ""
+msgstr "В этом доме скоро вспыхнет малярия."
 
 msgctxt "MalariaRisk_20"
 msgid "This building has a risk of malaria"
-msgstr ""
+msgstr "У этого здания есть риск вспышки малярии."
 
 msgctxt "MalariaRisk_40"
 msgid "This building has some risk of malaria."
-msgstr ""
+msgstr "У этого здания есть некоторый риск вспышки малярии."
 
 msgctxt "MalariaRisk_60"
 msgid "This building is a negligible malaria risk."
-msgstr ""
+msgstr "У этого здания ничтожный риск вспышки малярии."
 
 msgctxt "MalariaRisk_80"
 msgid "This building has no likelihood of malaria."
-msgstr ""
+msgstr "Это здание практически не подвержено малярии."
 
 msgctxt "MortuaryAccess_High"
 msgid ""
 "This house was recently passed by an embalmer. It will have Mortuary access "
 "for a long time"
 msgstr ""
+"Мимо этого дома недавно проходил бальзамировщик. Доступ к моргу сохранится "
+"ещё надолго."
 
 msgctxt "MortuaryAccess_Low"
 msgid "Unless an embalmer passes it soon, this house will lose Mortuary access"
 msgstr ""
+"Если в ближайшем времени рядом не пройдёт бальзамировщик, этот дом потеряет "
+"доступ к моргу."
 
-#, fuzzy
 msgctxt "MortuaryAccess_Mid"
 msgid "This house has Mortuary access"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к моргу."
 
-#, fuzzy
 msgctxt "MortuaryAccess_None"
 msgid "This house has no access to a Mortuary"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к моргу."
 
 msgctxt "MusicianAccess_High"
 msgid ""
 "This house was recently passed by a musician. It will have musician access "
 "for a long time"
 msgstr ""
+"Мимо этого дома недавно проходил музыкант. Доступ к музыкальной площадке "
+"сохранится ещё надолго."
 
 msgctxt "MusicianAccess_Low"
 msgid ""
 "This house has not been passed by a musician for a while. It will soon lose "
 "musician access"
 msgstr ""
+"Этот дом давно не посещался музыкантом. Он скоро потеряет доступ к "
+"музыкальным площадкам."
 
-#, fuzzy
 msgctxt "MusicianAccess_Mid"
 msgid "This house has musician access"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к музыкантам."
 
-#, fuzzy
 msgctxt "MusicianAccess_None"
 msgid "This house has no access to a musicians' stage"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к музыкальным площадкам."
 
 msgctxt "OverlayGeneral"
 msgid "Overlay intelligent help."
-msgstr ""
+msgstr "Слой продвинутой помощи."
 
 msgctxt "PhysicianAccess_High"
 msgid "This house hasn't been passed by a physician in a while."
-msgstr ""
+msgstr "Мимо этого дома давно не проходил лекарь."
 
 msgctxt "PhysicianAccess_Low"
 msgid "This house has recently had a physician pass by."
-msgstr ""
+msgstr "Мимо этого дома недавно проходил лекарь."
 
-#, fuzzy
 msgctxt "PhysicianAccess_Mid"
 msgid "This house has had a physician pass by."
-msgstr "Этот дом наводнён жабами"
+msgstr "Мимо этого дома когда-то проходил лекарь."
 
 msgctxt "PhysicianAccess_None"
 msgid "No Physician access."
-msgstr ""
+msgstr "Нет доступа к лекарю."
 
 msgctxt "PoliceRisk_0"
 msgid "This is a very law-abiding neighborhood, with no crimes reported at all"
 msgstr ""
+"Это очень законопослушный район, нет никаких сообщений о преступлениях."
 
 msgctxt "PoliceRisk_100"
 msgid ""
 "This whole area is a tinderbox of unrest! Crime is endemic, and anything "
 "might happen"
 msgstr ""
+"Весь район — преступный притон! Преступления здесь на каждом шагу, всякое "
+"может случиться."
 
 msgctxt "PoliceRisk_20"
 msgid "There is only the occasional crime in this area"
-msgstr ""
+msgstr "Здесь иногда происходят случайные преступления."
 
 msgctxt "PoliceRisk_40"
 msgid "This is a low-crime area, but a few residents have complained"
 msgstr ""
+"Этот район достаточно спокойный, но некоторые жители жаловались на "
+"преступления."
 
 msgctxt "PoliceRisk_60"
 msgid ""
 "Several crimes were reported here recently, but on the whole, this "
 "neighborhood is reasonably secure"
 msgstr ""
+"Недавно здесь жаловались на несколько преступлений, но в целом этот район "
+"достаточно безопасен."
 
 msgctxt "PoliceRisk_80"
 msgid ""
 "This is a high-crime area. Residents are unhappy, and the streets are not "
 "safe to walk at night"
-msgstr ""
+msgstr "Это опасный район. Жители несчастны, по ночам страшно ходить по улице."
 
-#, fuzzy
 msgctxt "ReligionAccess_Five"
 msgid "This house has access to Temples to all the gods"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к храмам всех богов."
 
-#, fuzzy
 msgctxt "ReligionAccess_Four"
 msgid "This house has access to Temples to 4 different gods"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к храмам четырёх богов."
 
-#, fuzzy
 msgctxt "ReligionAccess_None"
 msgid "This house has no access to any Temples or Shrines"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к храмам или святилищам."
 
-#, fuzzy
 msgctxt "ReligionAccess_One"
 msgid "This house has access to a Temple to a single god only"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к храму только одного бога."
 
-#, fuzzy
 msgctxt "ReligionAccess_Three"
 msgid "This house has access to Temples to 3 different gods"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к храмам трёх богов."
 
-#, fuzzy
 msgctxt "ReligionAccess_Two"
 msgid "This house has access to Temples to 2 different gods"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к храмам двух богов."
 
 msgctxt "ScribalSchoolAccess_High"
 msgid ""
 "This house was recently passed by a scholar. It will have Scribal School "
 "access for a long time"
 msgstr ""
+"Мимо этого дома недавно проходил учёный. Доступ к школе писцов сохранится "
+"ещё надолго."
 
 msgctxt "ScribalSchoolAccess_Low"
 msgid ""
 "Unless a scholar passes by soon, this house will lose Scribal School access"
 msgstr ""
+"Если в ближайшем времени рядом не пройдёт учёный, этот дом потеряет доступ к "
+"школе писцов."
 
-#, fuzzy
 msgctxt "ScribalSchoolAccess_Mid"
 msgid "This house has Scribal School access"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к школе писцов."
 
-#, fuzzy
 msgctxt "ScribalSchoolAccess_None"
 msgid "This house has no access to a Scribal School"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к школе писцов."
 
 msgctxt "SenetAccess_High"
 msgid ""
 "This house was recently passed by a senet master. It will have Senet House "
 "access for a long time"
 msgstr ""
+"Мимо этого дома недавно проходил хозяин сенета. Доступ к дому сенета "
+"сохранится ещё надолго."
 
 msgctxt "SenetAccess_Low"
 msgid ""
 "This house has not been passed by a senet master for a while. It will soon "
 "lose Senet House access"
 msgstr ""
+"Этот дом давно не посещался хозяином сенета. Он скоро потеряет доступ к дому "
+"сенета."
 
-#, fuzzy
 msgctxt "SenetAccess_Mid"
 msgid "This house has Senet House access"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к дому сенета."
 
-#, fuzzy
 msgctxt "SenetAccess_None"
 msgid "This house has no access to a Senet House"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к дому сенета."
 
 msgctxt "TaxAccess_None"
 msgid "This house is not registered for taxes, and so does not pay any tax"
 msgstr ""
+"Этот дом не числится в конторе сборщика налогов и поэтому не платит никаких "
+"налогов."
 
 msgctxt "TaxAccess_Yes"
 msgid "{0} deben collected so far this year."
-msgstr ""
+msgstr "{0} дебенов собрано в этом году."
 
 msgctxt "TaxAccess_Zero"
 msgid "No tax collected from this house so far this year."
-msgstr ""
+msgstr "В этом году с этого дома пока не собрано никаких налогов."
 
-#, fuzzy
 msgctxt "WaterAccess_None"
 msgid "This dwelling has no access to drinking water"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого поселения нет доступа к питьевой воде."
 
 msgctxt "WaterAccess_Tile"
 msgid "This land has a groundwater supply for wells and Water Supplies"
-msgstr ""
+msgstr "На этой земле есть водоносный слой для колодцев и источников воды."
 
 msgctxt "WaterAccess_WaterSupply_High"
 msgid ""
 "This house was recently passed by a water carrier. It will have clean "
 "drinking water for a long time"
 msgstr ""
+"Мимо этого дома недавно проходил водонос. Доступ к питьевой воде сохранится "
+"ещё надолго."
 
 msgctxt "WaterAccess_WaterSupply_Low"
 msgid ""
 "Unless a water carrier passes soon, this house will exhaust its stocks of "
 "clean drinking water"
 msgstr ""
+"Если в ближайшем времени рядом не пройдёт водонос, этот дом скоро исчерпает "
+"весь запас питьевой воды."
 
-#, fuzzy
 msgctxt "WaterAccess_WaterSupply_Mid"
 msgid "This house has stocks of clean drinking water"
-msgstr "Этот дом наводнён жабами"
+msgstr "В этом доме есть запасы питьевой воды."
 
 msgctxt "WaterAccess_WaterSupply_None"
 msgid "This house is receiving no deliveries of clean drinking water"
-msgstr ""
+msgstr "Этот дом не получает питьевую воду."
 
 msgctxt "WaterAccess_Well"
 msgid "This dwelling has only basic drinking water access"
-msgstr ""
+msgstr "У этого поселения есть доступ только к примитивным источникам воды."
 
 msgctxt "WorkforceAccess_1"
 msgid ""
 "This building currently has very little access to people to supply it with "
 "labor"
-msgstr ""
+msgstr "У этого здания очень плохой доступ к рабочей силе."
 
 msgctxt "WorkforceAccess_20"
 msgid ""
 "This building currently has poor access to people to supply it with labor"
-msgstr ""
+msgstr "У этого здания плохой доступ к рабочей силе."
 
 msgctxt "WorkforceAccess_40"
 msgid ""
 "This building currently has some access to people to supply it with labor"
-msgstr ""
+msgstr "У этого здания неважный доступ к рабочей силе."
 
 msgctxt "WorkforceAccess_60"
 msgid ""
 "This building currently has good access to people to supply it with labor"
-msgstr ""
+msgstr "У этого здания хороший доступ к рабочей силе."
 
 msgctxt "WorkforceAccess_80"
 msgid ""
 "This building currently has excellent access to people to supply it with "
 "labor"
-msgstr ""
+msgstr "У этого здания отличный доступ к рабочей силе."
 
 msgctxt "WorkforceAccess_None"
 msgid "This building currently has no access to people to supply it with labor"
-msgstr ""
+msgstr "У этого здания нет доступа к рабочей силе."
 
 msgctxt "ZooAccess_High"
 msgid ""
 "This house was recently passed by a zookeeper. It will have Zoo access for a "
 "long time"
 msgstr ""
+"Мимо этого дома недавно проходил смотритель зоопарка. Доступ к зоопарку "
+"сохранится ещё надолго."
 
 msgctxt "ZooAccess_Low"
 msgid ""
 "This house has not been passed by a zookeeper for a while. It will soon lose "
 "Zoo access"
 msgstr ""
+"Этот дом давно не посещался смотрителем зоопарка. Он скоро потеряет доступ к "
+"зоопарку."
 
-#, fuzzy
 msgctxt "ZooAccess_Mid"
 msgid "This house has Zoo access"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома есть доступ к зоопарку."
 
-#, fuzzy
 msgctxt "ZooAccess_None"
 msgid "This house has no access to a Zoo"
-msgstr "Этот дом наводнён жабами"
+msgstr "У этого дома нет доступа к зоопарку."

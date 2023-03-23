@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
-<martif xml:lang="en_US" type="TBX">
+<martif type="TBX" xml:lang="en_US">
     <text>
         <body>
         <termEntry id="azamat_h._hackimov-0">
@@ -2785,6 +2785,18 @@
         <langSet xml:lang="ru">
           <tig>
             <term>кебет</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-232">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>rowarty</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>роварти</term>
           </tig>
         </langSet>
       </termEntry>
