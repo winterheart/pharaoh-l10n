@@ -2800,6 +2800,18 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="azamat_h._hackimov-233">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>mariut</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>марьют</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
