@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-03-21 16:51\n"
-"PO-Revision-Date: 2023-03-19 01:28+0300\n"
+"PO-Revision-Date: 2023-03-29 06:53+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 23.07.70\n"
+"X-Generator: Lokalize 22.08.3\n"
 
 msgctxt "#ConstructionProjectComply_City_ReasonPhrase_1"
 msgid ""
@@ -280,7 +280,6 @@ msgstr ""
 "хотя воины, которых вы направили в город {[city_name]}, не сумели сокрушить "
 "врага,"
 
-#, fuzzy
 msgctxt "#DistantBattleLost_Pharaoh_ReasonPhrase_1"
 msgid ""
 "because the troops you sent to {[city_name]} were too feeble to combat "
@@ -289,7 +288,6 @@ msgstr ""
 "поскольку воины, которых вы направили в город {[city_name]}, не выстояли "
 "против врага фараона,"
 
-#, fuzzy
 msgctxt "#DistantBattleLost_Pharaoh_ReasonPhrase_2"
 msgid ""
 "the troops you sent to {[city_name]} were defeated by Pharaoh's enemy. "
@@ -298,7 +296,6 @@ msgstr ""
 "воины, которых вы направили в город {[city_name]}, пали в бою с врагом "
 "фараона. Кроме того,"
 
-#, fuzzy
 msgctxt "#DistantBattleLost_Pharaoh_ReasonPhrase_3"
 msgid ""
 "although the troops you sent to {[city_name]} were defeated by Pharaoh's "
@@ -307,109 +304,92 @@ msgstr ""
 "хотя воины, которых вы направили в город {[city_name]}, пали в бою с врагом "
 "фараона,"
 
-#, fuzzy
 msgctxt "#DistantBattleLost_ReasonPhrase_1"
 msgid "because Egypt lost a battle to her enemies at {[city_name]},"
 msgstr "поскольку Египет проиграл битву у города {[city_name]},"
 
-#, fuzzy
 msgctxt "#DistantBattleLost_ReasonPhrase_2"
 msgid "Egypt has lost a battle to her enemies at {[city_name]}. What's more,"
 msgstr "Египет проиграл битву у города {[city_name]}. К тому же"
 
-#, fuzzy
 msgctxt "#DistantBattleLost_ReasonPhrase_3"
 msgid "even though Egypt lost the battle to her enemies at {[city_name]},"
 msgstr "хотя Египет проиграл битву у города {[city_name]},"
 
-#, fuzzy
 msgctxt "#DistantBattleRefuse_City_ReasonPhrase_1"
 msgid ""
 "because you refused to send the needed troops to the battle at {[city_name]},"
 msgstr ""
-"поскольку вы отказались предоставить войско для битвы в городе {[city_name]},"
+"поскольку вы отказались предоставить воинов для битвы у города {[city_name]},"
 
-#, fuzzy
 msgctxt "#DistantBattleRefuse_City_ReasonPhrase_2"
 msgid ""
 "you refused to send the needed troops to the battle at {[city_name]}, which "
 "was unfortunate for them. Incidentally,"
 msgstr ""
-"вы отказались предоставить войско для битвы в городе {[city_name]}, оставив "
+"вы отказались предоставить воинов для битвы у города {[city_name]}, оставив "
 "земляков на произвол судьбы. К тому же"
 
-#, fuzzy
 msgctxt "#DistantBattleRefuse_City_ReasonPhrase_3"
 msgid ""
 "although you refused to send the needed troops to the battle at "
 "{[city_name]},"
 msgstr ""
-"хотя вы отказались предоставить войско для битвы в городе {[city_name]},"
+"хотя вы отказались предоставить воинов для битвы в городе {[city_name]},"
 
-#, fuzzy
 msgctxt "#DistantBattleRefuse_Pharaoh_ReasonPhrase_1"
 msgid ""
 "because you blatantly denied Pharaoh's request to send troops to help his "
 "army at {[city_name]},"
 msgstr ""
-"поскольку вы дерзко отклонили просьбу фараона и не отправили войско в город "
+"поскольку вы дерзко отклонили запрос фараона и не отправили воинов в город "
 "{[city_name]},"
 
-#, fuzzy
 msgctxt "#DistantBattleRefuse_Pharaoh_ReasonPhrase_2"
 msgid ""
 "you blatantly denied Pharaoh's request to send troops to help his army at "
 "{[city_name]}. This was unwise, but in any event,"
 msgstr ""
-"вы дерзко отклонили просьбу фараона и не отправили войско в город "
-"{[city_name]}. Весьма недальновидное решение. Как бы там ни было,"
+"вы дерзко отклонили запрос фараона и не отправили воинов в город "
+"{[city_name]}. Это весьма недальновидное решение. Как бы там ни было,"
 
-#, fuzzy
 msgctxt "#DistantBattleRefuse_Pharaoh_ReasonPhrase_3"
 msgid ""
 "although you denied Pharaoh's request for troops to help his army at "
 "{[city_name]},"
 msgstr ""
-"хотя вы отклонили просьбу фараона и не отправили войско в город "
-"{[city_name]},"
+"хотя вы отклонили запрос фараона и не отправили воинов в город {[city_name]},"
 
-#, fuzzy
 msgctxt "#DistantBattleTooLate_City_ReasonPhrase_1"
 msgid ""
 "because your troops were too late to help fight the Battle of {[city_name]},"
-msgstr "поскольку ваши воины не успели помочь в битве у города {[city_name]},"
+msgstr "поскольку ваши воины опоздали к битве у города {[city_name]},"
 
-#, fuzzy
 msgctxt "#DistantBattleTooLate_City_ReasonPhrase_2"
 msgid ""
 "your troops were too late to help fight the Battle of {[city_name]}. "
 "Furthermore,"
-msgstr ""
-"ваши воины не успели помочь в битве у города {[city_name]}. Кроме того,"
+msgstr "ваши воины опоздали к битве у города {[city_name]}. Кроме того,"
 
-#, fuzzy
 msgctxt "#DistantBattleTooLate_City_ReasonPhrase_3"
 msgid ""
 "although your troops were too late to help fight the Battle of "
 "{[city_name]}, your willingness to make sacrifices for the kingdom is "
 "greatly appreciated. As a result,"
 msgstr ""
-"хотя ваши воины не успели помочь в битве у города {[city_name]}, вашу "
-"готовность идти на жертвы ради государства оценили. Поэтому"
+"хотя ваши воины опоздали к битве у города {[city_name]}, вашу готовность "
+"идти на жертвы ради царства высоко оценили. Поэтому"
 
-#, fuzzy
 msgctxt "#DistantBattleTooLate_Pharaoh_ReasonPhrase_1"
 msgid "because your troops were not in time to help Pharaoh at {[city_name]},"
 msgstr ""
 "поскольку ваши солдаты не успели помочь фараону у города {[city_name]},"
 
-#, fuzzy
 msgctxt "#DistantBattleTooLate_Pharaoh_ReasonPhrase_2"
 msgid ""
 "your troops were not in time to help Pharaoh at {[city_name]}. In addition,"
 msgstr "ваши солдаты не успели помочь фараону у города {[city_name]}. Вдобавок"
 
-#, fuzzy
 msgctxt "#DistantBattleTooLate_Pharaoh_ReasonPhrase_3"
 msgid ""
 "although your troops were too late to help Pharaoh at {[city_name]}, your "
@@ -417,44 +397,37 @@ msgid ""
 "result,"
 msgstr ""
 "хотя ваши солдаты не успели помочь фараону в битве у города {[city_name]}, "
-"он оценил вашу готовность идти на жертвы ради государства. Поэтому"
+"он высоко оценил вашу готовность идти на жертвы ради царства. Поэтому"
 
-#, fuzzy
 msgctxt "#DistantBattleWon_ReasonPhrase_1"
 msgid "because our forces triumphed at the distant Battle of {[city_name]},"
 msgstr ""
-"поскольку наша армия одержала верх в битве у далекого города {[city_name]},"
+"поскольку наши воины одержали верх в далёкой битве у города {[city_name]},"
 
-#, fuzzy
 msgctxt "#DistantBattleWon_ReasonPhrase_2"
 msgid "our forces were triumphant at the distant Battle of {[city_name]}. Now"
 msgstr ""
-"наша армия одержала верх в битве у далекого города {[city_name]}. Теперь"
+"наши воины одержали верх в далёкой битве у города {[city_name]}. Теперь"
 
-#, fuzzy
 msgctxt "#DistantBattleWon_ReasonPhrase_3"
 msgid "even though our forces were triumphant at the Battle of {[city_name]}"
-msgstr "хотя наша армия одержала верх в битве у далекого города {[city_name]},"
+msgstr "хотя наши воины одержали верх в далёкой битве у города {[city_name]},"
 
-#, fuzzy
 msgctxt "#DistantCity_To_EgyptianCity_ReasonPhrase_1"
 msgid ""
 "because the foreign city of {[city_name]} has been subjugated by our troops,"
-msgstr ""
-"поскольку нашим войскам удалось захватить чужеземный город {[city_name]},"
+msgstr "поскольку наши воины захватили чужеземный город {[city_name]},"
 
-#, fuzzy
 msgctxt "#DistantCity_To_EgyptianCity_ReasonPhrase_2"
 msgid ""
 "the foreign city of {[city_name]} has been subjugated by our troops! Now,"
-msgstr "нашим войскам удалось захватить чужеземный город {[city_name]}! Теперь"
+msgstr "наши воины захватили чужеземный город {[city_name]}! Теперь"
 
-#, fuzzy
 msgctxt "#DistantCity_To_EgyptianCity_ReasonPhrase_3"
 msgid ""
 "even though the foreign city of {[city_name]} has been subjugated by our "
 "troops,"
-msgstr "хотя нашим войскам удалось захватить чужеземный город {[city_name]},"
+msgstr "хотя наши воины захвали чужеземный город {[city_name]},"
 
 #, fuzzy
 msgctxt "#Earthquake_ReasonPhrase_1"
