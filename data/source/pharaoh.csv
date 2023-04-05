@@ -2254,6 +2254,8 @@ Events/#Notif_DebtAnniversary_Content;Text;;Your treasury still holds nary a deb
 Events/#Notif_DebtAnniversary_Title;Text;;Debt anniversary;Endettements à répétition;Aniversario de la deuda;Immer noch Schulden!;Scadenza debito
 Events/#Notif_Debt_Content;Text;;Your treasury bleeds money. You can spend up to 5,000 debens' worth of credit, but debt can lead to the downfall of your family unless you repay it quickly.;Votre trésorerie est à sec. Vous pouvez dépenser jusqu'à 5 000 debens, mais l'endettement peut mener votre famille à la ruine si vous ne remboursez pas l'argent dans les plus brefs délais.;Tu erario se ha quedado sin dinero. Puedes gastar hasta 5000 debens del crédito, pero la deuda puede arruinar a tu familia, a menos que te des prisa en devolverla.;Ihre Stadtkasse verliert Geld. Sie verfügen über einen Kreditrahmen von bis zu 5000 Deben, aber Schulden können das Ende Ihrer Familie bedeuten, wenn Sie sie nicht schnell zurückzahlen.;Le tue finanze fanno acqua. Hai ancora un credito di 5.000 deben, ma ricorda che i debiti possono rovinare la tua famiglia, se non li estingui in fretta.
 Events/#Notif_Debt_Title;Text;;Debt!;Endettement;¡Deuda!;Schulden!;Debiti!
+Events/#Notif_DisconnectedEntries_Content;Text;;Building walkers spawn and exit points are disconnected !;Les points d'apparition et de sortie des ouvriers du bâtiment ne sont pas reliés !;¡Los puntos de aparición y salida de los caminantes del edificio están desconectados!;Eingangs- und Ausgangspunkt für Geher im Gebäude sind getrennt!;I punti di generazione e di uscita degli addetti dell'edificio sono disconnessi!
+Events/#Notif_DisconnectedEntries_Title;Text;;Disconnected Entries;Accès non reliés;Entradas desconectadas;Getrennte Eingänge;Sezioni scollegate
 Events/#Notif_Disease_Content;Text;;Disease struck a household with poor healthcare access. People are dying, and you can't help them. Improve unhealthy areas to stave off a recurrence.;Une épidémie s'est répandue dans un foyer qui ne bénéficie pas d'un bon accès aux soins médicaux. Les gens meurent sans que vous ne puissiez rien y faire. Vous devez améliorer les conditions d'hygiène dans les quartiers insalubres afin d'éviter une nouvelle épidémie.;La enfermedad ha asolado una zona con mal acceso a la atención sanitaria. Sus habitantes están muriendo y no puedes ayudarlos. Mejora las zonas insalubres para evitar que vuelva a ocurrir esto.;In einem Haus mit schlechter Gesundheitsversorgung ist eine Krankheit ausgebrochen. Die Leute sterben, und niemand kann ihnen helfen. Verbessern Sie die Gesundheitsversorgung in ungesunden Gegenden, damit das nicht wieder vorkommt.;La malattia ha colpito una casa dotata di scarso accesso alle cure mediche. Gli abitanti muoiono e tu non puoi aiutarli. Migliora le zone meno salubri per impedire che capiti di nuovo.
 Events/#Notif_Disease_Title;Text;;Disease Strikes;Epidémie;La enfermedad ataca;Krankheit bricht aus;La malattia colpisce
 Events/#Notif_Festival_NotEnoughDebens_Content;Text;;"You don't have enough <sprite name=""Deben""> to pay for a festival.";"Vous n'avez pas assez de <sprite name=""Deben""> pour financer une fête.";"No tienes suficientes debens <sprite name=""Deben""> para pagar un festival.";"Sie haben zu wenig <sprite name=""Deben"">, um ein Fest zu bezahlen.";"Non hai abbastanza <sprite name=""Deben""> per finanziare una festa."
@@ -4339,6 +4341,10 @@ Riorganizza il tuo esercito il più presto possibile!"
 Menu/#CampaignSave;Text;;Campaign;Campagne;Campaña;Kampagne;Campagna
 Menu/#Campaign_Save_Details;Text;;Last save on {[cityname]} {[year]} {[month]} {[day]};Dernière sauvegarde sur {[cityname]} {[year]} {[month]} {[day]};Última partida guardada el {[cityname]} {[year]} {[month]} {[day]};Letzter Speicherstand von {[cityname]}: {[day]}.{[month]}.{[year]};Ultimo salvataggio: {[cityname]}, {[day]} {[month]} {[year]}
 Menu/#Campaign_Save_None;Text;;There is no campaign save for this family;Il n’y a aucune sauvegarde de campagne pour cette famille;No hay campaña guardada para esta familia;Für diese Familie ist kein Kampagnen-Speicherstand vorhanden.;Nessuna campagna salvata per questa famiglia
+Menu/#CampainSaveExisting;Text;;Existing save for this period;Sauvegarde existante pour cette période;Partida guardada existente para este periodo;Es gibt schon einen Speicherstand für diese Periode.;Salvataggio esistente per questo periodo
+Menu/#CampainSaveExistingDesc;Text;;Would you like to restart the period or load the save ?;Voulez-vous recommencer la période ou charger la sauvegarde ?;¿Quieres reiniciar el periodo o cargar la partida guardada?;Möchten Sie diese Periode erneut starten oder den Speicherstand laden?;Desideri riavviare il periodo o caricare il salvataggio?
+Menu/#CampainSaveExistingLoadSave;Text;;Load save;Charger la sauvegarde;Cargar partida guardada;Speicherstand laden;Carica
+Menu/#CampainSaveExistingRestart;Text;;Start anew;Recommencer;Empezar de nuevo;Erneut starten;Riavvia
 Menu/#Cancel;Text;;Cancel;Annuler;Cancelar;Abbrechen;Annulla
 Menu/#CityFunds;Text;;Current city funds;Fonds actuels de la cité;Fondos actuales de la ciudad;Momentanes Vermögen der Stadt;Fondi cittadini attuali
 Menu/#CityPopulation;Text;;Current city population;Population actuelle de la cité;Población actual de la ciudad;Aktuelle Bevölkerungszahl der Stadt;Popolazione cittadina attuale
@@ -4525,6 +4531,7 @@ Menu/#options_gameplay;Text;;Gameplay;Gameplay;Juego;Gameplay;Gameplay
 Menu/#options_graphics;Text;;Graphics;Vidéo;Gráficos;Grafik;Grafica
 Menu/#options_keybinding;Text;;Keybinding;Contrôles;Controles;Tastaturbelegung;Associazione tasti
 Menu/#options_language;Text;;Language;Langue;Idioma;Sprache;Lingua
+Menu/#options_notifications;Text;;Notifications;Notifications;;;
 Menu/#options_resolution;Text;;Display settings;Affichage;Configuración imagen;Anzeige;Impostazioni video
 Menu/AutoBattle/#Defeat;Text;;Defeat;Défaite;Derrota;Niederlage;Sconfitta
 Menu/AutoBattle/#DestructUnit;Text;;Destruct units;Unités détruites;Unidades eliminadas;Zerstörte Einheiten;Unità distrutte
@@ -4947,6 +4954,48 @@ Menu/Options/Hotkey/#Undo;Text;;Undo;Annuler;Anular;Rückgang;Disfare
 Menu/Options/Hotkey/#WaterOverlay;Text;;Water Overlay;Calque d’eau;Transparencia de agua;Spezialkarte: Wasser;Schema acqua
 Menu/Options/Hotkey/#Worldmap;Text;;Worldmap;Carte du monde;Mapa del mundo;Weltkarte;Mappa globale
 Menu/Options/KeyRebind/Confirm;Text;;Confirm replacement;Confirmer le remplacement;Confirmar sustitución;Austausch bestätigen;Conferma sostituzione
+Menu/Options/Notifs/#AttackCalledOff;Text;;Attack called off;;;;
+Menu/Options/Notifs/#CityBecomeEgyptian;Text;;City becomes egyptian;;;;
+Menu/Options/Notifs/#CityBecomeForeign;Text;;City becomes foreign;;;;
+Menu/Options/Notifs/#CitySentimentUpdate;Text;;City sentiment update;;;;
+Menu/Options/Notifs/#CityUnemployment;Text;;City unemployment;;;;
+Menu/Options/Notifs/#Collapsed;Text;;Collapsed building;;;;
+Menu/Options/Notifs/#CollapsedMine;Text;;Collapsed mine;;;;
+Menu/Options/Notifs/#Debt;Text;;Debt;;;;
+Menu/Options/Notifs/#DebtAnniversary;Text;;Debt anniversary;;;;
+Menu/Options/Notifs/#Disease;Text;;Disease;;;;
+Menu/Options/Notifs/#EmployeesNeeded;Text;;Employees needed;;;;
+Menu/Options/Notifs/#Events;Text;;Events;;;;
+Menu/Options/Notifs/#Festival;Text;;Festival;;;;
+Menu/Options/Notifs/#Fire;Text;;Fire in the city;;;;
+Menu/Options/Notifs/#FishingBoatBlocked;Text;;Fishing boat can't navigate;;;;
+Menu/Options/Notifs/#FloodedClayPit;Text;;Flooded clay pit;;;;
+Menu/Options/Notifs/#Hidden;Text;;Hidden;;;;
+Menu/Options/Notifs/#InvasionReminder;Text;;Invasion reminder;;;;
+Menu/Options/Notifs/#KingdomDecrease;Text;;Kingdom standing decreases;;;;
+Menu/Options/Notifs/#KingdomIncrease;Text;;Kingdom standing increases;;;;
+Menu/Options/Notifs/#KingdomRoadBlocked;Text;;Kingdom road blocked;;;;
+Menu/Options/Notifs/#MajorBlessings;Text;;Major blessings;;;;
+Menu/Options/Notifs/#MajorPlagues;Text;;Calamities;;;;
+Menu/Options/Notifs/#MajorWraths;Text;;Major wraths;;;;
+Menu/Options/Notifs/#Malaria;Text;;Malaria;;;;
+Menu/Options/Notifs/#MinorBlessings;Text;;Minor blessings;;;;
+Menu/Options/Notifs/#MinorWraths;Text;;Minor wraths;;;;
+Menu/Options/Notifs/#MonumentFinished;Text;;Monument finished;;;;
+Menu/Options/Notifs/#Nilometer;Text;;Nilometer;;;;
+Menu/Options/Notifs/#NoWorkingDock;Text;;No working dock;;;;
+Menu/Options/Notifs/#OutOfMoney;Text;;Out of money;;;;
+Menu/Options/Notifs/#Plague;Text;;Plague;;;;
+Menu/Options/Notifs/#PopulationMilestone;Text;;Population Milestone;;;;
+Menu/Options/Notifs/#PriceChanges;Text;;Price changes;;;;
+Menu/Options/Notifs/#RequestCompliance;Text;;Request compliance possible;;;;
+Menu/Options/Notifs/#Theft;Text;;Theft;;;;
+Menu/Options/Notifs/#Toggled;Text;;Fullscreen;;;;
+Menu/Options/Notifs/#TradeLevelDecrease;Text;;Trade level decreases;;;;
+Menu/Options/Notifs/#TradeLevelIncrease;Text;;Trade level increases;;;;
+Menu/Options/Notifs/#TroopsBack;Text;;Troops are back;;;;
+Menu/Options/Notifs/#WageDecrease;Text;;Wage decreases;;;;
+Menu/Options/Notifs/#WageIncrease;Text;;Wage increases;;;;
 Menu/Options/ScreenMode/#ExclusiveFullScreen;Text;;Fullscreen;Plein écran;Pantalla completa;Vollbildschirm;Schermo intero
 Menu/Options/ScreenMode/#FullScreenWindow;Text;;Borderless Window;Fenêtre sans bordures;Ventana sin bordes;Randloses Fenster;Finestra senza bordi
 Menu/Options/ScreenMode/#Windowed;Text;;Windowed;Fenêtré;En ventana;Fenstermodus;A finestra
@@ -7864,7 +7913,7 @@ Overseers/#Monuments_Caesareum_Completion;Text;;The Caesareum is {0}% complete;L
 Overseers/#Monuments_Caesareum_NotStarted;Text;;Work on the Caesareum has not begun. You will need peasant labor to begin this project, and a supply of marble and granite to complete it.;La construction du Caesarum n'a pas débuté. Cherchez de la main-d'oeuvre pour commencer ce projet, ainsi que du marbre et du granit pour l'achever.;La construcción del Caesareum no ha comenzado. Necesitarás mano de obra para comenzar este proyecto y mármol y granito para terminarlo.;Die Arbeit am Caesareum hat noch nicht begonnen. Sie benötigen Bauern als Arbeitskräfte, damit das Projekt gestartet werden kann, und einen Vorrat an Marmor und Granit, um es fertig zu stellen.;Il lavoro al Caesareum non è iniziato. Ti occorrono lavoratori per avviare il progetto e marmo e granito per completarlo.
 Overseers/#Monuments_DispatchBurial_Button;Text;;Dispatch Burial Provisions;Expédier offrandes funéraires;Enviar provisiones funerarias;Grabbeigaben losschicken;Invia arredi funerari
 Overseers/#Monuments_GrandBurialTomb_Completed;Text;;The Grand Royal Burial Tomb is now complete!;La Très Grande Tombe est prête !;¡La tumba funeraria real grandiosa está terminada!;Das imposante Grab ist jetzt fertig!;La Tomba reale enorme è terminata!
-Overseers/#Monuments_GrandBurialTomb_Completion;Text;;The Grand Royal Burial Tomb is {0}% complete;La construction de la Très Grande Tombe Royale est terminée à {0} %;La tumba funeraria real grandiosa está al {0}%;Das imposante Grab ist fertiggestellt zu: {0} %;La tomba reale enorme è al {0}% di completamento
+Overseers/#Monuments_GrandBurialTomb_Completion;Text;;The Grand Royal Burial Tomb is {0}% complete;Construction de la Très Grande Tombe Royale terminée à {0} %;La tumba funeraria real grandiosa está al {0}%;Das imposante Grab ist fertiggestellt zu: {0} %;La tomba reale enorme è al {0}% di completamento
 Overseers/#Monuments_GrandBurialTomb_NotStarted;Text;;Work on the Grand Burial Tomb has not begun. You will need stonemasons, artisans, clay, paint and lamps to begin this project.;La Très Grande Tombe n'est pas entamée. Il faut des maçons, des artisans, de l'argile, de la peinture et des lampes pour commencer ce projet.;El trabajo en la tumba funeraria grandiosa no ha comenzado. Necesitarás canteros, artesanos, arcilla, pintura y lámparas para comenzar este proyecto.;Die Arbeit am imposanten Grab hat noch nicht begonnen. Sie brauchen Steinmetze, Kunsthandwerker, Ton, Farbe und Lampen für dieses Projekt.;Il lavoro alla tomba reale enorme non è iniziato. Ti occorrono scalpellini, artigiani, argilla, vernice e lampade per avviare il progetto.
 Overseers/#Monuments_InStorage;Text;;in Storage;en stock;almacenado;auf Lager;in magazzino
 Overseers/#Monuments_LargeBurialTomb_Completed;Text;;The Large Royal Burial Tomb is now complete!;La Grande Tombe est terminée !;¡La tumba funeraria real grande está terminada!;Das große Grab ist jetzt fertig!;La Tomba reale grande è terminata!
@@ -8523,15 +8572,15 @@ Come per la maggior parte degli edifici, puoi ruotare le
 Tutorial/Perwadjyt_Step_10_Title;Text;;Beautification;Embellissement;Ornamentación;Verschönerung;Ornamento
 Tutorial/Perwadjyt_Step_11_Title;Text;;Reach 600 population and 10 modest homesteads to win this mission;Atteignez une population de 600 et 10 propriétés modestes pour terminer cette mission !;Alcanza una población de 600 habitantes y 10 fincas modestas para cumplir la misión.;Erreichen Sie 600 Einwohner und 10 bescheidene Häuser, um diese Mission zu gewinnen!;Raggiungi i 600 abitanti e 10 abitazioni modeste per vincere questa missione!
 Tutorial/Perwadjyt_Step_Coverage_Content;Text;;"The entertainment required to evolve houses gets higher and higher. In addition of the score provided by the visit of a juggler and - later - other entertainers, <b>houses also get bonus points depending on your general coverage</b>.
-You can check the entertainment coverage in your Overseer of Diversions. <b>A booth providing a perfect coverage for 400 people</b>, you might find yourself in situations where a juggler from a single booth passes by houses accommodating way more people than that. Placing other booths will help improve the coverage and provide more bonus points to all houses in your city. Sometimes it’s just what they need to evolve!
+You can check the entertainment coverage in your Overseer of Diversions. <b>A booth providing a perfect coverage for 600 people</b>, you might find yourself in situations where a juggler from a single booth passes by houses accommodating way more people than that. Placing other booths will help improve the coverage and provide more bonus points to all houses in your city. Sometimes it’s just what they need to evolve!
 Coverage from entertainment, education, religion and health all count toward your <b>Culture Score</b>. In later missions, when a high culture score is required to win, it's important to check their respective Overseers to see what your city is lacking.";"Le divertissement nécessaire pour faire évoluer les habitations devient de plus en plus important. En plus des bonus fournis par la visite d'un jongleur et, plus tard, d'autres artistes, <b>les habitations reçoivent aussi des points en fonction de l'accessibilité générale</b>.
-Vous pouvez consulter l'accessibilité des divertissements auprès de votre chef des loisirs. <b>Un étal peut satisfaire pleinement les besoins de 400 personnes</b>. Il est possible qu'un jongleur d'un seul étal passant près des habitations puisse satisfaire un nombre bien plus important de gens. Placer d'autres étals permet d'améliorer l'accessibilité et d'accorder des points supplémentaires à toutes les habitations de votre cité. C'est parfois tout ce dont elles ont besoin pour évoluer !
+Vous pouvez consulter l'accessibilité des divertissements auprès de votre chef des loisirs. <b>Un étal peut satisfaire pleinement les besoins de 600 personnes</b>. Il est possible qu'un jongleur d'un seul étal passant près des habitations puisse satisfaire un nombre bien plus important de gens. Placer d'autres étals permet d'améliorer l'accessibilité et d'accorder des points supplémentaires à toutes les habitations de votre cité. C'est parfois tout ce dont elles ont besoin pour évoluer !
 Les niveaux d'accessibilité au divertissement, à l'éducation, aux temples et à l'hygiène ont tous un impact sur votre <b>score de culture</b>. Lors de futures missions, lorsqu'un score de culture élevé sera nécessaire pour l'emporter, n'oubliez pas de consulter chacun de vos chefs pour prendre connaissance des lacunes de votre cité.";"El entretenimiento necesario para mejorar las casas es cada vez mayor. Además de la puntuación proporcionada por la visita de un malabarista y, más tarde, de otros artistas, las <b>casas también obtienen puntos de bonificación en función de tu cobertura general</b>.
-Puedes consultar la cobertura de entretenimiento en tu supervisor de entretenimiento. <b>Un puesto que proporciona una cobertura perfecta para 400 personas</b>, es posible que te encuentres en situaciones en las que un malabarista de un solo puesto pasa por casas que albergan a muchas más personas que eso. La colocación de otros puestos ayudará a mejorar la cobertura y proporcionará más puntos de bonificación a todas las casas de tu ciudad. ¡A veces es justo lo que necesitan para evolucionar!
+Puedes consultar la cobertura de entretenimiento en tu supervisor de entretenimiento. <b>Un puesto que proporciona una cobertura perfecta para 600 personas</b>, es posible que te encuentres en situaciones en las que un malabarista de un solo puesto pasa por casas que albergan a muchas más personas que eso. La colocación de otros puestos ayudará a mejorar la cobertura y proporcionará más puntos de bonificación a todas las casas de tu ciudad. ¡A veces es justo lo que necesitan para evolucionar!
 La cobertura de entretenimiento, educación, religión y salud cuenta para tu <b>puntuación cultural</b>. En misiones posteriores, cuando se requiere una puntuación cultural alta para ganar, es importante consultar a tus respectivos supervisores para ver qué le falta a tu ciudad.";"Die für die Erweiterung von Häusern erforderliche Unterhaltung steigt zunehmend an. Neben dem Punktestand, der durch den Besuch eines Jongleurs undִ – später – anderer Künstler erzielt werden kann, <b>erhalten Häuser je nach Ihrem allgemeinen Angebot Bonuspunkte</b>.
-Überprüfen Sie das Unterhaltungsangebot bei Ihrem Aufseher der Unterhaltung. Bei <b>einer Bühne, die 400 Zuschauer fasst</b>, kann es vorkommen, dass ein Jongleur von einer einzelnen Bühne Häuser mit deutlich mehr Bewohnern passiert. Das Errichten weiterer Bühnen trägt dazu bei, das Angebot zu verbessern und gewährt allen Häusern in Ihrer Stadt mehr Bonuspunkte. Manchmal benötigen sie genau das für ihre Erweiterung!
+Überprüfen Sie das Unterhaltungsangebot bei Ihrem Aufseher der Unterhaltung. Bei <b>einer Bühne, die 600 Zuschauer fasst</b>, kann es vorkommen, dass ein Jongleur von einer einzelnen Bühne Häuser mit deutlich mehr Bewohnern passiert. Das Errichten weiterer Bühnen trägt dazu bei, das Angebot zu verbessern und gewährt allen Häusern in Ihrer Stadt mehr Bonuspunkte. Manchmal benötigen sie genau das für ihre Erweiterung!
 Das Angebot an Unterhaltung, Bildung, Tempeln und Gesundheit macht insgesamt die <b>Kulturwertung</b> aus. In späteren Missionen, bei denen Sie eine hohe Kulturwertung erzielen müssen, um zu gewinnen, ist es wichtig, die jeweiligen Aufseher zu besuchen, um herauszufinden, woran es Ihrer Stadt mangelt.";"La quantità di intrattenimento richiesta per potenziare le case diventa sempre più alta. In aggiunta al punteggio ottenuto dalla visita di un giocoliere e, più in là, di altri intrattenitori, <b>le case ricevono anche punti bonus in base alla tua disponibilità generale</b>.
-Puoi controllare la disponibilità di intrattenimento presso il supervisore dell'intrattenimento. <b>Un baraccone che può coprire il fabbisogno di 400 persone</b>: potrai trovarti in situazioni in cui un giocoliere di una cabina singola passa tra le case e soddisfa molte più persone. Posizionare altri baracconi aiuterà a migliorare la disponibilità e fornirà più punti bonus a tutte le case della tua città. A volte è tutto quello che serve per evolvere!
+Puoi controllare la disponibilità di intrattenimento presso il supervisore dell'intrattenimento. <b>Un baraccone che può coprire il fabbisogno di 600 persone</b>: potrai trovarti in situazioni in cui un giocoliere di una cabina singola passa tra le case e soddisfa molte più persone. Posizionare altri baracconi aiuterà a migliorare la disponibilità e fornirà più punti bonus a tutte le case della tua città. A volte è tutto quello che serve per evolvere!
 La disponibilità di intrattenimento, istruzione, religione e salute determinano il tuo <b>livello di cultura</b>. Nelle missioni successive, quando è richiesto un livello di cultura molto alto per vincere, è di vitale importanza controllare i vari supervisori per vedere cosa manca alla tua città."
 Tutorial/Perwadjyt_Step_Coverage_Title;Text;;Entertainment Coverage;Accessibilité des divertissements;Cobertura de entretenimiento;Unterhaltungsangebot;Disponibilità di intrattenimento
 Tutorial/Perwadjyt_Step_Next_Title;Text;;Place some Plazas over paved roads to improve desirability!;Placez quelques plazas sur des routes pavées pour les rendre plus attractives !;¡Coloca algunas plazas sobre caminos pavimentados para mejorar el atractivo!;Bauen Sie Plätze auf befestigten Straßen, um die Attraktivität zu erhöhen!;Posiziona delle Piazze sulle strade per aumentare il piacere dei cittadini!

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-03-21 16:51\n"
+"POT-Creation-Date: 2023-04-05 17:07\n"
 "PO-Revision-Date: 2023-03-21 17:01+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
@@ -102,6 +102,23 @@ msgstr "Последнее сохранение в {[cityname]} {[year]} {[month
 msgctxt "#Campaign_Save_None"
 msgid "There is no campaign save for this family"
 msgstr "Для данной династии нет сохранённой кампании"
+
+msgctxt "#CampainSaveExisting"
+msgid "Existing save for this period"
+msgstr ""
+
+msgctxt "#CampainSaveExistingDesc"
+msgid "Would you like to restart the period or load the save ?"
+msgstr ""
+
+#, fuzzy
+msgctxt "#CampainSaveExistingLoadSave"
+msgid "Load save"
+msgstr "Загрузить игру"
+
+msgctxt "#CampainSaveExistingRestart"
+msgid "Start anew"
+msgstr ""
 
 msgctxt "#Cancel"
 msgid "Cancel"
@@ -859,6 +876,11 @@ msgstr "Привязка клавиш"
 msgctxt "#options_language"
 msgid "Language"
 msgstr "Язык"
+
+#, fuzzy
+msgctxt "#options_notifications"
+msgid "Notifications"
+msgstr "Оповещения"
 
 msgctxt "#options_resolution"
 msgid "Display settings"

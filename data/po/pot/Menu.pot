@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-03-21 19:22\n"
-"PO-Revision-Date: 2023-03-21 19:22\n"
+"POT-Creation-Date: 2023-04-05 17:10\n"
+"PO-Revision-Date: 2023-04-05 17:10\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -82,6 +82,22 @@ msgstr ""
 
 msgctxt "#Campaign_Save_None"
 msgid "There is no campaign save for this family"
+msgstr ""
+
+msgctxt "#CampainSaveExisting"
+msgid "Existing save for this period"
+msgstr ""
+
+msgctxt "#CampainSaveExistingDesc"
+msgid "Would you like to restart the period or load the save ?"
+msgstr ""
+
+msgctxt "#CampainSaveExistingLoadSave"
+msgid "Load save"
+msgstr ""
+
+msgctxt "#CampainSaveExistingRestart"
+msgid "Start anew"
 msgstr ""
 
 msgctxt "#Cancel"
@@ -831,6 +847,10 @@ msgstr ""
 
 msgctxt "#options_language"
 msgid "Language"
+msgstr ""
+
+msgctxt "#options_notifications"
+msgid "Notifications"
 msgstr ""
 
 msgctxt "#options_resolution"

@@ -36,6 +36,7 @@ class I2LocCsvKeys(Enum):
     MENU_OPTIONS = "Menu/Options"
     MENU_OPTIONS_HOTKEY = "Menu/Options/Hotkey"
     MENU_OPTIONS_KEYREBING = "Menu/Options/KeyRebind"
+    MENU_OPTIONS_NOTIFS = "Menu/Options/Notifs"
     MENU_OPTIONS_SCREENMODE = "Menu/Options/ScreenMode"
     MISSIONS = "Missions"
     MISSIONS_PERIODS = "Missions/Periods"

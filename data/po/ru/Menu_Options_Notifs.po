@@ -1,0 +1,183 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-04-05 17:10\n"
+"PO-Revision-Date: 2023-04-05 17:10\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgctxt "#AttackCalledOff"
+msgid "Attack called off"
+msgstr ""
+
+msgctxt "#CityBecomeEgyptian"
+msgid "City becomes egyptian"
+msgstr ""
+
+msgctxt "#CityBecomeForeign"
+msgid "City becomes foreign"
+msgstr ""
+
+msgctxt "#CitySentimentUpdate"
+msgid "City sentiment update"
+msgstr ""
+
+msgctxt "#CityUnemployment"
+msgid "City unemployment"
+msgstr ""
+
+msgctxt "#Collapsed"
+msgid "Collapsed building"
+msgstr ""
+
+msgctxt "#CollapsedMine"
+msgid "Collapsed mine"
+msgstr ""
+
+msgctxt "#Debt"
+msgid "Debt"
+msgstr ""
+
+msgctxt "#DebtAnniversary"
+msgid "Debt anniversary"
+msgstr ""
+
+msgctxt "#Disease"
+msgid "Disease"
+msgstr ""
+
+msgctxt "#EmployeesNeeded"
+msgid "Employees needed"
+msgstr ""
+
+msgctxt "#Events"
+msgid "Events"
+msgstr ""
+
+msgctxt "#Festival"
+msgid "Festival"
+msgstr ""
+
+msgctxt "#Fire"
+msgid "Fire in the city"
+msgstr ""
+
+msgctxt "#FishingBoatBlocked"
+msgid "Fishing boat can't navigate"
+msgstr ""
+
+msgctxt "#FloodedClayPit"
+msgid "Flooded clay pit"
+msgstr ""
+
+msgctxt "#Hidden"
+msgid "Hidden"
+msgstr ""
+
+msgctxt "#InvasionReminder"
+msgid "Invasion reminder"
+msgstr ""
+
+msgctxt "#KingdomDecrease"
+msgid "Kingdom standing decreases"
+msgstr ""
+
+msgctxt "#KingdomIncrease"
+msgid "Kingdom standing increases"
+msgstr ""
+
+msgctxt "#KingdomRoadBlocked"
+msgid "Kingdom road blocked"
+msgstr ""
+
+msgctxt "#MajorBlessings"
+msgid "Major blessings"
+msgstr ""
+
+msgctxt "#MajorPlagues"
+msgid "Calamities"
+msgstr ""
+
+msgctxt "#MajorWraths"
+msgid "Major wraths"
+msgstr ""
+
+msgctxt "#Malaria"
+msgid "Malaria"
+msgstr ""
+
+msgctxt "#MinorBlessings"
+msgid "Minor blessings"
+msgstr ""
+
+msgctxt "#MinorWraths"
+msgid "Minor wraths"
+msgstr ""
+
+msgctxt "#MonumentFinished"
+msgid "Monument finished"
+msgstr ""
+
+msgctxt "#Nilometer"
+msgid "Nilometer"
+msgstr ""
+
+msgctxt "#NoWorkingDock"
+msgid "No working dock"
+msgstr ""
+
+msgctxt "#OutOfMoney"
+msgid "Out of money"
+msgstr ""
+
+msgctxt "#Plague"
+msgid "Plague"
+msgstr ""
+
+msgctxt "#PopulationMilestone"
+msgid "Population Milestone"
+msgstr ""
+
+msgctxt "#PriceChanges"
+msgid "Price changes"
+msgstr ""
+
+msgctxt "#RequestCompliance"
+msgid "Request compliance possible"
+msgstr ""
+
+msgctxt "#Theft"
+msgid "Theft"
+msgstr ""
+
+msgctxt "#Toggled"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt "#TradeLevelDecrease"
+msgid "Trade level decreases"
+msgstr ""
+
+msgctxt "#TradeLevelIncrease"
+msgid "Trade level increases"
+msgstr ""
+
+msgctxt "#TroopsBack"
+msgid "Troops are back"
+msgstr ""
+
+msgctxt "#WageDecrease"
+msgid "Wage decreases"
+msgstr ""
+
+msgctxt "#WageIncrease"
+msgid "Wage increases"
+msgstr ""
