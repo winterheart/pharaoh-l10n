@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-04-05 17:07\n"
-"PO-Revision-Date: 2023-03-21 17:01+0300\n"
+"PO-Revision-Date: 2023-04-05 17:18+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 23.07.70\n"
+"X-Generator: Lokalize 22.12.3\n"
 
 msgctxt "#AD"
 msgid "AD"
@@ -105,20 +105,19 @@ msgstr "Для данной династии нет сохранённой ка�
 
 msgctxt "#CampainSaveExisting"
 msgid "Existing save for this period"
-msgstr ""
+msgstr "Существующий файл сохранения для данного периода"
 
 msgctxt "#CampainSaveExistingDesc"
 msgid "Would you like to restart the period or load the save ?"
-msgstr ""
+msgstr "Хотите ли вы перезапустить период или загрузить сохранение?"
 
-#, fuzzy
 msgctxt "#CampainSaveExistingLoadSave"
 msgid "Load save"
-msgstr "Загрузить игру"
+msgstr "Загрузить сохранение"
 
 msgctxt "#CampainSaveExistingRestart"
 msgid "Start anew"
-msgstr ""
+msgstr "Начать заново"
 
 msgctxt "#Cancel"
 msgid "Cancel"
@@ -877,7 +876,6 @@ msgctxt "#options_language"
 msgid "Language"
 msgstr "Язык"
 
-#, fuzzy
 msgctxt "#options_notifications"
 msgid "Notifications"
 msgstr "Оповещения"
