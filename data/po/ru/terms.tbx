@@ -2824,6 +2824,30 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="azamat_h._hackimov-235">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>bazaar buyer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>закупщица с базара</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-236">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>roaming walkers</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>бродячие ходоки</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>

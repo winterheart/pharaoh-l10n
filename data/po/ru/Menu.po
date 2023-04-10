@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-04-05 17:07\n"
-"PO-Revision-Date: 2023-04-05 17:18+0300\n"
+"PO-Revision-Date: 2023-04-08 02:15+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -105,7 +105,7 @@ msgstr "Для данной династии нет сохранённой ка�
 
 msgctxt "#CampainSaveExisting"
 msgid "Existing save for this period"
-msgstr "Существующий файл сохранения для данного периода"
+msgstr "Существует сохранение для данного периода"
 
 msgctxt "#CampainSaveExistingDesc"
 msgid "Would you like to restart the period or load the save ?"
