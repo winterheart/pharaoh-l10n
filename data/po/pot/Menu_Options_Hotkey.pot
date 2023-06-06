@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-04-05 17:10\n"
-"PO-Revision-Date: 2023-04-05 17:10\n"
+"POT-Creation-Date: 2023-06-06 22:55\n"
+"PO-Revision-Date: 2023-06-06 22:55\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,10 @@ msgstr ""
 
 msgctxt "#Assign"
 msgid "Assign"
+msgstr ""
+
+msgctxt "#BazaarAccessOverlay"
+msgid "Bazaar Access Overlay"
 msgstr ""
 
 msgctxt "#Briefing"
@@ -130,6 +134,10 @@ msgctxt "#Key"
 msgid "Key"
 msgstr ""
 
+msgctxt "#MagistrateOverlay"
+msgid "Magistrate Overlay"
+msgstr ""
+
 msgctxt "#MalariaOverlay"
 msgid "Malaria Risk Overlay"
 msgstr ""
@@ -196,6 +204,10 @@ msgstr ""
 
 msgctxt "#Pause"
 msgid "Pause"
+msgstr ""
+
+msgctxt "#ProblemsOverlay"
+msgid "Problems Overlay"
 msgstr ""
 
 msgctxt "#Quickload"

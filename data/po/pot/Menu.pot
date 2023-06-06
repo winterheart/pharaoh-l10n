@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-04-05 17:10\n"
-"PO-Revision-Date: 2023-04-05 17:10\n"
+"POT-Creation-Date: 2023-06-06 22:55\n"
+"PO-Revision-Date: 2023-06-06 22:55\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -170,6 +170,14 @@ msgstr ""
 
 msgctxt "#DesirabilityOverlay_Hover_5"
 msgid "This is among the most fashionable addresses in your city"
+msgstr ""
+
+msgctxt "#DesirabilityOverlay_Hover_not_protected"
+msgid "This area is not protected"
+msgstr ""
+
+msgctxt "#DesirabilityOverlay_Hover_protected"
+msgid "This area is protected"
 msgstr ""
 
 msgctxt "#Enter_Name"
@@ -344,6 +352,10 @@ msgstr ""
 
 msgctxt "#Hover_Menu"
 msgid "Menu"
+msgstr ""
+
+msgctxt "#Hover_MilitaryOverlay"
+msgid "Military Overlay"
 msgstr ""
 
 msgctxt "#Hover_MilitaryOverseer"

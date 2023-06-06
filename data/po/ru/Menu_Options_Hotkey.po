@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-03-21 16:51\n"
+"POT-Creation-Date: 2023-06-06 22:55\n"
 "PO-Revision-Date: 2023-03-21 16:57+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
@@ -30,6 +30,11 @@ msgstr "Внимание"
 msgctxt "#Assign"
 msgid "Assign"
 msgstr "Назначить"
+
+#, fuzzy
+msgctxt "#BazaarAccessOverlay"
+msgid "Bazaar Access Overlay"
+msgstr "Слой рисков малярии"
 
 msgctxt "#Briefing"
 msgid "Briefing"
@@ -135,6 +140,11 @@ msgctxt "#Key"
 msgid "Key"
 msgstr "Клавиша"
 
+#, fuzzy
+msgctxt "#MagistrateOverlay"
+msgid "Magistrate Overlay"
+msgstr "Слой водоснабжения"
+
 msgctxt "#MalariaOverlay"
 msgid "Malaria Risk Overlay"
 msgstr "Слой рисков малярии"
@@ -202,6 +212,11 @@ msgstr "Советник по рабочей силе"
 msgctxt "#Pause"
 msgid "Pause"
 msgstr "Пауза"
+
+#, fuzzy
+msgctxt "#ProblemsOverlay"
+msgid "Problems Overlay"
+msgstr "Закрыть слои"
 
 msgctxt "#Quickload"
 msgid "Quickload"

@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-04-05 17:10\n"
-"PO-Revision-Date: 2023-04-05 17:10\n"
+"POT-Creation-Date: 2023-06-06 22:55\n"
+"PO-Revision-Date: 2023-06-06 22:55\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -331,6 +331,34 @@ msgctxt "MusicianAccess_None"
 msgid "This house has no access to a musicians' stage"
 msgstr ""
 
+msgctxt "NoDancer"
+msgid "No Dancer"
+msgstr ""
+
+msgctxt "NoJuggler"
+msgid "No Juggler"
+msgstr ""
+
+msgctxt "NoJugglerNoDancer"
+msgid "No Juggler and no Dancer"
+msgstr ""
+
+msgctxt "NoJugglerNoMusician"
+msgid "No Juggler and no Musician"
+msgstr ""
+
+msgctxt "NoJugglerNoMusicianNoDancer"
+msgid "No entertainers"
+msgstr ""
+
+msgctxt "NoMusician"
+msgid "No Musician"
+msgstr ""
+
+msgctxt "NoMusicianNoDancer"
+msgid "No Musician and no Dancer"
+msgstr ""
+
 msgctxt "OverlayGeneral"
 msgid "Overlay intelligent help."
 msgstr ""
@@ -382,6 +410,30 @@ msgid ""
 "safe to walk at night"
 msgstr ""
 
+msgctxt "Problem_Collapse"
+msgid "Risk of collapse"
+msgstr ""
+
+msgctxt "Problem_Crime"
+msgid "Potential crime risk"
+msgstr ""
+
+msgctxt "Problem_Disease"
+msgid "Risk of disease"
+msgstr ""
+
+msgctxt "Problem_Fire"
+msgid "Risk of fire"
+msgstr ""
+
+msgctxt "Problem_Malaria"
+msgid "Risk of malaria"
+msgstr ""
+
+msgctxt "RawMaterial_None"
+msgid "Lacks raw materials"
+msgstr ""
+
 msgctxt "ReligionAccess_Five"
 msgid "This house has access to Temples to all the gods"
 msgstr ""
@@ -404,6 +456,10 @@ msgstr ""
 
 msgctxt "ReligionAccess_Two"
 msgid "This house has access to Temples to 2 different gods"
+msgstr ""
+
+msgctxt "Resources_None"
+msgid "Lacks resources"
 msgstr ""
 
 msgctxt "ScribalSchoolAccess_High"
