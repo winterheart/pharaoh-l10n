@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-06-06 22:55\n"
-"PO-Revision-Date: 2023-03-22 00:21+0300\n"
+"PO-Revision-Date: 2023-06-07 00:19+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 22.08.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.12.3\n"
 
 msgctxt ""
 msgid "This house is infested with frogs"
@@ -370,31 +370,31 @@ msgstr "У этого дома нет доступа к музыкальным �
 
 msgctxt "NoDancer"
 msgid "No Dancer"
-msgstr ""
+msgstr "Нет танцовщицы."
 
 msgctxt "NoJuggler"
 msgid "No Juggler"
-msgstr ""
+msgstr "Нет жонглёра."
 
 msgctxt "NoJugglerNoDancer"
 msgid "No Juggler and no Dancer"
-msgstr ""
+msgstr "Нет жонглёра и танцовщицы."
 
 msgctxt "NoJugglerNoMusician"
 msgid "No Juggler and no Musician"
-msgstr ""
+msgstr "Нет жонглёра и музыканта."
 
 msgctxt "NoJugglerNoMusicianNoDancer"
 msgid "No entertainers"
-msgstr ""
+msgstr "Нет артистов."
 
 msgctxt "NoMusician"
 msgid "No Musician"
-msgstr ""
+msgstr "Нет музыканта."
 
 msgctxt "NoMusicianNoDancer"
 msgid "No Musician and no Dancer"
-msgstr ""
+msgstr "Нет музыканта и танцовщицы."
 
 msgctxt "OverlayGeneral"
 msgid "Overlay intelligent help."
@@ -455,27 +455,27 @@ msgstr "Это опасный район. Жители несчастны, по 
 
 msgctxt "Problem_Collapse"
 msgid "Risk of collapse"
-msgstr ""
+msgstr "Риск обвала."
 
 msgctxt "Problem_Crime"
 msgid "Potential crime risk"
-msgstr ""
+msgstr "Риск потенциальной преступности."
 
 msgctxt "Problem_Disease"
 msgid "Risk of disease"
-msgstr ""
+msgstr "Риск болезней."
 
 msgctxt "Problem_Fire"
 msgid "Risk of fire"
-msgstr ""
+msgstr "Риск возгорания."
 
 msgctxt "Problem_Malaria"
 msgid "Risk of malaria"
-msgstr ""
+msgstr "Риск малярии."
 
 msgctxt "RawMaterial_None"
 msgid "Lacks raw materials"
-msgstr ""
+msgstr "Нехватка сырья."
 
 msgctxt "ReligionAccess_Five"
 msgid "This house has access to Temples to all the gods"
@@ -503,7 +503,7 @@ msgstr "У этого дома есть доступ к храмам двух б
 
 msgctxt "Resources_None"
 msgid "Lacks resources"
-msgstr ""
+msgstr "Нехватка ресурсов."
 
 msgctxt "ScribalSchoolAccess_High"
 msgid ""

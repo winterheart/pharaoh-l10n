@@ -4,41 +4,40 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-06-06 22:55\n"
-"PO-Revision-Date: 2023-03-11 00:12+0300\n"
+"PO-Revision-Date: 2023-06-07 02:14+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 22.08.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.12.3\n"
 
 msgctxt ""
 msgid "Raw materials"
 msgstr "Сырьё"
 
-#, fuzzy
 msgctxt "#Available_Buildings"
 msgid "Available Buildings"
-msgstr "Установить доступные постройки"
+msgstr "Доступные постройки"
 
 msgctxt "#Available_Foods"
 msgid "Available Foods"
-msgstr ""
+msgstr "Доступная еда"
 
 msgctxt "#Available_Goods"
 msgid "Available Goods"
-msgstr ""
+msgstr "Доступные товары"
 
 msgctxt "#Available_Luxury"
 msgid "Available Luxury"
-msgstr ""
+msgstr "Доступные предметы роскоши"
 
 msgctxt "#Available_Resources"
 msgid "Available foods, goods & luxury"
-msgstr ""
+msgstr "Доступные еда, товары и предметы роскоши"
 
 msgctxt "#Average"
 msgid "Average landscape"
@@ -46,350 +45,335 @@ msgstr "Средний ландшафт"
 
 msgctxt "#Brush_Clear"
 msgid "Clear brush"
-msgstr ""
+msgstr "Очистить кисть"
 
 msgctxt "#Brush_Cliff"
 msgid "Cliff"
-msgstr ""
+msgstr "Утёс"
 
 msgctxt "#Brush_Dune"
 msgid "Sand dunes"
-msgstr ""
+msgstr "Песчаные дюны"
 
 msgctxt "#Brush_Floodplain"
 msgid "Floodplain"
-msgstr ""
+msgstr "Пойменное поле"
 
 msgctxt "#Brush_Marsh"
 msgid "Marshland"
-msgstr ""
+msgstr "Болото"
 
 msgctxt "#Brush_Meadow"
 msgid "Meadow"
-msgstr ""
+msgstr "Луг"
 
 msgctxt "#Brush_Ore"
 msgid "Ore-bearing rock"
-msgstr ""
+msgstr "Рудоносная скала"
 
 msgctxt "#Brush_Road"
 msgid "Road"
-msgstr ""
+msgstr "Дорога"
 
 msgctxt "#Brush_Rock"
 msgid "Ordinary rock"
-msgstr ""
+msgstr "Обычная скала"
 
 msgctxt "#Brush_Sand"
 msgid "Plateau"
-msgstr ""
+msgstr "Плато"
 
 msgctxt "#Brush_Size"
 msgid "Brush size"
-msgstr ""
+msgstr "Размер кисти"
 
 msgctxt "#Brush_Trees"
 msgid "Trees"
-msgstr ""
+msgstr "Деревья"
 
 msgctxt "#Brush_Water"
 msgid "Water"
-msgstr ""
+msgstr "Вода"
 
 msgctxt "#Building_Available"
 msgid "Available"
-msgstr ""
+msgstr "Доступно"
 
 msgctxt "#Building_Locked"
 msgid "Locked"
-msgstr ""
+msgstr "Заблокировано"
 
 msgctxt "#Building_Unavailable"
 msgid "Unavailable"
-msgstr ""
+msgstr "Недоступно"
 
 msgctxt "#CityStatus_DistantCityToEgyptianCity"
 msgid "Distant City To Egyptian City"
-msgstr ""
+msgstr "Удаленный город в Египетский город"
 
 msgctxt "#CityStatus_EgyptianCityToDistantCity"
 msgid "Egyptian City To Distant City"
-msgstr ""
+msgstr "Египетский город в Удаленный город"
 
 msgctxt "#CityStatus_TradeAvailable"
 msgid "Trade Available"
-msgstr ""
+msgstr "Доступна торговля"
 
 msgctxt "#CityStatus_TradeShutsdown"
 msgid "Trade Shutdown"
-msgstr ""
+msgstr "Торговля остановлена"
 
 msgctxt "#CityStatus_UnderSiege"
 msgid "Under Siege"
-msgstr ""
+msgstr "Под осадой"
 
 msgctxt "#Enormous"
 msgid "Enormous land"
 msgstr "Огромный ландшафт"
 
-#, fuzzy
 msgctxt "#EventLink_None"
 msgid "None"
 msgstr "Нет"
 
 msgctxt "#EventType_BloodRiver"
 msgid "Blood River"
-msgstr ""
+msgstr "Кровавая река"
 
 msgctxt "#EventType_CityStatusChange"
 msgid "City Status Change"
-msgstr ""
+msgstr "Изменение статуса города"
 
-#, fuzzy
 msgctxt "#EventType_ClayPitFlood"
 msgid "Clay Pit Flood"
-msgstr "Поздний разлив?"
+msgstr "Затопление глиняного карьера"
 
 msgctxt "#EventType_ContaminatedWater"
 msgid "Contaminated Water"
-msgstr ""
+msgstr "Заражённая вода"
 
-#, fuzzy
 msgctxt "#EventType_FailedFlood"
 msgid "Failed Flood"
-msgstr "Поздний разлив?"
+msgstr "Нет разлива"
 
 msgctxt "#EventType_Gift"
 msgid "Gift"
-msgstr ""
+msgstr "Подарок"
 
 msgctxt "#EventType_GoldMineCollapse"
 msgid "Gold Mine Collapse"
-msgstr ""
+msgstr "Обрушение золотого рудника"
 
 msgctxt "#EventType_Hailstorm"
 msgid "Hailstorm"
-msgstr ""
+msgstr "Град"
 
-#, fuzzy
 msgctxt "#EventType_Invasion"
 msgid "Invasion"
-msgstr "Точка вторжения"
+msgstr "Вторжение"
 
-#, fuzzy
 msgctxt "#EventType_KingdomInvasion"
 msgid "Kingdom Invasion"
-msgstr "Жалование царства"
+msgstr "Вторжение Царства"
 
-#, fuzzy
 msgctxt "#EventType_KingdomRatingDecrease"
 msgid "Kingdom Rating Decrease"
-msgstr "Жалование царства"
+msgstr "Снижение рейтинга Царства"
 
-#, fuzzy
 msgctxt "#EventType_KingdomRatingIncrease"
 msgid "Kingdom Rating Increase"
-msgstr "Жалование царства"
+msgstr "Увеличение рейтинга Царства"
 
 msgctxt "#EventType_LandTradeProblem"
 msgid "Land Trade Problem"
-msgstr ""
+msgstr "Проблема сухопутной торговли"
 
 msgctxt "#EventType_LocustPlague"
 msgid "Locust Plague"
-msgstr ""
+msgstr "Нашествие саранчи"
 
-#, fuzzy
 msgctxt "#EventType_PerfectFlood"
 msgid "Perfect Flood"
-msgstr "Превосходный"
+msgstr "Превосходный разлив"
 
 msgctxt "#EventType_PriceDecrease"
 msgid "Price Decrease"
-msgstr ""
+msgstr "Снижение цены"
 
 msgctxt "#EventType_PriceIncrease"
 msgid "Price Increase"
-msgstr ""
+msgstr "Увеличение цены"
 
 msgctxt "#EventType_Request"
 msgid "Request"
-msgstr ""
+msgstr "Запрос"
 
 msgctxt "#EventType_ToadPlague"
 msgid "Toad Plague"
-msgstr ""
+msgstr "Нашествие лягушек"
 
 msgctxt "#EventType_TradeDecrease"
 msgid "Trade Decrease"
-msgstr ""
+msgstr "Снижение торговли"
 
 msgctxt "#EventType_TradeIncrease"
 msgid "Trade Increase"
-msgstr ""
+msgstr "Увеличение торговли"
 
 msgctxt "#EventType_TroopRequest"
 msgid "Troop Request"
-msgstr ""
+msgstr "Запрос войск"
 
 msgctxt "#EventType_WageDecrease"
 msgid "Wage Decrease"
-msgstr ""
+msgstr "Снижение жалования"
 
 msgctxt "#EventType_WageIncrease"
 msgid "Wage Increase"
-msgstr ""
+msgstr "Увеличение жалования"
 
 msgctxt "#EventType_WaterTradeProblem"
 msgid "Water Trade Problem"
-msgstr ""
+msgstr "Проблема водной торговли"
 
 msgctxt "#Event_AmountMax"
 msgid "Amount Max."
-msgstr ""
+msgstr "Макс. количество"
 
 msgctxt "#Event_AmountMin"
 msgid "Amount Min."
-msgstr ""
+msgstr "Мин. количество"
 
 msgctxt "#Event_ArmyMax"
 msgid "Army Max."
-msgstr ""
+msgstr "Макс. армии"
 
 msgctxt "#Event_ArmyMin"
 msgid "Army Min."
-msgstr ""
+msgstr "Мин. армии"
 
 msgctxt "#Event_ChainedEvent"
 msgid "Chained Event"
-msgstr ""
+msgstr "Связанное событие"
 
 msgctxt "#Event_CityStatus"
 msgid "City Status"
-msgstr ""
+msgstr "Статус города"
 
-#, fuzzy
 msgctxt "#Event_EventLinks"
 msgid "Call another event"
-msgstr "Запланировать события"
+msgstr "Вызов другого события"
 
 msgctxt "#Event_Frequency"
 msgid "Frequency"
-msgstr ""
+msgstr "Частота"
 
 msgctxt "#Event_From"
 msgid "From"
-msgstr ""
+msgstr "От"
 
-#, fuzzy
 msgctxt "#Event_Goods"
 msgid "Goods"
-msgstr "Хороший"
+msgstr "Товары"
 
-#, fuzzy
 msgctxt "#Event_InvasionDelay"
 msgid "Invasion Delay"
-msgstr "Точка вторжения"
+msgstr "Задержка вторжения"
 
 msgctxt "#Event_IsBedouin"
 msgid "Bedouin ?"
-msgstr ""
+msgstr "Бедуины?"
 
 msgctxt "#Event_IsNaval"
 msgid "Is Naval ?"
-msgstr ""
+msgstr "Водное?"
 
 msgctxt "#Event_LinkAccept"
 msgid "On Accept"
-msgstr ""
+msgstr "При принятии"
 
 msgctxt "#Event_LinkDecline"
 msgid "On Refuse"
-msgstr ""
+msgstr "При отказе"
 
 msgctxt "#Event_LinkDefeat"
 msgid "On Defeat"
-msgstr ""
+msgstr "При поражении"
 
 msgctxt "#Event_LinkLate"
 msgid "On Lateness"
-msgstr ""
+msgstr "При задержке"
 
 msgctxt "#Event_LinkVictory"
 msgid "On Victory"
-msgstr ""
+msgstr "При победе"
 
 msgctxt "#Event_Reason"
 msgid "Reason"
-msgstr ""
+msgstr "Причина"
 
 msgctxt "#Event_Related_City"
 msgid "Related City"
-msgstr ""
+msgstr "Связанный город"
 
 msgctxt "#Event_Type"
 msgid "Event Type"
-msgstr ""
+msgstr "Тип события"
 
 msgctxt "#Event_WarshipMax"
 msgid "Warship Max."
-msgstr ""
+msgstr "Макс. военных кораблей"
 
 msgctxt "#Event_WarshipMin"
 msgid "Warship Min."
-msgstr ""
+msgstr "Мин. военных кораблей"
 
-#, fuzzy
 msgctxt "#Fish"
 msgid "Fishing point"
-msgstr "Рыбное место"
+msgstr "Точка рыболовства"
 
-#, fuzzy
 msgctxt "#Flood_Visualizer"
 msgid "Flood Visualizer"
-msgstr "Качество разливов:"
+msgstr "Визуализация разлива"
 
 msgctxt "#Frequency_Delay"
 msgid "Delay"
-msgstr ""
+msgstr "Задержка"
 
-#, fuzzy
 msgctxt "#Frequency_Month"
 msgid "Month"
-msgstr "Два месяца"
+msgstr "Месяц"
 
 msgctxt "#Frequency_Once"
 msgid "Once"
-msgstr ""
+msgstr "Однажды"
 
 msgctxt "#Frequency_Recurrent"
 msgid "Recurrent"
-msgstr ""
+msgstr "Периодически"
 
 msgctxt "#Frequency_TimeLimit"
 msgid "Time Limit"
-msgstr ""
+msgstr "Лимит времени"
 
 msgctxt "#Frequency_Triggered"
 msgid "Triggered"
-msgstr ""
+msgstr "По триггеру"
 
 msgctxt "#Frequency_Until"
 msgid "Until"
-msgstr ""
+msgstr "До"
 
 msgctxt "#Frequency_Year"
 msgid "Year"
-msgstr ""
+msgstr "Год"
 
 msgctxt "#From_City"
 msgid "City"
-msgstr ""
+msgstr "Город"
 
-#, fuzzy
 msgctxt "#From_Pharaoh"
 msgid "Pharaoh"
-msgstr "Текущий фараон:"
+msgstr "Фараон"
 
 msgctxt "#Game_Good"
 msgid "Resources"
@@ -397,47 +381,43 @@ msgstr "Ресурсы"
 
 msgctxt "#God_Local"
 msgid "Local"
-msgstr ""
+msgstr "Местный"
 
-#, fuzzy
 msgctxt "#God_None"
 msgid "None"
 msgstr "Нет"
 
 msgctxt "#God_Patron"
 msgid "Patron"
-msgstr ""
+msgstr "Покровитель"
 
-#, fuzzy
 msgctxt "#GroundEntry"
 msgid "Entry point"
 msgstr "Точка входа"
 
-#, fuzzy
 msgctxt "#GroundExit"
 msgid "Exit point"
 msgstr "Точка выхода"
 
 msgctxt "#IE_Buyer"
 msgid "Buyer pays"
-msgstr ""
+msgstr "Покупатель платит"
 
 msgctxt "#IE_Items"
 msgid "Items"
-msgstr ""
+msgstr "Предметы"
 
 msgctxt "#IE_Seller"
 msgid "Seller receives"
-msgstr ""
+msgstr "Продавец получает"
 
 msgctxt "#ImportExport"
 msgid "Import/Export Prices"
-msgstr ""
+msgstr "Цены импорта/экспорта"
 
-#, fuzzy
 msgctxt "#Kingdom_Builder"
 msgid "Kingdom builder"
-msgstr "Жалование царства"
+msgstr "Строитель Царства"
 
 msgctxt "#Large"
 msgid "Large landscape"
@@ -445,139 +425,131 @@ msgstr "Большой ландшафт"
 
 msgctxt "#Map_Illustration"
 msgid "Mission Illustration"
-msgstr ""
+msgstr "Иллюстрация миссии"
 
 msgctxt "#Map_Musics"
 msgid "Audio Settings"
-msgstr ""
+msgstr "Настройки аудио"
 
-#, fuzzy
 msgctxt "#Map_Name"
 msgid "Map name"
-msgstr "Размер карты"
+msgstr "Название карты"
 
 msgctxt "#Map_Period"
 msgid "Period"
-msgstr ""
+msgstr "Период"
 
-#, fuzzy
 msgctxt "#Map_Tagline"
 msgid "Map tagline"
-msgstr "Размер карты"
+msgstr "Подзаголовок карты"
 
 msgctxt "#Mission_Events"
 msgid "Mission Events"
-msgstr ""
+msgstr "События миссии"
 
 msgctxt "#Music_Add"
 msgid "Add Music"
-msgstr ""
+msgstr "Добавить музыку"
 
-#, fuzzy
 msgctxt "#Music_Available"
 msgid "Available Musics"
-msgstr "Установить доступные постройки"
+msgstr "Доступная музыка"
 
 msgctxt "#Music_Population"
 msgid "Population Based Musics"
-msgstr ""
+msgstr "Музыка на основе населения"
 
 msgctxt "#Music_To"
 msgid "To"
-msgstr ""
+msgstr "К"
 
 msgctxt "#New"
 msgid "New"
-msgstr ""
+msgstr "Новая"
 
 msgctxt "#Placeholder_CityName"
 msgid "Enter city name"
-msgstr ""
+msgstr "Введите название города"
 
 msgctxt "#Placeholder_CityTagline"
 msgid "Enter city tagline"
-msgstr ""
+msgstr "Введите подзаголовок города"
 
-#, fuzzy
 msgctxt "#Predator"
 msgid "Killer point"
 msgstr "Точка убийц"
 
 msgctxt "#Presets_AbuSimbel"
 msgid "Abu Simbel"
-msgstr ""
+msgstr "Абу-Симбел"
 
 msgctxt "#Presets_Alexandria"
 msgid "Alexandria"
-msgstr ""
+msgstr "Александрия"
 
 msgctxt "#Presets_Pyramids"
 msgid "Pyramids"
-msgstr ""
+msgstr "Пирамиды"
 
 msgctxt "#Presets_ValleyOfTheKings"
 msgid "Valley of the Kings"
-msgstr ""
+msgstr "Долина Царей"
 
-#, fuzzy
 msgctxt "#Prey"
 msgid "Map prey point"
 msgstr "Точка добычи"
 
 msgctxt "#Quit_Editor"
 msgid "Quit Map Editor"
-msgstr ""
+msgstr "Выйти из редактора карт"
 
 msgctxt "#Quit_Editor_Desc"
 msgid "Are your sure you want to quit the editor and return to the main menu ?"
-msgstr ""
+msgstr "Вы уверены, что хотите выйти из редактора и вернуться в основное меню?"
 
 msgctxt "#Reason_ConstructionProject"
 msgid "Construction Project"
-msgstr ""
+msgstr "Строительный проект"
 
 msgctxt "#Reason_DistantBattle"
 msgid "Distant Battle"
-msgstr ""
+msgstr "Далекая битва"
 
 msgctxt "#Reason_EgyptianCity"
 msgid "Egyptian City"
-msgstr ""
+msgstr "Египетский город"
 
 msgctxt "#Reason_Famine"
 msgid "Famine"
-msgstr ""
+msgstr "Голод"
 
 msgctxt "#Reason_General"
 msgid "General"
-msgstr ""
+msgstr "Общее"
 
 msgctxt "#Reason_GodFestival"
 msgid "God Festival"
-msgstr ""
+msgstr "Фестиваль бога"
 
-#, fuzzy
 msgctxt "#Reason_Threat"
 msgid "Threat"
-msgstr "Создать"
+msgstr "Угроза"
 
-#, fuzzy
 msgctxt "#RiverEntry"
 msgid "River in"
-msgstr "Конец реки"
+msgstr "Начало реки"
 
-#, fuzzy
 msgctxt "#RiverExit"
 msgid "River out"
 msgstr "Конец реки"
 
 msgctxt "#Sandbox_Mode"
 msgid "Sandbox Mode"
-msgstr ""
+msgstr "Режим песочницы"
 
 msgctxt "#Settings"
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 msgctxt "#Small"
 msgid "Small landscape"
@@ -594,23 +566,23 @@ msgstr "Условия победы"
 msgctxt "#Validation_NoFood"
 msgid ""
 "Please define at least one food resource as available. People needs to eat !"
-msgstr ""
+msgstr "Укажите хотя бы один доступный источник еды. Людям нужно есть!"
 
 msgctxt "#Validation_NoGroundEntry"
 msgid "You must place an entry point for migrants to appear on the map"
-msgstr ""
+msgstr "Разместите точку появления для мигрантов на карте"
 
 msgctxt "#Validation_NoTagline"
 msgid "City requires a tagline"
-msgstr ""
+msgstr "Для города нужен подзаголовок"
 
 msgctxt "#Validation_NoTitle"
 msgid "City requires a name"
-msgstr ""
+msgstr "Для города нужно название"
 
 msgctxt "#Validation_NoWinCondition"
 msgid "This map not in sandbox but there's no defined win condition !"
-msgstr ""
+msgstr "Эта карта — не песочница, но нет определенных условий победы!"
 
 msgctxt "#VeryLarge"
 msgid "Very large land"
@@ -618,156 +590,151 @@ msgstr "Очень большой ландшафт"
 
 msgctxt "#WinCond_BurialGoods"
 msgid "Burial Goods"
-msgstr ""
+msgstr "Погребальные принадлежности"
 
 msgctxt "#WinCond_Culture"
 msgid "Culture"
-msgstr ""
+msgstr "Культура"
 
 msgctxt "#WinCond_Houses"
 msgid "Houses"
-msgstr ""
+msgstr "Дома"
 
-#, fuzzy
 msgctxt "#WinCond_Kingdom"
 msgid "Kingdom"
-msgstr "Жалование царства"
+msgstr "Царство"
 
 msgctxt "#WinCond_MonumentPresets"
 msgid "Monuments Presets"
-msgstr ""
+msgstr "Наличие монументов"
 
 msgctxt "#WinCond_Monuments"
 msgid "Available Monuments"
-msgstr ""
+msgstr "Доступные монументы"
 
-#, fuzzy
 msgctxt "#WinCond_NoMonument"
 msgid "None"
 msgstr "Нет"
 
 msgctxt "#WinCond_Population"
 msgid "Population"
-msgstr ""
+msgstr "Население"
 
 msgctxt "#WinCond_Prosperity"
 msgid "Prosperity"
-msgstr ""
+msgstr "Благополучие"
 
 msgctxt "#WinCond_SelectMonument"
 msgid "Select monument"
-msgstr ""
+msgstr "Выберите монумент"
 
 msgctxt "#WorldFilter_Active"
 msgid "Active"
-msgstr ""
+msgstr "Активно"
 
 msgctxt "#WorldFilter_All"
 msgid "All"
-msgstr ""
+msgstr "Все"
 
 msgctxt "#WorldFilter_Inactive"
 msgid "Inactive"
-msgstr ""
+msgstr "Неактивно"
 
 msgctxt "#WorldFilter_MyCity"
 msgid "My City"
-msgstr ""
+msgstr "Мой город"
 
 msgctxt "#WorldFilter_Pharaoh"
 msgid "Pharaoh City"
-msgstr ""
+msgstr "Город Фараона"
 
 msgctxt "#WorldMap_CityIllustration"
 msgid "City Illustration"
-msgstr ""
+msgstr "Иллюстрация города"
 
 msgctxt "#WorldMap_CityStatus"
 msgid "City Status"
-msgstr ""
+msgstr "Статус города"
 
 msgctxt "#WorldMap_EnableCity"
 msgid "Enable City"
-msgstr ""
+msgstr "Включить город"
 
 msgctxt "#WorldMap_Export"
 msgid "Export"
-msgstr ""
+msgstr "Экспорт"
 
 msgctxt "#WorldMap_Import"
 msgid "Import"
-msgstr ""
+msgstr "Импорт"
 
 msgctxt "#WorldMap_Items"
 msgid "Items"
-msgstr ""
+msgstr "Предметы"
 
 msgctxt "#WorldMap_LandRoute"
 msgid "Land route"
-msgstr ""
+msgstr "Наземный путь"
 
 msgctxt "#WorldMap_NoRoute"
 msgid "No Route"
-msgstr ""
+msgstr "Нет пути"
 
 msgctxt "#WorldMap_OpenPrice"
 msgid "Open Price"
-msgstr ""
+msgstr "Цена открытия"
 
 msgctxt "#WorldMap_SeaRoute"
 msgid "Sea route"
-msgstr ""
+msgstr "Водный путь"
 
 msgctxt "#WorldMap_StatusEgyptianCity"
 msgid "Egyptian City"
-msgstr ""
+msgstr "Египетский город"
 
 msgctxt "#WorldMap_StatusForeignCity"
 msgid "Foreign City"
-msgstr ""
+msgstr "Иноземный город"
 
 msgctxt "#WorldMap_StatusMyCity"
 msgid "My City"
-msgstr ""
+msgstr "Мой город"
 
 msgctxt "#WorldMap_StatusPharaohCity"
 msgid "Pharaoh City"
-msgstr ""
+msgstr "Город Фараона"
 
 msgctxt "#WorldMap_Trade"
 msgid "Trade"
-msgstr ""
+msgstr "Торговля"
 
 msgctxt "#WorldMap_Volume"
 msgid "Volume"
-msgstr ""
+msgstr "Размер"
 
-#, fuzzy
 msgctxt "#WorldMap_VolumeLarge"
 msgid "Large"
-msgstr "Большая карта"
+msgstr "Большой"
 
-#, fuzzy
 msgctxt "#WorldMap_VolumeMedium"
 msgid "Medium"
-msgstr "Средняя карта"
+msgstr "Средний"
 
-#, fuzzy
 msgctxt "#WorldMap_VolumeSmall"
 msgid "Small"
-msgstr "Маленькая карта"
+msgstr "Маленький"
 
 msgctxt "#amount"
 msgid "amount"
-msgstr ""
+msgstr "количество"
 
 msgctxt "#god_settings"
 msgid "Gods settings"
-msgstr ""
+msgstr "Настройки богов"
 
 msgctxt "#god_temple_complex"
 msgid "Temple Complex"
-msgstr ""
+msgstr "Храмовый комплекс"
 
 msgctxt "#map_editor_climate"
 msgid "Climate"
@@ -799,7 +766,7 @@ msgstr "Показать сетку"
 
 msgctxt "#map_editor_load_mission"
 msgid "Loading a mission"
-msgstr ""
+msgstr "Загрузка миссии"
 
 msgctxt "#map_editor_parameters"
 msgid "Parameters"
@@ -869,10 +836,9 @@ msgctxt "#parameters_starting year"
 msgid "Starting Year"
 msgstr "Год старта"
 
-#, fuzzy
 msgctxt "#parameters_starting_funds"
 msgid "Initial funds"
-msgstr "Начальный ранг"
+msgstr "Начальные средства"
 
 msgctxt "#parameters_trade"
 msgid "Adjust prices of imports and exports"
@@ -884,7 +850,7 @@ msgstr "Сохранить"
 
 msgctxt "#to"
 msgid "to"
-msgstr ""
+msgstr "к"
 
 msgctxt "2Months"
 msgid "Two Months"
