@@ -6,7 +6,7 @@ from pathlib import Path
 
 langs = ["ru"]
 po_file_dir = Path("data/po")
-unity_exec = "/home/winterheart/Unity/Hub/Editor/2019.4.38f1/Editor/Unity"
+unity_exec = Path.joinpath(Path.home(), "Unity/Hub/Editor/2019.4.38f1/Editor/Unity")
 unity_args = "-projectPath unity/pharaoh-l10n-assets" \
              " -executeMethod CreateAssetBundles.BuildAllAssetBundles -batchmode -quit"
 
