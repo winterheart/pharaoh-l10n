@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # This file is part of I2Loc translation project
 # SPDX-License-Identifier: GPL-3.0-or-later
 # (c) 2020, 2023 Azamat H. Hackimov <azamat.hackimov@gmail.com>
