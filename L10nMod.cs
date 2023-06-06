@@ -19,8 +19,8 @@ namespace Pharaoh_L10n
     public static class Globals
     {
         // Version. First 3 digit - base version of game. 4th digit - version of mod.
-        public const string fullver = "1.2.0.1";
-        public const string semver = "1.2.0+p1";
+        public const string fullver = "1.3.0.1";
+        public const string semver = "1.3.0+p1";
     }
  
     public class L10nMod : MelonMod
