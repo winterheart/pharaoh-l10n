@@ -438,7 +438,7 @@ Buildings/#GraniteQuarry_tooltip;Text;;"Needs to be placed near rocks. Produces 
 Buildings/#GraniteQuarry_workers_0;Text;;This quarry has no workers. Production has ceased.;Ce bâtiment n'emploie personne. La production est interrompue.;Esta cantera no tiene empleados. La producción ha parado.;Dieser Betrieb hat keine Arbeitskräfte. Die Produktion wurde eingestellt.;Questo edificio non ha addetti. La produzione è ferma.
 Buildings/#GraniteQuarry_workers_1;Text;;With hardly any workers here, output has nearly stopped. It will produce little over the coming year.;Seuls quelques employés travaillent ici. La production est quasiment nulle, et devrait être faible cette année.;La producción de esta cantera, casi sin empleados, ha descendido mucho. Producirá muy poco durante el próximo año.;Es sind kaum Arbeitskräfte vorhanden. Daher ist die Produktion fast zum Erliegen gekommen. Im Verlauf des nächsten Jahres wird der Betrieb nur wenig produzieren.;Con così pochi lavoratori, la produzione di granito è quasi ferma. Produrrà ben poco per il prossimo anno.
 Buildings/#GraniteQuarry_workers_100;Text;;This quarry has all the workers it needs, and is working flat out to produce granite.;Ce bâtiment dispose d'une main-d'oeuvre suffisante. Sa production de granit est abondante.;Esta cantera tiene todos los empleados que necesita y produce todo el granito posible.;Dieser Betrieb hat alle Arbeitskräfte, die er benötigt, und die Granitproduktion arbeitet auf vollen Touren.;Questo edificio ha tutti gli addetti che occorrono e lavora a ritmo serrato per produrre granito.
-Buildings/#GraniteQuarry_workers_25;Text;;Very few people work here. The quarry yields very little granite.;Seuls quelques employés travaillent ici. La production de granite est donc ralentie.;En esta cantera trabaja muy poca gente, por lo que la produce poco granito.;Hier arbeiten nur wenige Leute. Dieser Steinbruch produziert nur wenig Granit.;Pochissime persone lavorano in questo edificio. La produzione di granito è bassa.
+Buildings/#GraniteQuarry_workers_25;Text;;Very few people work here. The quarry yields very little granite.;Seuls quelques employés travaillent ici. La production de granit est donc ralentie.;En esta cantera trabaja muy poca gente, por lo que la produce poco granito.;Hier arbeiten nur wenige Leute. Dieser Steinbruch produziert nur wenig Granit.;Pochissime persone lavorano in questo edificio. La produzione di granito è bassa.
 Buildings/#GraniteQuarry_workers_50;Text;;This quarry is understaffed. It takes longer to produce granite than it should.;Cette carrière ne dispose pas d'une main-d'oeuvre suffisante. Sa production est donc ralentie.;Esta cantera no tiene suficientes empleados y tarda en producir granito más de lo debido.;Dieser Steinbruch ist unterbesetzt. Daher dauert die Granitproduktion länger als nötig.;Questa cava è a corto di personale. Produce granito con più lentezza di quanto dovrebbe.
 Buildings/#GraniteQuarry_workers_75;Text;;This quarry is working below maximum capacity. Production could be slightly more efficient with more workers.;Ce bâtiment fonctionne en dessous de sa capacité maximale. Sa production serait meilleure s'il disposait d'une main-d'oeuvre supplémentaire.;Esta cantera funciona por debajo de su capacidad. La producción podría ser un poco más eficaz si hubiera más trabajadores.;Dieser Betrieb arbeitet unter seiner maximalen Kapazität. Wenn mehr Arbeitskräfte zur Verfügung stünden, könnte die Produktion etwas effizienter sein.;Questo edificio lavora a ritmo ridotto. La produzione potrebbe migliorare con più lavoratori.
 Buildings/#GuildArtisans;Text;;Artisans' Guild;Guilde d’artisans;Gremio de artesanos;Kunsthandwerkergilde;Gilda degli artigiani
@@ -2275,8 +2275,8 @@ Events/#EgyptianCitySaved_ReasonPhrase_1;Text;;due to a valiant effort on the pa
 Events/#EgyptianCitySaved_ReasonPhrase_2;Text;;the tides of war swing back and forth, for now;la situation de guerre est stable, pour le moment;El curso de la guerra está cambiando, y;da die Stadt {[city_name]} vor unseren Gegnern gerettet wurde;le sorti della guerra non sono mai scritte sulla pietra, infatti
 Events/#EgyptianCitySaved_ReasonPhrase_3;Text;; ;;;;
 Events/#EgyptianCitySaved_Title;Text;;Egyptian City Saved;Cité égyptienne secourue;Ciudad egipcia salvada;Ägyptische Stadt gerettet;Città egizia salvata
-Events/#EgyptianCity_To_DistantCity_Content;Text;;{[greeting]} {[player_name]}, {[reason_phrase]} the mighty city of {[city_name]} has fallen to our enemies.;{[greeting]} {[player_name]}, {[reason_phrase]} la grande cité de {[city_name]} est tombée aux mains de l'ennemi.;{[greeting]}, {[player_name]}. {[reason_phrase]} la poderosa ciudad de {[city_name]} ha caído frente a nuestros enemigos.;{[greeting]} {[player_name]}, Eine mächtige Stadt ist unseren Feinden in die Hände gefallen, {[reason_phrase]}.;{[greeting]} {[player_name]}, {[reason_phrase]} la potente città di {[city_name]} è caduta per mano dei nemici.
-Events/#EgyptianCity_To_DistantCity_ReasonPhrase_1;Text;;woe is;le malheur est;¡Qué infortunio!, pues;Schande über {[city_name];purtroppo
+Events/#EgyptianCity_To_DistantCity_Content;Text;;{[greeting]} {[player_name]}, {[reason_phrase]} the mighty city of {[city_name]} has fallen to our enemies.;{[greeting]} {[player_name]}, {[reason_phrase]} la grande cité de {[city_name]} est tombée aux mains de l'ennemi.;{[greeting]}, {[player_name]}. {[reason_phrase]} la poderosa ciudad de {[city_name]} ha caído frente a nuestros enemigos.;{[greeting]} {[player_name]}, die mächtige Stadt von {[city_name]} ist unseren Feinden in die Hände gefallen, {[reason_phrase]}.;{[greeting]} {[player_name]}, {[reason_phrase]} la potente città di {[city_name]} è caduta per mano dei nemici.
+Events/#EgyptianCity_To_DistantCity_ReasonPhrase_1;Text;;woe is;le malheur est;¡Qué infortunio!, pues;Schande über {[city_name]};purtroppo
 Events/#EgyptianCity_To_DistantCity_ReasonPhrase_2;Text;;it seems the troubles will never end, for;les problèmes semblent être sans issue, car;Parece que los problemas nunca acaban, pues;und es scheint, dass die Probleme für {[city_name]} niemals enden;pare che i problemi non finiscano mai, perché
 Events/#EgyptianCity_To_DistantCity_ReasonPhrase_3;Text;; ;;;;
 Events/#EgyptianCity_To_DistantCity_Title;Text;;Egyptian City Falls;Une cité égyptienne tombe;Ciudad egipcia perdida;Ägyptische Stadt fällt;Caduta della città egizia
@@ -2289,7 +2289,7 @@ Events/#FamineRelief_City_ReasonPhrase_3;Text;; ;;;;
 Events/#FamineRelief_City_Reminder;Text;;{[greeting]} {[player_name]}, the people of {[city_name]} are wailing with hunger, and you still have not sent the {0} {[resource]}. Send the supplies within 6 months, or wails of hunger will be replaced with laments for the dead.;{[greeting]} {[player_name]}, les habitants de {[city_name]} pleurent de faim et vous n'avez toujours pas envoyé les {0} {[resource]}. Envoyez les ressources sous six mois, ou les pleurs se transformeront en cris d'agonie.;{[greeting]}, {[player_name]}. La gente de {[city_name]} llora por el hambre y aún no has enviado {0} {[resource]}. Haz el envío en los próximos 6 meses o los gemidos de la hambruna acabarán siendo lamentos por los muertos.;{[greeting]} {[player_name]}, die Menschen in {[city_name]} leiden Hunger, und Sie haben die {0} Einheiten {[resource]} noch immer nicht geschickt. Senden Sie die Güter innerhalb von sechs Monaten, oder an die Stelle des Wimmerns der Hungernden treten die Wehklagen der Trauernden.;{[greeting]} {[player_name]}, gli abitanti di {[city_name]} stanno patendo la fame, e tu non hai ancora inviato le {0} unità di {[resource]} che ti sono state chieste. Inviale entro 6 mesi o i gemiti della fame si trasformeranno in lamenti di morte.
 Events/#FamineRelief_City_Title;Text;;Famine;Famine;Hambre;Hungersnot;Carestia
 Events/#FamineRelief_City_Warning;Text;;{[greeting]} {[player_name]}, the people of {[city_name]} wonder if your heart is cruel. You have only 6 months left to send {0} {[resource]} to ease their suffering. Deny them, and their deaths will be on your head.;{[greeting]} {[player_name]}, les habitants de {[city_name]} se questionnent sur votre cruauté. Vous n'avez plus que six mois pour envoyer {0} {[resource]} et soulager leurs souffrances, sans quoi vous aurez leur mort sur la conscience.;{[greeting]}, {[player_name]}. La gente de {[city_name]} se pregunta si hay bondad en tu corazón. Solo te quedan 6 meses para enviar {0} {[resource]} y así aliviar su sufrimiento. Niégales tu ayuda y cargarás con sus muertes en tu conciencia.;{[greeting]} {[player_name]}, die Bürger von {[city_name]} fragen sich, warum Ihr Herz so hart ist. Sie haben nur noch sechs Monate Zeit, {0} Einheiten {[resource]} zu schicken, um ihre Not zu lindern. Falls Sie sich weigern, tragen Sie die Verantwortung für ihren Tod.;{[greeting]} {[player_name]}, gli abitanti di {[city_name]} si chiedono se hai un cuore. Ti restano solo 6 mesi per inviare {0} unità di {[resource]} per alleviare le loro sofferenze. Se gliele neghi,avrai le loro morti sulla coscienza.
-Events/#FamineRelief_Pharaoh_Announcement;Text;;{[greeting]} {[player_name]}, {[reason_phrase]} famine grips {[city_name]}. Pharaoh requires you to provide succor. You have {1} to send {0} {[resource]} to the city to ease its suffering.;{[greeting]} {[player_name]}, {[reason_phrase]} la famine frappe {[city_name]}. Le pharaon sollicite votre aide. Vous avez {1} mois pour envoyer {0} {[resource]} à la cité et soulager ses souffrances.;{[greeting]}, {[player_name]}. {[reason_phrase]} la hambruna se ha extendido por {[city_name]}. El faraón solicita tu ayuda. Tienes {1} meses para enviar {0} {[resource]} a la ciudad y, así, aliviar su penuria.;{[greeting]} {[player_name]}, in {[city_name]} grassiert eine Hungersnot, {[reason_phrase]}. Der Pharao bittet Sie um Beistand. Sie haben {1} Monate Zeit, {0} Einheiten {[resource]} zu schicken, um die Not in der Stadt zu lindern.;{[greeting]} {[player_name]}, {[reason_phrase]} la carestia ha colpito {[city_name]}. Il faraone ha bisogno del tuo intervento. Hai {1} mesi di tempo per inviare {0} unità di {[resource]} alla città per aiutarla a superare questo momento difficile.
+Events/#FamineRelief_Pharaoh_Announcement;Text;;{[greeting]} {[player_name]}, {[reason_phrase]} famine grips {[city_name]}. Pharaoh requires you to provide succor. You have {1} months to send {0} {[resource]} to the city to ease its suffering.;{[greeting]} {[player_name]}, {[reason_phrase]} la famine frappe {[city_name]}. Le pharaon sollicite votre aide. Vous avez {1} mois pour envoyer {0} {[resource]} à la cité et soulager ses souffrances.;{[greeting]}, {[player_name]}. {[reason_phrase]} la hambruna se ha extendido por {[city_name]}. El faraón solicita tu ayuda. Tienes {1} meses para enviar {0} {[resource]} a la ciudad y, así, aliviar su penuria.;{[greeting]} {[player_name]}, in {[city_name]} grassiert eine Hungersnot, {[reason_phrase]}. Der Pharao bittet Sie um Beistand. Sie haben {1} Monate Zeit, {0} Einheiten {[resource]} zu schicken, um die Not in der Stadt zu lindern.;{[greeting]} {[player_name]}, {[reason_phrase]} la carestia ha colpito {[city_name]}. Il faraone ha bisogno del tuo intervento. Hai {1} mesi di tempo per inviare {0} unità di {[resource]} alla città per aiutarla a superare questo momento difficile.
 Events/#FamineRelief_Pharaoh_Overdue;Text;;{[greeting]} {[player_name]}, Pharaoh thinks you are as mean as an asp. You have done nothing to alleviate your compatriots' hunger. You can still send {0} {[resource]} to {[city_name]} and stand a chance of rehabilitating your image in Pharaoh's eyes.;{[greeting]} {[player_name]}, le pharaon vous voit comme un être égoïste. Vous n'avez rien fait pour soulager la faim de vos compatriotes. Il n'est pas trop tard pour envoyer {0} {[resource]} à {[city_name]} dans l'espoir de redorer votre image aux yeux du pharaon.;{[greeting]}, {[player_name]}. El faraón compara tu actitud con la de un áspid. No has movido un dedo para aliviar el hambre de tus compatriotas. Aún estás a tiempo de enviar {0} {[resource]} a {[city_name]} y, así, rehabilitar tu imagen a ojos del faraón.;{[greeting]} {[player_name]}, der Pharao fragt sich, ob Sie hinterhältig sind wie eine Schlange. Sie haben nichts gegen den Hunger Ihrer Landsleute unternommen. Sie können immer noch {0} Einheiten {[resource]} nach {[city_name]} schicken, um Ihr Ansehen beim Pharao zu rehabilitieren.;{[greeting]} {[player_name]}, il faraone crede che il tuo cuore sia colmo di malvagità. Non hai fatto nulla per placare la fame dei tuoi conterranei. Puoi ancora inviare {0} unità di {[resource]} a {[city_name]} e tentare per l’ultima volta di salvare la tua reputazione agli occhi del faraone.
 Events/#FamineRelief_Pharaoh_ReasonPhrase_1;Text;;Fortune frowns on Pharaoh's people, and;La chance ne sourit pas aux sujets du pharaon, et;La fortuna ha dado la espalda al pueblo del faraón y;da das Glück den Untertanen des Pharao dort nicht hold war;la sciagura si è scagliata sui sudditi del faraone, e
 Events/#FamineRelief_Pharaoh_ReasonPhrase_2;Text;;troubles continue to mount, as;les problèmes ne cessent de s'accumuler, étant donné que;Los problemas se acumulan y;da die Probleme immer größer werden;i problemi continuano ad abbattersi sulla povera gente,
@@ -2850,12 +2850,12 @@ Events/ChainedEvents/#TradeRouteShutsDown_ReasonPhrase_3;Text;;although the trad
 Events/ChainedEvents/#UnderSiege_ReasonPhrase_1;Text;;because {[city_name]} is under siege,;comme {[city_name]} est assiégée,;Como la ciudad de {[city_name]} está siendo asediada,;da {[city_name]} eingekesselt wurde;poiché {[city_name]} è sotto assedio,
 Events/ChainedEvents/#UnderSiege_ReasonPhrase_2;Text;;{[city_name]} is under siege, and;{[city_name]} est assiégée et;La ciudad de {[city_name]} está siendo asediada y;da {[city_name]} umzingelt ist;{[city_name]} è sotto assedio, e
 Events/ChainedEvents/#UnderSiege_ReasonPhrase_3;Text;;even though {[city_name]} is under siege,;bien que {[city_name]} soit assiégée,;Aunque la ciudad de {[city_name]} está siendo asediada,;obwohl {[city_name]} umzingelt ist;anche se {[city_name]} è sotto assedio,
-Events/ChainedEvents/#WageDown_ReasonPhrase_1;Text;;because wages have fallen,;comme les salaires ont chuté,;Como los salarios han bajado,;da alle Löhne gesenkt wurden;poiché i salari sono diminuiti,
-Events/ChainedEvents/#WageDown_ReasonPhrase_2;Text;;wages have fallen, and what's more,;les salaires ont chuté. De plus,;Los salarios han bajado y, además,;die Löhne insgesamt gefallen sind;i salari sono diminuiti e, in più,
-Events/ChainedEvents/#WageDown_ReasonPhrase_3;Text;;even though wages have fallen,;bien que les salaires aient chuté,;Aunque los salarios han bajado,;da alle weniger Geld bekommen;anche se i salari sono diminuiti,
-Events/ChainedEvents/#WageUp_ReasonPhrase_1;Text;;because wages have increased throughout the Kingdom,;comme les salaires ont augmenté dans tout le royaume,;Como los salarios han aumentado en todo el imperio,;da alle Löhne im Königreich erhöht wurden;poiché i salari sono aumentati in tutto il regno,
-Events/ChainedEvents/#WageUp_ReasonPhrase_2;Text;;wages have increased throughout the Kingdom, and;les salaires ont augmenté dans tout le royaume et;Los salarios han aumentado en todo el imperio y;weil alle Löhne im Königreich gestiegen sind;i salari sono aumentati in tutto il regno e
-Events/ChainedEvents/#WageUp_ReasonPhrase_3;Text;;even though wages have increased throughout the Kingdom,;bien que les salaires aient augmenté dans tout le royaume,;Aunque los salarios han aumentado en todo el imperio,;und auch alle anderen Löhne im Königreich wurden erhöht;anche se i salari sono aumentati in tutto il regno,
+Events/ChainedEvents/#WagesDown_ReasonPhrase_1;Text;;because wages have fallen,;comme les salaires ont chuté,;Como los salarios han bajado,;da alle Löhne gesenkt wurden;poiché i salari sono diminuiti,
+Events/ChainedEvents/#WagesDown_ReasonPhrase_2;Text;;wages have fallen, and what's more,;les salaires ont chuté. De plus,;Los salarios han bajado y, además,;die Löhne insgesamt gefallen sind;i salari sono diminuiti e, in più,
+Events/ChainedEvents/#WagesDown_ReasonPhrase_3;Text;;even though wages have fallen,;bien que les salaires aient chuté,;Aunque los salarios han bajado,;da alle weniger Geld bekommen;anche se i salari sono diminuiti,
+Events/ChainedEvents/#WagesUp_ReasonPhrase_1;Text;;because wages have increased throughout the Kingdom,;comme les salaires ont augmenté dans tout le royaume,;Como los salarios han aumentado en todo el imperio,;da alle Löhne im Königreich erhöht wurden;poiché i salari sono aumentati in tutto il regno,
+Events/ChainedEvents/#WagesUp_ReasonPhrase_2;Text;;wages have increased throughout the Kingdom, and;les salaires ont augmenté dans tout le royaume et;Los salarios han aumentado en todo el imperio y;weil alle Löhne im Königreich gestiegen sind;i salari sono aumentati in tutto il regno e
+Events/ChainedEvents/#WagesUp_ReasonPhrase_3;Text;;even though wages have increased throughout the Kingdom,;bien que les salaires aient augmenté dans tout le royaume,;Aunque los salarios han aumentado en todo el imperio,;und auch alle anderen Löhne im Königreich wurden erhöht;anche se i salari sono aumentati in tutto il regno,
 Guide/;Text;;Religion;Religion;Religión;Religion;Religione
 Guide/#AbuSimbel_Content;Text;;"The temple of Abu Simbel is a massive monument that Ramses II had hewn from the sandstone cliffs overlooking the upper Nile in Nubia. To begin construction on Abu Simbel, first select it from the Monuments list. A footprint of the monument will appear. The bulk of the monument must be built into cliffs. The entranceway, which juts from the side of the monument, must be on clear land. You'll know you've selected a good spot when the entire footprint turns green. Click the mouse button to lock the monument into place. You might find it helpful to temporarily flatten the cliff terrain while you are searching for a suitable spot to place the monument. 
 Once an appropriate site is designated, you will need an able workforce, headed by <link=""#ConstructionGuilds_Title""><u>stonemasons</u></link> from a Stonemasons' Guild to carve the rock and <link=""#ConstructionGuilds_Title""><u>carpenters</u></link> from a Carpenters' Guild to build the necessary scaffolding. The carpenters will need <link=""#WoodCutter_Title""><u>wood</u></link> for the scaffolding, which can be imported via a <link=""#Trade_Title""><u>trade route</u></link> or harvested from the land by a Wood Cutter. 
@@ -3061,15 +3061,15 @@ Però, anche nonostante l'impegno più accanito, può capitare che certe zone de
 Guide/#Crime_Title;Text;;Crime;Criminalité;Delincuencia;Kriminalität;Crimine
 Guide/#Defensive_Content;Text;;"The <link=""#FortCompany_Title""><u>army</u></link> defend the city after enemies penetrate its borders. Building defensive structures may prevent enemies from ever setting foot within the city proper.
  
-Walls: The most basic defensive structure is the Wall. To build Walls, choose them from the Military Structures. Click and drag the mouse to build large sections of a Wall at one time, just as you can do with roads. Walls are built from whichever natural materials are at hand, so no stone needs to be quarried or imported to build them. They are nevertheless expensive to build, so think carefully about the perimeter that you want to enclose. Walls do not need road access and are undesirable neighbors. In Pharaoh: A New Era, walls are purely decorative now that battles are automatically resolved.
+Walls: The most basic defensive structure is the Wall. To build Walls, choose them from the Military Structures. Click and drag the mouse to build large sections of a Wall at one time, just as you can do with roads. Walls are built from whichever natural materials are at hand, so no stone needs to be quarried or imported to build them. They are nevertheless expensive to build, so think carefully about the perimeter that you want to enclose. Walls do not need road access and are undesirable neighbors. 
  
-Towers: Build Towers to add a little offense to your defensive Walls. Towers are manned by guards trained by the city's <link=""#Recruiter_Title""><u>Recruiter</u></link> to hurl arrows on any enemies brave or foolhardy enough to come within range. Towers must be built into Walls that are two layers thick, if there are no walls placing a tower will automatically construct them, making them pricier in the process They also require road access, employees and sentries from a Recruiter's office. Towers can be upgraded with plain stone and their sentry with composite bows. Towers will make a good addition to your army value in case of attack.
- 
+Towers: Build Towers to add a little offense to your defensive Walls. Towers are manned by guards trained by the city's <link=""#Recruiter_Title""><u>Recruiter</u></link> to hurl arrows on any enemies brave or foolhardy enough to come within range. Towers must be built into Walls that are two layers thick, if there are no walls placing a tower will automatically construct them, making them pricier in the process. They also require road access, employees and sentries from a Recruiter's office. Towers can be upgraded with plain stone and their sentry with composite bows. Towers will make a good addition to your army value in case of attack.
+
 Gatehouses: As comforting as it would be, you cannot completely encircle your city with Walls. To let immigrants and merchant trade caravans in, you must have Gatehouses. Build Gatehouses where your major access roads meet your city Walls. While you are holding the mouse cursor over the desired location, press 'R' to change the direction the Gatehouse is facing. Once placed, Gatehouses will automatically attach to any adjacent Walls. Like Roadblocks, Gatehouses permit destination walkers free passage but turn roaming walkers back (click <link=""#Walkers_Title""><u>here</u></link> for more on walkers). 
  
 For more information, consult the entry on <link=""#War_Title""><u>war</u></link>.";"L’<link=""#FortCompany_Title""><u>armée</u></link> protège le royaume contre les attaques ennemies. Construisez des structures défensives pour empêcher les assaillants d’envahir votre cité.
   
-Murs : Le mur constitue la structure défensive la plus élémentaire. Pour construire un mur, cliquez sur le bouton Structures militaires, puis choisissez l’option correspondante dans la liste qui s’affiche. Cliquez et faites glisser le curseur pour bâtir de larges enceintes, comme vous le feriez pour les routes. Les murs sont fabriqués avec toutes sortes de matériaux. Leur construction ne nécessite par conséquent aucune carrière ni importation de blocs de pierre. Cependant, leur construction étant relativement coûteuse, délimitez avec attention le périmètre que vous voulez fermer. Les murs n’ont pas besoin d’un accès à la route et sont indésirables pour le voisinage. Dans Pharaoh: A New Era, les murs deviennent purement décoratifs du fait que les batailles sont maintenant résolues automatiquement.
+Murs : Le mur constitue la structure défensive la plus élémentaire. Pour construire un mur, cliquez sur le bouton Structures militaires, puis choisissez l’option correspondante dans la liste qui s’affiche. Cliquez et faites glisser le curseur pour bâtir de larges enceintes, comme vous le feriez pour les routes. Les murs sont fabriqués avec toutes sortes de matériaux. Leur construction ne nécessite par conséquent aucune carrière ni importation de blocs de pierre. Cependant, leur construction étant relativement coûteuse, délimitez avec attention le périmètre que vous voulez fermer. Les murs n’ont pas besoin d’un accès à la route et sont indésirables pour le voisinage. 
  
 Tours : Construisez des tours pour donner un caractère offensif à vos murs. Les tours abritent en effet des sentinelles entraînées par le <link=""#Recruiter_Title""><u>centre de recrutement</u></link> pour lancer des javelots sur les ennemis qui osent s’approcher des enceintes. Les tours doivent être construites dans des murs d’une épaisseur de deux briques. Elles ont également besoin d’un accès à la route, de main-d’oeuvre et de sentinelles formées par un centre de recrutement. Les tours peuvent être améliorées avec de la pierre et leurs sentinelles avec des arcs composites. Elles constitueront un soutien non négligeable à votre armée en cas d’attaque.
 
@@ -3077,7 +3077,7 @@ Corps de garde : Malheureusement, il n’est pas possible d’encercler complèt
  
 Pour plus d’informations, consultez la rubrique relative à la <link=""#War_Title""><u>guerre</u></link>.";"El <link=""""#FortCompany_Title""""><u>ejército</u></link> defiende la ciudad cuando los enemigos atraviesan las fronteras. La construcción de estructuras de defensa puede evitar que los enemigos lleguen a poner pie en ella directamente.
  
-Murallas: la estructura defensiva básica es el muro. Para construir murallas, elígelas en la lista «Estructuras de defensa». Haz clic y arrastra el ratón para construir grandes secciones de una vez, como se hace para construir carreteras. Las murallas se construyen con cualquier material disponible: no es necesario extraer ni importar piedra para construirlas. Sin embargo, son bastante caras, así que piénsate bien el perímetro que quieres proteger. Las murallas no necesitan acceso por carretera y hacen que los barrios sean poco atractivos. En Pharaoh: A New Era, las murallas son puramente decorativas porque ahora los combates se resuelven automáticamente.
+Murallas: la estructura defensiva básica es el muro. Para construir murallas, elígelas en la lista «Estructuras de defensa». Haz clic y arrastra el ratón para construir grandes secciones de una vez, como se hace para construir carreteras. Las murallas se construyen con cualquier material disponible: no es necesario extraer ni importar piedra para construirlas. Sin embargo, son bastante caras, así que piénsate bien el perímetro que quieres proteger. Las murallas no necesitan acceso por carretera y hacen que los barrios sean poco atractivos. 
  
 Torres: construye torres para poder atacar desde las murallas de defensa. En las torres se colocan los guardias, entrenados por el <link=""""#Recruiter_Title""""><u>reclutador</u></link> para lanzar flechas contra cualquier enemigo lo suficientemente valiente o temerario como para ponerse a su alcance. Las torres han de construirse en murallas de dos capas de espesor. Necesitan acceso por carretera, soldados y centinelas de la oficina de reclutamiento. Las torres se pueden mejorar con piedra normal, y sus centinelas con arcos compuestos. Las torres serán un gran complemento para tu ejército en caso de ataque.
  
@@ -3085,7 +3085,7 @@ Portones: por muy reconfortante que pueda parecerte, no puedes amurallar la ciud
 
 Si deseas más información, consulta la entrada sobre <link=""""#War_Title""""><u>guerra</u></link>.";"Die <link=""#FortCompany_Title""><u>Armee</u></link> verteidigt die Stadt, nachdem Feinde in ihre Grenzen eingedrungen sind. Der Bau von Verteidigungsanlagen kann Feinde daran hindern, jemals einen Fuß in die Stadt zu setzen.
 
-Mauern: Die grundlegendste Verteidigungsstruktur ist die Mauer. Um Mauern zu bauen, wählen Sie sie aus den Militärgebäuden aus. Klicken und ziehen Sie mit der Maus, um große Abschnitte einer Mauer auf einmal zu errichten, so wie Sie es bei Straßen tun können. Mauern werden aus den natürlichen Materialien gebaut, die gerade zur Verfügung stehen. Sie müssen also keine Steine abbauen oder importieren, um sie zu bauen. Dennoch ist der Bau von Mauern teuer, daher sollten Sie sich genau überlegen, wie groß der Umkreis sein soll, den Sie umschließen möchten. Mauern brauchen keinen Straßenzugang und sind unerwünschte Nachbarn. In Pharao: A New Era sind Mauern nur noch dekorativ, da Kämpfe automatisch entschieden werden.
+Mauern: Die grundlegendste Verteidigungsstruktur ist die Mauer. Um Mauern zu bauen, wählen Sie sie aus den Militärgebäuden aus. Klicken und ziehen Sie mit der Maus, um große Abschnitte einer Mauer auf einmal zu errichten, so wie Sie es bei Straßen tun können. Mauern werden aus den natürlichen Materialien gebaut, die gerade zur Verfügung stehen. Sie müssen also keine Steine abbauen oder importieren, um sie zu bauen. Dennoch ist der Bau von Mauern teuer, daher sollten Sie sich genau überlegen, wie groß der Umkreis sein soll, den Sie umschließen möchten. Mauern brauchen keinen Straßenzugang und sind unerwünschte Nachbarn. 
  
 Türme: Bauen Sie Türme, um Ihre Verteidigungsmauern ein wenig zu verstärken. Die Türme werden von Wachen bemannt, die auf dem <link=""#Recruiter_Title""><u>Drillplatz</u></link> der Stadt ausgebildet werden, um Pfeile auf alle Feinde zu schleudern, die mutig oder tollkühn genug sind, in ihre Reichweite zu kommen. Türme müssen in Mauern eingebaut werden, die zwei Schichten dick sind. Wenn keine Mauern vorhanden sind, werden sie beim Platzieren eines Turms automatisch gebaut, wodurch sie teurer werden. Sie benötigen außerdem einen Straßenzugang, Arbeiter und Wachen vom Drillplatz. Türme können mit einfachem Stein und ihre Wachen mit Kompositbögen aufgerüstet werden. Türme sind im Falle eines Angriffs eine gute Ergänzung zu Ihrem Armeewert.
  
@@ -3093,7 +3093,7 @@ Torhäuser: So beruhigend es auch wäre, Sie können Ihre Stadt nicht vollständ
  
 Weitere Informationen finden Sie im Eintrag zu <link=""#War_Title""><u>Krieg</u></link>.";"L’<link=""#FortCompany_Title""><u>esercito</u></link> difende la città quando i nemici ne hanno già varcato i confini. La costruzione di strutture di difesa può impedire ai nemici di mettere piede sul tuo territorio.
 
-Mura: la struttura di difesa più semplice è costituita dalle mura. Per costruirle, selezionale dall’elenco Strutture militari. Per costruire lunghi tratti di mura in un colpo solo, clicca con il mouse e trascina il puntatore, come se costruissi una strada. Le mura sono costruite con qualsiasi tipo di materiale disponibile, quindi non richiedono pietra estratta o importata. Il costo della loro costruzione è comunque elevato: decidi con attenzione il perimetro che vuoi difendere. Le mura non richiedono l’accesso a una strada e rendono il vicinato meno desiderabile. In Pharaoh: A New Era, le mura sono elementi puramente decorativi, dato che la risoluzione dei conflitti avviene automaticamente.
+Mura: la struttura di difesa più semplice è costituita dalle mura. Per costruirle, selezionale dall’elenco Strutture militari. Per costruire lunghi tratti di mura in un colpo solo, clicca con il mouse e trascina il puntatore, come se costruissi una strada. Le mura sono costruite con qualsiasi tipo di materiale disponibile, quindi non richiedono pietra estratta o importata. Il costo della loro costruzione è comunque elevato: decidi con attenzione il perimetro che vuoi difendere. Le mura non richiedono l’accesso a una strada e rendono il vicinato meno desiderabile. 
  
 Torri: costruendo le torri, puoi dotare le mura anche di potenzialità offensive. Le torri sono occupate dalle guardie addestrate dal <link=""#Recruiter_Title""><u>reclutatore</u></link> della città a scagliare frecce contro i nemici così coraggiosi, o schiocchi, da avvicinarsi entro la loro portata. È necessario costruirle su mura a doppio spessore; in assenza di mura, posizionando una torre, le mura saranno costruite automaticamente, aumentando così il costo della torre. Le torri richiedono anche l’accesso a una strada, manodopera e sentinelle dall’ufficio del reclutatore. Le torri possono essere potenziate con la pietra e le sentinelle con gli archi compositi. Le torri risultano un’importante aggiunta difensiva in caso di attacco.
  
@@ -5221,13 +5221,13 @@ Legacy/CompanyOrders_Title;Text;;Company Orders;Ordres à la compagnie;Órdenes 
 Legacy/ControlPanel_Content;Text;;This panel accesses all of the controls that you need to build and maintain your city.  The best way to understand its functions is simply to click on its various buttons - go ahead, you can't hurt anything!  If Mouse Help is turned ON (under 'Help' on the Menu Bar), put your cursor over any element for a short description of it.  For detailed explanations of every topic in Pharaoh, use the 'Help' item on the Menu Bar.;L'interface permet d'accéder à toutes les commandes nécessaires pour construire et entretenir votre cité. Pour vous familiariser avec ses différentes fonctions, il vous suffit de cliquer sur les boutons qui la composent. N'hésitez pas, vous ne risquez rien ! Si l'option Bulles d'aide pleines est activée (sous 'Aide' dans la barre de menus), placez votre curseur sur un élément pour obtenir une courte description de ce dernier. Pour obtenir des explications détaillées sur une rubrique de Pharaon, utilisez le menu 'Aide' de la barre de menus.;"Este panel permite acceder a todos los controles necesarios para construir y mantener la ciudad. La mejor manera de aprender a utilizar sus funciones consiste en pulsar sus diferentes botones. Experimenta sin miedo; no puedes estropear nada. Si la ayuda del ratón está activada (se ve en el menú Ayuda), sitúa el cursor sobre cualquier elemento para obtener una breve descripción. Si quieres una descripción más detallada de cualquier tema de Faraón, usa la ayuda de la barra de menú.";In dieser Leiste finden Sie alle Steuerelemente, die Sie für Aufbau und Verwaltung der Stadt benötigen. Die einfachste Art, sich mit ihren Funktionen vertraut zu machen, ist, die einzelnen Buttons anzuklicken - keine Angst, es geht nichts kaputt! Wenn die Maushilfe (in der Menüleiste unter 'Hilfe') EINgeschaltet wurde, schieben Sie den Mauszeiger auf ein beliebiges Element und lassen ihn dort kurz stehen. Detaillierte Erklärungen der einzelnen Themen in Pharao finden Sie in der Menüleiste unter dem Punkt 'Hilfe'.;Tramite questo pannello puoi accedere a tutti i controlli per costruire e migliorare la tua città. Il modo più immediato per comprenderne il funzionamento è quello di cliccare sui vari pulsanti - prova, non farai alcun danno! Se l'Aiuto via mouse è su ON (sotto la voce 'Aiuto' sulla barra dei menu), posiziona il puntatore su un qualsiasi elemento del pannello e ne vedrai una breve descrizione. Per accedere a una descrizione dettagliata di tutte le funzioni di Faraon, seleziona la voce 'Aiuto' dalla barra dei menu.
 Legacy/ControlPanel_Title;Text;;The Control Panel;L'interface;El panel de control;Die Steuerleiste;Il Pannello di controllo
 MapEditor/;Text;;Raw materials;Matières premières;Materias primas;Rohmaterialien;Materie prime
-MapEditor/#Available_Buildings;Text;;Available Buildings;;;;
-MapEditor/#Available_Foods;Text;;Available Foods;;;;
-MapEditor/#Available_Goods;Text;;Available Goods;;;;
-MapEditor/#Available_Luxury;Text;;Available Luxury;;;;
-MapEditor/#Available_Resources;Text;;Available foods, goods & luxury;;;;
+MapEditor/#Available_Buildings;Text;;Available Buildings;Bâtiments disponibles;Edificios disponibles;Verfügbare Gebäude;Edifici disponibili
+MapEditor/#Available_Foods;Text;;Available Foods;Nourriture disponible;Alimentos disponibles;Verfügbare Lebensmittel;Cibo disponibile
+MapEditor/#Available_Goods;Text;;Available Goods;Marchandises disponibles;Bienes disponibles;Verfügbare Waren;Merci disponibili
+MapEditor/#Available_Luxury;Text;;Available Luxury;Articles de luxe disponibles;Lujos disponibles;Verfügbare Luxusgüter;Beni di lusso disponibili
+MapEditor/#Available_Resources;Text;;Available foods, goods & luxury;Nourriture, marchandises et articles de luxe disponibles;Alimentos, bienes y lujos disponibles;Verfügbare Lebensmittel, Waren und Luxusgüter;Cibo, merci e beni di lusso disponibili
 MapEditor/#Average;Text;;Average landscape;Province moyenne;Territorio mediano;Durchschn. Gebiet;Territorio medio
-MapEditor/#Brush_Clear;Text;;Clear brush;;;;
+MapEditor/#Brush_Clear;Text;;Clear brush;Réinitialiser le pinceau;Borrador;Pinsel löschen;Annulla selezione
 MapEditor/#Brush_Cliff;Text;;Cliff;Falaise;Precipicio;Felswand;Rupe
 MapEditor/#Brush_Dune;Text;;Sand dunes;Dunes de sable;Dunas;Sanddünen;Dune di sabbia
 MapEditor/#Brush_Floodplain;Text;;Floodplain;Plaine inondable;Terreno aluvial;Überschwemmungsgebiet;Golena
@@ -5240,163 +5240,166 @@ MapEditor/#Brush_Sand;Text;;Plateau;Plateau;Meseta;Plateau;Altopiano
 MapEditor/#Brush_Size;Text;;Brush size;Taille du pinceau;Tamaño del pincel;Pinselgröße;Dimensioni pennello
 MapEditor/#Brush_Trees;Text;;Trees;Arbres;Árboles;Bäume;Alberi
 MapEditor/#Brush_Water;Text;;Water;Eau;Agua;Wasser;Acqua
-MapEditor/#Building_Available;Text;;Available;;;;
-MapEditor/#Building_Locked;Text;;Locked;;;;
-MapEditor/#Building_Unavailable;Text;;Unavailable;;;;
-MapEditor/#CityStatus_DistantCityToEgyptianCity;Text;;Distant City To Egyptian City;;;;
-MapEditor/#CityStatus_EgyptianCityToDistantCity;Text;;Egyptian City To Distant City;;;;
-MapEditor/#CityStatus_TradeAvailable;Text;;Trade Available;;;;
-MapEditor/#CityStatus_TradeShutsdown;Text;;Trade Shutdown;;;;
-MapEditor/#CityStatus_UnderSiege;Text;;Under Siege;;;;
+MapEditor/#Building_Available;Text;;Available;Disponible;Disponible;Verfügbar;Disponibile
+MapEditor/#Building_Locked;Text;;Locked;Verrouillé;Bloqueado;Gesperrt;Bloccato
+MapEditor/#Building_Unavailable;Text;;Unavailable;Indisponible;No disponible;Nicht verfügbar;Non disponibile
+MapEditor/#CityStatus_DistantCityToEgyptianCity;Text;;Distant City To Egyptian City;Cité lointaine vers cité égyptienne;Ciudad distante a ciudad egipcia;Entfernte Stadt - Ägyptische Stadt;Città distante a città egizia
+MapEditor/#CityStatus_EgyptianCityToDistantCity;Text;;Egyptian City To Distant City;Cité égyptienne vers cité lointaine;Ciudad egipcia a ciudad distante;Ägyptische Stadt - Entfernte Stadt;Città egizia a città distante
+MapEditor/#CityStatus_TradeAvailable;Text;;Trade Available;Commerce disponible;Comercio disponible;Handel möglich;Commercio disponibile
+MapEditor/#CityStatus_TradeShutsdown;Text;;Trade Shutdown;Commerce impossible;Cierre comercial;Handel eingestellt;Commercio non disponibile
+MapEditor/#CityStatus_UnderSiege;Text;;Under Siege;Subit un siège;Bajo asedio;Wird belagert;Sotto assedio
+MapEditor/#CreateFolder;Text;;Create Folder;Créer dossier;Crear carpeta;Ordner erstellen;Crea cartella
 MapEditor/#Enormous;Text;;Enormous land;Province immense;Territorio enorme;Riesiges Gebiet;Territorio enorme
-MapEditor/#EventLink_None;Text;;None;;;;
-MapEditor/#EventType_BloodRiver;Text;;Blood River;;;;
-MapEditor/#EventType_CityStatusChange;Text;;City Status Change;;;;
-MapEditor/#EventType_ClayPitFlood;Text;;Clay Pit Flood;;;;
-MapEditor/#EventType_ContaminatedWater;Text;;Contaminated Water;;;;
-MapEditor/#EventType_FailedFlood;Text;;Failed Flood;;;;
-MapEditor/#EventType_Gift;Text;;Gift;;;;
-MapEditor/#EventType_GoldMineCollapse;Text;;Gold Mine Collapse;;;;
-MapEditor/#EventType_Hailstorm;Text;;Hailstorm;;;;
-MapEditor/#EventType_Invasion;Text;;Invasion;;;;
-MapEditor/#EventType_KingdomInvasion;Text;;Kingdom Invasion;;;;
-MapEditor/#EventType_KingdomRatingDecrease;Text;;Kingdom Rating Decrease;;;;
-MapEditor/#EventType_KingdomRatingIncrease;Text;;Kingdom Rating Increase;;;;
-MapEditor/#EventType_LandTradeProblem;Text;;Land Trade Problem;;;;
-MapEditor/#EventType_LocustPlague;Text;;Locust Plague;;;;
-MapEditor/#EventType_PerfectFlood;Text;;Perfect Flood;;;;
-MapEditor/#EventType_PriceDecrease;Text;;Price Decrease;;;;
-MapEditor/#EventType_PriceIncrease;Text;;Price Increase;;;;
-MapEditor/#EventType_Request;Text;;Request;;;;
-MapEditor/#EventType_ToadPlague;Text;;Toad Plague;;;;
-MapEditor/#EventType_TradeDecrease;Text;;Trade Decrease;;;;
-MapEditor/#EventType_TradeIncrease;Text;;Trade Increase;;;;
-MapEditor/#EventType_TroopRequest;Text;;Troop Request;;;;
-MapEditor/#EventType_WageDecrease;Text;;Wage Decrease;;;;
-MapEditor/#EventType_WageIncrease;Text;;Wage Increase;;;;
-MapEditor/#EventType_WaterTradeProblem;Text;;Water Trade Problem;;;;
-MapEditor/#Event_AmountMax;Text;;Amount Max.;;;;
-MapEditor/#Event_AmountMin;Text;;Amount Min.;;;;
-MapEditor/#Event_ArmyMax;Text;;Army Max.;;;;
-MapEditor/#Event_ArmyMin;Text;;Army Min.;;;;
-MapEditor/#Event_ChainedEvent;Text;;Chained Event;;;;
-MapEditor/#Event_CityStatus;Text;;City Status;;;;
-MapEditor/#Event_EventLinks;Text;;Call another event;;;;
-MapEditor/#Event_Frequency;Text;;Frequency;;;;
-MapEditor/#Event_From;Text;;From;;;;
-MapEditor/#Event_Goods;Text;;Goods;;;;
-MapEditor/#Event_InvasionDelay;Text;;Invasion Delay;;;;
-MapEditor/#Event_IsBedouin;Text;;Bedouin ?;;;;
-MapEditor/#Event_IsNaval;Text;;Is Naval ?;;;;
-MapEditor/#Event_LinkAccept;Text;;On Accept;;;;
-MapEditor/#Event_LinkDecline;Text;;On Refuse;;;;
-MapEditor/#Event_LinkDefeat;Text;;On Defeat;;;;
-MapEditor/#Event_LinkLate;Text;;On Lateness;;;;
-MapEditor/#Event_LinkVictory;Text;;On Victory;;;;
-MapEditor/#Event_Reason;Text;;Reason;;;;
-MapEditor/#Event_Related_City;Text;;Related City;;;;
-MapEditor/#Event_Type;Text;;Event Type;;;;
-MapEditor/#Event_WarshipMax;Text;;Warship Max.;;;;
-MapEditor/#Event_WarshipMin;Text;;Warship Min.;;;;
+MapEditor/#EnterFolderName;Text;;Enter folder name;Saisissez le nom du dossier;Escribe el nombre de la carpeta;Ordnernamen eingeben;Inserisci nome cartella
+MapEditor/#EventLink_None;Text;;None;Aucun;Ninguno;Keine;Nessuno
+MapEditor/#EventType_BloodRiver;Text;;Blood River;Fleuve de sang;Río de sangre;Blutiger Fluss;Fiume di sangue
+MapEditor/#EventType_CityStatusChange;Text;;City Status Change;Changement de l'état de la cité;Cambio de estado de la ciudad;Stadtstatus-Änderung;Modifica stato città
+MapEditor/#EventType_ClayPitFlood;Text;;Clay Pit Flood;Débordement du puits d'argile;Inundación de pozo de arcilla;Tongrube unter Wasser;Allagamento cava d'argilla
+MapEditor/#EventType_ContaminatedWater;Text;;Contaminated Water;Eau contaminée;Agua contaminada;Verschmutztes Wasser;Acqua contaminata
+MapEditor/#EventType_FailedFlood;Text;;Failed Flood;Echec de la crue;Inundación fallida;Ausgefallene Überschw.;Alluvione fallita
+MapEditor/#EventType_Gift;Text;;Gift;Cadeau;Regalo;Geschenk;Regalo
+MapEditor/#EventType_GoldMineCollapse;Text;;Gold Mine Collapse;Effondrement de la mine d'or;Derrumbamiento de la mina de oro;Goldmine eingestürzt;Crollo miniera d'oro
+MapEditor/#EventType_Hailstorm;Text;;Hailstorm;Orage de grêle;Granizada;Hagelschauer;Grandinata
+MapEditor/#EventType_Invasion;Text;;Invasion;Invasion;Invasión;Invasion;Invasione
+MapEditor/#EventType_KingdomInvasion;Text;;Kingdom Invasion;Invasion de royaume;Invasión del imperio;Königreich-Invasion;Invasione del regno
+MapEditor/#EventType_KingdomRatingDecrease;Text;;Kingdom Rating Decrease;Diminution de niveau du royaume;Disminución de la puntuación de imperio;Königreich-Wertung -;Riduzione livello del regno
+MapEditor/#EventType_KingdomRatingIncrease;Text;;Kingdom Rating Increase;Augmentation de niveau du royaume;Aumento de la puntuación de imperio;Königreich-Wertung +;Aumento livello del regno
+MapEditor/#EventType_LandTradeProblem;Text;;Land Trade Problem;Problème de commerce terrestre;Problema de comercio de tierras;Probleme beim Landhandel;Problema commercio terra
+MapEditor/#EventType_LocustPlague;Text;;Locust Plague;Attaque de criquets;Plaga de langostas;Heuschreckenplage;Piaga delle locuste
+MapEditor/#EventType_PerfectFlood;Text;;Perfect Flood;Crue parfaite;Inundación perfecta;Optimale Überschw.;Alluvione perfetta
+MapEditor/#EventType_PriceDecrease;Text;;Price Decrease;Diminution des prix;Disminución de precio;Preissenkung;Riduzione prezzo
+MapEditor/#EventType_PriceIncrease;Text;;Price Increase;Augmentation des prix;Aumento de precio;Preiserhöhung;Aumento prezzo
+MapEditor/#EventType_Request;Text;;Request;Demande;Solicitud;Forderung;Richiesta
+MapEditor/#EventType_ToadPlague;Text;;Toad Plague;Attaque de grenouilles;Plaga de sapos;Froschplage;Piaga dei rospi
+MapEditor/#EventType_TradeDecrease;Text;;Trade Decrease;Diminution du commerce;Disminución del comercio;Handelsabnahme;Riduzione commercio
+MapEditor/#EventType_TradeIncrease;Text;;Trade Increase;Augmentation du commerce;Aumento del comercio;Handelszunahme;Aumento commercio
+MapEditor/#EventType_TroopRequest;Text;;Troop Request;Demande de troupes;Solicitud de tropas;Truppenforderung;Richiesta truppe
+MapEditor/#EventType_WageDecrease;Text;;Wage Decrease;Diminution des salaires;Disminución salarial;Lohnsenkung;Riduzione salario
+MapEditor/#EventType_WageIncrease;Text;;Wage Increase;Augmentation des salaires;Aumento salarial;Lohnerhöhung;Aumento salario
+MapEditor/#EventType_WaterTradeProblem;Text;;Water Trade Problem;Problème de commerce maritime;Problema de comercio de agua;Probleme beim Seehandel;Problema commercio acqua
+MapEditor/#Event_AmountMax;Text;;Amount Max.;Quantité max.;Cantidad máx.;Menge Max.;Quantità max
+MapEditor/#Event_AmountMin;Text;;Amount Min.;Quantité min.;Cantidad mín.;Menge Min.;Quantità min
+MapEditor/#Event_ArmyMax;Text;;Army Max.;Armée max.;Ejército máx.;Armee Max.;Esercito max
+MapEditor/#Event_ArmyMin;Text;;Army Min.;Armée min.;Ejército min.;Armee Min.;Esercito min
+MapEditor/#Event_ChainedEvent;Text;;Chained Event;Événement lié;Evento encadenado;Verknüpftes Ereignis;Evento collegato
+MapEditor/#Event_CityStatus;Text;;City Status;Etat de la cité;Estado de la ciudad;Stadtstatus;Stato città
+MapEditor/#Event_EventLinks;Text;;Call another event;Déclencher un autre événement;Llamar otro evento;Anderes Ereignis aufrufen;Apri un altro evento
+MapEditor/#Event_Frequency;Text;;Frequency;Fréquence;Frecuencia;Häufigkeit;Frequenza
+MapEditor/#Event_From;Text;;From;De;De;Von;Da
+MapEditor/#Event_Goods;Text;;Goods;Marchandises;Bienes;Waren;Merci
+MapEditor/#Event_InvasionDelay;Text;;Invasion Delay;Délai d'invasion;Retraso de la invasión;Invasionsverzögerung;Ritardo invasione
+MapEditor/#Event_IsBedouin;Text;;Bedouin ?;Bédouin ?;¿Beduino?;Beduine?;Beduini?
+MapEditor/#Event_IsNaval;Text;;Is Naval ?;Naval ?;¿Es naval?;Seefahrer?;Navale?
+MapEditor/#Event_LinkAccept;Text;;On Accept;Sur acceptation;Al aceptar;Bei Annahme;Se accetti
+MapEditor/#Event_LinkDecline;Text;;On Refuse;Sur refus;Al rechazar;Bei Ablehnung;Se rifiuti
+MapEditor/#Event_LinkDefeat;Text;;On Defeat;Sur défaite;Con la derrota;Bei Niederlage;Se perdi
+MapEditor/#Event_LinkLate;Text;;On Lateness;Sur retard;Al retrasarse;Bei Verspätung;Se sei in ritardo
+MapEditor/#Event_LinkVictory;Text;;On Victory;Sur victoire;Con la victoria;Bei Sieg;Se vinci
+MapEditor/#Event_Reason;Text;;Reason;Raison;Razón;Grund;Ragione
+MapEditor/#Event_Related_City;Text;;Related City;Cité liée;Ciudad relacionada;Ähnliche Stadt;Città
+MapEditor/#Event_Type;Text;;Event Type;Type d'événement;Tipo de evento;Ereignistyp;Tipo di evento
+MapEditor/#Event_WarshipMax;Text;;Warship Max.;Navires de guerre max.;Barco de guerra máx.;Kriegsschiff Max.;Nave da guerra max
+MapEditor/#Event_WarshipMin;Text;;Warship Min.;Navires de guerre min.;Barco de guerra mín.;Kriegsschiff Min.;Nave da guerra min
 MapEditor/#Fish;Text;;Fishing point;Point de pêche;Punto de pesca;Angelpunkt;Punto di pesca
-MapEditor/#Flood_Visualizer;Text;;Flood Visualizer;;;;
-MapEditor/#Frequency_Delay;Text;;Delay;;;;
-MapEditor/#Frequency_Month;Text;;Month;;;;
-MapEditor/#Frequency_Once;Text;;Once;;;;
-MapEditor/#Frequency_Recurrent;Text;;Recurrent;;;;
-MapEditor/#Frequency_TimeLimit;Text;;Time Limit;;;;
-MapEditor/#Frequency_Triggered;Text;;Triggered;;;;
-MapEditor/#Frequency_Until;Text;;Until;;;;
-MapEditor/#Frequency_Year;Text;;Year;;;;
-MapEditor/#From_City;Text;;City;;;;
-MapEditor/#From_Pharaoh;Text;;Pharaoh;;;;
+MapEditor/#Flood_Visualizer;Text;;Flood Visualizer;Visualisation d'inondation;Visualizador de inundaciones;Flut-Visualisierer;Visualizzatore alluvione
+MapEditor/#Frequency_Delay;Text;;Delay;Délai;Demora;Verzögerung;Ritardo
+MapEditor/#Frequency_Month;Text;;Month;Mois;Mes;Monat;Mese
+MapEditor/#Frequency_Once;Text;;Once;Unique;Una vez;Einmal;Una volta
+MapEditor/#Frequency_Recurrent;Text;;Recurrent;Récurrent;Recurrente;Wiederholt;Ricorrente
+MapEditor/#Frequency_TimeLimit;Text;;Time Limit;Limite de temps;Límite de tiempo;Zeitlimit;Limite di tempo
+MapEditor/#Frequency_Triggered;Text;;Triggered;Activé;Activado;Ausgelöst;Attivato manualmente
+MapEditor/#Frequency_Until;Text;;Until;Jusqu'à;Hasta;Bis;Fino a
+MapEditor/#Frequency_Year;Text;;Year;Année;Año;Jahr;Anno
+MapEditor/#From_City;Text;;City;Cité;Ciudad;Stadt;Città di provenienza
+MapEditor/#From_Pharaoh;Text;;Pharaoh;Pharaon;Faraón;Pharao;Faraone
 MapEditor/#Game_Good;Text;;Resources;Ressources;Recursos;Ressourcen;Risorse
-MapEditor/#God_Local;Text;;Local;;;;
-MapEditor/#God_None;Text;;None;;;;
-MapEditor/#God_Patron;Text;;Patron;;;;
+MapEditor/#God_Local;Text;;Local;Local;Local;Lokal;Locale
+MapEditor/#God_None;Text;;None;Aucun;Ninguno;Keine;Nessuno
+MapEditor/#God_Patron;Text;;Patron;Protecteur;Patrón;Schutzgott;Patrono
 MapEditor/#GroundEntry;Text;;Entry point;Point d’entrée;Punto de entrada;Startpunkt;Punto di ingresso
 MapEditor/#GroundExit;Text;;Exit point;Point de sortie;Punto de salida;Endpunkt;Punto di uscita
-MapEditor/#IE_Buyer;Text;;Buyer pays;;;;
-MapEditor/#IE_Items;Text;;Items;;;;
-MapEditor/#IE_Seller;Text;;Seller receives;;;;
-MapEditor/#ImportExport;Text;;Import/Export Prices;;;;
+MapEditor/#IE_Buyer;Text;;Buyer pays;L'acheteur paie;El comprador paga;Käufer zahlt;Compratore paga
+MapEditor/#IE_Items;Text;;Items;Marchandises;Objetos;Waren;Articoli
+MapEditor/#IE_Seller;Text;;Seller receives;Le vendeur reçoit;El vendedor recibe;Verkäufer erhält;Venditore riceve
+MapEditor/#ImportExport;Text;;Import/Export Prices;Prix des importations/exportations;Precios de importación/exportación;Import-/Exportpreise;Importa/esporta/prezzi
 MapEditor/#Kingdom_Builder;Text;;Kingdom builder;Éditeur de royaume;Editor del imperio;Königreich-Editor;Editor regno
 MapEditor/#Large;Text;;Large landscape;Grande province;Territorio grande;Großes Gebiet;Territorio grande
-MapEditor/#Map_Illustration;Text;;Mission Illustration;;;;
-MapEditor/#Map_Musics;Text;;Audio Settings;;;;
-MapEditor/#Map_Name;Text;;Map name;;;;
-MapEditor/#Map_Period;Text;;Period;;;;
-MapEditor/#Map_Tagline;Text;;Map tagline;;;;
-MapEditor/#Mission_Events;Text;;Mission Events;;;;
-MapEditor/#Music_Add;Text;;Add Music;;;;
-MapEditor/#Music_Available;Text;;Available Musics;;;;
-MapEditor/#Music_Population;Text;;Population Based Musics;;;;
-MapEditor/#Music_To;Text;;To;A;;;
-MapEditor/#New;Text;;New;;;;
-MapEditor/#Placeholder_CityName;Text;;Enter city name;;;;
-MapEditor/#Placeholder_CityTagline;Text;;Enter city tagline;;;;
+MapEditor/#Map_Illustration;Text;;Mission Illustration;Illustration de la mission;Ilustración de la misión;Missionsillustration;Illustrazione missione
+MapEditor/#Map_Musics;Text;;Audio Settings;Paramètres audio;Ajustes de audio;Audio-Einstellungen;Impostazioni audio
+MapEditor/#Map_Name;Text;;Map name;Nom de la carte;Nombre del mapa;Kartenname;Nome mappa
+MapEditor/#Map_Period;Text;;Period;Période;Periodo;Zeit;Periodo
+MapEditor/#Map_Tagline;Text;;Map tagline;Slogan de la carte;Lema del mapa;Kartenschlagwort;Descrizione mappa
+MapEditor/#Mission_Events;Text;;Mission Events;Evénements de missions;Eventos de la misión;Missionsereignisse;Eventi di missione
+MapEditor/#Music_Add;Text;;Add Music;Ajouter musique;Añadir música;Musik hinzuzufügen;Aggiungi musica
+MapEditor/#Music_Available;Text;;Available Music;Musiques disponibles;Música disponible;Verfügbare Musik;Musiche disponibili
+MapEditor/#Music_Population;Text;;Population-based Music;Musiques selon la population;Música basada en la población;Musik nach Bevölkerung;Musiche in base ai parametri
+MapEditor/#Music_To;Text;;To;A;A;An;a
+MapEditor/#New;Text;;New;Nouveau;Nuevo;Neu;Nuovo
+MapEditor/#Placeholder_CityName;Text;;Enter city name;Saisissez le nom de la cité;Escribe el nombre de la ciudad;Stadtnamen eingeben;Inserisci nome città
+MapEditor/#Placeholder_CityTagline;Text;;Enter city tagline;Saisissez le slogan de la cité;Escribe el lema de la ciudad;Stadtschlagwort eingeben;Inserisci descrizione città
 MapEditor/#Predator;Text;;Killer point;Point de prédateurs;Zona mortal;Raubtierpunkt;Punto di predatori
 MapEditor/#Presets_AbuSimbel;Text;;Abu Simbel;Abou Simbel;Abu Simbel;Abu Simbel;Abu Simbel
 MapEditor/#Presets_Alexandria;Text;;Alexandria;Alexandrie;Alejandría;Alexandria;Alessandria
 MapEditor/#Presets_Pyramids;Text;;Pyramids;Pyramides;Pirámides;Pyramiden;Piramidi
 MapEditor/#Presets_ValleyOfTheKings;Text;;Valley of the Kings;Vallée des Rois;Valle de los Reyes;Tal der Könige;Valle dei Re
 MapEditor/#Prey;Text;;Map prey point;Point de gibier;Punto de presas del mapa;Jagdplatz;Punto di preghiera
-MapEditor/#Quit_Editor;Text;;Quit Map Editor;;;;
-MapEditor/#Quit_Editor_Desc;Text;;Are your sure you want to quit the editor and return to the main menu ?;;;;
-MapEditor/#Reason_ConstructionProject;Text;;Construction Project;;;;
-MapEditor/#Reason_DistantBattle;Text;;Distant Battle;;;;
-MapEditor/#Reason_EgyptianCity;Text;;Egyptian City;;;;
-MapEditor/#Reason_Famine;Text;;Famine;;;;
-MapEditor/#Reason_General;Text;;General;;;;
-MapEditor/#Reason_GodFestival;Text;;God Festival;;;;
-MapEditor/#Reason_Threat;Text;;Threat;;;;
+MapEditor/#Quit_Editor;Text;;Quit Map Editor;Quitter l'éditeur de cartes;Salir del editor de mapas;Karten-Editor verlassen;Esci da editor mappa
+MapEditor/#Quit_Editor_Desc;Text;;Are your sure you want to quit the editor and return to the main menu ?;Voulez-vous vraiment quitter l'éditeur et revenir au menu principal ?;¿Seguro que quieres salir del editor y volver al menú principal?;Möchten Sie den Editor wirklich verlassen und zum Hauptmenü zurückkehren?;Vuoi davvero uscire dall'editor e tornare al menu principale?
+MapEditor/#Reason_ConstructionProject;Text;;Construction Project;Projet de construction;Proyecto de construcción;Bauprojekt;Progetto di costruzione
+MapEditor/#Reason_DistantBattle;Text;;Distant Battle;Bataille lointaine;Batalla distante;Entfernte Schlacht;Battaglia distante
+MapEditor/#Reason_EgyptianCity;Text;;Egyptian City;Cité égyptienne;Ciudad egipcia;Ägyptische Stadt;Città egizia
+MapEditor/#Reason_Famine;Text;;Famine;Famine;Hambruna;Hungersnot;Carestia
+MapEditor/#Reason_General;Text;;General;Général;General;Allgemein;Generale
+MapEditor/#Reason_GodFestival;Text;;God Festival;Fête des dieux;Festival de los dioses;Fest der Götter;Festival religioso
+MapEditor/#Reason_Threat;Text;;Threat;Menace;Amenaza;Bedrohung;Minaccia
 MapEditor/#RiverEntry;Text;;River in;Entrée rivière;Entrada de río;Flussanfang;Ingresso di fiume
 MapEditor/#RiverExit;Text;;River out;Sortie rivière;Salida de río;Flussende;Uscita di fiume
-MapEditor/#Sandbox_Mode;Text;;Sandbox Mode;;;;
-MapEditor/#Settings;Text;;Settings;;;;
+MapEditor/#Sandbox_Mode;Text;;Sandbox Mode;Bac à sable;Modo sandbox;Sandbox-Modus;Modalità Sandbox
+MapEditor/#Settings;Text;;Settings;Paramètres;Ajustes;Einstellungen;Impostazioni
 MapEditor/#Small;Text;;Small landscape;Petite province;Territorio pequeño;Kleines Gebiet;Territorio piccolo
 MapEditor/#Tiny;Text;;Tiny landscape;Province minuscule;Territorio diminuto;Winziges Gebiet;Territorio minuscolo
 MapEditor/#Title_Win_Conditions;Text;;Win conditions;Conditions de victoire;Condiciones de victoria;Siegbedingungen;Condizioni di vittoria
-MapEditor/#Validation_NoFood;Text;;Please define at least one food resource as available. People needs to eat !;;;;
-MapEditor/#Validation_NoGroundEntry;Text;;You must place an entry point for migrants to appear on the map;;;;
-MapEditor/#Validation_NoTagline;Text;;City requires a tagline;;;;
-MapEditor/#Validation_NoTitle;Text;;City requires a name;;;;
-MapEditor/#Validation_NoWinCondition;Text;;This map not in sandbox but there's no defined win condition !;;;;
+MapEditor/#UserMaps;Text;;User Maps;Cartes utilisateur;Mapas de usuario;Benutzerkarten;Mappe utente
+MapEditor/#Validation_NoFood;Text;;Please define at least one food resource as available. People need to eat!;Veuillez définir au moins une ressource de nourriture disponible. Les gens ont besoin de se nourrir !;Define al menos un recurso alimentario como disponible. ¡La gente necesita comer!;Bitte definieren Sie mindestens ein Nahrungsmittel als verfügbar. Das Volk braucht etwas zu essen!;Imposta almeno una risorsa di cibo come disponibile. La gente ha fame!
+MapEditor/#Validation_NoGroundEntry;Text;;You must place an entry point for migrants to appear on the map;Vous devez placer un point d'entrée pour que les migrants apparaissent sur la carte.;Debes colocar un punto de entrada para que los inmigrantes aparezcan en el mapa;Sie müssen einen Startpunkt festlegen, an dem Einwanderer auf der Karte erscheinen.;Per far comparire i migranti sulla mappa, devi posizionare un punto di ingresso
+MapEditor/#Validation_NoTagline;Text;;City requires a tagline;La cité a besoin d'un slogan;La ciudad requiere un lema;Stadt benötigt ein Schlagwort;La città deve avere una descrizione
+MapEditor/#Validation_NoTitle;Text;;City requires a name;La cité a besoin d'un nom;La ciudad requiere un nombre;Stadt benötigt einen Namen;La città deve avere un nome
+MapEditor/#Validation_NoWinCondition;Text;;This map is not in sandbox but there's no defined win condition!;Cette carte n'est pas un bac à sable, mais ne possède pas de condition de victoire !;¡Este mapa no está en la caja de arena, pero no hay una condición de victoria definida!;Diese Karte ist nicht in der Sandbox, aber es gibt keine definierte Siegbedingung!;Questa mappa non è sandbox, ma non ci sono condizioni di vittoria specifiche!
 MapEditor/#VeryLarge;Text;;Very large land;Très grande province;Territorio muy grande;Sehr großes Gebiet;Territorio grandissimo
-MapEditor/#WinCond_BurialGoods;Text;;Burial Goods;;;;
-MapEditor/#WinCond_Culture;Text;;Culture;;;;
-MapEditor/#WinCond_Houses;Text;;Houses;;;;
-MapEditor/#WinCond_Kingdom;Text;;Kingdom;;;;
-MapEditor/#WinCond_MonumentPresets;Text;;Monuments Presets;;;;
-MapEditor/#WinCond_Monuments;Text;;Available Monuments;;;;
-MapEditor/#WinCond_NoMonument;Text;;None;;;;
-MapEditor/#WinCond_Population;Text;;Population;;;;
-MapEditor/#WinCond_Prosperity;Text;;Prosperity;;;;
-MapEditor/#WinCond_SelectMonument;Text;;Select monument;;;;
-MapEditor/#WorldFilter_Active;Text;;Active;;;;
-MapEditor/#WorldFilter_All;Text;;All;;;;
-MapEditor/#WorldFilter_Inactive;Text;;Inactive;;;;
-MapEditor/#WorldFilter_MyCity;Text;;My City;;;;
-MapEditor/#WorldFilter_Pharaoh;Text;;Pharaoh City;;;;
-MapEditor/#WorldMap_CityIllustration;Text;;City Illustration;;;;
-MapEditor/#WorldMap_CityStatus;Text;;City Status;;;;
-MapEditor/#WorldMap_EnableCity;Text;;Enable City;;;;
-MapEditor/#WorldMap_Export;Text;;Export;;;;
-MapEditor/#WorldMap_Import;Text;;Import;;;;
-MapEditor/#WorldMap_Items;Text;;Items;;;;
+MapEditor/#WinCond_BurialGoods;Text;;Burial Goods;Offrandes funéraires;Bienes funerarios;Grabbeigaben;Arredi funebri
+MapEditor/#WinCond_Culture;Text;;Culture;Culture;Cultura;Kultur;Cultura
+MapEditor/#WinCond_Houses;Text;;Houses;Habitations;Casas;Häuser;Case
+MapEditor/#WinCond_Kingdom;Text;;Kingdom;Royaume;Reino;Königreich;Regno
+MapEditor/#WinCond_MonumentPresets;Text;;Monuments Presets;Préréglages des monuments;Preajustes de monumentos;Monument-Voreinstellungen;Set monumenti
+MapEditor/#WinCond_Monuments;Text;;Available Monuments;Monuments disponibles;Monumentos disponibles;Verfügbare Monumente;Monumenti disponibili
+MapEditor/#WinCond_NoMonument;Text;;None;Aucune;Ninguno;Keine;Nessuno
+MapEditor/#WinCond_Population;Text;;Population;Population;Población;Bevölkerung;Popolazione
+MapEditor/#WinCond_Prosperity;Text;;Prosperity;Prospérité;Prosperidad;Wohlstand;Prosperità
+MapEditor/#WinCond_SelectMonument;Text;;Select monument;Sélectionner monument;Seleccionar monumento;Monument wählen;Seleziona monumento
+MapEditor/#WorldFilter_Active;Text;;Active;Actif;Activo;Aktiv;Attive
+MapEditor/#WorldFilter_All;Text;;All;Tout;Todo;Alles;Tutte
+MapEditor/#WorldFilter_Inactive;Text;;Inactive;Inactif;Inactivo;Inaktiv;Non attive
+MapEditor/#WorldFilter_MyCity;Text;;My City;Ma cité;Mi ciudad;Meine Stadt;La mia città
+MapEditor/#WorldFilter_Pharaoh;Text;;Pharaoh City;Cité du pharaon;Ciudad faraón;Pharaonenstadt;Città del faraone
+MapEditor/#WorldMap_CityIllustration;Text;;City Illustration;Illustration de la cité;Ilustración de la ciudad;Stadtillustration;Illustrazione città
+MapEditor/#WorldMap_CityStatus;Text;;City Status;Etat de la cité;Estado de la ciudad;Stadtstatus;Stato città
+MapEditor/#WorldMap_EnableCity;Text;;Enable City;Activer cité;Habilitar ciudad;Stadt aktivieren;Attiva città
+MapEditor/#WorldMap_Export;Text;;Export;Exportation;Exportar;Export;Esporta
+MapEditor/#WorldMap_Import;Text;;Import;Importation;Importar;Import;Importa
+MapEditor/#WorldMap_Items;Text;;Items;Marchandises;Objetos;Waren;Articoli
 MapEditor/#WorldMap_LandRoute;Text;;Land route;Route terrestre;Ruta terrestre;Landweg;Rotta via terra
-MapEditor/#WorldMap_NoRoute;Text;;No Route;;;;
-MapEditor/#WorldMap_OpenPrice;Text;;Open Price;;;;
+MapEditor/#WorldMap_NoRoute;Text;;No Route;Pas de route;Ninguna ruta;Kein Route;Nessuna rotta
+MapEditor/#WorldMap_OpenPrice;Text;;Open Price;Prix ouvert;Precio inicial;Offener Preis;Prezzo aperto
 MapEditor/#WorldMap_SeaRoute;Text;;Sea route;Route maritime;Ruta marítima;Seeweg;Rotta via mare
-MapEditor/#WorldMap_StatusEgyptianCity;Text;;Egyptian City;;;;
-MapEditor/#WorldMap_StatusForeignCity;Text;;Foreign City;;;;
-MapEditor/#WorldMap_StatusMyCity;Text;;My City;;;;
-MapEditor/#WorldMap_StatusPharaohCity;Text;;Pharaoh City;;;;
-MapEditor/#WorldMap_Trade;Text;;Trade;;;;
-MapEditor/#WorldMap_Volume;Text;;Volume;;;;
-MapEditor/#WorldMap_VolumeLarge;Text;;Large;;;;
-MapEditor/#WorldMap_VolumeMedium;Text;;Medium;;;;
-MapEditor/#WorldMap_VolumeSmall;Text;;Small;;;;
+MapEditor/#WorldMap_StatusEgyptianCity;Text;;Egyptian City;Cité égyptienne;Ciudad egipcia;Ägyptische Stadt;Città egizia
+MapEditor/#WorldMap_StatusForeignCity;Text;;Foreign City;Cité étrangère;ciudad extranjera;Fremde Stadt;Città straniera
+MapEditor/#WorldMap_StatusMyCity;Text;;My City;Ma cité;Mi ciudad;Meine Stadt;La mia città
+MapEditor/#WorldMap_StatusPharaohCity;Text;;Pharaoh City;Cité du pharaon;Ciudad del faraón;Pharaonenstadt;Città del faraone
+MapEditor/#WorldMap_Trade;Text;;Trade;Commerce;Comercio;Handel;Commercio
+MapEditor/#WorldMap_Volume;Text;;Volume;Volume;Volumen;Lautstärke;Volume
+MapEditor/#WorldMap_VolumeLarge;Text;;Large;Grand;Grande;Groß;Grande
+MapEditor/#WorldMap_VolumeMedium;Text;;Medium;Intermédiaire;Mediano;Mittel;Medio
+MapEditor/#WorldMap_VolumeSmall;Text;;Small;Petit;Pequeño;Klein;Piccolo
 MapEditor/#amount;Text;;amount;quantité;cantidad;Menge;quantità
 MapEditor/#god_settings;Text;;Gods settings;Paramètres des dieux;Configuraciones de los dioses;Gott-Einstellungen;Impostazioni divinità
 MapEditor/#god_temple_complex;Text;;Temple Complex;Ensemble de temples;Complejo de templos;Tempelanlage;Complesso di templi
@@ -5497,8 +5500,8 @@ Menu/#DesirabilityOverlay_Hover_2;Text;;People have no strong feelings about thi
 Menu/#DesirabilityOverlay_Hover_3;Text;;This area is better than some, although not highly attractive;Cet endroit est meilleur que d’autres, mais il n’est pas très attractif.;Esta zona es mejor que otras, pero no es muy atractiva;Dieses Gebiet ist ganz nett, aber nicht sehr attraktiv.;Questa zona è meglio di altre, anche se non è il massimo
 Menu/#DesirabilityOverlay_Hover_4;Text;;Most people would find this a pleasant place to live;La plupart des gens apprécient cet endroit.;A la mayoría de la gente este lugar le resultaría agradable para vivir;Die meisten Leute fänden die Gegend recht gut.;L’opinione generale è che la zona sia carina
 Menu/#DesirabilityOverlay_Hover_5;Text;;This is among the most fashionable addresses in your city;C’est l’une des adresses les plus en vogue de votre cité.;Esta es una de las direcciones más elegantes de la ciudad;Dies ist eine der begehrtesten Adressen der Stadt.;Questa è una delle zone migliori della città
-Menu/#DesirabilityOverlay_Hover_not_protected;Text;;This area is not protected;Cette zone n'est pas protégée;;;
-Menu/#DesirabilityOverlay_Hover_protected;Text;;This area is protected;Cette zone est protégée;;;
+Menu/#DesirabilityOverlay_Hover_not_protected;Text;;This area is not protected;Cette zone n'est pas protégée;Esta zona no está protegida;Dieses Gebiet ist nicht geschützt;Questa area non è protetta
+Menu/#DesirabilityOverlay_Hover_protected;Text;;This area is protected;Cette zone est protégée;Esta zona está protegida;Dieses Gebiet ist geschützt;Questa area è protetta
 Menu/#Enter_Name;Text;;Enter a family name;Entrez un nom de famille;Escribe un nombre de familia;Name der Familie eingeben;Inserisci il nome della famiglia
 Menu/#Enter_Save_Name;Text;;Enter a save name;Saisir un nom de sauvegarde;Escribe un nombre;Spielstandname eingeben;Nomina il salvataggio
 Menu/#Family_Avatar;Text;;Choose an avatar;Choisir un avatar;Escoge un avatar;Wählen Sie einen Avatar;Scegli un avatar
@@ -5518,7 +5521,7 @@ Menu/#Game_Selectin_Mission;Text;;Mission Selection;Sélection de la mission;Sel
 Menu/#Game_Selection_Campaign;Text;;Campaigns;Campagnes;Campañas;Kampagnen;Campagne
 Menu/#Game_Selection_Load;Text;;Load game;Charger;Cargar partida;Spiel laden;Carica partita
 Menu/#Home;Text;;Home;Accueil;Inicio;Hauptmenü;Home
-Menu/#Hover_BastetOverlay;Text;;Bastet Overlay;Calque de Bastet;Transparencia de Bast;Spezialkarte: Bastet;Schema Bast
+Menu/#Hover_BastetOverlay;Text;;Bast Overlay;Calque de Bastet;Transparencia de Bast;Spezialkarte: Bastet;Schema Bast
 Menu/#Hover_BazaarOverlay;Text;;Bazaar Overlay;Calque des bazars;Transparencia de bazar;Basar-Spezialkarte;Schema bazar
 Menu/#Hover_Briefing;Text;;Briefing;Briefing;Información;Besprechung;Istruzioni
 Menu/#Hover_ChiefOverseer;Text;;Chief Overseer;Responsable;Supervisor jefe;Hauptaufseher;Supervisore capo
@@ -5542,7 +5545,7 @@ Menu/#Hover_LibrariansOverlay;Text;;Librarians Overlay;Calque des bibliothécair
 Menu/#Hover_MagistrateOverlay;Text;;Magistrate Overlay;Calque des magistrats;Transparencia de juez;Magistrats-Spezialkarte;Schema magistrati
 Menu/#Hover_MalariaOverlay;Text;;Malaria Risk Overlay;Calque de risque de malaria;Transparencia de riesgo de malaria;Spezialkarte: Malariarisiko;Schema rischio malaria
 Menu/#Hover_Menu;Text;;Menu;Menu;Menú;Menü;Menu
-Menu/#Hover_MilitaryOverlay;Text;;Military Overlay;Calque Militaire;;;
+Menu/#Hover_MilitaryOverlay;Text;;Defense Overlay;Calque de défense;Capa de defensa;Spezialkarte: Verteidigung;Tabelle Difesa
 Menu/#Hover_MilitaryOverseer;Text;;Military Overseer;Chef des armées;Supervisor militar;Aufseher des Militärs;Supervisore militare
 Menu/#Hover_MusiciansOverlay;Text;;Musicians Overlay;Calque des musiciens;Transparencia de músicos;Spezialkarte: Musiker;Schema musicanti
 Menu/#Hover_NilometerExcellent;Text;;The next flood should be excellent;L’inondation sera excellente cette année.;Es probable que la inundación sea excelente este año.;Dieses Jahr wird die Überschwemmung hervorragend sein.;Quest'anno l'inondazione sarà probabilmente eccellente.
@@ -5743,7 +5746,7 @@ Menu/Credits/#Dotemu_14;Text;;Lead QA;Lead QA;Lead QA;Lead QA;Lead QA
 Menu/Credits/#Dotemu_15;Text;;Manon Botineau;Manon Botineau;Manon Botineau;Manon Botineau;Manon Botineau
 Menu/Credits/#Dotemu_16;Text;;Head of Quality Assurance;Head of Quality Assurance;Head of Quality Assurance;Head of Quality Assurance;Head of Quality Assurance
 Menu/Credits/#Dotemu_17;Text;;Pierre-Olivier Petillot;Pierre-Olivier Petillot;Pierre-Olivier Petillot;Pierre-Olivier Petillot;Pierre-Olivier Petillot
-Menu/Credits/#Dotemu_18;Text;;Core tester;Core tester;Core tester;Core tester;Core tester
+Menu/Credits/#Dotemu_18;Text;;Core testers;Core testers;Core testers;Core testers;Core testers
 Menu/Credits/#Dotemu_19;Text;;Corentin “Deity” Pauvrasseau;Corentin “Deity” Pauvrasseau;Corentin “Deity” Pauvrasseau;Corentin “Deity” Pauvrasseau;Corentin “Deity” Pauvrasseau
 Menu/Credits/#Dotemu_20;Text;;QA testers;QA testers;QA testers;QA testers;QA testers
 Menu/Credits/#Dotemu_21;Text;;Catherine Dorojko-Mojaïsky;Catherine Dorojko-Mojaïsky;Catherine Dorojko-Mojaïsky;Catherine Dorojko-Mojaïsky;Catherine Dorojko-Mojaïsky
@@ -5787,6 +5790,7 @@ Menu/Credits/#Dotemu_58;Text;;Baptiste Richer;Baptiste Richer;Baptiste Richer;Ba
 Menu/Credits/#Dotemu_59;Text;;Drice Siamer;Drice Siamer;Drice Siamer;Drice Siamer;Drice Siamer
 Menu/Credits/#Dotemu_60;Text;;Maryna Syvokon;Maryna Syvokon;Maryna Syvokon;Maryna Syvokon;Maryna Syvokon
 Menu/Credits/#Dotemu_61;Text;;Yeunjoo Kim;Yeunjoo Kim;Yeunjoo Kim;Yeunjoo Kim;Yeunjoo Kim
+Menu/Credits/#Dotemu_62;Text;;Iliès Enotiades;Iliès Enotiades;Iliès Enotiades;Iliès Enotiades;Iliès Enotiades
 Menu/Credits/#EODE;Text;;EODEstudio;EODEstudio;EODEstudio;EODEstudio;EODEstudio
 Menu/Credits/#EODE_01;Text;;Léa Fressinaud-Masdefeix - Artist;Léa Fressinaud-Masdefeix - Artist;Léa Fressinaud-Masdefeix - Artist;Léa Fressinaud-Masdefeix - Artist;Léa Fressinaud-Masdefeix - Artist
 Menu/Credits/#EODE_02;Text;;Camille Macary - Artist;Camille Macary - Artist;Camille Macary - Artist;Camille Macary - Artist;Camille Macary - Artist
@@ -5821,6 +5825,21 @@ Menu/Credits/#Indigo Pearl;Text;;United Kingdom - Indigo Pearl;United Kingdom - 
 Menu/Credits/#Indigo Pearl_01;Text;;Anita Wong;Anita Wong;Anita Wong;Anita Wong;Anita Wong
 Menu/Credits/#Indigo Pearl_02;Text;;Luke Bennett;Luke Bennett;Luke Bennett;Luke Bennett;Luke Bennett
 Menu/Credits/#Indigo Pearl_03;Text;;Rebecca Chisholme;Rebecca Chisholme;Rebecca Chisholme;Rebecca Chisholme;Rebecca Chisholme
+Menu/Credits/#Loc3_01;Text;;Loc3 Ltd. - Additional localization;Loc3 Ltd. - Additional localization;Loc3 Ltd. - Additional localization;Loc3 Ltd. - Additional localization;Loc3 Ltd. - Additional localization
+Menu/Credits/#Loc3_02;Text;;Project Management;Project Management;Project Management;Project Management;Project Management
+Menu/Credits/#Loc3_03;Text;;Guillaume De Casaban;Guillaume De Casaban;Guillaume De Casaban;Guillaume De Casaban;Guillaume De Casaban
+Menu/Credits/#Loc3_04;Text;;Claire Deiller;Claire Deiller;Claire Deiller;Claire Deiller;Claire Deiller
+Menu/Credits/#Loc3_05;Text;;French;French;French;French;French
+Menu/Credits/#Loc3_06;Text;;Raphaël Jugan;Raphaël Jugan;Raphaël Jugan;Raphaël Jugan;Raphaël Jugan
+Menu/Credits/#Loc3_07;Text;;German;German;German;German;German
+Menu/Credits/#Loc3_08;Text;;Anna André;Anna André;Anna André;Anna André;Anna André
+Menu/Credits/#Loc3_09;Text;;Angelika Hell;Angelika Hell;Angelika Hell;Angelika Hell;Angelika Hell
+Menu/Credits/#Loc3_10;Text;;Nick Schäfer;Nick Schäfer;Nick Schäfer;Nick Schäfer;Nick Schäfer
+Menu/Credits/#Loc3_11;Text;;Spanish;Spanish;Spanish;Spanish;Spanish
+Menu/Credits/#Loc3_12;Text;;Ismael Fernández;Ismael Fernández;Ismael Fernández;Ismael Fernández;Ismael Fernández
+Menu/Credits/#Loc3_13;Text;;Cintia Izquierdo;Cintia Izquierdo;Cintia Izquierdo;Cintia Izquierdo;Cintia Izquierdo
+Menu/Credits/#Loc3_14;Text;;Italian;Italian;Italian;Italian;Italian
+Menu/Credits/#Loc3_15;Text;;Lara Ferrulli;Lara Ferrulli;Lara Ferrulli;Lara Ferrulli;Lara Ferrulli
 Menu/Credits/#Localization;Text;;Localization;Localization;Localization;Localization;Localization
 Menu/Credits/#Localize;Text;;Localize Direct AB - English, French, Italian, German and Spanish localization;Localize Direct AB - English, French, Italian, German and Spanish localization;Localize Direct AB - English, French, Italian, German and Spanish localization;Localize Direct AB - English, French, Italian, German and Spanish localization;Localize Direct AB - English, French, Italian, German and Spanish localization
 Menu/Credits/#Localize_01;Text;;English proofreading;English proofreading;English proofreading;English proofreading;English proofreading
@@ -5905,7 +5924,7 @@ Menu/GameMode/#LoadDesc;Text;;Load a previously saved city.;Chargez une cité pr
 Menu/GameMode/#LoadTitle;Text;;Load;Charger;Cargar;Laden;Carica
 Menu/GameMode/#Title;Text;;Game modes;Modes de jeu;Modos de juego;Spielmodi;Modalità di gioco
 Menu/Hover_MilitaryMission;Text;;This is a Military mission, expect more invasions and troop requests.;Il s'agit d'une mission militaire, attendez-vous à des invasions et d'importants besoins en troupes.;Esta es una misión militar, habrá más invasiones y requerimientos de tropas.;Dies ist eine Militärmission. Rechnen Sie mit mehr Invasionen und mehr Truppenanfragen.;Questa è una missione militare: arriveranno altre invasioni e richieste di truppe.
-Menu/Hover_PeacefulMission;Text;;This is a Peaceful missions, it will have less invasions and troop requests than its counterpart;Il s'agit d'une mission pacifique, les invasions seront rares et il vous faudra moins de troupes.;Esta es una misión pacífica, tendrá menos invasiones y requerimientos de tropas que su versión militar.;Dies ist eine Friedensmission. Rechnen Sie mit weniger Invasionen und Truppenanfragen als bei ihrem Gegenstück.;Questa è una missione pacifica: ci saranno meno invasioni e richieste di truppe.
+Menu/Hover_PeacefulMission;Text;;This is a Peaceful mission, it will have less invasions and troop requests than its counterpart;Il s'agit d'une mission pacifique, les invasions seront rares et il vous faudra moins de troupes.;Esta es una misión pacífica, tendrá menos invasiones y requerimientos de tropas que su versión militar.;Dies ist eine Friedensmission. Rechnen Sie mit weniger Invasionen und Truppenanfragen als bei ihrem Gegenstück.;Questa è una missione pacifica: ci saranno meno invasioni e richieste di truppe.
 Menu/Language/#English;Text;;English;English;English;English;English
 Menu/Language/#French;Text;;Français;Français;Français;Français;Français
 Menu/Language/#German;Text;;Deutsch;Deutsch;Deutsch;Deutsch;Deutsch
@@ -6106,7 +6125,7 @@ Menu/Options/Notifs/#CollapsedMine;Text;;Collapsed mine;Mine effondrée;Mina der
 Menu/Options/Notifs/#Debt;Text;;Debt;Endettement;Deuda;Schulden;Debito
 Menu/Options/Notifs/#DebtAnniversary;Text;;Debt anniversary;Endettements à répétition;Aniversario de la deuda;Immer noch Schulden;Anniversario debito
 Menu/Options/Notifs/#Disease;Text;;Disease;Maladie;Enfermedad;Krankheit;Malattia
-Menu/Options/Notifs/#EmployeesNeeded;Text;;Employees needed;Besoin de main-d'œuvre;Se necesitan empleados;Arbeitskräfte benötigt;Dipendenti necessari
+Menu/Options/Notifs/#EmployeesNeeded;Text;;Employees needed;Besoin de main-d'oeuvre;Se necesitan empleados;Arbeitskräfte benötigt;Dipendenti necessari
 Menu/Options/Notifs/#Events;Text;;Events;Evénements;Eventos;Ereignisse;Eventi
 Menu/Options/Notifs/#Festival;Text;;Festival;Fête;Festival;Fest;Festival
 Menu/Options/Notifs/#Fire;Text;;Fire in the city;Incendie dans la cité;Fuego en la ciudad;Feuer in der Stadt;Fuoco in città
@@ -6116,7 +6135,7 @@ Menu/Options/Notifs/#Hidden;Text;;Hidden;Masqué;Oculto;Ausgeblendet;Nascosto
 Menu/Options/Notifs/#InvasionReminder;Text;;Invasion reminder;Rappel d'invasion;Recordatorio de invasión;Invasionserinnerung;Promemoria invasione
 Menu/Options/Notifs/#KingdomDecrease;Text;;Kingdom standing decreases;Le niveau du royaume diminue;La reputación del reino disminuye;Königreich-Wertung sinkt;Reputazione del regno diminuisce
 Menu/Options/Notifs/#KingdomIncrease;Text;;Kingdom standing increases;Le niveau du royaume augmente;La reputación del reino aumenta;Königreich-Wertung steigt;Reputazione del regno aumenta
-Menu/Options/Notifs/#KingdomRoadBlocked;Text;;Kingdom road blocked;Urgent : route bloquée !;Carretera del reino bloqueada;Straße blockiert;Strada regno bloccata
+Menu/Options/Notifs/#KingdomRoadBlocked;Text;;Kingdom road blocked;Route du royaume bloquée;Carretera del reino bloqueada;Straße blockiert;Strada regno bloccata
 Menu/Options/Notifs/#MajorBlessings;Text;;Major blessings;Bénédictions majeures;Bendiciones mayores;Große Segnungen;Benedizioni maggiori
 Menu/Options/Notifs/#MajorPlagues;Text;;Calamities;Calamités;Calamidades;Große Plagen;Calamità
 Menu/Options/Notifs/#MajorWraths;Text;;Major wraths;Colères majeures;Iras mayores;Großer Zorn;Ire maggiori
@@ -6130,7 +6149,7 @@ Menu/Options/Notifs/#OutOfMoney;Text;;Out of money;Manque d'argent;Sin dinero;Ke
 Menu/Options/Notifs/#Plague;Text;;Plague;Peste;Plaga;Seuche;Peste
 Menu/Options/Notifs/#PopulationMilestone;Text;;Population Milestone;Evolution démographique;Hito de población;Wichtige Bevölkerungszahl;Obiettivo popolazione
 Menu/Options/Notifs/#PriceChanges;Text;;Price changes;Evolution des prix;Cambio de precio;Preise ändern sich;Modifiche dei prezzi
-Menu/Options/Notifs/#RequestCompliance;Text;;Request compliance possible;Volonté satisfaite;Solicitud de cumplimiento posible;Forderung kann erfüllt werden;Soddisfazione possibile
+Menu/Options/Notifs/#RequestCompliance;Text;;Request compliance possible;Possibilité d'accéder à une requête;Solicitud de cumplimiento posible;Forderung kann erfüllt werden;Soddisfazione possibile
 Menu/Options/Notifs/#Theft;Text;;Theft;Vols;Robo;Diebstahl;Furto
 Menu/Options/Notifs/#Toggled;Text;;Fullscreen;Plein écran;Pantalla completa;Vollbild;Schermo intero
 Menu/Options/Notifs/#TradeLevelDecrease;Text;;Trade level decreases;Décroissance du commerce;Disminuye el nivel de comercio;Senkungen des Handelsvolumens;Riduzione livello di commercio
@@ -6496,22 +6515,22 @@ Missions/#220_mission;Text;;"The reigns of Khufu and Khafra have come to an end,
 Pharaoh will not attempt the construction of a massive tomb to house him for eternity, for he has another project in mind for you. Pharaoh has declared Ra, god of the sun and of the kingdom, to be King of the Gods, and intends to proclaim his sovereignty throughout the land. Many Sun Temples already dot the Egyptian landscape, but Pharaoh wishes that the greatest be located at Djedu, in the humid Delta region of Lower Egypt. Like most of the Delta, Djedu is rich in game, fish and other wildlife and vegetation, but offers few mineral resources. 
 
 As such, sandstone needed for construction of the Sun Temple will need to be imported from the quarries at the Dunqul Oasis. Cattle may be raised here to provide meat, though the herds require much straw for fodder. You'll need to clear land in order to create a suitable location for the Sun Temple. Be sure to sell enough of the precious timber you may harvest first, for once it is gone you may not be able to acquire more. Behdet and Abedju are always in need of wood, and also game, thus trade with them should help to offset the cost of constructing this sacred monument.";"Les règnes de Koufou et Khafra se sont éteints, entraînant la fin de la quatrième dynastie des pharaons d'Égypte. Mais une parente éloignée de la famille, Khentkaues, a donné naissance à un nouveau pharaon prénommé Ouserkaf. La grande lignée des pharaons peut ainsi perdurer. Ouserkaf est le premier souverain d'une cinquième dynastie qui annonce une ère d'importants bouleversements. Ouserkaf s'est lancé dans la voie de la décentralisation en accordant plus de pouvoir aux autorités locales. En tant que nomarque, vous pouvez diriger votre cité comme vous l'entendez.
-
-Le pharaon ne souhaite entreprendre aucune construction de tombeau funéraire, car il a actuellement un autre projet à vous soumettre. Le pharaon a désigné Rê, dieu du soleil et du royaume, roi des dieux et entend proclamer sa souveraineté dans tout le pays. L'Égypte possède de nombreux temples du soleil, mais le pharaon souhaite construire un immense temple à Djedu, dans la région humide du delta du Nil, en Basse-Égypte. La région de Djedu, comme la majeure partie du delta, regorge de gibier, poissons et autres animaux sauvages. La végétation y est également luxuriante, mais les ressources minérales restent faibles. 
+  
+Le pharaon ne souhaite entreprendre aucune construction de tombeau funéraire, car il a actuellement un autre projet à vous soumettre. En effet, il a désigné Rê, dieu du soleil et du royaume, roi des dieux et entend proclamer sa souveraineté dans tout le pays. L'Égypte possède de nombreux temples du soleil, mais le pharaon souhaite construire un immense temple à Djedu, dans la région humide du delta du Nil, en Basse-Égypte. La région de Djedu, comme la majeure partie du delta, regorge de gibier, poissons et autres animaux sauvages. La végétation y est également luxuriante, mais les ressources minérales restent faibles. 
+  
+Pour cette raison, le grès nécessaire à la construction du temple du soleil doit être apporté depuis les carrières de l'oasis de Dunqul. Vous pouvez élever du bétail et obtenir ainsi de la viande, mais les troupeaux consomment une grande quantité de fourrage. Il vous faudra défricher l'emplacement choisi pour la construction du temple du soleil. Pensez à vendre autant de bois que possible, car une fois épuisé, vous ne pourrez pas en obtenir d’une autre manière. Les cités de Behdet et d'Abedju manquent continuellement de bois et de gibier. Vous pouvez donc leur vendre ces marchandises afin de réduire les coûts de construction du monument sacré.";"Los reinados de Jufu y Kefrén han llegado a su fin, y con ellos ha acabado la cuarta dinastía de gobernantes egipcios. Pero la mujer de Jentkaues, un miembro lejano de esta familia, ha dado a luz un nuevo faraón llamado Userkaf, de modo que la línea real continúa intacta. Con Userkaf da comienzo la quinta dinastía, una era que promete muchos cambios. Userkaf ha descentralizado el gobierno de nuestro país y ha concedido más poder a las autoridades locales. Ahora, los Nomarcas como tú sois libres para manejar vuestros propios asuntos. 
+  
+ El faraón no va a emprender la construcción de una monumental tumba para alojarlo eternamente, ya que tiene otro proyecto en mente para ti. El faraón ha declarado a Ra, dios del Sol y del imperio, rey de los dioses, y se propone proclamar su soberanía por todo el territorio. Muchos templos del Sol salpican el paisaje, pero el faraón desea que el más grande se construya en Djedu, en la húmeda región del delta del Bajo Egipto. Como la mayor parte del delta, Djedu es rica en caza, pesca y otras formas de vida salvaje y vegetación, pero tiene pocos recursos minerales. 
+  
+ Por tanto, la arenisca necesaria para la construcción del templo del Sol se tendrá que importar de las canteras del oasis de Dunqul. Aquí hay que criar ganado para obtener carne, aunque las manadas necesitan mucha paja. Tendrás que despejar la tierra para crear un lugar adecuado para el templo del Sol. Procura vender antes algo de la valiosísima madera que recogerás, ya que cuando se acabe no podrás conseguir más. Behdet y Abedyú siempre necesitan madera y carne, así que comerciar con ellas te ayudaría a compensar el coste de construcción de este monumento sagrado.";"Die Herrschaft von Cheops und Chephren ist zu Ende. Mit ihnen endet auch die vierte Dynastie der ägyptischen Herrscherfamilien. Chentkaus, eine Verwandte aus einer Nebenlinie dieser Dynastie, hat einen neuen Pharao namens 'Userkaf' geboren, sodass die königliche Blutlinie ununterbrochen fortbesteht. Mit Userkaf beginnt die fünfte Dynastie, ein Zeitalter, mit dem große Veränderungen einhergehen werden. Userkaf hat die Herrschaft über das Land etwas dezentralisiert und den regionalen Behörden mehr Macht zugestanden. Jetzt haben Nomarchen wie Sie größere Spielräume bei der Ausübung ihrer Regierungsgeschäfte.
  
-Pour cette raison, le grès nécessaire à la construction du temple du soleil doit être apporté depuis les carrières de l'oasis de Dunqul. Vous pouvez élever du bétail et obtenir ainsi de la viande, mais les troupeaux consomment une grande quantité de fourrage. Il vous faudra défricher l'emplacement choisi pour la construction du temple du soleil. Pensez à vendre autant de bois que possible. Les cités de Behdet et d'Abedju manquent continuellement de bois et de gibier. Vous pouvez donc leur vendre ces marchandises afin de réduire les coûts de construction du monument sacré.";"Los reinados de Jufu y Kefrén han llegado a su fin, y con ellos ha acabado la cuarta dinastía de gobernantes egipcios. Pero la mujer de Jentkaues, un miembro lejano de esta familia, ha dado a luz un nuevo faraón llamado Userkaf, de modo que la línea real continúa intacta. Con Userkaf da comienzo la quinta dinastía, una era que promete muchos cambios. Userkaf ha descentralizado el gobierno de nuestro país y ha concedido más poder a las autoridades locales. Ahora, los Nomarcas como tú sois libres para manejar vuestros propios asuntos. 
+Dieser Pharao denkt auch nicht über den Bau einer riesigen Pyramide nach, in der er ewige Ruhe finden kann. Ihn treiben ganz andere Pläne um. Pharao Userkaf hat Re, den Gott der Sonne und des Königreichs, zum König der Götter erkoren und plant, seine Herrschaft im ganzen Land zu verkünden. Es gibt in Ägypten bereits viele Sonnentempel, doch der Pharao wünscht, den größten Sonnentempel von allen in Djedu in der feuchten Deltaregion Unterägyptens zu errichten. Wie fast im gesamten Delta gibt es auch in Djedu große Mengen an Wild, Fisch und anderen Tieren sowie eine üppige Vegetation. Bodenschätze sind allerdings Mangelware. 
  
-El faraón no va a emprender la construcción de una monumental tumba para alojarlo eternamente, ya que tiene otro proyecto en mente para ti. El faraón ha declarado a Ra, dios del Sol y del imperio, rey de los dioses, y se propone proclamar su soberanía por todo el territorio. Muchos templos del Sol salpican el paisaje, pero el faraón desea que el más grande se construya en Djedu, en la húmeda región del delta del Bajo Egipto. Como la mayor parte del delta, Djedu es rica en caza, pesca y otras formas de vida salvaje y vegetación, pero tiene pocos recursos minerales. 
- 
-Por tanto, la arenisca necesaria para la construcción del templo del Sol se tendrá que importar de las canteras del oasis de Dunqul. Aquí hay que criar ganado para obtener carne, aunque las manadas necesitan mucha paja. Tendrás que despejar la tierra para crear un lugar adecuado para el templo del Sol. Procura vender antes algo de la valiosísima madera que recogerás, ya que cuando se acabe no podrás conseguir más. Behdet y Abedyú siempre necesitan madera y carne, así que comerciar con ellas te ayudaría a compensar el coste de construcción de este monumento sagrado.";"Die Herrschaft von Cheops und Chephren ist zu Ende. Mit ihnen endet auch die vierte Dynastie der ägyptischen Herrscherfamilien. Chentkaues, eine Verwandte aus einer Nebenlinie dieser Dynastie, brachte einen neuen Pharao namens „Userkaf“ auf die Welt, so dass das königliche Geschlecht ungebrochen fortbesteht. Mit Userkaf beginnt die fünfte Dynastie, ein Zeitalter, das große Veränderungen mit sich bringen wird. Userkaf hat die Herrschaft über das Land etwas dezentralisiert und den regionalen Behörden mehr Macht zugestanden. Jetzt haben Nomarchen wie Sie größere Spielräume bei der Ausübung ihrer Regierungsgeschäfte. 
- 
-Dieser Pharao sinniert auch nicht über den Bau einer riesigen Pyramide nach, in der er ewige Ruhe finden kann. Ihn treiben ganz andere Pläne um. Pharao Userkaf hat Re, den Gott der Sonne und des Königreichs, zum König der Götter erkoren und plant, seine Herrschaft im ganzen Land zu verkünden. Es gibt in Ägypten bereits viele Sonnentempel, doch der Pharao wünscht, den größten Sonnentempel von allen in Djedu in der feuchten Deltaregion Unterägyptens zu errichten. Wie fast im gesamten Delta gibt es auch in Djedu große Mengen an Wild, Fisch und anderen Tieren sowie eine üppige Vegetation. Bodenschätze allerdings sind Mangelware. 
- 
-So müssen Sie den Sandstein, den Sie für den Bau des Sonnentempels benötigen, aus den Steinbrüchen der Oase Dungul heranschaffen. Hier können Sie Rinder züchten, um Fleisch zu erzeugen – allerdings brauchen die Herden viel Stroh als Futter. Sie werden Land planieren müssen, um einen geeigneten Standort für den Sonnentempel vorzubereiten. Achten Sie darauf, genug, aber nicht zu viel von dem wertvollen Holz zu verkaufen, das Sie schlagen werden. Wenn es erst einmal weg ist, könnte es schwierig werden, weiteres zu beschaffen. In Per-Hebit und Abedju braucht man stets Holz und Wild. Wenn Sie also mit diesen Städten Handel treiben, dürfte das dazu beitragen, die Aufwendungen für das Errichten des heiligen Monuments wieder hereinzuholen.";"I regni di Khufu e Khafra sono finiti e, con loro, anche la quarta dinastia di famiglie regnanti sull'Egitto. Khentkaues, una parente lontana della casa reale, ha dato alla luce il nuovo faraone chiamato Userkaf: la stirpe di sangue reale, così, ha modo di proseguire. Con Userkaf comincia la quinta dinastia, dando inizio a un'era che promette molti cambiamenti. Userkaf ha, in qualche modo, decentralizzato il governo del regno e ha affidato più potere alle autorità locali. Ora i nomarchi come te sono liberi di gestire i propri affari. 
- 
-Il faraone non cercherà di imitare i propri predecessori con progetti monumentali di costruzione; infatti, ha in mente per te un altro compito. Il faraone ha deciso che Ra, dio del sole e del regno, è il re degli dei e intende proclamare il suo dominio in tutto il territorio. La terra d'Egitto è già costellata di molti templi del sole, ma il faraone desidera che il più grande sia costruito a Djedu, nell'umida regione del delta del basso Egitto. Djedu è una regione ricca di selvaggina, pesce e vegetazione, ma offre scarse risorse minerarie. 
- 
-L'arenaria che serve per la costruzione del tempio del sole dovrà essere importata dalle cave dell'oasi di Dunqul. Qui si può allevare bestiame per la carne, anche se gli animali necessitano di molta paglia come mangime. Dovrai liberare terre per creare la località ideale per la costruzione del tempio. Vendi prima il prezioso legname che otterrai, perché una volta che è andato, non potrai acquistarne altro. Behdet e Abedju hanno sempre bisogno di legno e anche di selvaggina, quindi commercia con loro e potrai compensare il costo di costruzione di questo monumento sacro."
+So müssen Sie den Sandstein, den Sie für den Bau des Sonnentempels benötigen, aus den Steinbrüchen der Oase Dungul heranschaffen. Hier können Sie Rinder züchten, um Fleisch zu produzieren – allerdings brauchen die Herden viel Stroh als Futter. Sie werden Land planieren müssen, um einen geeigneten Standort für den Sonnentempel zu schaffen. Achten Sie darauf, genug, aber nicht zu viel von dem wertvollen Holz zu verkaufen, das Sie schlagen werden. Wenn es erst einmal weg ist, könnte es schwierig werden, weiteres zu beschaffen. In Per-Hebit und Abedju braucht man stets Holz und Wild. Wenn Sie also mit diesen Städten Handel treiben, dürfte das dazu beitragen, die Kosten für das Errichten des heiligen Monuments wieder hereinzuholen.";"I regni di Khufu e Khafra sono finiti e, con loro, anche la quarta dinastia di famiglie regnanti sull'Egitto. Khentkaues, una parente lontana della casa reale, ha dato alla luce il nuovo faraone chiamato Userkaf: la stirpe di sangue reale, così, ha modo di proseguire. Con Userkaf comincia la quinta dinastia, dando inizio a un'era che promette molti cambiamenti. Userkaf ha in parte decentralizzato il governo del regno e ha affidato più potere alle autorità locali. Ora i nomarchi come te sono liberi di gestire i propri affari. 
+  
+Il faraone non cercherà di imitare i propri predecessori con progetti monumentali di costruzione; infatti, ha in mente per te un altro compito. Il faraone ha deciso che Ra, dio del sole e del regno, è il re degli dei e intende proclamare il suo dominio su tutto il territorio. La terra d'Egitto è già costellata di molti templi del sole, ma il faraone desidera che il più grande sia costruito a Djedu, nell'umida regione del delta del basso Egitto. Djedu è una regione ricca di selvaggina, pesce e vegetazione, ma offre scarse risorse minerarie. 
+  
+L'arenaria che serve per la costruzione del tempio del sole dovrà essere importata dalle cave dell'oasi di Dunqul. Qui si può allevare bestiame per la carne, anche se gli animali necessitano di molta paglia come mangime. Dovrai liberare terre per creare la località ideale per la costruzione del tempio. Vendi prima il prezioso legname che otterrai, perché una volta che è andato, non potrai ottenerne altro. Behdet e Abedju hanno sempre bisogno di legno e anche di selvaggina, quindi commercia con loro e potrai compensare il costo di costruzione di questo monumento sacro."
 Missions/#220_name;Text;;Djedu;Djedu;Djedu;Djedu;Djedu
 Missions/#220_tagline;Text;;The Temple of the Sun;Le temple du soleil;El templo del Sol;Der Sonnentempel;Il Tempio del Sole
 Missions/#220_victory;Text;;Superb.  The glorious Sun Temple you have built honors both Ra and Pharaoh.;Parfait. Le magnifique temple solaire que vous avez construit honore Rê et le pharaon.;Fantástico. El magnífico templo del Sol que has construido honra a Ra y al Faraón.;Hervorragend! Der grandiose Sonnentempel, den Sie errichtet haben, ehrt sowohl Re als auch den Pharao.;Superbo. Il glorioso Tempio del Sole che hai costruito onora sia Ra che il Faraone.
@@ -7134,32 +7153,27 @@ Missions/#C51_mission;Text;;"Caesar's bloody death at the points of assassins' d
 
 Desiring safety for yourself and your child and, as always, seeking to preserve the power of Egypt, you have departed Rome for Alexandria. Despite all the leagues between Rome and yourself, you cannot leave behind all of its internecine squabbles. Powerful men still vie for power - your support and the access to the riches of Egypt would be a great asset to any faction. For you to back a winner in this power struggle is critical; siding with the loser could easily result in the end of Egypt. The dramatic showdown between the rival Roman factions recently occurred at Philippi where Mark Antony's Caesarians decisively beat the forces of Brutus and Cassius. Antony, Octavian and Lipidus have now carved up the empire for joint rule, with Antony claiming the eastern portion, which includes Egypt. Not long after the battle, Mark Antony summoned you to join him at Tarsus in Asia Minor, so that you might better explain why you had been slow to cast your lot with the Caesarians. 
 
-Not one to be summoned like a lapdog, you wisely declined to respond. After all, you know better than most that it is much better to see a Roman under your own terms and conditions, not his! Thus you, Pharaoh Cleopatra, have returned home to Alexandria, to Egypt. It is now time to expand the glory of this magnificent city, founded by the Great Alexander whose tomb is still frequented by visitors. Alexandria's renowned Great Library continues to attract scholars from all over the world; the bright beacon of the wondrous Pharos Lighthouse still burns so that seafarers can safely make their way through the treacherous waters of the harbor. Now you can further enrich the beauty of the city by constructing the expansive Caesareum in honor of your former lover and your young son. Additionally, ensure your own successful passage into the afterlife by building another mausoleum so that you can be duly worshipped after your journey into the Field of Reeds. 
-
+Not one to be summoned like a lapdog, you wisely declined to respond. After all, you know better than most that it is much better to see a Roman under your own terms and conditions, not his! Thus you, Pharaoh Cleopatra, have returned home to Alexandria, to Egypt. It is now time to expand the glory of this magnificent city, founded by the Great Alexander whose tomb is still frequented by visitors. Alexandria's renowned Great Library continues to attract scholars from all over the world; the bright beacon of the wondrous Pharos Lighthouse still burns so that seafarers can safely make their way through the treacherous waters of the harbor. Now you can further enrich the beauty of the city by constructing the expansive Caesareum in honor of your former lover and your young son. Additionally, ensure your own successful passage into the afterlife by building another mausoleum so that you can be duly worshipped after your journey into the Field of Reeds.
 The next time Mark Antony calls for you, perhaps he will employ a bit more tact?";"La mort sanglante de César sous les coups de poignard de ses assassins jeta le monde romain dans le trouble et vous plongea, Cléopâtre VII, dans une colère et une tristesse immenses. Votre amant et allié puissant n'est plus. Octave, son neveu adoptif, encore adolescent, a été nommé comme héritier, mais Marc-Antoine, plus expérimenté, auparavant consul de César, est devenu le chef de l'État, non sans causer du ressentiment au jeune Octave. Sans grande surprise, le testament de César éludait le nom de votre fils, Ptolémée César, plus connu sous le nom de Césarion. 
 
 Désirant la sécurité pour vous-même et votre enfant et, comme toujours, cherchant à préserver la puissance de l'Égypte, vous avez quitté Rome pour Alexandrie. Malgré tout ce qui vous lie à Rome, vous ne pouvez pas laisser derrière vous tous les troubles internes à cette cité. Des hommes puissants sont toujours avides de pouvoir, de votre soutien et de l'accès aux richesses de l'Égypte. Vous devez absolument être du côté du vainqueur de cette lutte pour le pouvoir ; si vous vous retrouvez du côté du perdant, ce sera la fin de l'Égypte. La lutte féroce entre les factions romaines rivales s'est récemment illustrée à Philippi, où les partisans de Marc-Antoine ont écrasé les forces de Brutus et de Cassius. Antoine, Octave et Lipidus ont désormais préparé l'Empire à un règne commun, Antoine revendiquant le territoire est, qui inclut l'Égypte. Peu de temps après la bataille, Marc-Antoine vous a demandé de le rejoindre à Tarsus, en Asie Mineure, afin que vous puissiez expliquer plus clairement pourquoi vous avez attendu si longtemps pour combattre les partisans de Marc-Antoine. 
 
 Vous avez sagement décliné l'offre qui vous était faite. Après tout, vous savez mieux que quiconque qu'il est bien plus confortable de rencontrer un Romain selon vos propres termes plutôt que les siens ! Ainsi, vous, Cléopâtre, êtes retournée chez vous à Alexandrie, en Égypte. Il est maintenant temps d'étendre la gloire de cette grande cité, fondée par le grand Alexandre, dont la tombe est toujours visitée. La fameuse grande bibliothèque d'Alexandrie continue à attirer des érudits du monde entier ; le magnifique phare de Pharos indique toujours aux navigateurs leur chemin à travers les eaux traîtres du port d'Alexandrie. Vous pouvez maintenant continuer à enrichir la beauté de cette cité en construisant un Caesareum en l'honneur de votre ancien amant et de votre jeune fils. En outre, vous devez assurer votre passage dans l'au-delà en construisant un autre mausolée afin que vous puissiez être convenablement vénérée après votre voyage dans les champs de roseaux. 
-
 La prochaine fois que Marc-Antoine fera appel à vous, peut-être le fera-t-il avec un peu plus de tact ?";"La sangrienta muerte de César bajo los puñales de sus asesinos ha sumido al mundo en un caos y a ti, nuestra faraona, Cleopatra VII, en una profunda pena y en el luto. Se ha ido tu amante, tu mentor, tu confidente y tu poderoso aliado. Octavio, su sobrino nieto adolescente adoptado, ha sido nombrado su heredero, pero Marco Antonio, más experimentado y antiguo cónsul de César, se ha convertido en la cabeza simbólica del estado, lo que ha despertado la ira del joven Octavio. Como es lógico, César no hizo mención del hijo que tuvo contigo, Ptolomeo César, popularmente conocido como Cesarión. 
 
 En busca de seguridad para tu hijo y para ti misma y, como siempre, en un intento de preservar el poder de Egipto, has abandonado Roma en dirección a Alejandría. A pesar de todas las leguas que te separan de Roma, no puedes dejar atrás todas sus luchas de aniquilación mutua. Hay hombres poderosos que aún se disputan el poder. Tu apoyo y el acceso a las riquezas de Egipto constituirían una gran ventaja para cualquiera de las facciones. Para ti es esencial apoyar al ganador de esta lucha. Aliarte con el perdedor podría ser el fin para Egipto. Recientemente tuvo lugar un drástico enfrentamiento entre las facciones romanas rivales en Filipos, dónde Marco Antonio consiguió la victoria decisiva sobre las fuerzas de Bruto y Casio. Antonio, Octavio y Lípido han dividido el imperio para llevar a cabo un gobierno conjunto y Antonio pide la zona oriental, en la que se incluye Egipto. No mucho tiempo después de la batalla, Marco Antonio te hizo llamar para reunirte con él en Tarso, en Asia menor, para que le explicaras por qué tardaste en apoyar a los partidarios de César. 
 
 No eres una persona a la que se pueda llamar como a un perrito faldero y de forma acertada, te negaste a contestar. Después de todo, sabes bien que es mejor ver a un romano bajo tus propias condiciones, ¡no las suyas! Así pues, tú, la faraona Cleopatra, has regresado a tu hogar, a Alejandría, a Egipto. Ahora, es el momento de acrecentar la gloria de esta magnífica ciudad, fundada por Alejandro Magno, cuya tumba todavía es visitada. La conocida Gran biblioteca de Alejandría continúa atrayendo a eruditos de todo el mundo. El brillante faro de la maravillosa isla de Pharos aún arde para que los navegantes puedan recorrer a salvo las peligrosas aguas del puerto. Ahora puedes aumentar la belleza de la ciudad con la construcción de un gran Cesáreo en honor de tu antiguo amante y de tu joven hijo. Además, para garantizar tu entrada con éxito en la otra vida debes construir otro mausoleo, en el que puedas ser debidamente adorada tras tu viaje al Campo de Cañas. 
-
 La próxima vez que Marco Antonio te llame, puede que tenga más tacto.";"Caesars grausamer Tod durch die Klingen von Meuchelmördern stürzte die römische Welt in Aufruhr und hat Ihnen, unserer Pharaonin Kleopatra VII., Trauer und Schmerz gebracht. Ihr Geliebter, Mentor, Vertrauter und mächtiger Verbündeter ist nicht mehr. Sein gerade den Kinderschuhen entwachsener adoptierter Großneffe Octavian wurde zu seinem Erben bestimmt. Der viel erfahrenere Marcus Antonius, ehemals ein Konsul Caesars, jedoch wurde, zum Leidwesen des jungen Octavian, zum formellen Staatsoberhaupt ernannt. Dass euer gemeinsamer Sohn Ptolemäus Caesar, auch „Caesarion“ genannt, in Caesars Testament nicht erwähnt wurde, konnte nicht weiter überraschen. 
 
 Um Ihr Kind und sich selbst in Sicherheit zu bringen und auch die Macht Ägyptens weiter zu erhalten, haben Sie Rom mit Ziel Alexandria verlassen. Doch trotz der großen räumlichen Entfernung zwischen Ihnen und Rom können Sie die mörderischen Machtkämpfe dort nicht völlig hinter sich lassen. Noch immer gieren mächtige Männer nach Macht – Ihre Unterstützung und der Zugang zu den Reichtümern Ägyptens wären ein großes Plus für jede Partei. Dass Sie in diesem Machtkampf den Sieger unterstützen, ist ungemein wichtig, denn eine Kollaboration mit dem Verlierer könnte leicht das Ende Ägyptens nach sich ziehen. Der dramatische Entscheidungskampf zwischen den rivalisierenden römischen Parteien, in dem Marcus Antonius’ Caesarianer den entscheidenden Schlag gegen die Streitkräfte von Brutus und Cassius führten, fand unlängst bei Philippi statt. Antonius, Octavian und Lepidus bilden nun ein Triumvirat, um das Imperium zu lenken, wobei Antonius Anspruch auf den östlichen Teil einschließlich Ägypten erhebt. Kurz nach dem Kampf befahl Ihnen Marcus Antonius, zu ihm nach Tarsus in Kleinasien zu kommen, um ihm zu erklären, warum es so lange dauerte, bis Sie sich auf die Seite der Caesarianer schlugen. 
 
 Da Sie sich nicht wie ein Hund herbeizitieren lassen, haben Sie es in Ihrer Weisheit abgelehnt zu antworten. Schließlich wissen Sie besser als jeder andere, dass es sehr viel vorteilhafter ist, einen Römer nach IHREN Vorgaben zu empfangen, als umgekehrt. Daher sind Sie, Pharaonin Kleopatra, nach Ägypten und nach Alexandria heimgekehrt. Es ist nun an der Zeit, den Ruhm dieser einzigartigen Stadt des großen Alexander, dessen Grab noch heute Scharen von Pilgern besuchen, zu neuer Größe zu führen. Alexandrias berühmte Große Bibliothek zieht immer noch Gelehrte aus aller Welt an; das helle Leuchtsignal des wunderbaren Leuchtturms von Pharos weist immer noch den Weg, damit die Seefahrer sicher durch die tückischen Wasser des Hafens gelangen können. Sie können nun die Schönheit der Stadt durch den Bau des weitläufigen Caesariums zu Ehren Ihres ehemaligen Geliebten und Ihres kleinen Sohnes noch weiter bereichern. Darüber hinaus sichern Sie Ihren eigenen Übergang zum ewigen Leben durch den Bau eines weiteren Mausoleums, sodass Ihnen auch nach Ihrer Reise zum Schilffeld gebührend gehuldigt werden kann. 
-
 Ob Marcus Antonius das nächste Mal wohl etwas mehr Takt walten lässt, wenn er nach Ihnen ruft?";"La violenta morte di Cesare per mano armata di un gruppo di assassini ha gettato il mondo romano nel caos e ti ha portato, nostro faraone Cleopatra VII, al lutto e alla disperazione. Il tuo amato, mentore, confidente e potente alleato non è morto. Ottaviano, il suo giovane nipote d'adozione, è stato nominato suo erede ma è Marco Antonio, l'esperto consigliere di Cesare, l'attuale capo dello stato, cosa certo non gradita dal giovane Ottaviano. Ovviamente, il testamento di Cesare non menzionava vostro figlio, Cesare Tolomeo, da tutti conosciuto come Cesarione. 
 
 Desiderando sicurezza per te stessa e tuo figlio e cercando, come sempre, di mantenere il potere dell'Egitto, sei partita da Roma alla volta di Alessandria. Nonostante la grande distanza tra le due città, non puoi lasciarti alle spalle le liti interne. Gli uomini potenti lottano per ottenere più potere: il tuo supporto e la tua disponibilità di ricchezze possono essere di grande aiuto a qualsiasi fazione. È molto importante che tu sostenga un nuovo vincitore; se ti schieri con un perdente, l'Egitto vedrebbe la sua fine. La drammatica conclusione tra le fazioni romane rivali è da poco occorsa a Filippi, dove Marco Antonio ha sconfitto una volta per tutte i suoi avversari Bruto e Cassio. Antonio, Ottaviano e Lipido hanno costituito un triumvirato spartendosi il regno: Antonio ha scelto la porzione orientale che contiene l'Egitto. Poco tempo dopo la battaglia, Marco Antonio ti ha convocato a Tarso, in Asia Minore, così che tu possa spiegargli perché hai impiegato tutto questo tempo per schierarti con i cesariani. 
 
 Non sei abituata a lasciarti comandare come un cane fedele, quindi hai rifiutato di rispondere. Dopotutto, sai meglio di chiunque altro che è bene incontrarsi con i Romani alle proprie condizioni! E così tu, faraone Cleopatra, sei ritornata a casa, ad Alessandria d'Egitto. Ora è il momento di estendere la gloria di questa magnifica città, fondata da Alessandro Magno, la cui tomba è ancora affollata meta di numerosi visitatori. La famosa biblioteca di Alessandria continua ad attirare studiosi di tutto il mondo; il potente raggio di luce del Faro del faraone fende tuttora la notte e guida i navigatori attraverso le infide acque della baia. Ora puoi rinvigorire la bellezza della città costruendo un grande Caesareum in onore del tuo precedente amante e di tuo figlio. In più, devi assicurare il tuo passaggio nell'aldilà costruendo un altro mausoleo, così che tu possa essere degnamente onorata dopo il lungo viaggio nei Campi di Canne. 
-
 Se Marco Antonio ti dovesse chiamare un'altra volta, mostrerai un po' più di tatto?"
 Missions/#C51_name;Text;;Cleopatra's Alexandria;L'Alexandrie de Cléopâtre;La Alejandría de Cleopatra;Alexandria (Kleopatra);L'Alessandria di Cleopatra
 Missions/#C51_tagline;Text;;The Legacy of a Queen;L'héritage d'une reine;El legado de una reina;Das Erbe einer Königin;L'eredità di una regina
@@ -7301,6 +7315,7 @@ Missions/Periods/#Archaic;Text;;Archaic Period;Période archaïque;Periodo arcai
 Missions/Periods/#Cleopatras_Capital;Text;;Cleopatra's Capital;Alexandrie;Capital;Kleopatras Stadt;Cit. di Cleopatra
 Missions/Periods/#Middle_Kingdom;Text;;Middle Kingdom;Moyen Empire;Imperio medio;Mittleres Reich;Medio regno
 Missions/Periods/#New_Kingdom;Text;;New Kingdom;Nouvel Empire;Imperio nuevo;Neues Reich;Nuovo regno
+Missions/Periods/#None;Text;;None;Aucune;Ninguno;Keine;Nessuno
 Missions/Periods/#Old_Kingdom;Text;;Old Kingdom;Ancien Empire;Imperio antiguo;Altes Reich;Vecchio regno
 Missions/Periods/#Predynastic;Text;;Predynastic Period;Période prédyn.;Periodo predinást.;Prädynast. Zeit;Per. predinastico
 Missions/Periods/#Ramses_I_I;Text;;Ramses II;Ramsès II;Ramsés II;Ramses II.;Ramses II
@@ -7322,7 +7337,7 @@ Monuments/#BurialTomb_NoLamps;Text;;The artisans and masons refuse to step foot 
 Monuments/#BurialTomb_NoProblem;Text;;The artisans and masons are busy at their crafts, and work on the Royal Burial Tomb is progressing nicely. Remember to keep the Artisans' Guild supplied with clay and paint to help ensure that everything goes smoothly.;Les artisans et les maçons sont occupés à leur art et les travaux sur le tombeau royal vont bon train. N'oubliez pas de fournir de l'argile et de la peinture à la guilde des artisans pour vous assurer que tout se déroule sans encombre.;Los artesanos y los canteros están ocupados en su oficio, y el trabajo en la tumba funeraria real progresa satisfactoriamente. Recuerda proveer al gremio de artesanos con arcilla y pintura para asegurarte de que no hay demoras.;Die Kunsthandwerker und Maurer sind mit ihrem Handwerk beschäftigt, und die Arbeit an der königlichen Grabkammer schreitet gut voran. Denken Sie daran, die Kunsthandwerkergilde mit Ton und Farbe zu versorgen, um sicherzustellen, dass alles reibungslos verläuft.;Gli artigiani e gli scalpellini sono impegnati nella costruzione della tomba reale. I lavori stanno procedendo bene. Ricorda di rifornire la gilda degli artigiani di argilla e pittura per garantire che tutto proceda senza intoppi.
 Monuments/#Caesareum;Text;;Caesareum;Caesareum;El Caesareum;Caesareum;Caesareum
 Monuments/#Caesareum_Completed;Text;;The Caesareum is complete and celebrates the union between Egypt and Rome.;Le Caesareum est terminé et marque l'union entre l'Égypte et Rome.;El Cesáreo está terminado y celebra la unión entre Egipto y Roma.;Das Caesarium ist fertig und zelebriert das Band zwischen Ägypten und Rom.;Il Caesareum è pronto. Celebra l’unione tra l’Egitto e Roma.
-Monuments/#Caesareum_Granite;Text;;The remainder of the Caesareum will require an additional {0} blocks of granite ({1} loads).;Le Caesareum a besoin de {0} blocs de granite supplémentaires pour être terminé ({1} lots).;Para el resto del cesáreo hará falta una cantidad adicional de {0} bloques de granito ({1} cargamentos).;Für die Fertigstellung der Bibliothek werden {0} zusätzliche Granitblöcke ({1} Ladungen) benötigt.;La parte di Caesareum rimanente necessiterà di altri {0} blocchi di granito ({1} carichi).
+Monuments/#Caesareum_Granite;Text;;The remainder of the Caesareum will require an additional {0} blocks of granite ({1} loads).;Le Caesareum a besoin de {0} blocs de granit supplémentaires pour être terminé ({1} lots).;Para el resto del cesáreo hará falta una cantidad adicional de {0} bloques de granito ({1} cargamentos).;Für die Fertigstellung der Bibliothek werden {0} zusätzliche Granitblöcke ({1} Ladungen) benötigt.;La parte di Caesareum rimanente necessiterà di altri {0} blocchi di granito ({1} carichi).
 Monuments/#Caesareum_Marble;Text;;The remainder of the Caesareum will require an additional {0} blocks of marble ({1} loads).;Le Caesareum a besoin de {0} blocs de marbre supplémentaires pour être terminé ({1} lots).;Para el resto del cesáreo hará falta una cantidad adicional de {0} bloques de arenisca ({1} cargamentos).;Für die Fertigstellung des Caesariums werden {0} zusätzliche Marmorblöcke ({1} Ladungen) benötigt.;La parte di Caesareum rimanente necessiterà di altri {0} blocchi di marmo ({1} carichi).
 Monuments/#Caesareum_Step_1;Text;;Peasants are hard at work, clearing the land for the Caesareum.;Les paysans sont affairés à défricher la terre pour le Caesareum.;Los campesinos trabajan duramente limpiando el terreno para el Cesáreo.;Die Bauern arbeiten hart, das Land für das Caesarium einzuebnen.;I contadini stanno lavorando duramente per liberare il terreno per il Caesareum.
 Monuments/#Caesareum_Step_2;Text;;Now that the land is ready, the stonemasons are busy laying a solid foundation.;Maintenant que le terrain est prêt, les tailleurs de pierre s'affairent à poser des fondations solides.;Ahora que el terreno está listo, los canteros están manos a la obra preparando unos cimientos sólidos.;Nun, da das Land bereit ist, sind die Steinmetze damit beschäftigt, ein solides Fundament zu legen.;Ora che il terreno è pronto, gli scalpellini sono all’opera per la posa di solide fondamenta.
@@ -7521,7 +7536,7 @@ Names/#GameMeat;Text;;Game Meat;Gibier;Carne de caza;Wildfleisch;Selvaggina
 Names/#Gems;Text;;Gems;Pierres précieuses;Piedras preciosas;Edelsteine;Gemme
 Names/#Gold;Text;;Gold;Or;Oro;Gold;Oro
 Names/#Grain;Text;;Grain;Céréales;Cereales;Getreide;Grano
-Names/#Granite;Text;;Granite;Granite;Granito;Granit;Granito
+Names/#Granite;Text;;Granite;Granit;Granito;Granit;Granito
 Names/#Henna;Text;;Henna;Henné;Jena;Henna;Henna
 Names/#Hides;Text;;Hides;Peaux;Pieles;Tierhäute;Pelli
 Names/#Incense;Text;;Incense;Encens;Incienso;Weihrauch;Incenso
@@ -8379,8 +8394,8 @@ Overlays/NoJugglerNoMusicianNoDancer;Text;;No entertainers;Pas d'artistes;No hay
 Overlays/NoMusician;Text;;No Musician;Pas de musicien;No hay músico;Kein Musiker und kein Tänzer;Nessun musicista
 Overlays/NoMusicianNoDancer;Text;;No Musician and no Dancer;Pas de musicien ni de danseur;No hay músico ni bailarina;Kein Musiker und kein Tänzer;Nessuno musicista/ballerino
 Overlays/OverlayGeneral;Text;;Overlay intelligent help.;Bulles d’aide des calques.;Ayuda contextual sobreimpresa.;Spezialkarte: Intelligente Hilfe.;Aiuto intelligente su schemi.
-Overlays/PhysicianAccess_High;Text;;This house hasn't been passed by a physician in a while.;Aucun médecin n’est passé près de cette maison depuis longtemps.;Esta casa no ha recibido la visita de ningún médico durante cierto tiempo.;Dieses Haus wurde seit einiger Zeit nicht mehr von einem Arzt besucht.;Questa abitazione non è stata visitata da un medico da molto tempo
-Overlays/PhysicianAccess_Low;Text;;This house has recently had a physician pass by.;Un médecin est passé récemment devant cette maison.;Esta casa ha recibido recientemente la visita de un médico.;Dieses Haus wurde kürzlich von einem Arzt besucht.;Questa abitazione è stata da poco visitata da un medico
+Overlays/PhysicianAccess_High;Text;;This house has recently had a physician pass by.;Un médecin est passé récemment devant cette maison.;Esta casa ha recibido recientemente la visita de un médico.;Dieses Haus wurde kürzlich von einem Arzt besucht.;Questa abitazione è stata da poco visitata da un medico
+Overlays/PhysicianAccess_Low;Text;;This house hasn't been passed by a physician in a while.;Aucun médecin n’est passé près de cette maison depuis longtemps.;Esta casa no ha recibido la visita de ningún médico durante cierto tiempo.;Dieses Haus wurde seit einiger Zeit nicht mehr von einem Arzt besucht.;Questa abitazione non è stata visitata da un medico da molto tempo
 Overlays/PhysicianAccess_Mid;Text;;This house has had a physician pass by.;Un médecin est déjà passé devant cette maison.;Esta casa ha recibido la visita de un médico.;Dieses Haus wurde von einem Arzt besucht.;Questa abitazione è stata visitata da un medico
 Overlays/PhysicianAccess_None;Text;;No Physician access.;Aucun accès à des dispensaires.;No hay acceso a un médico.;Kein Zugang zur Arztpraxis.;Nessun accesso al medico
 Overlays/PoliceRisk_0;Text;;This is a very law-abiding neighborhood, with no crimes reported at all;Ce quartier est très respectueux des lois, et aucun crime n’y a été signalé.;Este es un vecindario donde se cumple la ley, y no se registra criminalidad.;Dies ist eine sehr gesetzestreue Gegend ohne jegliche Kriminalität.;Questo è un quartiere molto rispettoso della legge dove non sono segnalati crimini
@@ -9522,22 +9537,10 @@ der Stadt aus.";"È sempre un bene tenersi pronti a sostenere un attacco, invece
 all'ultimo momento. Speriamo di avere abbastanza difese per proteggere la città."
 Overseers/#Chief_Military_AttackSoon;Text;;Enemy troops are at our gates.;Les troupes ennemies sont aux portes de notre cité.;Tropas enemigas a las puertas de la ciudad.;Vor den Toren stehen feindliche Truppen.;Truppe nemiche alle nostre porte
 Overseers/#Chief_Military_NoAttack;Text;;We have no reported threats.;La cité n'est pas menacée.;No existen informes de amenazas.;Wir haben keine Meldungen über Gefahren.;Non sono segnalate minacce.
-Overseers/#Chief_Military_NoAttack_hover;Text;;"If enemies were advancing toward our city, you would surely receive a message. 
-Enemy armies also appear on the World Map, so you can watch them advance, 
-and hopefully have the city ready when they arrive.";"Lorsque des ennemis approchent de notre cité, votre scribe envoie un message.
-Des armées ennemies ont fait leur apparition sur la mappemonde. Surveillez leur 
-progression et tâchez de préparer la cité.";"Si los enemigos avanzaran hacia tu ciudad, recibirás un mensaje.
-Los ejércitos enemigos también aparecen en el mapa del mundo, 
-de modo que puedes vigilar su avance y, con un poco de suerte, 
-preparar la ciudad para cuando lleguen.";"Wenn Feinde im Anmarsch auf die Stadt wären, würden Sie sicher eine 
-Nachricht erhalten. Feindliche Armeen sind auch auf der Weltkarte zu 
-sehen. Sie können ihren Anmarsch also in Ruhe beobachten, so dass 
-die Stadt bereit ist, wenn sie vor den Toren stehen.";"Se i nemici avanzassero verso la nostra città, riceveresti senz'altro un messaggio. 
-Gli eserciti nemici compaiono anche sulla mappa del mondo, quindi puoi vederli 
-avanzare e intanto preparare la città al loro arrivo."
+Overseers/#Chief_Military_NoAttack_hover;Text;;If enemies were advancing toward our city, you would surely receive a message.;Lorsque des ennemis approchent de notre cité, votre scribe envoie un message.;Si los enemigos avanzaran hacia tu ciudad, recibirás un mensaje.;Wenn Feinde im Anmarsch auf die Stadt wären, würden Sie sicher eine Nachricht erhalten.;Se i nemici avanzassero verso la nostra città, riceveresti senz'altro un messaggio.
 Overseers/#Chief_Military_NoRequestForTroops;Text;;We have no request for military assistance abroad.;Nous n’avons reçu aucune demande de soutien militaire à l’étranger.;No tenemos solicitudes de apoyo militar fuera de nuestras fronteras.;Wir haben kein Ersuchen um militärische Unterstützung im Ausland.;Non ci sono richieste di aiuto militare all'estero.
 Overseers/#Chief_Military_NoTroops;Text;;You have no companies to command.;Aucune compagnie n'est sous votre commandement.;No tienes compañías a las que mandar.;Sie befehligen keine Kompanien.;Non hai compagnie da comandare
-Overseers/#Chief_Military_NoTroops_hover;Text;;There are no military forces at our disposal. Currently there is no need, as all is safe.;Aucune force militaire n'est à notre disposition. Cela n'a pas d'importance pour l'instant, car il n'y a pas de danger.;No disponemos de ejército. Actualmente no existe ninguna necesidad, ya que todo está seguro.;Wir haben keine Streitkräfte zu unserer Verfügung. Derzeit benötigen wir keine, da keine Gefahr droht.;Non ci sono forze militari a nostra disposizione. Al momento non ce n'è bisogno, la situazione è sicura.
+Overseers/#Chief_Military_NoTroops_hover;Text;;There are no military forces at our disposal.;Aucune force militaire n'est à notre disposition.;No disponemos de ejército.;Wir haben keine Streitkräfte zu unserer Verfügung.;Non ci sono forze militari a nostra disposizione.
 Overseers/#Chief_Military_RequestForTroops;Text;;Our troops are needed elsewhere.;Nos troupes sont attendues ailleurs.;Necesitan nuestras tropas en otros sitios.;Unsere Truppen werden woanders gebraucht.;Le nostre truppe servono altrove.
 Overseers/#Chief_Military_RequestForTroops_hover;Text;;"We have received a request for troops from a fellow Egyptian commander.
 It is usually best to honor such requests, if you want to remain on good 
@@ -9891,6 +9894,7 @@ Overseers/#Monuments_BrickPyramid_Completion;Text;;This brick pyramid is {0}% co
 Overseers/#Monuments_BrickPyramid_NotStarted;Text;;Work on this brick pyramid has not begun. You need peasant labor to begin this project, and plenty of bricks and limestone to complete it.;La construction de la pyramide en briques nécessite de la main-d'oeuvre pour ce projet, et d'une quantité importante de briques et de calcaire blanc.;El trabajo en la pirámide de ladrillo no ha empezado. Necesitas peones para este proyecto, y muchos ladrillos y piedra caliza para terminar.;Die Arbeit an der Ziegelpyramide stagniert. Es fehlen Arbeitskräfte. Um den Bau zu vollenden, benötigen Sie eine Menge Ziegel und Kalkstein.;Il lavoro alla pir. di mattoni non è iniziato. Servono operai e per completarlo grandi quantità di mattoni e calcare.
 Overseers/#Monuments_BurialAmount;Text;;Amount to Dispatch;Quantité à expédier;Cantidad para enviar;Liefermenge;Quantità da inviare
 Overseers/#Monuments_BurialGoodsDelivered_hover;Text;;These burial provisions have already been delivered;Ces offrandes funéraires ont déjà été livrées.;Estos bienes funerarios ya se han entregado.;Diese Grabbeigaben wurden bereits geliefert.;Questi arredi funebri sono già stati consegnati
+Overseers/#Monuments_BurialGoods_Dispatched;Text;;delivered;livré(es);entregado;geliefert;stato: consegnato
 Overseers/#Monuments_BurialGoods_hover;Text;;Click to dispatch these burial provisions;Cliquez pour envoyer ces offrandes funéraires.;Haga clic para enviar estos bienes funerarios;Klicken Sie, um diese Grabbeigaben zu liefern.;Fai clic per inviare arredi funebri
 Overseers/#Monuments_BurialProvisionsNeeded;Text;;Burial Provisions needed to finish the monument:;Offrandes funéraires requises pour terminer le monument :;Se necesita una ofrenda funeraria para finalizar este monumento:;Grabbeigaben, die zur Fertigstellung des Monuments benötigt werden:;Corredi funebri necessari per completare il monumento:
 Overseers/#Monuments_Caesareum_Completed;Text;;The Caesareum is now complete!;Le Caesarum est maintenant achevé !;¡El Caesareum está terminado!;Das Caesareum ist jetzt fertig!;Il Caesareum ora è completato!
@@ -10192,7 +10196,7 @@ Overseers/#Treasury_ThisYear;Text;;So far this year;Cette année;Hasta ahora, en
 Overseers/#Treasury_Title;Text;;Overseer of the Treasury;Chef des finances;Supervisor de erario;Finanzen;Supervisore finanziario
 Overseers/#Treasury_Total Expenses;Text;;Total Expenses;Dépenses (total);Gastos;Ausgaben;Spese
 Overseers/#Treasury_TotalIncome;Text;;Total Income;Revenus (total);Beneficio;Einkünfte;Entrate
-Overseers/#Treasury_Tribute;Text;;Tribute;Tribut;Tributos;Tribut;Tributi
+Overseers/#Treasury_Tribute;Text;;Pillaged;Pillé;Saqueado;Geplündert;Bottino
 Overseers/#Treasury_UncollectedTitle;Text;;Uncollected taxes;Impôts non collectés;Impuestos por recaudar;Nicht erhobene Steuern;Tasse non riscosse
 Overseers/#Treasury_Wage;Text;;Wage/10;Salaire/10;Salario/10;Lohn/10;Salario/10
 Overseers/#Treasury_WageKingdom;Text;;Kingdom pays {0};Le royaume paye {0};el imperio paga {0};Königreich zahlt {0};il Regno paga {0}
@@ -10688,6 +10692,37 @@ Los arqueros se proveen de sus propios arcos y flechas, pero a las tropas de inf
 Waffen-Bogenschützen stellen ihre eigenen Bögen und Pfeile zur Verfügung, aber Infanterietruppen müssen mit Speeren mit Kupferspitze ausgerüstet werden. Mit einem Vorrat an frisch abgebautem Kupfer kann eine Waffenschmiede solche Waffen schmieden. Wagenlenker benötigen Streitwagen, die aus Holz und Kupfer gefertigt werden. Diese werden dann an den Drillplatz geliefert, damit die neuen Soldaten entsprechend ausgerüstet werden können.";"Per arruolare le truppe, costruisci un forte e un reclutatore. Il reclutatore invierà le reclute al forte fino al massimo della capienza. Ci sono tre tipi di forte (per fanteria, per arcieri e per aurighi) e ciascuno può ospitare sedici soldati, collettivamente chiamati “compagnia”. Se i soldati muoiono in combattimento, il reclutatore si occuperà di reclutare altre unità.
 Per quanto riguarda le armi, gli arcieri ricevono automaticamente archi e frecce, invece le truppe di fanteria devono essere equipaggiate con lance dalla punta di rame. Con una fornitura di rame appena estratto, sarà l’armeria a occuparsi della forgiatura di queste armi. Gli aurighi hanno bisogno di bighe, che si fabbricano con legno e rame per poi essere consegnate al reclutatore che le distribuirà ai nuovi soldati su cui è possibile equipaggiarle."
 Tutorial/Timna_Step_01_Title;Text;;Recruiting Troops & Equipping Soldiers;Recruter des troupes et équiper les soldats;Reclutar tropas y equipar soldados;Truppen rekrutieren & Soldaten ausrüsten;Reclutamento ed equipaggiamento dei soldati
+Tutorial/Timna_Step_02_Content;Text;;"To conscript troops, build a Fort and a Recruiter. The Recruiter will send new conscripts, one by one, to the fort until it is fully occupied. There are three types of Fort; infantry, archer and charioteer, and each Fort holds sixteen soldiers, referred to as one 'company'. 
+If soldiers die in combat, the Recruiter will see to it that replacements are conscripted. Archers supply their own bows and arrows, but infantry troops must be outfitted with copper-tipped spears. A Weaponsmith will forge these when supplied with freshly mined copper.";"Construisez un fort et un centre de recrutement pour enrôler des troupes. Le centre enverra de nouveaux conscrits au fort au compte-gouttes jusqu'à ce qu'il soit entièrement occupé. Il existe trois types de forts : fantassin, archer et aurige, et chaque fort peut contenir seize soldats, ce qui équivaut à une « compagnie ». 
+Si des soldats meurent au combat, le centre de recrutement veillera à ce que des remplaçants soient enrôlés. Les archers fournissent leurs propres arcs et flèches, mais les fantassins doivent être équipés de lances à pointe de cuivre. Une armurerie pourra forger de telles armes avec un approvisionnement en cuivre fraîchement extrait.";"Para reclutar tropas, construye un fuerte y un reclutador. El reclutador enviará nuevos reclutas, uno por uno, al fuerte hasta que esté completamente ocupado. Hay tres tipos de fuertes: infantería, arquero y auriga, y cada fuerte tiene capacidad para dieciséis soldados, a los que se hace referencia como una ""compañía"".
+Si los soldados mueren en combate, el reclutador se encargará de que se recluten los reemplazos. Los arqueros suministran sus propios arcos y flechas, pero las tropas de infantería deben estar equipadas con lanzas con punta de cobre. Un armero las forjará cuando se le suministre cobre recién extraído.";"Um Truppen zu rekrutieren, bauen Sie ein Fort und einen Drillplatz. Der Drillplatz schickt einen Rekruten nach dem anderen ins Fort, bis dieses voll besetzt ist. Es gibt drei Arten von Forts: Infanterie, Bogenschützen und Wagenlenker, und jedes Fort fasst 16 Soldaten, die als ""Kompanie"" bezeichnet werden. 
+Wenn Soldaten im Kampf sterben, sorgt der Drillplatz dafür, dass Ersatz rekrutiert wird. Bogenschützen stellen ihre eigenen Bögen und Pfeile zur Verfügung, aber Infanterietruppen müssen mit Speeren mit Kupferspitze ausgerüstet werden. Mit einem Vorrat an frisch abgebautem Kupfer kann eine Waffenschmiede solche Waffen schmieden.";"Per reclutare soldati, costruisci un forte e un reclutatore. Il reclutatore invierà nuovi soldati, uno a uno, al forte, fino a che questo non sarà al completo. Ci sono tre tipi di forti: fanteria, arciere e auriga, ciascuno dei quali contiene sedici soldati collettivamente chiamati ""compagnia"". 
+Se dei soldati muoiono in battaglia, il reclutatore provvederà ad arruolare nuovi coscritti. Gli arcieri sono equipaggiati con archi e frecce propri, ma la fanteria deve essere dotata di lance dalla punta in rame. Con una fornitura di rame, l'armeria può forgiare tali armi. Queste sono poi inviate al reclutatore, così che possa consegnarle a ogni nuovo soldato."
+Tutorial/Timna_Step_02_Title;Text;;Recruiting Troops & Equipping Soldiers;Recruter des troupes et équiper les soldats;Reclutamiento de tropas y equipamiento de soldados;Truppen rekrutieren & Soldaten ausrüsten;Reclutare & equipaggiare truppe
+Tutorial/Timna_Step_03_Content;Text;;"When attacked by enemies, every structure in your city is at risk of getting destroyed. To protect them, you can use walls, towers and gatehouses. Each defense building protects civilian structures in their area. You can check this with the Defense Overlay.
+Fully circling a zone with defense structures will provide defense to every building inside it. You can complete fortifications with rocks or even water. Use gatehouses to provide access to the kingdom road though, your citizens will need to be able to move freely!";"Lorsque vos ennemis attaquent, toutes les structures de votre cité risquent d'être détruites. Pour les protéger, vous pouvez vous servir de murs, de tours et de corps de garde. Chaque bâtiment de défense protège les structures civiles dans sa zone. Vous pouvez visualiser leur niveau de protection via le calque de défense.
+Entourer complètement une zone de structures de défense permet de défendre tous les bâtiments qui s'y trouvent. Vous pouvez compléter vos fortifications avec des rochers, voire de l'eau. Servez-vous des corps de garde pour garantir un accès à la route du royaume, vos citoyens doivent pouvoir se déplacer librement !";"Cuando son atacadas por enemigos, todas las estructuras de tu ciudad corren el riesgo de ser destruidas. Para protegerlas, puedes usar muros, torres y puertas de entrada. Cada edificio de defensa protege las estructuras civiles en su zona. Puedes verificar esto con la capa de defensa.
+Rodear completamente una zona con estructuras de defensa proporcionará defensa a cada edificio dentro de ella. Puedes completar fortificaciones con rocas o incluso con agua. ¡Sin embargo, usa puertas de entrada para proporcionar acceso al camino del reino, tus ciudadanos deberán poder moverse libremente!";"Wenn Sie von Feinden angegriffen werden, besteht bei jedem Gebäude in Ihrer Stadt die Gefahr, dass es zerstört wird. Schützen Sie Ihre Gebäude mit Mauern, Türmen und Stadttoren. Jedes Verteidigungsgebäude schützt zivile Einrichtungen in seiner Umgebung. Mit der Spezialkarte Verteidigung können Sie sich über den Zustand Ihrer Verteidigung informieren.
+Wenn Sie ein Gebiet vollständig mit Verteidigungsanlagen umkreisen, wird jedes Gebäude darin geschützt. Sie können die Befestigungen mit Steinen oder sogar Wasser ergänzen. Denken Sie aber auch an die Stadttore, um den Zugang zur Straße des Königreichs zu ermöglichen. Ihre Bürger müssen sich schließlich frei bewegen können!";"Quando vengono attaccate da dei nemici, le strutture della tua città rischiano di essere distrutte. Per proteggerle, puoi usare muri, torri e Corpi di Guardia. Ogni edificio di difesa protegge le strutture civili della sua area. Puoi verificare la situazione nelle Tabelle Difesa.
+Circondare una zona con strutture difensive farà in modo che tutti gli edifici al suo interno siano protetti. Puoi completare le fortificazioni con massi e acqua. Usa i Corpi di Guardia per l'accesso alla strada del Regno, ma tieni conto che i tuoi cittadini devono potersi spostare liberamente!"
+Tutorial/Timna_Step_03_Title;Text;;Defense System;Système de défense;Sistema de defensa;Verteidigungssystem;Sistema di difesa
+Tutorial/Timna_Step_04_Content;Text;;"Battles in Pharaoh: A New Era are automatically calculated. Each unit you have a value, and each manned tower will add points to the total value of your army. 
+Having a stronger army than your opponent can save almost every building, despite the battle happening in your city. However, when opposing forces have approximately the same value, there will be more collateral damage.
+Buildings protected by defense zones will not suffer collapse or burning.
+But beware, while having a weaker army can still lead to victory, it might cause your fortification to weaken, opening well protected parts of your city to the fury of battle.";"Dans Pharaoh: A New Era, les batailles sont résolues automatiquement. Chacune de vos unités possède une valeur, et chaque tour occupée ajoute des points à la valeur totale de votre armée. 
+Posséder une armée plus puissante que votre adversaire permet de sauver presque tous les bâtiments, même si la bataille se déroule dans votre cité. Cependant, lorsque les deux côtés sont de force équivalente, il y aura davantage de dégâts collatéraux.
+Les bâtiments protégés par des zones de défense ne risqueront pas de brûler ou de s'effondrer.
+Mais prenez garde, car si une armée plus faible peut tout de même remporter la victoire, il est possible que vos fortifications en souffrent, exposant ainsi les sections protégées de votre cité à la fureur des combats.";"Las batallas en Pharaoh: A New Era se calculan automáticamente. Cada unidad tienes un valor, y cada torre en la que hay unidades desplegadas sumará puntos al valor total de tu ejército.
+Tener un ejército más fuerte que tu oponente puede salvar casi todos los edificios, a pesar de la batalla que se desarrolla en tu ciudad. Sin embargo, cuando las fuerzas enemigas tienen aproximadamente el mismo valor, habrá más daños colaterales.
+Los edificios protegidos por zonas de defensa no sufrirán derrumbes ni incendios.
+Pero cuidado, si bien tener un ejército más débil aún puede conducir a la victoria, podría hacer que tu fortificación se debilite y se abran partes bien protegidas de tu ciudad a la furia de la batalla.";"Die Schlachten in Pharaoh: A New Era werden automatisch berechnet. Jede Ihrer Einheiten hat einen Wert, und jeder bemannte Turm bringt zusätzliche Punkte für den Gesamtwert Ihrer Armee. 
+Eine stärkere Armee als Ihr Gegner zu haben, kann so gut wie jedes Gebäude retten, selbst wenn die Schlacht in Ihrer Stadt ausgetragen wird. Haben gegnerische Streitkräfte aber ungefähr denselben Wert, wird es mehr Kollateralschäden geben.
+Durch Verteidigungszonen geschützte Gebäude können nicht einstürzen oder niederbrennen.
+Achtung: Eine schwächere Armee kann Ihnen zwar immer noch den Sieg bringen, aber Ihre Befestigungen können so sehr geschwächt werden, dass gut geschützte Teile Ihrer Stadt dem Schlachtgetümmel ausgesetzt sind.";"Le battaglie in Pharaoh: A New Era sono calcolate in modo automatico. Ciascuna tua unità possiede un valore, ciascuna torre dotata di equipaggio aggiunge punti al valore totale del tuo esercito. 
+Disporre di un esercito più potente rispetto al tuo avversario ti dà la possibilità di salvare quasi tutti i tuoi edifici, anche se il combattimento si svolge nella tua città. Tuttavia, se l'avversario ha un valore di esercito più o meno pari al tuo, subirai più danni collaterali.
+Gli edifici protetti dalle zone difensive non subiranno crolli o incendi.
+Ma sii sempre prudente: nonostante con un esercito più debole hai comunque possibilità di vincere, subirai un indebolimento a livello delle fortificazioni, aprendo varchi sulle zone protette della tua città, e rendendole vulnerabili alla furia del nemico."
+Tutorial/Timna_Step_04_Title;Text;;Battles & Consequences;Batailles et conséquences;Batallas y consecuencias;Schlachten und Konsequenzen;Battaglie & conseguenze
 Walkers/#Barge_Heading;Text;;Heading to city docks;En direction des quais de la cité;De camino a los muelles de la ciudad;Auf dem Weg zu den Stadt-Docks;Sto andando verso i porti cittadini
 Walkers/#Barge_Returning;Text;;Returning to my city;En chemin vers ma cité;Volviendo a mi ciudad;Kehrt in meine Stadt zurück;Sto tornando nella mia città
 Walkers/#Barge_Waiting;Text;;Waiting for a free dock;En attente d’un quai disponible;Esperando por un muelle libre;Wartet auf ein freies Dock;Sto attendendo un porto libero
