@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-08-16 20:38\n"
-"PO-Revision-Date: 2023-06-07 02:14+0300\n"
+"PO-Revision-Date: 2023-08-16 20:52+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 22.12.3\n"
+"X-Generator: Lokalize 23.04.3\n"
 
 msgctxt ""
 msgid "Raw materials"
@@ -127,19 +127,17 @@ msgctxt "#CityStatus_UnderSiege"
 msgid "Under Siege"
 msgstr "Под осадой"
 
-#, fuzzy
 msgctxt "#CreateFolder"
 msgid "Create Folder"
-msgstr "Создать"
+msgstr "Создать каталог"
 
 msgctxt "#Enormous"
 msgid "Enormous land"
 msgstr "Огромный ландшафт"
 
-#, fuzzy
 msgctxt "#EnterFolderName"
 msgid "Enter folder name"
-msgstr "Введите название города"
+msgstr "Введите имя каталога"
 
 msgctxt "#EventLink_None"
 msgid "None"
@@ -461,12 +459,10 @@ msgctxt "#Music_Add"
 msgid "Add Music"
 msgstr "Добавить музыку"
 
-#, fuzzy
 msgctxt "#Music_Available"
 msgid "Available Music"
 msgstr "Доступная музыка"
 
-#, fuzzy
 msgctxt "#Music_Population"
 msgid "Population-based Music"
 msgstr "Музыка на основе населения"
@@ -577,9 +573,8 @@ msgstr "Условия победы"
 
 msgctxt "#UserMaps"
 msgid "User Maps"
-msgstr ""
+msgstr "Пользовательские карты"
 
-#, fuzzy
 msgctxt "#Validation_NoFood"
 msgid ""
 "Please define at least one food resource as available. People need to eat!"
@@ -597,10 +592,9 @@ msgctxt "#Validation_NoTitle"
 msgid "City requires a name"
 msgstr "Для города нужно название"
 
-#, fuzzy
 msgctxt "#Validation_NoWinCondition"
 msgid "This map is not in sandbox but there's no defined win condition!"
-msgstr "Эта карта — не песочница, но нет определенных условий победы!"
+msgstr "Эта карта — не песочница, но нет определённых условий победы!"
 
 msgctxt "#VeryLarge"
 msgid "Very large land"

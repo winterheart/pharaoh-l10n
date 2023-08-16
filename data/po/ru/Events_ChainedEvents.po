@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-08-16 20:38\n"
-"PO-Revision-Date: 2023-04-08 02:10+0300\n"
+"PO-Revision-Date: 2023-08-16 20:53+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 22.12.3\n"
+"X-Generator: Lokalize 23.04.3\n"
 
 msgctxt "#ConstructionProjectComply_City_ReasonPhrase_1"
 msgid ""
@@ -1420,32 +1420,26 @@ msgctxt "#UnderSiege_ReasonPhrase_3"
 msgid "even though {[city_name]} is under siege,"
 msgstr "хотя город {[city_name]} в осаде,"
 
-#, fuzzy
 msgctxt "#WagesDown_ReasonPhrase_1"
 msgid "because wages have fallen,"
 msgstr "поскольку жалование падает,"
 
-#, fuzzy
 msgctxt "#WagesDown_ReasonPhrase_2"
 msgid "wages have fallen, and what's more,"
 msgstr "жалование падает, кроме того,"
 
-#, fuzzy
 msgctxt "#WagesDown_ReasonPhrase_3"
 msgid "even though wages have fallen,"
 msgstr "хотя жалование падает,"
 
-#, fuzzy
 msgctxt "#WagesUp_ReasonPhrase_1"
 msgid "because wages have increased throughout the Kingdom,"
 msgstr "поскольку жалование по всему Царству растёт,"
 
-#, fuzzy
 msgctxt "#WagesUp_ReasonPhrase_2"
 msgid "wages have increased throughout the Kingdom, and"
 msgstr "жалование по всему Царству растёт, и"
 
-#, fuzzy
 msgctxt "#WagesUp_ReasonPhrase_3"
 msgid "even though wages have increased throughout the Kingdom,"
 msgstr "хотя жалование по всему Царству растёт,"
