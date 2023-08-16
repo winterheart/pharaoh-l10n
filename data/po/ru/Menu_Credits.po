@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-08-16 20:38\n"
-"PO-Revision-Date: 2023-08-16 20:46+0300\n"
+"PO-Revision-Date: 2023-08-16 21:27+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
 "Language: ru\n"
@@ -369,7 +369,7 @@ msgstr "Titouan Coulon"
 
 msgctxt "#Dotemu_45"
 msgid "Brand Manager"
-msgstr "Brand Manager"
+msgstr "Менеджер брэнда"
 
 msgctxt "#Dotemu_46"
 msgid "Adrien Marie"
@@ -597,7 +597,7 @@ msgstr "Claire Deiller"
 
 msgctxt "#Loc3_05"
 msgid "French"
-msgstr "Французский"
+msgstr "Французский язык"
 
 msgctxt "#Loc3_06"
 msgid "Raphaël Jugan"
@@ -605,7 +605,7 @@ msgstr "Raphaël Jugan"
 
 msgctxt "#Loc3_07"
 msgid "German"
-msgstr "Немецкий"
+msgstr "Немецкий язык"
 
 msgctxt "#Loc3_08"
 msgid "Anna André"
@@ -621,7 +621,7 @@ msgstr "Nick Schäfer"
 
 msgctxt "#Loc3_11"
 msgid "Spanish"
-msgstr "Испанский"
+msgstr "Испанский язык"
 
 msgctxt "#Loc3_12"
 msgid "Ismael Fernández"
@@ -633,7 +633,7 @@ msgstr "Cintia Izquierdo"
 
 msgctxt "#Loc3_14"
 msgid "Italian"
-msgstr "Итальянский"
+msgstr "Итальянский язык"
 
 msgctxt "#Loc3_15"
 msgid "Lara Ferrulli"
@@ -933,7 +933,7 @@ msgstr "Guillaume Rousselot — арт-директор"
 
 msgctxt "#WithHelp"
 msgid "With a lot of help from"
-msgstr "При большой поддержки от"
+msgstr "При большой поддержке от"
 
 msgctxt "#mrktng4"
 msgid "Russia - mrktng4"
