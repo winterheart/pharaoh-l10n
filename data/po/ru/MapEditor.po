@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-06-06 22:55\n"
+"POT-Creation-Date: 2023-08-16 20:38\n"
 "PO-Revision-Date: 2023-06-07 02:14+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
-"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.12.3\n"
 
 msgctxt ""
@@ -127,9 +127,19 @@ msgctxt "#CityStatus_UnderSiege"
 msgid "Under Siege"
 msgstr "Под осадой"
 
+#, fuzzy
+msgctxt "#CreateFolder"
+msgid "Create Folder"
+msgstr "Создать"
+
 msgctxt "#Enormous"
 msgid "Enormous land"
 msgstr "Огромный ландшафт"
+
+#, fuzzy
+msgctxt "#EnterFolderName"
+msgid "Enter folder name"
+msgstr "Введите название города"
 
 msgctxt "#EventLink_None"
 msgid "None"
@@ -451,12 +461,14 @@ msgctxt "#Music_Add"
 msgid "Add Music"
 msgstr "Добавить музыку"
 
+#, fuzzy
 msgctxt "#Music_Available"
-msgid "Available Musics"
+msgid "Available Music"
 msgstr "Доступная музыка"
 
+#, fuzzy
 msgctxt "#Music_Population"
-msgid "Population Based Musics"
+msgid "Population-based Music"
 msgstr "Музыка на основе населения"
 
 msgctxt "#Music_To"
@@ -563,9 +575,14 @@ msgctxt "#Title_Win_Conditions"
 msgid "Win conditions"
 msgstr "Условия победы"
 
+msgctxt "#UserMaps"
+msgid "User Maps"
+msgstr ""
+
+#, fuzzy
 msgctxt "#Validation_NoFood"
 msgid ""
-"Please define at least one food resource as available. People needs to eat !"
+"Please define at least one food resource as available. People need to eat!"
 msgstr "Укажите хотя бы один доступный источник еды. Людям нужно есть!"
 
 msgctxt "#Validation_NoGroundEntry"
@@ -580,8 +597,9 @@ msgctxt "#Validation_NoTitle"
 msgid "City requires a name"
 msgstr "Для города нужно название"
 
+#, fuzzy
 msgctxt "#Validation_NoWinCondition"
-msgid "This map not in sandbox but there's no defined win condition !"
+msgid "This map is not in sandbox but there's no defined win condition!"
 msgstr "Эта карта — не песочница, но нет определенных условий победы!"
 
 msgctxt "#VeryLarge"

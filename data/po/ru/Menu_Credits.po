@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-06-06 22:55\n"
+"POT-Creation-Date: 2023-08-16 20:38\n"
 "PO-Revision-Date: 2023-06-07 02:14+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <azamat.hackimov@gmail.com>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
-"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.12.3\n"
 
 msgctxt "#AGameBy"
@@ -259,8 +259,9 @@ msgctxt "#Dotemu_17"
 msgid "Pierre-Olivier Petillot"
 msgstr "Pierre-Olivier Petillot"
 
+#, fuzzy
 msgctxt "#Dotemu_18"
-msgid "Core tester"
+msgid "Core testers"
 msgstr "Тестеры ядра"
 
 msgctxt "#Dotemu_19"
@@ -435,6 +436,10 @@ msgctxt "#Dotemu_61"
 msgid "Yeunjoo Kim"
 msgstr "Yeunjoo Kim"
 
+msgctxt "#Dotemu_62"
+msgid "Iliès Enotiades"
+msgstr ""
+
 msgctxt "#EODE"
 msgid "EODEstudio"
 msgstr "EODEstudio"
@@ -574,6 +579,73 @@ msgstr "Luke Bennett"
 msgctxt "#Indigo Pearl_03"
 msgid "Rebecca Chisholme"
 msgstr "Rebecca Chisholme"
+
+msgctxt "#Loc3_01"
+msgid "Loc3 Ltd. - Additional localization"
+msgstr ""
+
+#, fuzzy
+msgctxt "#Loc3_02"
+msgid "Project Management"
+msgstr "Менеджер по продукту"
+
+#, fuzzy
+msgctxt "#Loc3_03"
+msgid "Guillaume De Casaban"
+msgstr "Guillaume Lanéel"
+
+msgctxt "#Loc3_04"
+msgid "Claire Deiller"
+msgstr ""
+
+#, fuzzy
+msgctxt "#Loc3_05"
+msgid "French"
+msgstr "Французский язык"
+
+msgctxt "#Loc3_06"
+msgid "Raphaël Jugan"
+msgstr ""
+
+#, fuzzy
+msgctxt "#Loc3_07"
+msgid "German"
+msgstr "Немецкий язык"
+
+msgctxt "#Loc3_08"
+msgid "Anna André"
+msgstr ""
+
+msgctxt "#Loc3_09"
+msgid "Angelika Hell"
+msgstr ""
+
+msgctxt "#Loc3_10"
+msgid "Nick Schäfer"
+msgstr ""
+
+#, fuzzy
+msgctxt "#Loc3_11"
+msgid "Spanish"
+msgstr "Испанский язык"
+
+#, fuzzy
+msgctxt "#Loc3_12"
+msgid "Ismael Fernández"
+msgstr "Marco Fernández"
+
+msgctxt "#Loc3_13"
+msgid "Cintia Izquierdo"
+msgstr ""
+
+#, fuzzy
+msgctxt "#Loc3_14"
+msgid "Italian"
+msgstr "Итальянский язык"
+
+msgctxt "#Loc3_15"
+msgid "Lara Ferrulli"
+msgstr ""
 
 msgctxt "#Localization"
 msgid "Localization"

@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-06-06 22:55\n"
-"PO-Revision-Date: 2023-06-06 22:55\n"
+"POT-Creation-Date: 2023-08-16 20:38\n"
+"PO-Revision-Date: 2023-08-16 20:38\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -255,7 +255,7 @@ msgid "Pierre-Olivier Petillot"
 msgstr ""
 
 msgctxt "#Dotemu_18"
-msgid "Core tester"
+msgid "Core testers"
 msgstr ""
 
 msgctxt "#Dotemu_19"
@@ -430,6 +430,10 @@ msgctxt "#Dotemu_61"
 msgid "Yeunjoo Kim"
 msgstr ""
 
+msgctxt "#Dotemu_62"
+msgid "Iliès Enotiades"
+msgstr ""
+
 msgctxt "#EODE"
 msgid "EODEstudio"
 msgstr ""
@@ -566,6 +570,66 @@ msgstr ""
 
 msgctxt "#Indigo Pearl_03"
 msgid "Rebecca Chisholme"
+msgstr ""
+
+msgctxt "#Loc3_01"
+msgid "Loc3 Ltd. - Additional localization"
+msgstr ""
+
+msgctxt "#Loc3_02"
+msgid "Project Management"
+msgstr ""
+
+msgctxt "#Loc3_03"
+msgid "Guillaume De Casaban"
+msgstr ""
+
+msgctxt "#Loc3_04"
+msgid "Claire Deiller"
+msgstr ""
+
+msgctxt "#Loc3_05"
+msgid "French"
+msgstr ""
+
+msgctxt "#Loc3_06"
+msgid "Raphaël Jugan"
+msgstr ""
+
+msgctxt "#Loc3_07"
+msgid "German"
+msgstr ""
+
+msgctxt "#Loc3_08"
+msgid "Anna André"
+msgstr ""
+
+msgctxt "#Loc3_09"
+msgid "Angelika Hell"
+msgstr ""
+
+msgctxt "#Loc3_10"
+msgid "Nick Schäfer"
+msgstr ""
+
+msgctxt "#Loc3_11"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "#Loc3_12"
+msgid "Ismael Fernández"
+msgstr ""
+
+msgctxt "#Loc3_13"
+msgid "Cintia Izquierdo"
+msgstr ""
+
+msgctxt "#Loc3_14"
+msgid "Italian"
+msgstr ""
+
+msgctxt "#Loc3_15"
+msgid "Lara Ferrulli"
 msgstr ""
 
 msgctxt "#Localization"
