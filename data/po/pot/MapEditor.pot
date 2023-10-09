@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-08-16 20:38\n"
-"PO-Revision-Date: 2023-08-16 20:38\n"
+"POT-Creation-Date: 2023-10-09 18:41\n"
+"PO-Revision-Date: 2023-10-09 18:41\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgid "Average landscape"
 msgstr ""
 
 msgctxt "#Brush_Clear"
-msgid "Clear brush"
+msgid "Remove Flags"
 msgstr ""
 
 msgctxt "#Brush_Cliff"
@@ -77,7 +77,7 @@ msgid "Ordinary rock"
 msgstr ""
 
 msgctxt "#Brush_Sand"
-msgid "Plateau"
+msgid "Plain"
 msgstr ""
 
 msgctxt "#Brush_Size"
@@ -134,6 +134,24 @@ msgstr ""
 
 msgctxt "#EnterFolderName"
 msgid "Enter folder name"
+msgstr ""
+
+msgctxt "#EventInvalid_Desc"
+msgid ""
+"This event has invalid parameters.\n"
+"Would you like to fix it or delete it and return to the event list?"
+msgstr ""
+
+msgctxt "#EventInvalid_FixEvent"
+msgid "Fix event"
+msgstr ""
+
+msgctxt "#EventInvalid_ReturnToEventList"
+msgid "Delete and return to list"
+msgstr ""
+
+msgctxt "#EventInvalid_Title"
+msgid "Event invalid"
 msgstr ""
 
 msgctxt "#EventLink_None"
@@ -285,11 +303,11 @@ msgid "Invasion Delay"
 msgstr ""
 
 msgctxt "#Event_IsBedouin"
-msgid "Bedouin ?"
+msgid "Bedouin?"
 msgstr ""
 
 msgctxt "#Event_IsNaval"
-msgid "Is Naval ?"
+msgid "Is Naval?"
 msgstr ""
 
 msgctxt "#Event_LinkAccept"
@@ -405,7 +423,7 @@ msgid "Exit point"
 msgstr ""
 
 msgctxt "#IE_Buyer"
-msgid "Buyer pays"
+msgid "Buy Price"
 msgstr ""
 
 msgctxt "#IE_Items"
@@ -413,7 +431,7 @@ msgid "Items"
 msgstr ""
 
 msgctxt "#IE_Seller"
-msgid "Seller receives"
+msgid "Sell Price"
 msgstr ""
 
 msgctxt "#ImportExport"
@@ -426,6 +444,26 @@ msgstr ""
 
 msgctxt "#Large"
 msgid "Large landscape"
+msgstr ""
+
+msgctxt "#LinkedBuilding_DisablingBuildings"
+msgid "Disabling {0} will disable the following Buildings:"
+msgstr ""
+
+msgctxt "#LinkedBuilding_EnablingBuildings"
+msgid "Enabling {0} will enable the following Buildings:"
+msgstr ""
+
+msgctxt "#LinkedBuilding_Title"
+msgid "Related buildings"
+msgstr ""
+
+msgctxt "#LinkedGoods_EnablingGoods"
+msgid "Enabling {0} will enable the following Goods:"
+msgstr ""
+
+msgctxt "#LinkedGoods_Title"
+msgid "Related goods"
 msgstr ""
 
 msgctxt "#Map_Illustration"
@@ -470,6 +508,14 @@ msgstr ""
 
 msgctxt "#New"
 msgid "New"
+msgstr ""
+
+msgctxt "#OverwriteMap"
+msgid "Overwrite Map"
+msgstr ""
+
+msgctxt "#OverwriteMapConfirm"
+msgid "Confirm the map overwriting"
 msgstr ""
 
 msgctxt "#Placeholder_CityName"
@@ -553,6 +599,10 @@ msgctxt "#Sandbox_Mode"
 msgid "Sandbox Mode"
 msgstr ""
 
+msgctxt "#SaveMap"
+msgid "Save Map"
+msgstr ""
+
 msgctxt "#Settings"
 msgid "Settings"
 msgstr ""
@@ -580,6 +630,10 @@ msgstr ""
 
 msgctxt "#Validation_NoGroundEntry"
 msgid "You must place an entry point for migrants to appear on the map"
+msgstr ""
+
+msgctxt "#Validation_NoRiverEntry"
+msgid "You have defined water trade cities but no river entry point !"
 msgstr ""
 
 msgctxt "#Validation_NoTagline"
@@ -807,7 +861,7 @@ msgid "Flooding lasts for:"
 msgstr ""
 
 msgctxt "#parameters_flood_start"
-msgid "Flooding starts on:"
+msgid "Flooding starts in:"
 msgstr ""
 
 msgctxt "#parameters_gods"
